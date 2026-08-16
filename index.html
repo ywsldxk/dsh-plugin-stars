@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>DSH Plugin Stars - DeepSeek Harness 插件榜单</title>
+  <meta name="description" content="收录 GitHub 上较高 Star 的 DeepSeek Harness 插件，支持搜索、排序与最低 Star 筛选。">
+  <link rel="stylesheet" href="assets/styles.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="container">
+      <h1>DSH Plugin Stars</h1>
+      <p class="subtitle">GitHub 上较受欢迎的 DeepSeek Harness 插件</p>
+      <p class="meta">
+        数据更新于 <time id="generated-at" datetime="">--</time>
+        <span class="divider">|</span>
+        共 <strong id="total-count">0</strong> 个
+        <span class="divider">|</span>
+        最低 Star <strong id="threshold">0</strong>
+      </p>
+    </div>
+  </header>
+
+  <main class="container">
+    <section class="controls" aria-label="筛选与排序">
+      <div class="control-group">
+        <label for="search">搜索</label>
+        <input id="search" type="search" placeholder="仓库名、描述、话题..." autocomplete="off">
+      </div>
+      <div class="control-group">
+        <label for="min-stars">最低 Star</label>
+        <input id="min-stars" type="number" min="0" step="1" value="0">
+      </div>
+      <div class="control-group">
+        <label for="sort">排序</label>
+        <select id="sort">
+          <option value="stars-desc">Star 数（高到低）</option>
+          <option value="stars-asc">Star 数（低到高）</option>
+          <option value="updated-desc">最近更新（新到旧）</option>
+          <option value="updated-asc">最近更新（旧到新）</option>
+        </select>
+      </div>
+    </section>
+
+    <section class="stats" aria-label="统计">
+      <div class="stat">
+        <span class="stat-value" id="stat-visible">0</span>
+        <span class="stat-label">当前显示</span>
+      </div>
+      <div class="stat">
+        <span class="stat-value" id="stat-total">0</span>
+        <span class="stat-label">收录总数</span>
+      </div>
+      <div class="stat">
+        <span class="stat-value" id="stat-max">0</span>
+        <span class="stat-label">最高 Star</span>
+      </div>
+    </section>
+
+    <section class="results" aria-label="插件榜单">
+      <div class="empty-state" id="empty-state">
+        <p>正在加载数据...</p>
+      </div>
+      <table class="plugin-table" id="plugin-table" hidden>
+        <thead>
+          <tr>
+            <th scope="col" class="col-rank">#</th>
+            <th scope="col" class="col-repo">仓库</th>
+            <th scope="col" class="col-desc">描述</th>
+            <th scope="col" class="col-stars">Stars</th>
+            <th scope="col" class="col-updated">最近更新</th>
+            <th scope="col" class="col-links">链接</th>
+          </tr>
+        </thead>
+        <tbody id="plugin-list"></tbody>
+      </table>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <p>
+        数据来源：<a href="https://github.com/search?q=topic%3Adsh-plugin&type=repositories" target="_blank" rel="noopener noreferrer">GitHub topic:dsh-plugin</a>
+        <span class="divider">|</span>
+        <a href="https://github.com/ywsldxk/dsh-plugin-stars" target="_blank" rel="noopener noreferrer">本站仓库</a>
+      </p>
+      <p class="notice">仅展示公开仓库；GitHub 搜索结果上限为 1000 条。</p>
+    </div>
+  </footer>
+
+  <script src="assets/app.js" type="module"></script>
+</body>
+</html>
