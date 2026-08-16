@@ -1,12 +1,13 @@
 # DSH Plugin Stars
 
-第一次找 DSH 插件时，最麻烦的往往不是没有选择，而是选择散在 GitHub 的各个角落：有人做 UI，有人补视觉，有人做市场和工作流，新项目不断冒出来，却很难知道从哪里看起。
+DeepSeek Harness（DSH）插件排行榜 / Plugin Leaderboard。
 
-于是有了 **DSH Plugin Stars**。它把这些公开项目按 GitHub Star 汇到一张持续更新的榜单里，像给 DeepSeek Harness（DSH）生态做一张会变化的地图：哪些项目正在被更多人看见，哪些方向正在冒头，一眼就能看到。
+收集 GitHub 上的 DSH / DeepSeek Harness plugins，按 Star 排序并自动更新。
 
-这里不做官方认证，也不替你决定“哪个最好”；只是把社区正在发生的事情，尽量清楚地摆在一起。
+- [打开可搜索的完整榜单](https://ywsldxk.github.io/dsh-plugin-stars/)
+- [在 GitHub 上给本站点 Star](https://github.com/ywsldxk/dsh-plugin-stars)
 
-## 高 Star 插件榜
+## DSH 插件排行榜 / Plugin Leaderboard
 
 <!-- RANKING:START -->
 | 排名 | 插件 | Stars | 简介 |
@@ -46,7 +47,7 @@
 | 33 | [omdsh-dev/dsh-genui](https://github.com/omdsh-dev/dsh-genui) | 139 | GenUI for DeepSeek Harness: interactive UI components rendered inline in assistant replies via the dsh-ui fence — layout, charts, plots, forms, quizzes, mermaid, 3D scenes, and an action event loop back to the model. Ships the fence-teaching host plugin, the browser renderer (client half), and the genui skill. |
 | 34 | [Nagi-ovo/dsh-find-plugins](https://github.com/Nagi-ovo/dsh-find-plugins) | 127 | 帮 DSH 搜索、安装并验证插件的 Skill｜A DSH skill that finds, installs, and verifies GitHub plugins |
 | 35 | [cocofhu/anime-find](https://github.com/cocofhu/anime-find) | 123 | DeepSeek Harness 搜番插件：对话内多源搜索番剧，卡片展示 Bangumi 评分与详情，支持复制磁力。 |
-| 36 | [liceses/dsh-gitbash-preset](https://github.com/liceses/dsh-gitbash-preset) | 121 | DeepSeek Harness 插件：一键安装「极简模式 (Git Bash)」agent preset —— 把 DSH 自带极简模式中的 bash 调用映射到 Git for Windows 的 bash（MSYS），让 Windows 上的极简模式真正可用。 |
+| 36 | [liceses/dsh-gitbash-preset](https://github.com/licenses/dsh-gitbash-preset) | 121 | DeepSeek Harness 插件：一键安装「极简模式 (Git Bash)」agent preset —— 把 DSH 自带极简模式中的 bash 调用映射到 Git for Windows 的 bash（MSYS），让 Windows 上的极简模式真正可用。 |
 | 37 | [csyangwen/dsh-memory-evolve](https://github.com/csyangwen/dsh-memory-evolve) | 118 | 为 DeepSeek Harness 带来「跨会话长期记忆 + 后台自我进化」能力的纯插件实现：五轨记忆 · git 分支感知 · 回合内自我审查 · 技能自我进化与技能管理器 · 四轨待办 · COI 调度 · 会话广播 · 会话搜索 · 提示词管理器 · 临时信息便签——零核心修改、零运行时依赖，随装随用、卸载即净。 |
 | 38 | [liustack/modsearch](https://github.com/liustack/modsearch) | 111 | The web search plugin for DeepSeek Harness, and the search bridge for every model without native web access. Ask the web or X, get structured JSON evidence. \| DeepSeek Harness 的联网搜索插件，为不能联网的模型补上搜索。问网页或 X，拿回结构化 JSON 证据（搜索、抓取、引用）。 |
 | 39 | [bowenliang123/dsh-context](https://github.com/bowenliang123/dsh-context) | 107 | A DeepSeek Harness plugin for  Context dashboard and command — showing what the model's context window is made of and how it evolves. |
@@ -55,26 +56,3 @@
 
 > 数据更新时间：2026/08/17 02:19 · 收录数：41 · 最低 Star：100 · [打开完整榜单](https://ywsldxk.github.io/dsh-plugin-stars/)
 <!-- RANKING:END -->
-
-## 收录规则
-
-- 公开 GitHub 仓库。
-- 仓库 topic 包含 `dsh-plugin`。
-- 默认最低 100 Star（可通过仓库变量 `MIN_STARS` 调整）。
-- 自动排除 fork 与 archived 仓库。
-- 仓库名称或描述需符合插件语义，包含英文 `plugin`、`skill`、`extension`、`preset`、`integration`，或中文 `插件`、`技能`、`扩展`、`预设`、`集成` 等关键词。
-- 若出现错误收录，可通过仓库变量 `EXCLUDE_REPOS`（逗号分隔的 `owner/repo`）排除。
-
-自动分类不代表人工背书，榜单仅作为检索参考。
-
-## 更新机制
-
-- GitHub Actions 每 30 分钟自动运行一次，也支持手动触发。
-- 数据来自 GitHub repository search，单次搜索最多返回 1000 条结果。
-- `MIN_STARS` 与 `EXCLUDE_REPOS` 通过仓库变量（repo variables）配置。
-- GitHub 仓库首页展示自动生成的 Top 50 榜单；[完整榜单站点](https://ywsldxk.github.io/dsh-plugin-stars/) 每页展示 25 条，支持搜索与筛选。
-
-## 安全与技术
-
-- 纯静态站点，无 DSH 插件、无后端服务、不向浏览器发送任何 token。
-- 所有外部链接均经过 `http:` / `https:` 白名单校验。
