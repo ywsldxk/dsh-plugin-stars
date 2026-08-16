@@ -1,9 +1,10 @@
 # DSH Plugin Stars
 
-展示 GitHub 上较受欢迎的 DeepSeek Harness（DSH）插件排行榜。
+第一次找 DSH 插件时，最麻烦的往往不是没有选择，而是选择散在 GitHub 的各个角落：有人做 UI，有人补视觉，有人做市场和工作流，新项目不断冒出来，却很难知道从哪里看起。
 
-- [打开可搜索的完整榜单](https://ywsldxk.github.io/dsh-plugin-stars/)
-- [在 GitHub 上给本站点 Star](https://github.com/ywsldxk/dsh-plugin-stars)
+于是有了 **DSH Plugin Stars**。它把这些公开项目按 GitHub Star 汇到一张持续更新的榜单里，像给 DeepSeek Harness（DSH）生态做一张会变化的地图：哪些项目正在被更多人看见，哪些方向正在冒头，一眼就能看到。
+
+这里不做官方认证，也不替你决定“哪个最好”；只是把社区正在发生的事情，尽量清楚地摆在一起。
 
 ## 高 Star 插件榜
 
