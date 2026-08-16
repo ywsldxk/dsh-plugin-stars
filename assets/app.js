@@ -4,6 +4,7 @@
  */
 
 const DATA_URL = "data/plugins.json";
+const PAGE_SIZE = 25;
 
 const els = {
   generatedAt: document.getElementById("generated-at"),
@@ -18,10 +19,16 @@ const els = {
   emptyState: document.getElementById("empty-state"),
   pluginTable: document.getElementById("plugin-table"),
   pluginList: document.getElementById("plugin-list"),
+  pagination: document.getElementById("pagination"),
+  prevPage: document.getElementById("prev-page"),
+  pageStatus: document.getElementById("page-status"),
+  nextPage: document.getElementById("next-page"),
 };
 
 let allPlugins = [];
 let dataMeta = { generatedAt: "", source: "", threshold: 0 };
+let currentPage = 1;
+let currentResults = [];
 
 function formatNumber(n) {
   const num = Number(n);
@@ -84,24 +91,43 @@ function updateStats(visibleCount, totalCount, maxStars) {
   els.statMax.textContent = formatNumber(maxStars);
 }
 
-function renderPlugins(plugins) {
-  els.pluginList.innerHTML = "";
+function updatePagination(total, totalPages) {
+  if (total <= PAGE_SIZE) {
+    els.pagination.hidden = true;
+    return;
+  }
+  els.pagination.hidden = false;
+  els.pageStatus.textContent = `第 ${currentPage} / ${totalPages} 页 · 共 ${total} 条`;
+  els.prevPage.disabled = currentPage <= 1;
+  els.nextPage.disabled = currentPage >= totalPages;
+}
 
-  if (plugins.length === 0) {
+function renderPlugins() {
+  els.pluginList.innerHTML = "";
+  const total = currentResults.length;
+  const maxStars = Math.max(...allPlugins.map((p) => p.stars || 0), 0);
+
+  if (total === 0) {
     els.pluginTable.hidden = true;
     els.emptyState.hidden = false;
     els.emptyState.innerHTML = "<p>没有匹配的插件。</p>";
-    updateStats(0, allPlugins.length, Math.max(...allPlugins.map((p) => p.stars || 0), 0));
+    updateStats(0, allPlugins.length, maxStars);
+    els.pagination.hidden = true;
     return;
   }
 
   els.pluginTable.hidden = false;
   els.emptyState.hidden = true;
 
-  const maxStars = Math.max(...allPlugins.map((p) => p.stars || 0), 0);
-  updateStats(plugins.length, allPlugins.length, maxStars);
+  const totalPages = Math.max(Math.ceil(total / PAGE_SIZE), 1);
+  if (currentPage > totalPages) currentPage = totalPages;
+  const start = (currentPage - 1) * PAGE_SIZE;
+  const pagePlugins = currentResults.slice(start, start + PAGE_SIZE);
 
-  plugins.forEach((plugin, index) => {
+  updateStats(total, allPlugins.length, maxStars);
+
+  pagePlugins.forEach((plugin, index) => {
+    const rank = start + index + 1;
     const repoUrl = isAllowedUrl(plugin.htmlUrl) ? plugin.htmlUrl : "";
     const npmUrl = isAllowedUrl(plugin.npmUrl) ? plugin.npmUrl : "";
     const homepageUrl = isAllowedUrl(plugin.homepage) ? plugin.homepage : "";
@@ -110,7 +136,7 @@ function renderPlugins(plugins) {
 
     const rankTd = document.createElement("td");
     rankTd.className = "col-rank";
-    rankTd.textContent = String(index + 1);
+    rankTd.textContent = String(rank);
     tr.appendChild(rankTd);
 
     const repoTd = document.createElement("td");
@@ -190,6 +216,8 @@ function renderPlugins(plugins) {
 
     els.pluginList.appendChild(tr);
   });
+
+  updatePagination(total, totalPages);
 }
 
 function filterAndSort() {
@@ -233,13 +261,28 @@ function filterAndSort() {
     }
   });
 
-  renderPlugins(result);
+  currentPage = 1;
+  currentResults = result;
+  renderPlugins();
 }
 
 function attachListeners() {
   els.search.addEventListener("input", filterAndSort);
   els.minStars.addEventListener("input", filterAndSort);
   els.sort.addEventListener("change", filterAndSort);
+  els.prevPage.addEventListener("click", () => {
+    if (currentPage > 1) {
+      currentPage -= 1;
+      renderPlugins();
+    }
+  });
+  els.nextPage.addEventListener("click", () => {
+    const totalPages = Math.ceil(currentResults.length / PAGE_SIZE);
+    if (currentPage < totalPages) {
+      currentPage += 1;
+      renderPlugins();
+    }
+  });
 }
 
 function updateMeta() {
@@ -280,8 +323,10 @@ async function loadData() {
   } catch (err) {
     console.error("Failed to load plugin data:", err);
     els.emptyState.hidden = false;
-    els.emptyState.innerHTML = `<p>数据加载失败：${escapeHtml(err.message)}</p>`;
+    els.emptyState.innerHTML = "<p></p>";
+    els.emptyState.firstElementChild.textContent = `数据加载失败：${err.message}`;
     els.pluginTable.hidden = true;
+    els.pagination.hidden = true;
     updateStats(0, 0, 0);
   }
 }

@@ -51,6 +51,7 @@
 - GitHub Actions 每 30 分钟自动运行一次，也支持手动触发。
 - 数据来自 GitHub repository search，单次搜索最多返回 1000 条结果。
 - `MIN_STARS` 与 `EXCLUDE_REPOS` 通过仓库变量（repo variables）配置。
+- GitHub 仓库首页展示自动生成的 Top 50 榜单；[完整榜单站点](https://ywsldxk.github.io/dsh-plugin-stars/) 每页展示 25 条，支持搜索与筛选。
 
 ## 安全与技术
 

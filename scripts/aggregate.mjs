@@ -20,7 +20,7 @@ const README_PATH = path.resolve(process.cwd(), "README.md");
 const README_TMP_PATH = `${README_PATH}.tmp`;
 const RANKING_START_MARKER = "<!-- RANKING:START -->";
 const RANKING_END_MARKER = "<!-- RANKING:END -->";
-const README_TOP_N = 20;
+const README_TOP_N = 50;
 
 function validateEnv() {
   if (Number.isNaN(MIN_STARS) || !Number.isFinite(MIN_STARS) || MIN_STARS < 0) {
