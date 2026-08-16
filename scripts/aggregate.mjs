@@ -135,6 +135,16 @@ function normalizeRepo(repo) {
   };
 }
 
+function looksLikePlugin(repo) {
+  // Topics can be misapplied by repository owners. This lightweight,
+  // public-metadata second filter reduces false positives but is not a
+  // security or endorsement check.
+  const haystack = `${repo.name || ""} ${repo.description || ""}`.toLowerCase();
+  const englishMarkers = /\b(plugin|skill|extension|preset|integration)\b/;
+  const chineseMarkers = ["插件", "技能", "扩展", "预设", "集成"];
+  return englishMarkers.test(haystack) || chineseMarkers.some((m) => haystack.includes(m));
+}
+
 async function main() {
   validateEnv();
 
@@ -154,6 +164,8 @@ async function main() {
       if (EXCLUDE_REPOS.includes(fullName)) continue;
       if (repo.fork || repo.archived) continue;
       if ((repo.stargazers_count || 0) < MIN_STARS) continue;
+
+      if (!looksLikePlugin(repo)) continue;
 
       const normalized = normalizeRepo(repo);
       const npmName = await fetchPackageJson(normalized.owner, normalized.name);
