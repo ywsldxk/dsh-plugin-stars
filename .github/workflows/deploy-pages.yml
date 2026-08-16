@@ -26,14 +26,14 @@ jobs:
       - name: Aggregate plugin data
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          MIN_STARS: ${{ vars.MIN_STARS || '25' }}
+          MIN_STARS: ${{ vars.MIN_STARS || '100' }}
           EXCLUDE_REPOS: ${{ vars.EXCLUDE_REPOS || '' }}
         run: node scripts/aggregate.mjs
 
       - name: Check for data changes
         id: data-changed
         run: |
-          if git diff --quiet -- data/plugins.json; then
+          if git diff --quiet -- data/plugins.json README.md; then
             echo "changed=false" >> "$GITHUB_OUTPUT"
           else
             echo "changed=true" >> "$GITHUB_OUTPUT"
@@ -46,8 +46,8 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/plugins.json
-          git commit -m "chore: refresh plugin data [skip ci]"
+          git add data/plugins.json README.md
+          git commit -m "chore: refresh plugin rankings [skip ci]"
           git push
 
       - name: Stage Pages files

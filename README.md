@@ -1,64 +1,34 @@
 # DSH Plugin Stars
 
-A static GitHub Pages site that lists popular DeepSeek Harness (DSH) plugins.
+展示 GitHub 上较受欢迎的 DeepSeek Harness（DSH）插件排行榜。
 
-- **Live site**: `https://<owner>.github.io/dsh-plugin-stars/`
-- **Data source**: GitHub public repositories tagged with topic `dsh-plugin`.
-- **No backend**: the site is served as static files from GitHub Pages; there is no server-side runtime, no API proxy, and no token sent to the browser.
+- [打开可搜索的完整榜单](https://ywsldxk.github.io/dsh-plugin-stars/)
+- [在 GitHub 上给本站点 Star](https://github.com/ywsldxk/dsh-plugin-stars)
 
-## Inclusion criteria
+## 高 Star 插件榜
 
-- Public GitHub repository.
-- Repository topic contains `dsh-plugin`.
-- Default minimum star count: `100` (configurable via the `MIN_STARS` repository variable, the aggregation script, or the workflow).
-- Forks and archived repositories are excluded automatically.
-- The repository name or description must also look plugin-related: it contains the standalone English word `plugin`, `skill`, `extension`, `preset`, or `integration`, or the Chinese terms `插件`, `技能`, `扩展`, `预设`, or `集成`. This is a lightweight public-metadata heuristic to reduce false positives, not an endorsement or security check.
-- Specific repositories can be excluded manually by adding them to the `EXCLUDE_REPOS` environment variable (comma-separated `owner/repo` values) in the workflow.
+<!-- RANKING:START -->
+正在等待自动刷新数据，请稍后再来查看 Top 20 榜单。
+<!-- RANKING:END -->
 
-The criteria exist to keep the list focused; being excluded does not imply anything about quality. Automatic classification is not a human endorsement, and miscategorized repositories can still be removed via `EXCLUDE_REPOS`.
+## 收录规则
 
-## Data refresh
+- 公开 GitHub 仓库。
+- 仓库 topic 包含 `dsh-plugin`。
+- 默认最低 100 Star（可通过仓库变量 `MIN_STARS` 调整）。
+- 自动排除 fork 与 archived 仓库。
+- 仓库名称或描述需符合插件语义，包含英文 `plugin`、`skill`、`extension`、`preset`、`integration`，或中文 `插件`、`技能`、`扩展`、`预设`、`集成` 等关键词。
+- 若出现错误收录，可通过仓库变量 `EXCLUDE_REPOS`（逗号分隔的 `owner/repo`）排除。
 
-A GitHub Actions workflow refreshes `data/plugins.json`:
+自动分类不代表人工背书，榜单仅作为检索参考。
 
-- **Schedule**: every 30 minutes (`*/30 * * * *`).
-- **Manual trigger**: `workflow_dispatch`.
-- **API limit**: GitHub repository search returns at most 1,000 results, so the list is the most popular matches within that window, not a complete census.
+## 更新机制
 
-The workflow uses a `GITHUB_TOKEN` secret for both repository search and the Pages deployment. The token is never written to logs, artifacts, or the generated JSON file.
+- GitHub Actions 每 30 分钟自动运行一次，也支持手动触发。
+- 数据来自 GitHub repository search，单次搜索最多返回 1000 条结果。
+- `MIN_STARS` 与 `EXCLUDE_REPOS` 通过仓库变量（repo variables）配置。
 
-## Local preview
+## 安全与技术
 
-No build step or dependency installation is required. Preview the site through a local static HTTP server; `fetch` does not work from `file://` URLs, so opening `index.html` directly is not supported.
-
-```powershell
-# Python 3
-python -m http.server 8080 --directory G:\me\dsh-plugin-stars
-
-# Node 18+ (if available)
-npx serve G:\me\dsh-plugin-stars
-```
-
-Then open `http://localhost:8080/`.
-
-## Manual data update
-
-```powershell
-# Optional: set a token to raise the GitHub API rate limit.
-# Use a GitHub fine-grained token and do not commit it.
-$env:GITHUB_TOKEN = '<GitHub fine-grained token>'
-$env:MIN_STARS = "10"
-node scripts/aggregate.mjs
-```
-
-The script only reads public repository metadata and writes `data/plugins.json`.
-
-## Security notes
-
-- The generated JSON contains only public metadata: repository name, description, homepage URL, topics, license, star count, and last update time.
-- The site renders all external links with `target="_blank" rel="noopener noreferrer"` and validates every URL against an allow-list of `http:` and `https:` protocols.
-- No cookies, analytics, or third-party resources are loaded.
-
-## License
-
-MIT
+- 纯静态站点，无 DSH 插件、无后端服务、不向浏览器发送任何 token。
+- 所有外部链接均经过 `http:` / `https:` 白名单校验。

@@ -16,6 +16,11 @@ const EXCLUDE_REPOS = (process.env.EXCLUDE_REPOS || "")
   .filter(Boolean);
 const OUTPUT = path.resolve(process.cwd(), "data/plugins.json");
 const TMP_OUTPUT = `${OUTPUT}.tmp`;
+const README_PATH = path.resolve(process.cwd(), "README.md");
+const README_TMP_PATH = `${README_PATH}.tmp`;
+const RANKING_START_MARKER = "<!-- RANKING:START -->";
+const RANKING_END_MARKER = "<!-- RANKING:END -->";
+const README_TOP_N = 20;
 
 function validateEnv() {
   if (Number.isNaN(MIN_STARS) || !Number.isFinite(MIN_STARS) || MIN_STARS < 0) {
@@ -145,6 +150,105 @@ function looksLikePlugin(repo) {
   return englishMarkers.test(haystack) || chineseMarkers.some((m) => haystack.includes(m));
 }
 
+function formatDateTime(isoString) {
+  if (!isoString) return "未知";
+  try {
+    const date = new Date(isoString);
+    if (Number.isNaN(date.getTime())) return "未知";
+    return date.toLocaleString("zh-CN", {
+      timeZone: "Asia/Shanghai",
+      year: "numeric",
+      month: "2-digit",
+      day: "2-digit",
+      hour: "2-digit",
+      minute: "2-digit",
+    });
+  } catch {
+    return "未知";
+  }
+}
+
+function escapeTableCell(text) {
+  return String(text || "").replace(/\r?\n/g, " ").replace(/\|/g, "\\|").trim();
+}
+
+function generateReadmeSection(output) {
+  const plugins = Array.isArray(output.plugins) ? output.plugins : [];
+  const topPlugins = plugins
+    .slice()
+    .sort((a, b) => (b.stars || 0) - (a.stars || 0))
+    .slice(0, README_TOP_N);
+  const generatedAt = formatDateTime(output.generatedAt);
+  const total = plugins.length;
+  const threshold = Number(output.threshold) || MIN_STARS;
+
+  if (topPlugins.length === 0) {
+    return [
+      "",
+      "暂无符合收录条件的插件。",
+      "",
+      `> 数据更新时间：${generatedAt} · 收录数：${total} · 最低 Star：${threshold} · [打开完整榜单](https://ywsldxk.github.io/dsh-plugin-stars/)`,
+      "",
+    ].join("\n");
+  }
+
+  const lines = [
+    "",
+    "| 排名 | 插件 | Stars | 简介 |",
+    "| ---: | --- | ---: | --- |",
+  ];
+
+  for (let i = 0; i < topPlugins.length; i++) {
+    const plugin = topPlugins[i];
+    const rank = i + 1;
+    const repoLink = `[${escapeTableCell(plugin.fullName)}](${plugin.htmlUrl || `https://github.com/${plugin.fullName}`})`;
+    const stars = Number(plugin.stars) || 0;
+    const description = escapeTableCell(plugin.description);
+    lines.push(`| ${rank} | ${repoLink} | ${stars} | ${description} |`);
+  }
+
+  lines.push("");
+  lines.push(`> 数据更新时间：${generatedAt} · 收录数：${total} · 最低 Star：${threshold} · [打开完整榜单](https://ywsldxk.github.io/dsh-plugin-stars/)`);
+  lines.push("");
+
+  return lines.join("\n");
+}
+
+function updateReadme(output) {
+  if (!fs.existsSync(README_PATH)) {
+    throw new Error(`README file not found: ${README_PATH}`);
+  }
+
+  const readme = fs.readFileSync(README_PATH, "utf8");
+  const startIndex = readme.indexOf(RANKING_START_MARKER);
+  const endIndex = readme.indexOf(RANKING_END_MARKER);
+
+  if (startIndex === -1 || endIndex === -1) {
+    throw new Error(
+      `README ranking markers not found: expected both "${RANKING_START_MARKER}" and "${RANKING_END_MARKER}"`
+    );
+  }
+  if (endIndex <= startIndex) {
+    throw new Error(
+      `Invalid README ranking markers: end marker must appear after start marker`
+    );
+  }
+
+  const prefix = readme.slice(0, startIndex + RANKING_START_MARKER.length);
+  const suffix = readme.slice(endIndex);
+  const section = generateReadmeSection(output);
+  const nextReadme = `${prefix}${section}${suffix}`;
+
+  if (nextReadme === readme) {
+    console.log("README ranking section is up to date");
+    return;
+  }
+
+  fs.writeFileSync(README_TMP_PATH, nextReadme, "utf8");
+  fs.renameSync(README_TMP_PATH, README_PATH);
+  console.log("README ranking section updated");
+}
+
 async function main() {
   validateEnv();
 
@@ -192,6 +296,8 @@ async function main() {
   fs.mkdirSync(path.dirname(OUTPUT), { recursive: true });
   fs.writeFileSync(TMP_OUTPUT, JSON.stringify(output, null, 2) + "\n", "utf8");
   fs.renameSync(TMP_OUTPUT, OUTPUT);
+
+  updateReadme(output);
 
   console.log(`Wrote ${plugins.length} plugins to ${OUTPUT} (threshold=${MIN_STARS})`);
 }
