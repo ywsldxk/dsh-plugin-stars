@@ -10,7 +10,7 @@ A static GitHub Pages site that lists popular DeepSeek Harness (DSH) plugins.
 
 - Public GitHub repository.
 - Repository topic contains `dsh-plugin`.
-- Default minimum star count: `25` (configurable via `MIN_STARS` in the aggregation script or the workflow).
+- Default minimum star count: `100` (configurable via the `MIN_STARS` repository variable, the aggregation script, or the workflow).
 - Forks and archived repositories are excluded automatically.
 - Specific repositories can be excluded manually by adding them to the `EXCLUDE_REPOS` environment variable (comma-separated `owner/repo` values) in the workflow.
 

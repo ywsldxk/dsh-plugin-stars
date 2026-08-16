@@ -8,7 +8,7 @@ import fs from "node:fs";
 import path from "node:path";
 import https from "node:https";
 
-const MIN_STARS = Number(process.env.MIN_STARS || "25");
+const MIN_STARS = Number(process.env.MIN_STARS || "100");
 const GITHUB_TOKEN = process.env.GITHUB_TOKEN || "";
 const EXCLUDE_REPOS = (process.env.EXCLUDE_REPOS || "")
   .split(",")
@@ -64,8 +64,14 @@ function checkRateLimit(response, url) {
 }
 
 async function searchRepositories(page) {
-  const q = `topic:dsh-plugin+stars:>=${MIN_STARS}+fork:false+archived:false`;
-  const url = `https://api.github.com/search/repositories?q=${encodeURIComponent(q)}&sort=stars&order=desc&per_page=100&page=${page}`;
+  const params = new URLSearchParams({
+    q: `topic:dsh-plugin stars:>=${MIN_STARS} fork:false archived:false`,
+    sort: "stars",
+    order: "desc",
+    per_page: "100",
+    page: String(page),
+  });
+  const url = `https://api.github.com/search/repositories?${params}`;
   const headers = {
     Accept: "application/vnd.github+json",
     "User-Agent": "dsh-plugin-stars-aggregator",
@@ -167,7 +173,7 @@ async function main() {
     generatedAt: new Date().toISOString(),
     source: "github-search-topic-dsh-plugin",
     threshold: MIN_STARS,
-    note: "GitHub code search returns at most 1,000 results. This list is the most popular matches within that window, not a complete census.",
+    note: "GitHub repository search returns at most 1,000 results. This list is the most popular matches within that window, not a complete census.",
     plugins,
   };
 
