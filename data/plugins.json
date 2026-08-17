@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T22:48:34.477Z",
+  "generatedAt": "2026-08-17T23:17:24.659Z",
   "source": "github-search-topics-dsh-plugin,dsh,deepseek-harness",
   "threshold": 25,
   "note": "Merged and deduplicated by repository id from three GitHub repository topic searches (topic:dsh-plugin, topic:dsh, topic:deepseek-harness). GitHub repository search returns at most 1,000 results per query, so this list contains the most popular matches within those windows, not a complete census.",
@@ -14,8 +14,8 @@
       "homepage": "https://open-design.ai",
       "npmUrl": "https://www.npmjs.com/package/open-design",
       "npmName": "open-design",
-      "stars": 88289,
-      "updatedAt": "2026-08-17T22:47:36Z",
+      "stars": 88290,
+      "updatedAt": "2026-08-17T23:05:45Z",
       "license": "Apache-2.0",
       "topics": [
         "agent-skills",
@@ -50,8 +50,8 @@
       "homepage": "https://www.ipollo.ai/",
       "npmUrl": "https://www.npmjs.com/package/%40ipollo%2Fipollowork-workspace",
       "npmName": "@ipollo/ipollowork-workspace",
-      "stars": 4111,
-      "updatedAt": "2026-08-17T22:31:18Z",
+      "stars": 4112,
+      "updatedAt": "2026-08-17T23:15:05Z",
       "license": "NOASSERTION",
       "topics": [
         "agent-collaboration",
@@ -81,8 +81,8 @@
       "homepage": "https://gallery.dsh-market.com",
       "npmUrl": "https://www.npmjs.com/package/dsh-web-ui",
       "npmName": "dsh-web-ui",
-      "stars": 4091,
-      "updatedAt": "2026-08-17T22:45:20Z",
+      "stars": 4095,
+      "updatedAt": "2026-08-17T23:08:08Z",
       "license": "Apache-2.0",
       "topics": [
         "deepseek-harness",
@@ -137,8 +137,8 @@
       "homepage": "https://liustack.dev",
       "npmUrl": "https://www.npmjs.com/package/%40liustack%2Fmodlens",
       "npmName": "@liustack/modlens",
-      "stars": 2787,
-      "updatedAt": "2026-08-17T22:46:55Z",
+      "stars": 2786,
+      "updatedAt": "2026-08-17T23:07:26Z",
       "license": "MIT",
       "topics": [
         "agent-skills",
@@ -173,8 +173,8 @@
       "homepage": "https://dshtui.com/",
       "npmUrl": "https://www.npmjs.com/package/%40deepseek-harness-tui%2Fdsh-tui",
       "npmName": "@deepseek-harness-tui/dsh-tui",
-      "stars": 1809,
-      "updatedAt": "2026-08-17T22:32:16Z",
+      "stars": 1810,
+      "updatedAt": "2026-08-17T23:04:44Z",
       "license": "MIT",
       "topics": [
         "claude-code",
@@ -363,8 +363,8 @@
       "homepage": "",
       "npmUrl": "https://www.npmjs.com/package/dsh-desktop",
       "npmName": "dsh-desktop",
-      "stars": 310,
-      "updatedAt": "2026-08-17T13:42:12Z",
+      "stars": 311,
+      "updatedAt": "2026-08-17T23:03:27Z",
       "license": "MIT",
       "topics": [
         "agentic-workflows",
@@ -440,7 +440,7 @@
       "npmUrl": "https://www.npmjs.com/package/%40deepseek-ai%2Fdsh-root",
       "npmName": "@deepseek-ai/dsh-root",
       "stars": 235,
-      "updatedAt": "2026-08-17T19:30:49Z",
+      "updatedAt": "2026-08-17T23:03:36Z",
       "license": "MIT",
       "topics": [
         "ai-agent",
@@ -511,7 +511,7 @@
       "npmUrl": "https://www.npmjs.com/package/%40omdsh-dev%2Fdsh-genui",
       "npmName": "@omdsh-dev/dsh-genui",
       "stars": 184,
-      "updatedAt": "2026-08-17T21:44:33Z",
+      "updatedAt": "2026-08-17T23:08:01Z",
       "license": "MIT",
       "topics": [
         "dsh",
@@ -829,8 +829,8 @@
       "homepage": "",
       "npmUrl": "https://www.npmjs.com/package/dsh-cost-meter",
       "npmName": "dsh-cost-meter",
-      "stars": 70,
-      "updatedAt": "2026-08-17T15:28:24Z",
+      "stars": 71,
+      "updatedAt": "2026-08-17T23:14:32Z",
       "license": "MIT",
       "topics": [
         "cost-tracking",
@@ -1354,6 +1354,29 @@
       ]
     },
     {
+      "id": "1334675743",
+      "name": "dsh-balance-plugin",
+      "fullName": "Francis-Xavier-code/dsh-balance-plugin",
+      "owner": "Francis-Xavier-code",
+      "description": "deepSeek 余额监控与用量统计（DSH 动态 Cordis 插件）：余额监控 · 官方充值入口 · 用量统计 · 三方插件管理",
+      "htmlUrl": "https://github.com/Francis-Xavier-code/dsh-balance-plugin",
+      "homepage": "",
+      "npmUrl": "https://www.npmjs.com/package/dsh-balance-plugin",
+      "npmName": "dsh-balance-plugin",
+      "stars": 36,
+      "updatedAt": "2026-08-17T22:34:15Z",
+      "license": "MIT",
+      "topics": [
+        "dsh",
+        "dsh-plugin",
+        "dsh-plugins",
+        "dsharpplus",
+        "token",
+        "wallet",
+        "webui"
+      ]
+    },
+    {
       "id": "1333365124",
       "name": "deepseek-harness-tui",
       "fullName": "openma-ai/deepseek-harness-tui",
@@ -1377,29 +1400,6 @@
         "dsh-plugins",
         "tui",
         "tui-rs"
-      ]
-    },
-    {
-      "id": "1334675743",
-      "name": "dsh-balance-plugin",
-      "fullName": "Francis-Xavier-code/dsh-balance-plugin",
-      "owner": "Francis-Xavier-code",
-      "description": "deepSeek 余额监控与用量统计（DSH 动态 Cordis 插件）：余额监控 · 官方充值入口 · 用量统计 · 三方插件管理",
-      "htmlUrl": "https://github.com/Francis-Xavier-code/dsh-balance-plugin",
-      "homepage": "",
-      "npmUrl": "https://www.npmjs.com/package/dsh-balance-plugin",
-      "npmName": "dsh-balance-plugin",
-      "stars": 36,
-      "updatedAt": "2026-08-17T22:34:15Z",
-      "license": "MIT",
-      "topics": [
-        "dsh",
-        "dsh-plugin",
-        "dsh-plugins",
-        "dsharpplus",
-        "token",
-        "wallet",
-        "webui"
       ]
     },
     {
@@ -1657,8 +1657,8 @@
       "homepage": "",
       "npmUrl": "",
       "npmName": "",
-      "stars": 28,
-      "updatedAt": "2026-08-17T18:32:26Z",
+      "stars": 29,
+      "updatedAt": "2026-08-17T23:13:00Z",
       "license": "MIT",
       "topics": [
         "ai-agent",
@@ -1666,6 +1666,29 @@
         "deepseek",
         "deepseek-harness",
         "shizuku"
+      ]
+    },
+    {
+      "id": "1333732838",
+      "name": "DSH-taskboard",
+      "fullName": "shengsheng90/DSH-taskboard",
+      "owner": "shengsheng90",
+      "description": "Native local Taskboard plugin for DeepSeek Harness. SQLite-backed projects, Agent claim/review, and a native Web UI — no iframe, no second chat runtime.",
+      "htmlUrl": "https://github.com/shengsheng90/DSH-taskboard",
+      "homepage": "https://www.npmjs.com/package/@shengsheng/dsh-taskboard",
+      "npmUrl": "https://www.npmjs.com/package/%40shengsheng%2Fdsh-taskboard",
+      "npmName": "@shengsheng/dsh-taskboard",
+      "stars": 28,
+      "updatedAt": "2026-08-17T22:56:46Z",
+      "license": "Apache-2.0",
+      "topics": [
+        "agent",
+        "cordis",
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "task-management",
+        "taskboard"
       ]
     },
     {
@@ -1690,29 +1713,6 @@
         "dsh-plugin",
         "plugin",
         "plugin-marketplace"
-      ]
-    },
-    {
-      "id": "1333732838",
-      "name": "DSH-taskboard",
-      "fullName": "shengsheng90/DSH-taskboard",
-      "owner": "shengsheng90",
-      "description": "Native local Taskboard plugin for DeepSeek Harness. SQLite-backed projects, Agent claim/review, and a native Web UI — no iframe, no second chat runtime.",
-      "htmlUrl": "https://github.com/shengsheng90/DSH-taskboard",
-      "homepage": "https://www.npmjs.com/package/@shengsheng/dsh-taskboard",
-      "npmUrl": "https://www.npmjs.com/package/%40shengsheng%2Fdsh-taskboard",
-      "npmName": "@shengsheng/dsh-taskboard",
-      "stars": 27,
-      "updatedAt": "2026-08-17T22:22:03Z",
-      "license": "Apache-2.0",
-      "topics": [
-        "agent",
-        "cordis",
-        "deepseek-harness",
-        "dsh",
-        "dsh-plugin",
-        "task-management",
-        "taskboard"
       ]
     },
     {
