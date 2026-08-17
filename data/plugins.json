@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T05:16:34.717Z",
+  "generatedAt": "2026-08-17T05:27:07.393Z",
   "source": "github-search-topics-dsh-plugin,dsh,deepseek-harness",
   "threshold": 25,
   "note": "Merged and deduplicated by repository id from three GitHub repository topic searches (topic:dsh-plugin, topic:dsh, topic:deepseek-harness). GitHub repository search returns at most 1,000 results per query, so this list contains the most popular matches within those windows, not a complete census.",
@@ -14,8 +14,8 @@
       "homepage": "https://open-design.ai",
       "npmUrl": "https://www.npmjs.com/package/open-design",
       "npmName": "open-design",
-      "stars": 87778,
-      "updatedAt": "2026-08-17T05:14:51Z",
+      "stars": 87780,
+      "updatedAt": "2026-08-17T05:19:41Z",
       "license": "Apache-2.0",
       "topics": [
         "agent-skills",
@@ -81,8 +81,8 @@
       "homepage": "https://gallery.dsh-market.com",
       "npmUrl": "https://www.npmjs.com/package/dsh-web-ui",
       "npmName": "dsh-web-ui",
-      "stars": 3671,
-      "updatedAt": "2026-08-17T05:15:16Z",
+      "stars": 3672,
+      "updatedAt": "2026-08-17T05:21:39Z",
       "license": "Apache-2.0",
       "topics": [
         "deepseek-harness",
@@ -137,8 +137,8 @@
       "homepage": "https://liustack.dev",
       "npmUrl": "https://www.npmjs.com/package/%40liustack%2Fmodlens",
       "npmName": "@liustack/modlens",
-      "stars": 2517,
-      "updatedAt": "2026-08-17T05:13:53Z",
+      "stars": 2519,
+      "updatedAt": "2026-08-17T05:23:06Z",
       "license": "MIT",
       "topics": [
         "agent-skills",
@@ -328,34 +328,6 @@
       ]
     },
     {
-      "id": "1333258936",
-      "name": "dsh-handbook",
-      "fullName": "Electricitysheep/dsh-handbook",
-      "owner": "Electricitysheep",
-      "description": "DeepSeek Harness (dsh) 从 0 到 1 深度手册：安装/插件开发/性能调优/实测案例/同模型多 Agent 实测对比（中文 + 英文 PDF）",
-      "htmlUrl": "https://github.com/Electricitysheep/dsh-handbook",
-      "homepage": "https://github.com/Electricitysheep/dsh-handbook",
-      "npmUrl": "",
-      "npmName": "",
-      "stars": 391,
-      "updatedAt": "2026-08-17T03:50:16Z",
-      "license": "",
-      "topics": [
-        "agent",
-        "agent-framework",
-        "ai-agents",
-        "beginners",
-        "deepseek",
-        "deepseek-ai",
-        "dsh-plugin",
-        "getting-started",
-        "guide",
-        "harness",
-        "llm",
-        "tutorial"
-      ]
-    },
-    {
       "id": "1275436512",
       "name": "AI-Novel-Writer",
       "fullName": "EthanYoQ/AI-Novel-Writer",
@@ -395,8 +367,8 @@
       "homepage": "",
       "npmUrl": "https://www.npmjs.com/package/dsh-desktop",
       "npmName": "dsh-desktop",
-      "stars": 285,
-      "updatedAt": "2026-08-17T05:15:49Z",
+      "stars": 301,
+      "updatedAt": "2026-08-17T05:26:36Z",
       "license": "MIT",
       "topics": [
         "agentic-workflows",
@@ -426,8 +398,8 @@
       "homepage": "",
       "npmUrl": "https://www.npmjs.com/package/dsh-browser",
       "npmName": "dsh-browser",
-      "stars": 216,
-      "updatedAt": "2026-08-17T04:13:46Z",
+      "stars": 217,
+      "updatedAt": "2026-08-17T05:18:19Z",
       "license": "MIT",
       "topics": [
         "browser-automation",
@@ -617,25 +589,6 @@
       ]
     },
     {
-      "id": "1333082908",
-      "name": "dshfind",
-      "fullName": "hikariming/dshfind",
-      "owner": "hikariming",
-      "description": "DSH (DeepSeek Harness) 原理学习、插件市场与最佳实践 · Learn DSH principles, plugin marketplace & best practices",
-      "htmlUrl": "https://github.com/hikariming/dshfind",
-      "homepage": "https://dshfind.com",
-      "npmUrl": "https://www.npmjs.com/package/dshfind",
-      "npmName": "dshfind",
-      "stars": 119,
-      "updatedAt": "2026-08-17T04:11:14Z",
-      "license": "",
-      "topics": [
-        "deepseek-harness",
-        "dsh",
-        "dsh-plugin"
-      ]
-    },
-    {
       "id": "1333961389",
       "name": "dsh-context",
       "fullName": "bowenliang123/dsh-context",
@@ -645,8 +598,8 @@
       "homepage": "https://www.npmjs.com/package/dsh-context",
       "npmUrl": "https://www.npmjs.com/package/dsh-context",
       "npmName": "dsh-context",
-      "stars": 118,
-      "updatedAt": "2026-08-17T05:01:04Z",
+      "stars": 119,
+      "updatedAt": "2026-08-17T05:21:40Z",
       "license": "Apache-2.0",
       "topics": [
         "dsh-external",
@@ -664,8 +617,8 @@
       "homepage": "https://liustack.dev",
       "npmUrl": "https://www.npmjs.com/package/%40liustack%2Fmodsearch",
       "npmName": "@liustack/modsearch",
-      "stars": 116,
-      "updatedAt": "2026-08-17T04:55:32Z",
+      "stars": 117,
+      "updatedAt": "2026-08-17T05:22:56Z",
       "license": "MIT",
       "topics": [
         "agent-skills",
@@ -714,34 +667,6 @@
       ]
     },
     {
-      "id": "1333295863",
-      "name": "DSH-Plugins-Marketplace",
-      "fullName": "bradeGithub/DSH-Plugins-Marketplace",
-      "owner": "bradeGithub",
-      "description": "DSH插件市场 / DSH Plugin Marketplace: 在 DeepSeek Harness Web GUI 中一键浏览、安装与更新 GitHub topic:dsh-plugin 的全部插件 | browse, install & update all GitHub dsh-plugin plugins in the DSH Web GUI",
-      "htmlUrl": "https://github.com/bradeGithub/DSH-Plugins-Marketplace",
-      "homepage": "",
-      "npmUrl": "https://www.npmjs.com/package/dsh-plugin-marketplace",
-      "npmName": "dsh-plugin-marketplace",
-      "stars": 100,
-      "updatedAt": "2026-08-17T05:02:11Z",
-      "license": "MIT",
-      "topics": [
-        "agent",
-        "ai-agents",
-        "cordis",
-        "deepseek-harness",
-        "dsh",
-        "dsh-plugin",
-        "javascript",
-        "llm",
-        "marketplace",
-        "nodejs",
-        "plugin",
-        "plugin-marketplace"
-      ]
-    },
-    {
       "id": "1333212317",
       "name": "Blue-Whale-Harness",
       "fullName": "leenkcool/Blue-Whale-Harness",
@@ -751,8 +676,8 @@
       "homepage": "",
       "npmUrl": "",
       "npmName": "",
-      "stars": 97,
-      "updatedAt": "2026-08-17T04:21:53Z",
+      "stars": 98,
+      "updatedAt": "2026-08-17T05:22:52Z",
       "license": "Apache-2.0",
       "topics": [
         "deepseek-harness",
@@ -774,8 +699,8 @@
       "homepage": "op.zseven.tech",
       "npmUrl": "https://www.npmjs.com/package/%40zseven-w%2Fdsh-noema",
       "npmName": "@zseven-w/dsh-noema",
-      "stars": 90,
-      "updatedAt": "2026-08-17T02:17:05Z",
+      "stars": 91,
+      "updatedAt": "2026-08-17T05:25:51Z",
       "license": "MIT",
       "topics": [
         "agent-memory",
@@ -919,7 +844,7 @@
       "npmUrl": "https://www.npmjs.com/package/tabbit-browser",
       "npmName": "tabbit-browser",
       "stars": 62,
-      "updatedAt": "2026-08-17T04:37:51Z",
+      "updatedAt": "2026-08-17T05:22:24Z",
       "license": "",
       "topics": [
         "browser-automation",
@@ -931,6 +856,33 @@
         "dsh-plugins",
         "playwright",
         "tabbit"
+      ]
+    },
+    {
+      "id": "1333235870",
+      "name": "dsh-cost-meter",
+      "fullName": "Han-1413141/dsh-cost-meter",
+      "owner": "Han-1413141",
+      "description": "DeepSeek Harness Session Cost Statistics & OpenCode Go Quota Display, DS Official Balance Display, Codex-like Token Heatmap Plugin: Current Session Cost, Daily Cost, Budget Limit Display, History Records, Synced with Official Pricing        DeepSeek Harness 会话费用统计与opencode go额度显示 ds官方余额显示，类codex token热力图插件:本会话费用、当日费用、预算费用显示，历史记录与官方价格同步",
+      "htmlUrl": "https://github.com/Han-1413141/dsh-cost-meter",
+      "homepage": "",
+      "npmUrl": "https://www.npmjs.com/package/dsh-cost-meter",
+      "npmName": "dsh-cost-meter",
+      "stars": 59,
+      "updatedAt": "2026-08-17T05:26:45Z",
+      "license": "MIT",
+      "topics": [
+        "cost-tracking",
+        "deepseek",
+        "deepseek-api",
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "dsh-plugins",
+        "harness",
+        "llm",
+        "plugins",
+        "token-usage"
       ]
     },
     {
@@ -953,33 +905,6 @@
         "rollback",
         "snapshot",
         "undo"
-      ]
-    },
-    {
-      "id": "1333235870",
-      "name": "dsh-cost-meter",
-      "fullName": "Han-1413141/dsh-cost-meter",
-      "owner": "Han-1413141",
-      "description": "DeepSeek Harness 会话费用统计与opencode go额度显示，类codex token热力图插件:本会话费用、当日费用、预算费用显示、历史记录与官方价格同步",
-      "htmlUrl": "https://github.com/Han-1413141/dsh-cost-meter",
-      "homepage": "",
-      "npmUrl": "https://www.npmjs.com/package/dsh-cost-meter",
-      "npmName": "dsh-cost-meter",
-      "stars": 58,
-      "updatedAt": "2026-08-17T04:55:34Z",
-      "license": "MIT",
-      "topics": [
-        "cost-tracking",
-        "deepseek",
-        "deepseek-api",
-        "deepseek-harness",
-        "dsh",
-        "dsh-plugin",
-        "dsh-plugins",
-        "harness",
-        "llm",
-        "plugins",
-        "token-usage"
       ]
     },
     {
@@ -1053,29 +978,6 @@
         "wecom",
         "xiaohongshu",
         "youzan"
-      ]
-    },
-    {
-      "id": "1323129961",
-      "name": "plugin-registry",
-      "fullName": "vlln/plugin-registry",
-      "owner": "vlln",
-      "description": "DSH 插件生态基建：薄控制台（浏览器面板管理官方 repository 插件，0 patch）+ make-dsh-plugin skill 官方插件开发引导",
-      "htmlUrl": "https://github.com/vlln/plugin-registry",
-      "homepage": "",
-      "npmUrl": "",
-      "npmName": "",
-      "stars": 50,
-      "updatedAt": "2026-08-17T03:20:16Z",
-      "license": "MIT",
-      "topics": [
-        "console",
-        "deepseek-harness",
-        "dsh",
-        "dsh-plugin",
-        "dsh-repository-plugin",
-        "plugin-management",
-        "ui"
       ]
     },
     {
@@ -1257,6 +1159,24 @@
       ]
     },
     {
+      "id": "1334828439",
+      "name": "DSH-Launcher",
+      "fullName": "MarcoG-h/DSH-Launcher",
+      "owner": "MarcoG-h",
+      "description": "最全面的DeepSeek Harness🐋桌面启动器&第三方插件管理   | 离线部署 | 一键启动 | 插件管理 | API切换 |",
+      "htmlUrl": "https://github.com/MarcoG-h/DSH-Launcher",
+      "homepage": "",
+      "npmUrl": "https://www.npmjs.com/package/dsh-launcher",
+      "npmName": "dsh-launcher",
+      "stars": 41,
+      "updatedAt": "2026-08-17T05:18:52Z",
+      "license": "",
+      "topics": [
+        "dsh",
+        "dsh-launcher"
+      ]
+    },
+    {
       "id": "1333689922",
       "name": "dsh-find-plugin",
       "fullName": "awesome-dsh-plugin/dsh-find-plugin",
@@ -1273,24 +1193,6 @@
         "deepseek-harness",
         "dsh",
         "dsh-plugin"
-      ]
-    },
-    {
-      "id": "1334828439",
-      "name": "DSH-Launcher",
-      "fullName": "MarcoG-h/DSH-Launcher",
-      "owner": "MarcoG-h",
-      "description": "最全面的DeepSeek Harness🐋桌面启动器&第三方插件管理   | 离线部署 | 一键启动 | 插件管理 | API切换 |",
-      "htmlUrl": "https://github.com/MarcoG-h/DSH-Launcher",
-      "homepage": "",
-      "npmUrl": "https://www.npmjs.com/package/dsh-launcher",
-      "npmName": "dsh-launcher",
-      "stars": 40,
-      "updatedAt": "2026-08-17T05:13:22Z",
-      "license": "",
-      "topics": [
-        "dsh",
-        "dsh-launcher"
       ]
     },
     {
@@ -1404,32 +1306,6 @@
         "skin",
         "theme",
         "wallpaper"
-      ]
-    },
-    {
-      "id": "1334912034",
-      "name": "dsh-plugin-dev-skills",
-      "fullName": "zimodzh/dsh-plugin-dev-skills",
-      "owner": "zimodzh",
-      "description": "An Agent Skills skill for developing DeepSeek Harness (DSH) plugins（开发 DSH 插件的 Agent Skill）——插件/服务/事件/工具/LLM 适配器/打包安装的标准。Works with Claude Code, Codex, DSH, VS Code Copilot & any compatible agent.",
-      "htmlUrl": "https://github.com/zimodzh/dsh-plugin-dev-skills",
-      "homepage": "https://github.com/zimodzh/dsh-plugin-dev-skills",
-      "npmUrl": "",
-      "npmName": "",
-      "stars": 34,
-      "updatedAt": "2026-08-17T01:38:39Z",
-      "license": "MIT",
-      "topics": [
-        "agent-skills",
-        "awesome-dsh-plugin",
-        "claude-code",
-        "codex",
-        "deepseek",
-        "deepseek-harness",
-        "dsh",
-        "dsh-plugin",
-        "llm-agent",
-        "skills"
       ]
     },
     {
