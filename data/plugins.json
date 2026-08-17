@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-17T04:11:16.632Z",
-  "source": "github-search-topic-dsh-plugin",
+  "generatedAt": "2026-08-17T05:02:57.394Z",
+  "source": "github-search-topics-dsh-plugin,dsh,deepseek-harness",
   "threshold": 100,
-  "note": "GitHub repository search returns at most 1,000 results. This list is the most popular matches within that window, not a complete census.",
+  "note": "Merged and deduplicated by repository id from three GitHub repository topic searches (topic:dsh-plugin, topic:dsh, topic:deepseek-harness). GitHub repository search returns at most 1,000 results per query, so this list contains the most popular matches within those windows, not a complete census.",
   "plugins": [
     {
       "id": "1223170290",
@@ -14,8 +14,8 @@
       "homepage": "https://open-design.ai",
       "npmUrl": "https://www.npmjs.com/package/open-design",
       "npmName": "open-design",
-      "stars": 87745,
-      "updatedAt": "2026-08-17T04:09:27Z",
+      "stars": 87769,
+      "updatedAt": "2026-08-17T04:59:56Z",
       "license": "Apache-2.0",
       "topics": [
         "agent-skills",
@@ -50,8 +50,8 @@
       "homepage": "https://www.ipollo.ai/",
       "npmUrl": "https://www.npmjs.com/package/%40ipollo%2Fipollowork-workspace",
       "npmName": "@ipollo/ipollowork-workspace",
-      "stars": 4061,
-      "updatedAt": "2026-08-17T04:09:41Z",
+      "stars": 4063,
+      "updatedAt": "2026-08-17T04:38:45Z",
       "license": "NOASSERTION",
       "topics": [
         "agent-collaboration",
@@ -81,8 +81,8 @@
       "homepage": "https://gallery.dsh-market.com",
       "npmUrl": "https://www.npmjs.com/package/dsh-web-ui",
       "npmName": "dsh-web-ui",
-      "stars": 3640,
-      "updatedAt": "2026-08-17T04:09:29Z",
+      "stars": 3659,
+      "updatedAt": "2026-08-17T05:00:54Z",
       "license": "Apache-2.0",
       "topics": [
         "deepseek-harness",
@@ -101,8 +101,8 @@
       "homepage": "https://whiteguo233.github.io/OpenBiliClaw/",
       "npmUrl": "",
       "npmName": "",
-      "stars": 2769,
-      "updatedAt": "2026-08-17T03:49:42Z",
+      "stars": 2775,
+      "updatedAt": "2026-08-17T04:57:06Z",
       "license": "MIT",
       "topics": [
         "ai-agent",
@@ -137,8 +137,8 @@
       "homepage": "https://liustack.dev",
       "npmUrl": "https://www.npmjs.com/package/%40liustack%2Fmodlens",
       "npmName": "@liustack/modlens",
-      "stars": 2490,
-      "updatedAt": "2026-08-17T04:07:39Z",
+      "stars": 2509,
+      "updatedAt": "2026-08-17T05:02:25Z",
       "license": "MIT",
       "topics": [
         "agent-skills",
@@ -173,8 +173,8 @@
       "homepage": "https://dshtui.com/",
       "npmUrl": "https://www.npmjs.com/package/%40deepseek-harness-tui%2Fdsh-tui",
       "npmName": "@deepseek-harness-tui/dsh-tui",
-      "stars": 1641,
-      "updatedAt": "2026-08-17T04:06:24Z",
+      "stars": 1651,
+      "updatedAt": "2026-08-17T05:02:25Z",
       "license": "MIT",
       "topics": [
         "claude-code",
@@ -219,8 +219,8 @@
       "homepage": "agent-vision.anionex.me",
       "npmUrl": "https://www.npmjs.com/package/%40anionex%2Fdsh-vision-toolkit",
       "npmName": "@anionex/dsh-vision-toolkit",
-      "stars": 559,
-      "updatedAt": "2026-08-17T04:08:33Z",
+      "stars": 563,
+      "updatedAt": "2026-08-17T05:00:05Z",
       "license": "MIT",
       "topics": [
         "agent-skills",
@@ -252,8 +252,8 @@
       "homepage": "",
       "npmUrl": "https://www.npmjs.com/package/graph-memory",
       "npmName": "graph-memory",
-      "stars": 530,
-      "updatedAt": "2026-08-17T03:59:11Z",
+      "stars": 531,
+      "updatedAt": "2026-08-17T04:24:32Z",
       "license": "MIT",
       "topics": [
         "claude-code",
@@ -280,8 +280,8 @@
       "homepage": "",
       "npmUrl": "https://www.npmjs.com/package/%40nanmicoder%2Fdsh-agent-teams",
       "npmName": "@nanmicoder/dsh-agent-teams",
-      "stars": 439,
-      "updatedAt": "2026-08-17T04:01:42Z",
+      "stars": 440,
+      "updatedAt": "2026-08-17T05:01:50Z",
       "license": "MIT",
       "topics": [
         "agentteams",
@@ -289,6 +289,42 @@
         "dsh",
         "dsh-agent-teams",
         "dsh-plugin"
+      ]
+    },
+    {
+      "id": "1194748811",
+      "name": "hol-guard",
+      "fullName": "hashgraph-online/hol-guard",
+      "owner": "hashgraph-online",
+      "description": "Open-source antivirus for AI agents: block risky tools, secret access, prompt injection, malicious packages, MCP servers, plugins, and skills at runtime.",
+      "htmlUrl": "https://github.com/hashgraph-online/hol-guard",
+      "homepage": "https://hol.org/guard",
+      "npmUrl": "",
+      "npmName": "",
+      "stars": 438,
+      "updatedAt": "2026-08-17T03:15:13Z",
+      "license": "Apache-2.0",
+      "topics": [
+        "agent-security",
+        "ai-agent-security",
+        "ai-agents",
+        "ai-antivirus",
+        "ai-security",
+        "claude-code",
+        "codex",
+        "cursor",
+        "devsecops",
+        "dsh-plugin",
+        "gemini-cli",
+        "mcp",
+        "mcp-security",
+        "openclaw",
+        "opencode",
+        "prompt-injection",
+        "runtime-security",
+        "secrets-detection",
+        "security",
+        "supply-chain-security"
       ]
     },
     {
@@ -358,8 +394,8 @@
       "homepage": "",
       "npmUrl": "https://www.npmjs.com/package/dsh-desktop",
       "npmName": "dsh-desktop",
-      "stars": 218,
-      "updatedAt": "2026-08-17T03:44:58Z",
+      "stars": 266,
+      "updatedAt": "2026-08-17T05:02:23Z",
       "license": "MIT",
       "topics": [
         "agentic-workflows",
@@ -389,8 +425,8 @@
       "homepage": "",
       "npmUrl": "https://www.npmjs.com/package/dsh-browser",
       "npmName": "dsh-browser",
-      "stars": 215,
-      "updatedAt": "2026-08-17T03:54:24Z",
+      "stars": 216,
+      "updatedAt": "2026-08-17T04:13:46Z",
       "license": "MIT",
       "topics": [
         "browser-automation",
@@ -447,26 +483,6 @@
       ]
     },
     {
-      "id": "1333144072",
-      "name": "awesome-dsh-plugin",
-      "fullName": "bruc3van/awesome-dsh-plugin",
-      "owner": "bruc3van",
-      "description": "用 30 秒为你的 DeepSeek Harness（DSH）找到合适的插件。 这不是又一个仓库清单：GitHub 上所有打着 dsh-plugin 标签的仓库由脚本每天自动抓取，再经人工逐个核实——真插件进目录，蹭热度的进黑名单，每条剔除理由公开可查。并告诉你每个插件适合谁、从哪里开始。",
-      "htmlUrl": "https://github.com/bruc3van/awesome-dsh-plugin",
-      "homepage": "https://x.com/bruc3van",
-      "npmUrl": "",
-      "npmName": "",
-      "stars": 187,
-      "updatedAt": "2026-08-17T03:50:49Z",
-      "license": "MIT",
-      "topics": [
-        "awesome-list",
-        "deepseek-harness",
-        "dsh",
-        "dsh-plugin"
-      ]
-    },
-    {
       "id": "1334747723",
       "name": "deepseek-harness-studio",
       "fullName": "fufankeji/deepseek-harness-studio",
@@ -476,8 +492,8 @@
       "homepage": "https://www.beyondata.com/",
       "npmUrl": "https://www.npmjs.com/package/%40deepseek-ai%2Fdsh-root",
       "npmName": "@deepseek-ai/dsh-root",
-      "stars": 181,
-      "updatedAt": "2026-08-17T04:06:28Z",
+      "stars": 183,
+      "updatedAt": "2026-08-17T04:45:19Z",
       "license": "MIT",
       "topics": [
         "ai-agent",
@@ -504,8 +520,8 @@
       "homepage": "",
       "npmUrl": "https://www.npmjs.com/package/%40deepseek-ai%2Fdsh-client-ui-aqua",
       "npmName": "@deepseek-ai/dsh-client-ui-aqua",
-      "stars": 170,
-      "updatedAt": "2026-08-17T03:34:00Z",
+      "stars": 176,
+      "updatedAt": "2026-08-17T04:58:44Z",
       "license": "MIT",
       "topics": [
         "deepseek-harness",
@@ -513,29 +529,6 @@
         "dsh",
         "dsh-plugin",
         "theme"
-      ]
-    },
-    {
-      "id": "1321280738",
-      "name": "Awesome-AI-Pedia",
-      "fullName": "Awesome-AI-Pedia/Awesome-AI-Pedia",
-      "owner": "Awesome-AI-Pedia",
-      "description": "AI skills大全 mcp ai知识库 Agent 全维度 AI 资源百科，DSH插件 收录大模型、智能 Agent、RAG 检索增强、多模态、MLOps、AI 应用工具、AI面试集、Vibe coding 大全、零基础学习路线，持续更新前沿 AI 开源项目，开发者一站式 AI 导航库",
-      "htmlUrl": "https://github.com/Awesome-AI-Pedia/Awesome-AI-Pedia",
-      "homepage": "https://awesome-ai-pedia.github.io/Awesome-AI-Pedia/",
-      "npmUrl": "https://www.npmjs.com/package/awesome-ai-pedia",
-      "npmName": "awesome-ai-pedia",
-      "stars": 159,
-      "updatedAt": "2026-08-17T03:38:34Z",
-      "license": "MIT",
-      "topics": [
-        "dsh",
-        "dsh-bundle",
-        "dsh-plugin",
-        "dsh-plugin-market",
-        "dsh-plugin-verify",
-        "dsh-plugins",
-        "dsh-skill"
       ]
     },
     {
@@ -585,8 +578,8 @@
       "homepage": "https://github.com/cocofhu/anime-find#readme",
       "npmUrl": "https://www.npmjs.com/package/anime-find",
       "npmName": "anime-find",
-      "stars": 133,
-      "updatedAt": "2026-08-17T04:03:15Z",
+      "stars": 134,
+      "updatedAt": "2026-08-17T04:29:11Z",
       "license": "MIT",
       "topics": [
         "anime",
@@ -601,6 +594,26 @@
         "plugin",
         "torrent",
         "typescript"
+      ]
+    },
+    {
+      "id": "1333132389",
+      "name": "dsh-find-plugins",
+      "fullName": "Nagi-ovo/dsh-find-plugins",
+      "owner": "Nagi-ovo",
+      "description": "帮 DSH 搜索、安装并验证插件的 Skill｜A DSH skill that finds, installs, and verifies GitHub plugins",
+      "htmlUrl": "https://github.com/Nagi-ovo/dsh-find-plugins",
+      "homepage": "",
+      "npmUrl": "",
+      "npmName": "",
+      "stars": 132,
+      "updatedAt": "2026-08-17T04:27:02Z",
+      "license": "BSD-3-Clause",
+      "topics": [
+        "agent-skills",
+        "deepseek-harness",
+        "dsh-plugin",
+        "plugin-discovery"
       ]
     },
     {
@@ -620,26 +633,6 @@
         "deepseek-harness",
         "dsh",
         "dsh-plugin"
-      ]
-    },
-    {
-      "id": "1333132389",
-      "name": "dsh-find-plugins",
-      "fullName": "Nagi-ovo/dsh-find-plugins",
-      "owner": "Nagi-ovo",
-      "description": "帮 DSH 搜索、安装并验证插件的 Skill｜A DSH skill that finds, installs, and verifies GitHub plugins",
-      "htmlUrl": "https://github.com/Nagi-ovo/dsh-find-plugins",
-      "homepage": "",
-      "npmUrl": "",
-      "npmName": "",
-      "stars": 130,
-      "updatedAt": "2026-08-17T01:28:15Z",
-      "license": "BSD-3-Clause",
-      "topics": [
-        "agent-skills",
-        "deepseek-harness",
-        "dsh-plugin",
-        "plugin-discovery"
       ]
     },
     {
@@ -671,8 +664,8 @@
       "homepage": "https://dshfind.com",
       "npmUrl": "https://www.npmjs.com/package/dshfind",
       "npmName": "dshfind",
-      "stars": 118,
-      "updatedAt": "2026-08-17T04:06:00Z",
+      "stars": 119,
+      "updatedAt": "2026-08-17T04:11:14Z",
       "license": "",
       "topics": [
         "deepseek-harness",
@@ -690,8 +683,8 @@
       "homepage": "https://www.npmjs.com/package/dsh-context",
       "npmUrl": "https://www.npmjs.com/package/dsh-context",
       "npmName": "dsh-context",
-      "stars": 116,
-      "updatedAt": "2026-08-17T03:57:28Z",
+      "stars": 118,
+      "updatedAt": "2026-08-17T05:01:04Z",
       "license": "Apache-2.0",
       "topics": [
         "dsh-external",
@@ -709,8 +702,8 @@
       "homepage": "https://liustack.dev",
       "npmUrl": "https://www.npmjs.com/package/%40liustack%2Fmodsearch",
       "npmName": "@liustack/modsearch",
-      "stars": 115,
-      "updatedAt": "2026-08-17T03:10:49Z",
+      "stars": 116,
+      "updatedAt": "2026-08-17T04:55:32Z",
       "license": "MIT",
       "topics": [
         "agent-skills",
@@ -735,35 +728,6 @@
       ]
     },
     {
-      "id": "1333171737",
-      "name": "Awesome-DeepSeek-Harness-Plugins",
-      "fullName": "Zhiyuan-Fan/Awesome-DeepSeek-Harness-Plugins",
-      "owner": "Zhiyuan-Fan",
-      "description": "Curated DeepSeek Harness (DSH) plugins, extensions, tools, skills, clients, runtimes, integrations, and verified references — English and Chinese.",
-      "htmlUrl": "https://github.com/Zhiyuan-Fan/Awesome-DeepSeek-Harness-Plugins",
-      "homepage": "",
-      "npmUrl": "",
-      "npmName": "",
-      "stars": 102,
-      "updatedAt": "2026-08-17T02:44:15Z",
-      "license": "MIT",
-      "topics": [
-        "agent-harness",
-        "ai-agents",
-        "awesome-list",
-        "bilingual",
-        "curated-list",
-        "deepseek",
-        "deepseek-harness",
-        "developer-tools",
-        "dsh",
-        "dsh-plugin",
-        "extensions",
-        "llm-tools",
-        "plugins"
-      ]
-    },
-    {
       "id": "1332212466",
       "name": "dsh-openpencil",
       "fullName": "ZSeven-W/dsh-openpencil",
@@ -773,8 +737,8 @@
       "homepage": "https://op.zseven.tech",
       "npmUrl": "https://www.npmjs.com/package/%40zseven-w%2Fdsh-openpencil",
       "npmName": "@zseven-w/dsh-openpencil",
-      "stars": 102,
-      "updatedAt": "2026-08-17T04:08:23Z",
+      "stars": 105,
+      "updatedAt": "2026-08-17T04:42:07Z",
       "license": "MIT",
       "topics": [
         "deepseek-harness",
@@ -785,6 +749,34 @@
         "ppt",
         "ui",
         "ui-design"
+      ]
+    },
+    {
+      "id": "1333295863",
+      "name": "DSH-Plugins-Marketplace",
+      "fullName": "bradeGithub/DSH-Plugins-Marketplace",
+      "owner": "bradeGithub",
+      "description": "DSH插件市场 / DSH Plugin Marketplace: 在 DeepSeek Harness Web GUI 中一键浏览、安装与更新 GitHub topic:dsh-plugin 的全部插件 | browse, install & update all GitHub dsh-plugin plugins in the DSH Web GUI",
+      "htmlUrl": "https://github.com/bradeGithub/DSH-Plugins-Marketplace",
+      "homepage": "",
+      "npmUrl": "https://www.npmjs.com/package/dsh-plugin-marketplace",
+      "npmName": "dsh-plugin-marketplace",
+      "stars": 100,
+      "updatedAt": "2026-08-17T05:02:11Z",
+      "license": "MIT",
+      "topics": [
+        "agent",
+        "ai-agents",
+        "cordis",
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "javascript",
+        "llm",
+        "marketplace",
+        "nodejs",
+        "plugin",
+        "plugin-marketplace"
       ]
     }
   ]
