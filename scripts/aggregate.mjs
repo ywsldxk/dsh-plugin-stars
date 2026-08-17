@@ -10,7 +10,7 @@ import fs from "node:fs";
 import path from "node:path";
 import https from "node:https";
 
-const MIN_STARS = Number(process.env.MIN_STARS || "100");
+const MIN_STARS = Number(process.env.MIN_STARS || "25");
 const GITHUB_TOKEN = process.env.GITHUB_TOKEN || "";
 const EXCLUDE_REPOS = (process.env.EXCLUDE_REPOS || "")
   .split(",")
@@ -158,8 +158,11 @@ function normalizeRepo(repo) {
 function looksLikePlugin(repo) {
   // Topics can be misapplied by repository owners. These rules only check
   // the public name/description/topics for inclusion; they are not a
-  // security or endorsement certification.
-  const haystack = `${repo.name || ""} ${repo.description || ""}`.toLowerCase();
+  // security or endorsement certification. Name and description are judged
+  // separately: the name alone never triggers the skill/preset exclusion.
+  const name = String(repo.name || "").toLowerCase();
+  const description = String(repo.description || "").toLowerCase();
+  const haystack = `${name} ${description}`;
   const topics = Array.isArray(repo.topics)
     ? repo.topics.filter((t) => typeof t === "string").map((t) => t.toLowerCase())
     : [];
@@ -196,16 +199,19 @@ function looksLikePlugin(repo) {
     haystack.includes("插件") ||
     topics.includes("cordis-plugin");
 
-  // Repositories with only skill/preset semantics and no explicit
-  // plugin/插件/cordis-plugin evidence are excluded.
-  const hasSkillPresetSemantics =
-    /\bskills?\b/.test(haystack) ||
-    /\bpresets?\b/.test(haystack) ||
-    topics.includes("skill") ||
-    topics.includes("skills") ||
-    topics.includes("preset") ||
-    topics.includes("presets");
-  if (hasSkillPresetSemantics && !hasPlugin) {
+  // Skill/Preset exclusion, judged on the description alone: when the
+  // description contains a standalone "skill"/"skills" or "preset"/"presets"
+  // but does not also explicitly contain "plugin"/"plugins" or the Chinese
+  // "插件", and the topics do not include "cordis-plugin", the repository is
+  // a skill or preset rather than a plugin. This excludes repositories such
+  // as dsh-find-plugins (name carries "plugins" but the description is a DSH
+  // skill) and dsh-gitbash-preset, while real plugins that merely bundle a
+  // skill keep explicit plugin wording in their description and survive.
+  const descHasSkillPreset =
+    /\bskills?\b/.test(description) || /\bpresets?\b/.test(description);
+  const descHasPlugin =
+    /\bplugins?\b/.test(description) || description.includes("插件");
+  if (descHasSkillPreset && !descHasPlugin && !topics.includes("cordis-plugin")) {
     return false;
   }
 
