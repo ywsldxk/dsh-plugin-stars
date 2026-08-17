@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T19:49:58.538Z",
+  "generatedAt": "2026-08-17T20:19:45.767Z",
   "source": "github-search-topics-dsh-plugin,dsh,deepseek-harness",
   "threshold": 25,
   "note": "Merged and deduplicated by repository id from three GitHub repository topic searches (topic:dsh-plugin, topic:dsh, topic:deepseek-harness). GitHub repository search returns at most 1,000 results per query, so this list contains the most popular matches within those windows, not a complete census.",
@@ -14,8 +14,8 @@
       "homepage": "https://open-design.ai",
       "npmUrl": "https://www.npmjs.com/package/open-design",
       "npmName": "open-design",
-      "stars": 88259,
-      "updatedAt": "2026-08-17T19:43:20Z",
+      "stars": 88267,
+      "updatedAt": "2026-08-17T20:15:23Z",
       "license": "Apache-2.0",
       "topics": [
         "agent-skills",
@@ -50,8 +50,8 @@
       "homepage": "https://www.ipollo.ai/",
       "npmUrl": "https://www.npmjs.com/package/%40ipollo%2Fipollowork-workspace",
       "npmName": "@ipollo/ipollowork-workspace",
-      "stars": 4106,
-      "updatedAt": "2026-08-17T19:43:26Z",
+      "stars": 4107,
+      "updatedAt": "2026-08-17T19:56:22Z",
       "license": "NOASSERTION",
       "topics": [
         "agent-collaboration",
@@ -81,8 +81,8 @@
       "homepage": "https://gallery.dsh-market.com",
       "npmUrl": "https://www.npmjs.com/package/dsh-web-ui",
       "npmName": "dsh-web-ui",
-      "stars": 4085,
-      "updatedAt": "2026-08-17T19:43:23Z",
+      "stars": 4087,
+      "updatedAt": "2026-08-17T20:17:25Z",
       "license": "Apache-2.0",
       "topics": [
         "deepseek-harness",
@@ -137,8 +137,8 @@
       "homepage": "https://liustack.dev",
       "npmUrl": "https://www.npmjs.com/package/%40liustack%2Fmodlens",
       "npmName": "@liustack/modlens",
-      "stars": 2778,
-      "updatedAt": "2026-08-17T19:43:30Z",
+      "stars": 2780,
+      "updatedAt": "2026-08-17T20:04:13Z",
       "license": "MIT",
       "topics": [
         "agent-skills",
@@ -394,8 +394,8 @@
       "homepage": "",
       "npmUrl": "https://www.npmjs.com/package/dsh-browser",
       "npmName": "dsh-browser",
-      "stars": 251,
-      "updatedAt": "2026-08-17T18:48:01Z",
+      "stars": 252,
+      "updatedAt": "2026-08-17T20:08:19Z",
       "license": "MIT",
       "topics": [
         "browser-automation",
@@ -934,7 +934,7 @@
       "npmUrl": "https://www.npmjs.com/package/dsh-skill-mcp-panel",
       "npmName": "dsh-skill-mcp-panel",
       "stars": 59,
-      "updatedAt": "2026-08-17T19:46:19Z",
+      "updatedAt": "2026-08-17T20:17:53Z",
       "license": "MIT",
       "topics": [
         "deepseek",
@@ -1697,26 +1697,6 @@
       ]
     },
     {
-      "id": "1333779377",
-      "name": "dsh-plugin-workshop",
-      "fullName": "yyyyukari/dsh-plugin-workshop",
-      "owner": "yyyyukari",
-      "description": "Steam Workshop-style plugin browser for the DeepSeek Harness (DSH) Web UI - zero-server: GitHub-powered search, trending windows, Chinese search & bilingual translation, plugin-signature filtering, and smart one-click install/update/uninstall with an installed-plugins manager.",
-      "htmlUrl": "https://github.com/yyyyukari/dsh-plugin-workshop",
-      "homepage": "",
-      "npmUrl": "https://www.npmjs.com/package/%40dsh-external%2Fdsh-plugin-workshop",
-      "npmName": "@dsh-external/dsh-plugin-workshop",
-      "stars": 25,
-      "updatedAt": "2026-08-17T14:53:24Z",
-      "license": "MIT",
-      "topics": [
-        "deepseek-harness",
-        "dsh",
-        "dsh-plugin",
-        "workshop"
-      ]
-    },
-    {
       "id": "1333936445",
       "name": "dsh-code",
       "fullName": "UNLINEARITY/dsh-code",
@@ -1739,6 +1719,26 @@
         "dsh-plugin",
         "harness",
         "plugin"
+      ]
+    },
+    {
+      "id": "1333779377",
+      "name": "dsh-plugin-workshop",
+      "fullName": "yyyyukari/dsh-plugin-workshop",
+      "owner": "yyyyukari",
+      "description": "Steam Workshop-style plugin browser for the DeepSeek Harness (DSH) Web UI - zero-server: GitHub-powered search, trending windows, Chinese search & bilingual translation, plugin-signature filtering, and smart one-click install/update/uninstall with an installed-plugins manager.",
+      "htmlUrl": "https://github.com/yyyyukari/dsh-plugin-workshop",
+      "homepage": "",
+      "npmUrl": "https://www.npmjs.com/package/%40dsh-external%2Fdsh-plugin-workshop",
+      "npmName": "@dsh-external/dsh-plugin-workshop",
+      "stars": 25,
+      "updatedAt": "2026-08-17T14:53:24Z",
+      "license": "MIT",
+      "topics": [
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "workshop"
       ]
     }
   ]
