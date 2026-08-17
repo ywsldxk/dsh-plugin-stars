@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T21:20:00.092Z",
+  "generatedAt": "2026-08-17T21:49:03.223Z",
   "source": "github-search-topics-dsh-plugin,dsh,deepseek-harness",
   "threshold": 25,
   "note": "Merged and deduplicated by repository id from three GitHub repository topic searches (topic:dsh-plugin, topic:dsh, topic:deepseek-harness). GitHub repository search returns at most 1,000 results per query, so this list contains the most popular matches within those windows, not a complete census.",
@@ -14,8 +14,8 @@
       "homepage": "https://open-design.ai",
       "npmUrl": "https://www.npmjs.com/package/open-design",
       "npmName": "open-design",
-      "stars": 88278,
-      "updatedAt": "2026-08-17T21:16:36Z",
+      "stars": 88283,
+      "updatedAt": "2026-08-17T21:47:11Z",
       "license": "Apache-2.0",
       "topics": [
         "agent-skills",
@@ -50,8 +50,8 @@
       "homepage": "https://www.ipollo.ai/",
       "npmUrl": "https://www.npmjs.com/package/%40ipollo%2Fipollowork-workspace",
       "npmName": "@ipollo/ipollowork-workspace",
-      "stars": 4107,
-      "updatedAt": "2026-08-17T19:56:22Z",
+      "stars": 4108,
+      "updatedAt": "2026-08-17T21:41:48Z",
       "license": "NOASSERTION",
       "topics": [
         "agent-collaboration",
@@ -81,8 +81,8 @@
       "homepage": "https://gallery.dsh-market.com",
       "npmUrl": "https://www.npmjs.com/package/dsh-web-ui",
       "npmName": "dsh-web-ui",
-      "stars": 4087,
-      "updatedAt": "2026-08-17T20:17:25Z",
+      "stars": 4090,
+      "updatedAt": "2026-08-17T21:44:55Z",
       "license": "Apache-2.0",
       "topics": [
         "deepseek-harness",
@@ -101,8 +101,8 @@
       "homepage": "https://whiteguo233.github.io/OpenBiliClaw/",
       "npmUrl": "",
       "npmName": "",
-      "stars": 2838,
-      "updatedAt": "2026-08-17T21:04:03Z",
+      "stars": 2839,
+      "updatedAt": "2026-08-17T21:44:16Z",
       "license": "MIT",
       "topics": [
         "ai-agent",
@@ -137,8 +137,8 @@
       "homepage": "https://liustack.dev",
       "npmUrl": "https://www.npmjs.com/package/%40liustack%2Fmodlens",
       "npmName": "@liustack/modlens",
-      "stars": 2783,
-      "updatedAt": "2026-08-17T21:12:59Z",
+      "stars": 2784,
+      "updatedAt": "2026-08-17T21:46:56Z",
       "license": "MIT",
       "topics": [
         "agent-skills",
@@ -510,8 +510,8 @@
       "homepage": "",
       "npmUrl": "https://www.npmjs.com/package/%40omdsh-dev%2Fdsh-genui",
       "npmName": "@omdsh-dev/dsh-genui",
-      "stars": 183,
-      "updatedAt": "2026-08-17T20:54:43Z",
+      "stars": 184,
+      "updatedAt": "2026-08-17T21:44:33Z",
       "license": "MIT",
       "topics": [
         "dsh",
@@ -1290,6 +1290,49 @@
       ]
     },
     {
+      "id": "1333974533",
+      "name": "dsh-plugin-hub",
+      "fullName": "Noob-stupid/dsh-plugin-hub",
+      "owner": "Noob-stupid",
+      "description": "DeepSeek Harness (DSH) 插件管理面板：一键启用/停用插件 + GitHub dsh-plugin 插件市场，带插件详情与一键安装 | Plugin manager & marketplace for DeepSeek Harness",
+      "htmlUrl": "https://github.com/Noob-stupid/dsh-plugin-hub",
+      "homepage": "",
+      "npmUrl": "https://www.npmjs.com/package/%40deepseek-ai%2Fdsh-plugin-console",
+      "npmName": "@deepseek-ai/dsh-plugin-console",
+      "stars": 41,
+      "updatedAt": "2026-08-17T21:28:52Z",
+      "license": "MIT",
+      "topics": [
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "dsh-plugins",
+        "github",
+        "help-wanted",
+        "plugin-manager",
+        "plugin-market"
+      ]
+    },
+    {
+      "id": "1336114531",
+      "name": "dsh-wallpaper-engine",
+      "fullName": "elysia395/dsh-wallpaper-engine",
+      "owner": "elysia395",
+      "description": "一个插件让你的dsh可以自由切换你的wallpaper engine里面的壁纸资源，还可以通过多个滑动条来控制透壁纸的模糊程度，亮度，边框，以及对话框的液态玻璃效果，让你的dsh更加美观",
+      "htmlUrl": "https://github.com/elysia395/dsh-wallpaper-engine",
+      "homepage": "",
+      "npmUrl": "https://www.npmjs.com/package/dsh-plugin-wallpaper-engine",
+      "npmName": "dsh-plugin-wallpaper-engine",
+      "stars": 41,
+      "updatedAt": "2026-08-17T21:47:31Z",
+      "license": "",
+      "topics": [
+        "dsh-plugin",
+        "dsh-plugin-market",
+        "dsh-plugins"
+      ]
+    },
+    {
       "id": "1332396549",
       "name": "dsh-openbiliclaw",
       "fullName": "whiteguo233/dsh-openbiliclaw",
@@ -1308,30 +1351,6 @@
         "dsh",
         "dsh-plugin",
         "openbiliclaw"
-      ]
-    },
-    {
-      "id": "1333974533",
-      "name": "dsh-plugin-hub",
-      "fullName": "Noob-stupid/dsh-plugin-hub",
-      "owner": "Noob-stupid",
-      "description": "DeepSeek Harness (DSH) 插件管理面板：一键启用/停用插件 + GitHub dsh-plugin 插件市场，带插件详情与一键安装 | Plugin manager & marketplace for DeepSeek Harness",
-      "htmlUrl": "https://github.com/Noob-stupid/dsh-plugin-hub",
-      "homepage": "",
-      "npmUrl": "https://www.npmjs.com/package/%40deepseek-ai%2Fdsh-plugin-console",
-      "npmName": "@deepseek-ai/dsh-plugin-console",
-      "stars": 40,
-      "updatedAt": "2026-08-17T19:26:38Z",
-      "license": "MIT",
-      "topics": [
-        "deepseek-harness",
-        "dsh",
-        "dsh-plugin",
-        "dsh-plugins",
-        "github",
-        "help-wanted",
-        "plugin-manager",
-        "plugin-market"
       ]
     },
     {
@@ -1706,8 +1725,8 @@
       "homepage": "",
       "npmUrl": "https://www.npmjs.com/package/dsh-code",
       "npmName": "dsh-code",
-      "stars": 25,
-      "updatedAt": "2026-08-17T16:11:11Z",
+      "stars": 26,
+      "updatedAt": "2026-08-17T21:34:42Z",
       "license": "MIT",
       "topics": [
         "claude-code",
