@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T20:51:55.800Z",
+  "generatedAt": "2026-08-17T21:20:00.092Z",
   "source": "github-search-topics-dsh-plugin,dsh,deepseek-harness",
   "threshold": 25,
   "note": "Merged and deduplicated by repository id from three GitHub repository topic searches (topic:dsh-plugin, topic:dsh, topic:deepseek-harness). GitHub repository search returns at most 1,000 results per query, so this list contains the most popular matches within those windows, not a complete census.",
@@ -14,8 +14,8 @@
       "homepage": "https://open-design.ai",
       "npmUrl": "https://www.npmjs.com/package/open-design",
       "npmName": "open-design",
-      "stars": 88274,
-      "updatedAt": "2026-08-17T20:50:26Z",
+      "stars": 88278,
+      "updatedAt": "2026-08-17T21:16:36Z",
       "license": "Apache-2.0",
       "topics": [
         "agent-skills",
@@ -101,8 +101,8 @@
       "homepage": "https://whiteguo233.github.io/OpenBiliClaw/",
       "npmUrl": "",
       "npmName": "",
-      "stars": 2837,
-      "updatedAt": "2026-08-17T19:26:37Z",
+      "stars": 2838,
+      "updatedAt": "2026-08-17T21:04:03Z",
       "license": "MIT",
       "topics": [
         "ai-agent",
@@ -137,8 +137,8 @@
       "homepage": "https://liustack.dev",
       "npmUrl": "https://www.npmjs.com/package/%40liustack%2Fmodlens",
       "npmName": "@liustack/modlens",
-      "stars": 2781,
-      "updatedAt": "2026-08-17T20:29:05Z",
+      "stars": 2783,
+      "updatedAt": "2026-08-17T21:12:59Z",
       "license": "MIT",
       "topics": [
         "agent-skills",
@@ -173,8 +173,8 @@
       "homepage": "https://dshtui.com/",
       "npmUrl": "https://www.npmjs.com/package/%40deepseek-harness-tui%2Fdsh-tui",
       "npmName": "@deepseek-harness-tui/dsh-tui",
-      "stars": 1805,
-      "updatedAt": "2026-08-17T20:40:48Z",
+      "stars": 1807,
+      "updatedAt": "2026-08-17T21:10:34Z",
       "license": "MIT",
       "topics": [
         "claude-code",
@@ -298,7 +298,7 @@
       "npmUrl": "",
       "npmName": "",
       "stars": 442,
-      "updatedAt": "2026-08-17T18:29:05Z",
+      "updatedAt": "2026-08-17T20:57:20Z",
       "license": "Apache-2.0",
       "topics": [
         "agent-security",
@@ -501,6 +501,24 @@
       ]
     },
     {
+      "id": "1333128726",
+      "name": "dsh-genui",
+      "fullName": "omdsh-dev/dsh-genui",
+      "owner": "omdsh-dev",
+      "description": "GenUI for DeepSeek Harness: interactive UI components rendered inline in assistant replies via the dsh-ui fence — layout, charts, plots, forms, quizzes, mermaid, 3D scenes, and an action event loop back to the model. Ships the fence-teaching host plugin, the browser renderer (client half), and the genui skill.",
+      "htmlUrl": "https://github.com/omdsh-dev/dsh-genui",
+      "homepage": "",
+      "npmUrl": "https://www.npmjs.com/package/%40omdsh-dev%2Fdsh-genui",
+      "npmName": "@omdsh-dev/dsh-genui",
+      "stars": 183,
+      "updatedAt": "2026-08-17T20:54:43Z",
+      "license": "MIT",
+      "topics": [
+        "dsh",
+        "dsh-plugin"
+      ]
+    },
+    {
       "id": "1333961389",
       "name": "dsh-context",
       "fullName": "bowenliang123/dsh-context",
@@ -519,24 +537,6 @@
         "dsh-external",
         "dsh-plugin",
         "dsh-plugins"
-      ]
-    },
-    {
-      "id": "1333128726",
-      "name": "dsh-genui",
-      "fullName": "omdsh-dev/dsh-genui",
-      "owner": "omdsh-dev",
-      "description": "GenUI for DeepSeek Harness: interactive UI components rendered inline in assistant replies via the dsh-ui fence — layout, charts, plots, forms, quizzes, mermaid, 3D scenes, and an action event loop back to the model. Ships the fence-teaching host plugin, the browser renderer (client half), and the genui skill.",
-      "htmlUrl": "https://github.com/omdsh-dev/dsh-genui",
-      "homepage": "",
-      "npmUrl": "https://www.npmjs.com/package/%40omdsh-dev%2Fdsh-genui",
-      "npmName": "@omdsh-dev/dsh-genui",
-      "stars": 182,
-      "updatedAt": "2026-08-17T19:05:02Z",
-      "license": "MIT",
-      "topics": [
-        "dsh",
-        "dsh-plugin"
       ]
     },
     {
@@ -876,7 +876,7 @@
       "npmUrl": "https://www.npmjs.com/package/%40omdsh-dev%2Fdsh-annotation",
       "npmName": "@omdsh-dev/dsh-annotation",
       "stars": 69,
-      "updatedAt": "2026-08-17T17:39:17Z",
+      "updatedAt": "2026-08-17T21:18:27Z",
       "license": "MIT",
       "topics": [
         "dsh",
@@ -1593,24 +1593,6 @@
       ]
     },
     {
-      "id": "1324720195",
-      "name": "dsh-message-edit",
-      "fullName": "Moeblack/dsh-message-edit",
-      "owner": "Moeblack",
-      "description": "DSH 插件：分支式消息编辑、重掷、重试与版本时间线 | DSH plugin: branch-based message editing, reroll, retry, version timeline",
-      "htmlUrl": "https://github.com/Moeblack/dsh-message-edit",
-      "homepage": "",
-      "npmUrl": "https://www.npmjs.com/package/dsh-message-edit",
-      "npmName": "dsh-message-edit",
-      "stars": 29,
-      "updatedAt": "2026-08-17T13:37:36Z",
-      "license": "",
-      "topics": [
-        "dsh",
-        "dsh-plugin"
-      ]
-    },
-    {
       "id": "1333130893",
       "name": "dsh-ui-whale",
       "fullName": "lhh010/dsh-ui-whale",
@@ -1623,6 +1605,24 @@
       "stars": 29,
       "updatedAt": "2026-08-16T09:40:31Z",
       "license": "BSD-3-Clause",
+      "topics": [
+        "dsh",
+        "dsh-plugin"
+      ]
+    },
+    {
+      "id": "1324720195",
+      "name": "dsh-message-edit",
+      "fullName": "Moeblack/dsh-message-edit",
+      "owner": "Moeblack",
+      "description": "DSH 插件：分支式消息编辑、重掷、重试与版本时间线 | DSH plugin: branch-based message editing, reroll, retry, version timeline",
+      "htmlUrl": "https://github.com/Moeblack/dsh-message-edit",
+      "homepage": "",
+      "npmUrl": "https://www.npmjs.com/package/dsh-message-edit",
+      "npmName": "dsh-message-edit",
+      "stars": 29,
+      "updatedAt": "2026-08-17T13:37:36Z",
+      "license": "",
       "topics": [
         "dsh",
         "dsh-plugin"
@@ -1697,26 +1697,6 @@
       ]
     },
     {
-      "id": "1333779377",
-      "name": "dsh-plugin-workshop",
-      "fullName": "yyyyukari/dsh-plugin-workshop",
-      "owner": "yyyyukari",
-      "description": "Steam Workshop-style plugin browser for the DeepSeek Harness (DSH) Web UI - zero-server: GitHub-powered search, trending windows, Chinese search & bilingual translation, plugin-signature filtering, and smart one-click install/update/uninstall with an installed-plugins manager.",
-      "htmlUrl": "https://github.com/yyyyukari/dsh-plugin-workshop",
-      "homepage": "",
-      "npmUrl": "https://www.npmjs.com/package/%40dsh-external%2Fdsh-plugin-workshop",
-      "npmName": "@dsh-external/dsh-plugin-workshop",
-      "stars": 25,
-      "updatedAt": "2026-08-17T14:53:24Z",
-      "license": "MIT",
-      "topics": [
-        "deepseek-harness",
-        "dsh",
-        "dsh-plugin",
-        "workshop"
-      ]
-    },
-    {
       "id": "1333936445",
       "name": "dsh-code",
       "fullName": "UNLINEARITY/dsh-code",
@@ -1739,6 +1719,26 @@
         "dsh-plugin",
         "harness",
         "plugin"
+      ]
+    },
+    {
+      "id": "1333779377",
+      "name": "dsh-plugin-workshop",
+      "fullName": "yyyyukari/dsh-plugin-workshop",
+      "owner": "yyyyukari",
+      "description": "Steam Workshop-style plugin browser for the DeepSeek Harness (DSH) Web UI - zero-server: GitHub-powered search, trending windows, Chinese search & bilingual translation, plugin-signature filtering, and smart one-click install/update/uninstall with an installed-plugins manager.",
+      "htmlUrl": "https://github.com/yyyyukari/dsh-plugin-workshop",
+      "homepage": "",
+      "npmUrl": "https://www.npmjs.com/package/%40dsh-external%2Fdsh-plugin-workshop",
+      "npmName": "@dsh-external/dsh-plugin-workshop",
+      "stars": 25,
+      "updatedAt": "2026-08-17T14:53:24Z",
+      "license": "MIT",
+      "topics": [
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "workshop"
       ]
     }
   ]
