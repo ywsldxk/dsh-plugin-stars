@@ -141,13 +141,13 @@ function normalizeRepo(repo) {
 }
 
 function looksLikePlugin(repo) {
-  // Topics can be misapplied by repository owners. This lightweight,
-  // public-metadata second filter reduces false positives but is not a
-  // security or endorsement check.
+  // Topics can be misapplied by repository owners. This rule only checks
+  // the public name/description for inclusion; it is not a security or
+  // endorsement certification.
   const haystack = `${repo.name || ""} ${repo.description || ""}`.toLowerCase();
-  const englishMarkers = /\b(plugin|skill|extension|preset|integration)\b/;
-  const chineseMarkers = ["插件", "技能", "扩展", "预设", "集成"];
-  return englishMarkers.test(haystack) || chineseMarkers.some((m) => haystack.includes(m));
+  const hasDsh = /\bdsh\b/.test(haystack) || /\bdeepseek harness\b/.test(haystack);
+  const hasPlugin = /\bplugins?\b/.test(haystack) || haystack.includes("插件");
+  return hasDsh && hasPlugin;
 }
 
 function formatDateTime(isoString) {
