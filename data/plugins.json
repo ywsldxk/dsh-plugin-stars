@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T23:17:24.659Z",
+  "generatedAt": "2026-08-17T23:44:52.697Z",
   "source": "github-search-topics-dsh-plugin,dsh,deepseek-harness",
   "threshold": 25,
   "note": "Merged and deduplicated by repository id from three GitHub repository topic searches (topic:dsh-plugin, topic:dsh, topic:deepseek-harness). GitHub repository search returns at most 1,000 results per query, so this list contains the most popular matches within those windows, not a complete census.",
@@ -14,8 +14,8 @@
       "homepage": "https://open-design.ai",
       "npmUrl": "https://www.npmjs.com/package/open-design",
       "npmName": "open-design",
-      "stars": 88290,
-      "updatedAt": "2026-08-17T23:05:45Z",
+      "stars": 88297,
+      "updatedAt": "2026-08-17T23:40:28Z",
       "license": "Apache-2.0",
       "topics": [
         "agent-skills",
@@ -50,8 +50,8 @@
       "homepage": "https://www.ipollo.ai/",
       "npmUrl": "https://www.npmjs.com/package/%40ipollo%2Fipollowork-workspace",
       "npmName": "@ipollo/ipollowork-workspace",
-      "stars": 4112,
-      "updatedAt": "2026-08-17T23:15:05Z",
+      "stars": 4113,
+      "updatedAt": "2026-08-17T23:36:32Z",
       "license": "NOASSERTION",
       "topics": [
         "agent-collaboration",
@@ -82,7 +82,7 @@
       "npmUrl": "https://www.npmjs.com/package/dsh-web-ui",
       "npmName": "dsh-web-ui",
       "stars": 4095,
-      "updatedAt": "2026-08-17T23:08:08Z",
+      "updatedAt": "2026-08-17T23:25:10Z",
       "license": "Apache-2.0",
       "topics": [
         "deepseek-harness",
@@ -173,8 +173,8 @@
       "homepage": "https://dshtui.com/",
       "npmUrl": "https://www.npmjs.com/package/%40deepseek-harness-tui%2Fdsh-tui",
       "npmName": "@deepseek-harness-tui/dsh-tui",
-      "stars": 1810,
-      "updatedAt": "2026-08-17T23:04:44Z",
+      "stars": 1811,
+      "updatedAt": "2026-08-17T23:23:17Z",
       "license": "MIT",
       "topics": [
         "claude-code",
@@ -528,8 +528,8 @@
       "homepage": "https://www.npmjs.com/package/dsh-context",
       "npmUrl": "https://www.npmjs.com/package/dsh-context",
       "npmName": "dsh-context",
-      "stars": 183,
-      "updatedAt": "2026-08-17T20:36:47Z",
+      "stars": 184,
+      "updatedAt": "2026-08-17T23:44:27Z",
       "license": "Apache-2.0",
       "topics": [
         "cordis-plugin",
@@ -673,8 +673,8 @@
       "homepage": "https://op.zseven.tech",
       "npmUrl": "https://www.npmjs.com/package/%40zseven-w%2Fdsh-openpencil",
       "npmName": "@zseven-w/dsh-openpencil",
-      "stars": 107,
-      "updatedAt": "2026-08-17T17:59:06Z",
+      "stars": 108,
+      "updatedAt": "2026-08-17T23:27:26Z",
       "license": "MIT",
       "topics": [
         "deepseek-harness",
@@ -735,6 +735,31 @@
       ]
     },
     {
+      "id": "1334076307",
+      "name": "dsh-plugin",
+      "fullName": "Tabbit-Browser/dsh-plugin",
+      "owner": "Tabbit-Browser",
+      "description": "Tabbit Broser plugins for Deepseek Harness",
+      "htmlUrl": "https://github.com/Tabbit-Browser/dsh-plugin",
+      "homepage": "https://www.tabbit.ai",
+      "npmUrl": "https://www.npmjs.com/package/tabbit-browser",
+      "npmName": "tabbit-browser",
+      "stars": 78,
+      "updatedAt": "2026-08-17T19:10:28Z",
+      "license": "",
+      "topics": [
+        "browser-automation",
+        "browser-use",
+        "deepseek-harness",
+        "dsh-plugin",
+        "dsh-plugin-market",
+        "dsh-plugin-verify",
+        "dsh-plugins",
+        "playwright",
+        "tabbit"
+      ]
+    },
+    {
       "id": "1333486649",
       "name": "deepseek-harness-desktop",
       "fullName": "ningbainb/deepseek-harness-desktop",
@@ -767,31 +792,6 @@
         "ssh-client",
         "windows",
         "windows-desktop"
-      ]
-    },
-    {
-      "id": "1334076307",
-      "name": "dsh-plugin",
-      "fullName": "Tabbit-Browser/dsh-plugin",
-      "owner": "Tabbit-Browser",
-      "description": "Tabbit Broser plugins for Deepseek Harness",
-      "htmlUrl": "https://github.com/Tabbit-Browser/dsh-plugin",
-      "homepage": "https://www.tabbit.ai",
-      "npmUrl": "https://www.npmjs.com/package/tabbit-browser",
-      "npmName": "tabbit-browser",
-      "stars": 78,
-      "updatedAt": "2026-08-17T19:10:28Z",
-      "license": "",
-      "topics": [
-        "browser-automation",
-        "browser-use",
-        "deepseek-harness",
-        "dsh-plugin",
-        "dsh-plugin-market",
-        "dsh-plugin-verify",
-        "dsh-plugins",
-        "playwright",
-        "tabbit"
       ]
     },
     {
@@ -1033,7 +1033,7 @@
       "npmUrl": "https://www.npmjs.com/package/dsh-desktop",
       "npmName": "dsh-desktop",
       "stars": 54,
-      "updatedAt": "2026-08-17T17:02:04Z",
+      "updatedAt": "2026-08-17T23:27:21Z",
       "license": "MIT",
       "topics": [
         "deepseek",
@@ -1290,6 +1290,25 @@
       ]
     },
     {
+      "id": "1336114531",
+      "name": "dsh-wallpaper-engine",
+      "fullName": "elysia395/dsh-wallpaper-engine",
+      "owner": "elysia395",
+      "description": "一个插件让你的dsh可以自由切换你的wallpaper engine里面的壁纸资源，还可以通过多个滑动条来控制透壁纸的模糊程度，亮度，边框，以及对话框的液态玻璃效果，让你的dsh更加美观",
+      "htmlUrl": "https://github.com/elysia395/dsh-wallpaper-engine",
+      "homepage": "",
+      "npmUrl": "https://www.npmjs.com/package/dsh-plugin-wallpaper-engine",
+      "npmName": "dsh-plugin-wallpaper-engine",
+      "stars": 42,
+      "updatedAt": "2026-08-17T23:18:08Z",
+      "license": "",
+      "topics": [
+        "dsh-plugin",
+        "dsh-plugin-market",
+        "dsh-plugins"
+      ]
+    },
+    {
       "id": "1333974533",
       "name": "dsh-plugin-hub",
       "fullName": "Noob-stupid/dsh-plugin-hub",
@@ -1311,25 +1330,6 @@
         "help-wanted",
         "plugin-manager",
         "plugin-market"
-      ]
-    },
-    {
-      "id": "1336114531",
-      "name": "dsh-wallpaper-engine",
-      "fullName": "elysia395/dsh-wallpaper-engine",
-      "owner": "elysia395",
-      "description": "一个插件让你的dsh可以自由切换你的wallpaper engine里面的壁纸资源，还可以通过多个滑动条来控制透壁纸的模糊程度，亮度，边框，以及对话框的液态玻璃效果，让你的dsh更加美观",
-      "htmlUrl": "https://github.com/elysia395/dsh-wallpaper-engine",
-      "homepage": "",
-      "npmUrl": "https://www.npmjs.com/package/dsh-plugin-wallpaper-engine",
-      "npmName": "dsh-plugin-wallpaper-engine",
-      "stars": 41,
-      "updatedAt": "2026-08-17T21:47:31Z",
-      "license": "",
-      "topics": [
-        "dsh-plugin",
-        "dsh-plugin-market",
-        "dsh-plugins"
       ]
     },
     {
@@ -1590,6 +1590,27 @@
       ]
     },
     {
+      "id": "1336085426",
+      "name": "deepseek-harness-android-app",
+      "fullName": "woaiys3/deepseek-harness-android-app",
+      "owner": "woaiys3",
+      "description": "把 DeepSeek Harness 打包成可直接安装的 Android APK：原生壳 + 移动端适配 + Shizuku 特权插件 + 系统能力插件",
+      "htmlUrl": "https://github.com/woaiys3/deepseek-harness-android-app",
+      "homepage": "",
+      "npmUrl": "",
+      "npmName": "",
+      "stars": 30,
+      "updatedAt": "2026-08-17T23:36:19Z",
+      "license": "MIT",
+      "topics": [
+        "ai-agent",
+        "android",
+        "deepseek",
+        "deepseek-harness",
+        "shizuku"
+      ]
+    },
+    {
       "id": "1334214605",
       "name": "dsh-reverse-skill",
       "fullName": "dhicoc/dsh-reverse-skill",
@@ -1645,27 +1666,6 @@
       "topics": [
         "dsh",
         "dsh-plugin"
-      ]
-    },
-    {
-      "id": "1336085426",
-      "name": "deepseek-harness-android-app",
-      "fullName": "woaiys3/deepseek-harness-android-app",
-      "owner": "woaiys3",
-      "description": "把 DeepSeek Harness 打包成可直接安装的 Android APK：原生壳 + 移动端适配 + Shizuku 特权插件 + 系统能力插件",
-      "htmlUrl": "https://github.com/woaiys3/deepseek-harness-android-app",
-      "homepage": "",
-      "npmUrl": "",
-      "npmName": "",
-      "stars": 29,
-      "updatedAt": "2026-08-17T23:13:00Z",
-      "license": "MIT",
-      "topics": [
-        "ai-agent",
-        "android",
-        "deepseek",
-        "deepseek-harness",
-        "shizuku"
       ]
     },
     {
