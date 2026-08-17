@@ -1,6 +1,8 @@
 #!/usr/bin/env node
 /**
- * Aggregate public GitHub repositories tagged with topic:dsh-plugin.
+ * Aggregate public GitHub repositories tagged with the DSH plugin topics
+ * (topic:dsh-plugin, topic:dsh, topic:deepseek-harness), merged and
+ * deduplicated by repository id.
  * Node 18+; no external dependencies.
  */
 
@@ -14,6 +16,11 @@ const EXCLUDE_REPOS = (process.env.EXCLUDE_REPOS || "")
   .split(",")
   .map((s) => s.trim().toLowerCase())
   .filter(Boolean);
+const SEARCH_QUERIES = [
+  `topic:dsh-plugin stars:>=${MIN_STARS} fork:false archived:false`,
+  `topic:dsh stars:>=${MIN_STARS} fork:false archived:false`,
+  `topic:deepseek-harness stars:>=${MIN_STARS} fork:false archived:false`,
+];
 const OUTPUT = path.resolve(process.cwd(), "data/plugins.json");
 const TMP_OUTPUT = `${OUTPUT}.tmp`;
 const README_PATH = path.resolve(process.cwd(), "README.md");
@@ -68,9 +75,9 @@ function checkRateLimit(response, url) {
   }
 }
 
-async function searchRepositories(page) {
+async function searchRepositories(query, page) {
   const params = new URLSearchParams({
-    q: `topic:dsh-plugin stars:>=${MIN_STARS} fork:false archived:false`,
+    q: query,
     sort: "stars",
     order: "desc",
     per_page: "100",
@@ -120,6 +127,14 @@ async function fetchPackageJson(owner, repo) {
   }
 }
 
+function repoKey(repo) {
+  if (repo.id != null && String(repo.id) !== "") {
+    return `id:${repo.id}`;
+  }
+  const fullName = String(repo.full_name || "").toLowerCase();
+  return fullName ? `name:${fullName}` : "";
+}
+
 function normalizeRepo(repo) {
   const owner = repo.owner && typeof repo.owner.login === "string" ? repo.owner.login : "";
   const license = repo.license || {};
@@ -141,12 +156,59 @@ function normalizeRepo(repo) {
 }
 
 function looksLikePlugin(repo) {
-  // Topics can be misapplied by repository owners. This rule only checks
-  // the public name/description for inclusion; it is not a security or
-  // endorsement certification.
+  // Topics can be misapplied by repository owners. These rules only check
+  // the public name/description/topics for inclusion; they are not a
+  // security or endorsement certification.
   const haystack = `${repo.name || ""} ${repo.description || ""}`.toLowerCase();
-  const hasDsh = /\bdsh\b/.test(haystack) || /\bdeepseek harness\b/.test(haystack);
-  const hasPlugin = /\bplugins?\b/.test(haystack) || haystack.includes("插件");
+  const topics = Array.isArray(repo.topics)
+    ? repo.topics.filter((t) => typeof t === "string").map((t) => t.toLowerCase())
+    : [];
+
+  // Exclude obvious directories, tutorials, and awesome lists; known
+  // non-plugin projects are additionally excluded via EXCLUDE_REPOS.
+  if (
+    haystack.includes("awesome-list") ||
+    topics.includes("awesome-list") ||
+    /\bawesome\b/.test(haystack) ||
+    /\btutorials?\b/.test(haystack) ||
+    /\bcourses?\b/.test(haystack) ||
+    /\bself-hosting\b/.test(haystack)
+  ) {
+    return false;
+  }
+
+  // DSH evidence: a standalone "dsh" or the phrase "deepseek harness" in the
+  // name/description, or a DSH-related topic.
+  const hasDsh =
+    /\bdsh\b/.test(haystack) ||
+    /\bdeepseek harness\b/.test(haystack) ||
+    topics.includes("dsh") ||
+    topics.includes("deepseek-harness") ||
+    topics.includes("dsh-plugin");
+
+  // Plugin evidence: a standalone "plugin"/"plugins" or the Chinese "插件"
+  // in the name/description, or the explicit "cordis-plugin" topic. Plain
+  // skill/extension/preset/integration wording alone is not plugin evidence,
+  // and the "dsh-plugin" topic is only recall/DSH evidence, not plugin
+  // evidence.
+  const hasPlugin =
+    /\bplugins?\b/.test(haystack) ||
+    haystack.includes("插件") ||
+    topics.includes("cordis-plugin");
+
+  // Repositories with only skill/preset semantics and no explicit
+  // plugin/插件/cordis-plugin evidence are excluded.
+  const hasSkillPresetSemantics =
+    /\bskills?\b/.test(haystack) ||
+    /\bpresets?\b/.test(haystack) ||
+    topics.includes("skill") ||
+    topics.includes("skills") ||
+    topics.includes("preset") ||
+    topics.includes("presets");
+  if (hasSkillPresetSemantics && !hasPlugin) {
+    return false;
+  }
+
   return hasDsh && hasPlugin;
 }
 
@@ -252,44 +314,69 @@ function updateReadme(output) {
 async function main() {
   validateEnv();
 
-  const plugins = [];
-  let page = 1;
+  // Collect raw repositories from every search query first, deduplicating by
+  // repo.id (falling back to full_name) so a repository matching several
+  // topics is never counted twice.
+  const repoByKey = new Map();
 
-  while (true) {
-    const data = await searchRepositories(page);
-    const items = Array.isArray(data.items) ? data.items : [];
-    if (items.length === 0) {
-      break;
-    }
+  for (const query of SEARCH_QUERIES) {
+    let page = 1;
+    let fetched = 0;
 
-    for (const repo of items) {
-      if (!repo || typeof repo !== "object") continue;
-      const fullName = String(repo.full_name || "").toLowerCase();
-      if (EXCLUDE_REPOS.includes(fullName)) continue;
-      if (repo.fork || repo.archived) continue;
-      if ((repo.stargazers_count || 0) < MIN_STARS) continue;
-
-      if (!looksLikePlugin(repo)) continue;
-
-      const normalized = normalizeRepo(repo);
-      const npmName = await fetchPackageJson(normalized.owner, normalized.name);
-      if (npmName) {
-        normalized.npmName = npmName;
-        normalized.npmUrl = `https://www.npmjs.com/package/${encodeURIComponent(npmName)}`;
+    // GitHub Search returns at most 1,000 results per query. Paginate each
+    // query up to that ceiling; never stop a query early because of how
+    // many plugins were already collected.
+    while (true) {
+      const data = await searchRepositories(query, page);
+      const items = Array.isArray(data.items) ? data.items : [];
+      if (items.length === 0) {
+        break;
       }
-      plugins.push(normalized);
-    }
 
-    if (items.length < 100) break;
-    if (plugins.length >= 1000) break; // GitHub Search hard ceiling
-    page += 1;
+      for (const repo of items) {
+        if (!repo || typeof repo !== "object") continue;
+        const key = repoKey(repo);
+        if (!key) continue;
+        if (!repoByKey.has(key)) {
+          repoByKey.set(key, repo);
+        }
+      }
+
+      fetched += items.length;
+      if (items.length < 100) break;
+      if (fetched >= 1000) break; // GitHub Search hard ceiling per query
+      page += 1;
+    }
+  }
+
+  // Uniformly filter, normalize, and sort the merged repositories.
+  const candidates = [];
+  for (const repo of repoByKey.values()) {
+    const fullName = String(repo.full_name || "").toLowerCase();
+    if (EXCLUDE_REPOS.includes(fullName)) continue;
+    if (repo.fork || repo.archived) continue;
+    if ((repo.stargazers_count || 0) < MIN_STARS) continue;
+    if (!looksLikePlugin(repo)) continue;
+    candidates.push(normalizeRepo(repo));
+  }
+  candidates.sort((a, b) => b.stars - a.stars);
+
+  // Fetch package.json metadata for the surviving repositories.
+  const plugins = [];
+  for (const normalized of candidates) {
+    const npmName = await fetchPackageJson(normalized.owner, normalized.name);
+    if (npmName) {
+      normalized.npmName = npmName;
+      normalized.npmUrl = `https://www.npmjs.com/package/${encodeURIComponent(npmName)}`;
+    }
+    plugins.push(normalized);
   }
 
   const output = {
     generatedAt: new Date().toISOString(),
-    source: "github-search-topic-dsh-plugin",
+    source: "github-search-topics-dsh-plugin,dsh,deepseek-harness",
     threshold: MIN_STARS,
-    note: "GitHub repository search returns at most 1,000 results. This list is the most popular matches within that window, not a complete census.",
+    note: "Merged and deduplicated by repository id from three GitHub repository topic searches (topic:dsh-plugin, topic:dsh, topic:deepseek-harness). GitHub repository search returns at most 1,000 results per query, so this list contains the most popular matches within those windows, not a complete census.",
     plugins,
   };
 
