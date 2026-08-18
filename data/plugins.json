@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T21:17:59.450Z",
+  "generatedAt": "2026-08-18T21:46:15.660Z",
   "source": "github-search-topics-dsh-plugin,dsh,deepseek-harness",
   "threshold": 25,
   "note": "Merged and deduplicated by repository id from three GitHub repository topic searches (topic:dsh-plugin, topic:dsh, topic:deepseek-harness). GitHub repository search returns at most 1,000 results per query, so this list contains the most popular matches within those windows, not a complete census.",
@@ -14,8 +14,8 @@
       "homepage": "https://open-design.ai",
       "npmUrl": "https://www.npmjs.com/package/open-design",
       "npmName": "open-design",
-      "stars": 88862,
-      "updatedAt": "2026-08-18T21:16:06Z",
+      "stars": 88865,
+      "updatedAt": "2026-08-18T21:45:35Z",
       "license": "Apache-2.0",
       "topics": [
         "agent-skills",
@@ -50,8 +50,8 @@
       "homepage": "https://gallery.dsh-market.com",
       "npmUrl": "https://www.npmjs.com/package/dsh-web-ui",
       "npmName": "dsh-web-ui",
-      "stars": 4562,
-      "updatedAt": "2026-08-18T20:43:38Z",
+      "stars": 4563,
+      "updatedAt": "2026-08-18T21:35:29Z",
       "license": "Apache-2.0",
       "topics": [
         "deepseek-harness",
@@ -70,8 +70,8 @@
       "homepage": "https://www.ipollo.ai/",
       "npmUrl": "https://www.npmjs.com/package/%40ipollo%2Fipollowork-workspace",
       "npmName": "@ipollo/ipollowork-workspace",
-      "stars": 4167,
-      "updatedAt": "2026-08-18T20:56:55Z",
+      "stars": 4168,
+      "updatedAt": "2026-08-18T21:44:44Z",
       "license": "NOASSERTION",
       "topics": [
         "agent-collaboration",
@@ -103,8 +103,8 @@
       "homepage": "https://liustack.dev",
       "npmUrl": "https://www.npmjs.com/package/%40liustack%2Fmodlens",
       "npmName": "@liustack/modlens",
-      "stars": 3092,
-      "updatedAt": "2026-08-18T20:09:30Z",
+      "stars": 3094,
+      "updatedAt": "2026-08-18T21:32:39Z",
       "license": "MIT",
       "topics": [
         "agent-skills",
@@ -139,8 +139,8 @@
       "homepage": "https://whiteguo233.github.io/OpenBiliClaw/",
       "npmUrl": "",
       "npmName": "",
-      "stars": 2896,
-      "updatedAt": "2026-08-18T17:11:39Z",
+      "stars": 2897,
+      "updatedAt": "2026-08-18T21:19:44Z",
       "license": "MIT",
       "topics": [
         "ai-agent",
@@ -175,8 +175,8 @@
       "homepage": "https://dshtui.com/",
       "npmUrl": "https://www.npmjs.com/package/%40deepseek-harness-tui%2Fdsh-tui",
       "npmName": "@deepseek-harness-tui/dsh-tui",
-      "stars": 1966,
-      "updatedAt": "2026-08-18T21:14:43Z",
+      "stars": 1968,
+      "updatedAt": "2026-08-18T21:34:57Z",
       "license": "MIT",
       "topics": [
         "claude-code",
@@ -660,8 +660,8 @@
       "homepage": "",
       "npmUrl": "https://www.npmjs.com/package/%40deepseek-ai%2Fdsh-root",
       "npmName": "@deepseek-ai/dsh-root",
-      "stars": 164,
-      "updatedAt": "2026-08-18T20:59:16Z",
+      "stars": 165,
+      "updatedAt": "2026-08-18T21:41:36Z",
       "license": "MIT",
       "topics": [
         "ai-agent",
@@ -676,6 +676,31 @@
         "macos",
         "typescript",
         "windows"
+      ]
+    },
+    {
+      "id": "1334618124",
+      "name": "open-sea-skin",
+      "fullName": "d-dev0101/open-sea-skin",
+      "owner": "d-dev0101",
+      "description": "WebGPU ocean skin for DeepSeek Harness — DSH plugin, Harness-only Chrome/Edge extension, static installer, and native integration.",
+      "htmlUrl": "https://github.com/d-dev0101/open-sea-skin",
+      "homepage": "https://d-dev0101.github.io/open-sea-skin/",
+      "npmUrl": "https://www.npmjs.com/package/open-sea-skin",
+      "npmName": "open-sea-skin",
+      "stars": 148,
+      "updatedAt": "2026-08-18T21:42:27Z",
+      "license": "MIT",
+      "topics": [
+        "chrome-extension",
+        "deepseek",
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "ocean-skin",
+        "theme",
+        "threejs",
+        "webgpu"
       ]
     },
     {
@@ -758,31 +783,6 @@
         "plugin",
         "torrent",
         "typescript"
-      ]
-    },
-    {
-      "id": "1334618124",
-      "name": "open-sea-skin",
-      "fullName": "d-dev0101/open-sea-skin",
-      "owner": "d-dev0101",
-      "description": "WebGPU ocean skin for DeepSeek Harness — DSH plugin, Harness-only Chrome/Edge extension, static installer, and native integration.",
-      "htmlUrl": "https://github.com/d-dev0101/open-sea-skin",
-      "homepage": "https://d-dev0101.github.io/open-sea-skin/",
-      "npmUrl": "https://www.npmjs.com/package/open-sea-skin",
-      "npmName": "open-sea-skin",
-      "stars": 143,
-      "updatedAt": "2026-08-18T21:09:14Z",
-      "license": "MIT",
-      "topics": [
-        "chrome-extension",
-        "deepseek",
-        "deepseek-harness",
-        "dsh",
-        "dsh-plugin",
-        "ocean-skin",
-        "theme",
-        "threejs",
-        "webgpu"
       ]
     },
     {
@@ -1045,8 +1045,8 @@
       "homepage": "",
       "npmUrl": "https://www.npmjs.com/package/dsh-undo-savepoint",
       "npmName": "dsh-undo-savepoint",
-      "stars": 82,
-      "updatedAt": "2026-08-18T18:16:36Z",
+      "stars": 83,
+      "updatedAt": "2026-08-18T21:35:18Z",
       "license": "MIT",
       "topics": [
         "deepseek-harness",
