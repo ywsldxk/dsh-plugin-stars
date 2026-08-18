@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T23:16:47.448Z",
+  "generatedAt": "2026-08-18T23:45:01.613Z",
   "source": "github-search-topics-dsh-plugin,dsh,deepseek-harness",
   "threshold": 25,
   "note": "Merged and deduplicated by repository id from three GitHub repository topic searches (topic:dsh-plugin, topic:dsh, topic:deepseek-harness). GitHub repository search returns at most 1,000 results per query, so this list contains the most popular matches within those windows, not a complete census.",
@@ -14,8 +14,8 @@
       "homepage": "https://open-design.ai",
       "npmUrl": "https://www.npmjs.com/package/open-design",
       "npmName": "open-design",
-      "stars": 88875,
-      "updatedAt": "2026-08-18T22:59:11Z",
+      "stars": 88880,
+      "updatedAt": "2026-08-18T23:36:19Z",
       "license": "Apache-2.0",
       "topics": [
         "agent-skills",
@@ -50,8 +50,8 @@
       "homepage": "https://gallery.dsh-market.com",
       "npmUrl": "https://www.npmjs.com/package/dsh-web-ui",
       "npmName": "dsh-web-ui",
-      "stars": 4567,
-      "updatedAt": "2026-08-18T23:11:01Z",
+      "stars": 4568,
+      "updatedAt": "2026-08-18T23:25:04Z",
       "license": "Apache-2.0",
       "topics": [
         "deepseek-harness",
@@ -70,8 +70,8 @@
       "homepage": "https://www.ipollo.ai/",
       "npmUrl": "https://www.npmjs.com/package/%40ipollo%2Fipollowork-workspace",
       "npmName": "@ipollo/ipollowork-workspace",
-      "stars": 4171,
-      "updatedAt": "2026-08-18T22:50:40Z",
+      "stars": 4173,
+      "updatedAt": "2026-08-18T23:28:07Z",
       "license": "NOASSERTION",
       "topics": [
         "agent-collaboration",
@@ -103,8 +103,8 @@
       "homepage": "https://liustack.dev",
       "npmUrl": "https://www.npmjs.com/package/%40liustack%2Fmodlens",
       "npmName": "@liustack/modlens",
-      "stars": 3097,
-      "updatedAt": "2026-08-18T23:14:04Z",
+      "stars": 3098,
+      "updatedAt": "2026-08-18T23:31:35Z",
       "license": "MIT",
       "topics": [
         "agent-skills",
@@ -261,8 +261,8 @@
       "homepage": "https://app.tongflow.com",
       "npmUrl": "https://www.npmjs.com/package/tongflow-app",
       "npmName": "tongflow-app",
-      "stars": 857,
-      "updatedAt": "2026-08-18T21:51:16Z",
+      "stars": 858,
+      "updatedAt": "2026-08-18T23:21:39Z",
       "license": "AGPL-3.0",
       "topics": [
         "3d",
@@ -424,8 +424,8 @@
       "homepage": "",
       "npmUrl": "https://www.npmjs.com/package/dsh-desktop",
       "npmName": "dsh-desktop",
-      "stars": 395,
-      "updatedAt": "2026-08-18T18:53:25Z",
+      "stars": 410,
+      "updatedAt": "2026-08-18T23:42:03Z",
       "license": "MIT",
       "topics": [
         "agentic-workflows",
@@ -485,8 +485,8 @@
       "homepage": "https://www.npmjs.com/package/dsh-context",
       "npmUrl": "https://www.npmjs.com/package/dsh-context",
       "npmName": "dsh-context",
-      "stars": 318,
-      "updatedAt": "2026-08-18T19:09:45Z",
+      "stars": 319,
+      "updatedAt": "2026-08-18T23:34:40Z",
       "license": "Apache-2.0",
       "topics": [
         "cordis-plugin",
@@ -507,8 +507,8 @@
       "homepage": "",
       "npmUrl": "https://www.npmjs.com/package/dsh-browser",
       "npmName": "dsh-browser",
-      "stars": 298,
-      "updatedAt": "2026-08-18T20:02:59Z",
+      "stars": 299,
+      "updatedAt": "2026-08-18T23:19:16Z",
       "license": "MIT",
       "topics": [
         "browser-automation",
@@ -531,8 +531,8 @@
       "homepage": "",
       "npmUrl": "https://www.npmjs.com/package/%40deepseek-ai%2Fdsh-client-ui-aqua",
       "npmName": "@deepseek-ai/dsh-client-ui-aqua",
-      "stars": 292,
-      "updatedAt": "2026-08-18T20:12:23Z",
+      "stars": 293,
+      "updatedAt": "2026-08-18T23:20:57Z",
       "license": "MIT",
       "topics": [
         "deepseek-harness",
@@ -580,8 +580,8 @@
       "homepage": "",
       "npmUrl": "https://www.npmjs.com/package/whale-girl",
       "npmName": "whale-girl",
-      "stars": 235,
-      "updatedAt": "2026-08-18T20:09:50Z",
+      "stars": 234,
+      "updatedAt": "2026-08-18T23:23:27Z",
       "license": "MIT",
       "topics": [
         "deepseek-harness",
@@ -619,8 +619,8 @@
       "homepage": "https://github.com/huiliyi37/dsh-tianshu-tui",
       "npmUrl": "https://www.npmjs.com/package/%40huiliyi37%2Fdsh-tianshu-tui",
       "npmName": "@huiliyi37/dsh-tianshu-tui",
-      "stars": 212,
-      "updatedAt": "2026-08-18T15:40:58Z",
+      "stars": 213,
+      "updatedAt": "2026-08-18T23:27:14Z",
       "license": "Apache-2.0",
       "topics": [
         "coding",
@@ -651,6 +651,31 @@
       ]
     },
     {
+      "id": "1334618124",
+      "name": "open-sea-skin",
+      "fullName": "d-dev0101/open-sea-skin",
+      "owner": "d-dev0101",
+      "description": "WebGPU ocean skin for DeepSeek Harness — DSH plugin, Harness-only Chrome/Edge extension, static installer, and native integration.",
+      "htmlUrl": "https://github.com/d-dev0101/open-sea-skin",
+      "homepage": "https://d-dev0101.github.io/open-sea-skin/",
+      "npmUrl": "https://www.npmjs.com/package/open-sea-skin",
+      "npmName": "open-sea-skin",
+      "stars": 168,
+      "updatedAt": "2026-08-18T23:43:34Z",
+      "license": "MIT",
+      "topics": [
+        "chrome-extension",
+        "deepseek",
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "ocean-skin",
+        "theme",
+        "threejs",
+        "webgpu"
+      ]
+    },
+    {
       "id": "1336793734",
       "name": "pilot-harness",
       "fullName": "op7418/pilot-harness",
@@ -676,31 +701,6 @@
         "macos",
         "typescript",
         "windows"
-      ]
-    },
-    {
-      "id": "1334618124",
-      "name": "open-sea-skin",
-      "fullName": "d-dev0101/open-sea-skin",
-      "owner": "d-dev0101",
-      "description": "WebGPU ocean skin for DeepSeek Harness — DSH plugin, Harness-only Chrome/Edge extension, static installer, and native integration.",
-      "htmlUrl": "https://github.com/d-dev0101/open-sea-skin",
-      "homepage": "https://d-dev0101.github.io/open-sea-skin/",
-      "npmUrl": "https://www.npmjs.com/package/open-sea-skin",
-      "npmName": "open-sea-skin",
-      "stars": 161,
-      "updatedAt": "2026-08-18T23:00:56Z",
-      "license": "MIT",
-      "topics": [
-        "chrome-extension",
-        "deepseek",
-        "deepseek-harness",
-        "dsh",
-        "dsh-plugin",
-        "ocean-skin",
-        "theme",
-        "threejs",
-        "webgpu"
       ]
     },
     {
@@ -1504,6 +1504,29 @@
       ]
     },
     {
+      "id": "1334675743",
+      "name": "dsh-balance-plugin",
+      "fullName": "Francis-Xavier-code/dsh-balance-plugin",
+      "owner": "Francis-Xavier-code",
+      "description": "deepSeek 余额监控与用量统计（DSH 动态 Cordis 插件）：余额监控 · 官方充值入口 · 用量统计 · 三方插件管理",
+      "htmlUrl": "https://github.com/Francis-Xavier-code/dsh-balance-plugin",
+      "homepage": "",
+      "npmUrl": "https://www.npmjs.com/package/dsh-balance-plugin",
+      "npmName": "dsh-balance-plugin",
+      "stars": 46,
+      "updatedAt": "2026-08-18T23:16:31Z",
+      "license": "MIT",
+      "topics": [
+        "dsh",
+        "dsh-plugin",
+        "dsh-plugins",
+        "dsharpplus",
+        "token",
+        "wallet",
+        "webui"
+      ]
+    },
+    {
       "id": "1332396549",
       "name": "dsh-openbiliclaw",
       "fullName": "whiteguo233/dsh-openbiliclaw",
@@ -1522,29 +1545,6 @@
         "dsh",
         "dsh-plugin",
         "openbiliclaw"
-      ]
-    },
-    {
-      "id": "1334675743",
-      "name": "dsh-balance-plugin",
-      "fullName": "Francis-Xavier-code/dsh-balance-plugin",
-      "owner": "Francis-Xavier-code",
-      "description": "deepSeek 余额监控与用量统计（DSH 动态 Cordis 插件）：余额监控 · 官方充值入口 · 用量统计 · 三方插件管理",
-      "htmlUrl": "https://github.com/Francis-Xavier-code/dsh-balance-plugin",
-      "homepage": "",
-      "npmUrl": "https://www.npmjs.com/package/dsh-balance-plugin",
-      "npmName": "dsh-balance-plugin",
-      "stars": 45,
-      "updatedAt": "2026-08-18T12:01:50Z",
-      "license": "MIT",
-      "topics": [
-        "dsh",
-        "dsh-plugin",
-        "dsh-plugins",
-        "dsharpplus",
-        "token",
-        "wallet",
-        "webui"
       ]
     },
     {
@@ -1596,7 +1596,7 @@
       "npmUrl": "",
       "npmName": "",
       "stars": 40,
-      "updatedAt": "2026-08-18T19:18:12Z",
+      "updatedAt": "2026-08-18T23:29:22Z",
       "license": "MIT",
       "topics": [
         "agent",
@@ -1768,6 +1768,24 @@
       ]
     },
     {
+      "id": "1333328839",
+      "name": "dsh-status-rotator",
+      "fullName": "01Virex/dsh-status-rotator",
+      "owner": "01Virex",
+      "description": "A DeepSeek Harness (dsh) web plugin that replaces the \"Deep diving…\" turn-status label with phase-aware, typewriter-animated, rainbow-gradient phrases — all configurable from a JSON file.",
+      "htmlUrl": "https://github.com/01Virex/dsh-status-rotator",
+      "homepage": "",
+      "npmUrl": "https://www.npmjs.com/package/dsh-status-rotator",
+      "npmName": "dsh-status-rotator",
+      "stars": 34,
+      "updatedAt": "2026-08-18T23:42:18Z",
+      "license": "MIT",
+      "topics": [
+        "dsh",
+        "dsh-plugin"
+      ]
+    },
+    {
       "id": "1334813049",
       "name": "dsh-smooth-stream",
       "fullName": "Laplace-bit/dsh-smooth-stream",
@@ -1849,24 +1867,6 @@
         "luna",
         "multi-agent",
         "orchestration"
-      ]
-    },
-    {
-      "id": "1333328839",
-      "name": "dsh-status-rotator",
-      "fullName": "01Virex/dsh-status-rotator",
-      "owner": "01Virex",
-      "description": "A DeepSeek Harness (dsh) web plugin that replaces the \"Deep diving…\" turn-status label with phase-aware, typewriter-animated, rainbow-gradient phrases — all configurable from a JSON file.",
-      "htmlUrl": "https://github.com/01Virex/dsh-status-rotator",
-      "homepage": "",
-      "npmUrl": "https://www.npmjs.com/package/dsh-status-rotator",
-      "npmName": "dsh-status-rotator",
-      "stars": 32,
-      "updatedAt": "2026-08-18T18:32:13Z",
-      "license": "MIT",
-      "topics": [
-        "dsh",
-        "dsh-plugin"
       ]
     },
     {
