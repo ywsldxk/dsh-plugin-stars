@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T17:26:48.423Z",
+  "generatedAt": "2026-08-18T17:53:39.389Z",
   "source": "github-search-topics-dsh-plugin,dsh,deepseek-harness",
   "threshold": 25,
   "note": "Merged and deduplicated by repository id from three GitHub repository topic searches (topic:dsh-plugin, topic:dsh, topic:deepseek-harness). GitHub repository search returns at most 1,000 results per query, so this list contains the most popular matches within those windows, not a complete census.",
@@ -14,8 +14,8 @@
       "homepage": "https://open-design.ai",
       "npmUrl": "https://www.npmjs.com/package/open-design",
       "npmName": "open-design",
-      "stars": 88817,
-      "updatedAt": "2026-08-18T17:25:09Z",
+      "stars": 88826,
+      "updatedAt": "2026-08-18T17:50:14Z",
       "license": "Apache-2.0",
       "topics": [
         "agent-skills",
@@ -50,8 +50,8 @@
       "homepage": "https://gallery.dsh-market.com",
       "npmUrl": "https://www.npmjs.com/package/dsh-web-ui",
       "npmName": "dsh-web-ui",
-      "stars": 4541,
-      "updatedAt": "2026-08-18T17:23:09Z",
+      "stars": 4544,
+      "updatedAt": "2026-08-18T17:50:48Z",
       "license": "Apache-2.0",
       "topics": [
         "deepseek-harness",
@@ -70,8 +70,8 @@
       "homepage": "https://www.ipollo.ai/",
       "npmUrl": "https://www.npmjs.com/package/%40ipollo%2Fipollowork-workspace",
       "npmName": "@ipollo/ipollowork-workspace",
-      "stars": 4153,
-      "updatedAt": "2026-08-18T16:50:58Z",
+      "stars": 4156,
+      "updatedAt": "2026-08-18T17:49:28Z",
       "license": "NOASSERTION",
       "topics": [
         "agent-collaboration",
@@ -103,8 +103,8 @@
       "homepage": "https://liustack.dev",
       "npmUrl": "https://www.npmjs.com/package/%40liustack%2Fmodlens",
       "npmName": "@liustack/modlens",
-      "stars": 3082,
-      "updatedAt": "2026-08-18T17:20:04Z",
+      "stars": 3086,
+      "updatedAt": "2026-08-18T17:48:27Z",
       "license": "MIT",
       "topics": [
         "agent-skills",
@@ -175,8 +175,8 @@
       "homepage": "https://dshtui.com/",
       "npmUrl": "https://www.npmjs.com/package/%40deepseek-harness-tui%2Fdsh-tui",
       "npmName": "@deepseek-harness-tui/dsh-tui",
-      "stars": 1960,
-      "updatedAt": "2026-08-18T17:12:03Z",
+      "stars": 1961,
+      "updatedAt": "2026-08-18T17:46:26Z",
       "license": "MIT",
       "topics": [
         "claude-code",
@@ -285,8 +285,8 @@
       "homepage": "",
       "npmUrl": "https://www.npmjs.com/package/%40nanmicoder%2Fdsh-agent-teams",
       "npmName": "@nanmicoder/dsh-agent-teams",
-      "stars": 548,
-      "updatedAt": "2026-08-18T17:22:53Z",
+      "stars": 550,
+      "updatedAt": "2026-08-18T17:45:12Z",
       "license": "MIT",
       "topics": [
         "agentteams",
@@ -322,6 +322,28 @@
         "openclaw",
         "openclaw-plugin",
         "opencode"
+      ]
+    },
+    {
+      "id": "1333718792",
+      "name": "deepseek-harness-desktop",
+      "fullName": "hairyf/deepseek-harness-desktop",
+      "owner": "hairyf",
+      "description": "DeepSeek Harness Tauri 桌面版 | Only 5mb installer, zero environment setup, preset plugins, Windows / macOS / Linux.",
+      "htmlUrl": "https://github.com/hairyf/deepseek-harness-desktop",
+      "homepage": "",
+      "npmUrl": "https://www.npmjs.com/package/deepseek-harness-desktop",
+      "npmName": "deepseek-harness-desktop",
+      "stars": 525,
+      "updatedAt": "2026-08-18T17:46:18Z",
+      "license": "MIT",
+      "topics": [
+        "deepseek",
+        "deepseek-harness",
+        "desktop",
+        "dsh",
+        "dsh-plugin",
+        "tauri"
       ]
     },
     {
@@ -498,8 +520,8 @@
       "homepage": "https://www.beyondata.com/",
       "npmUrl": "https://www.npmjs.com/package/%40deepseek-ai%2Fdsh-root",
       "npmName": "@deepseek-ai/dsh-root",
-      "stars": 290,
-      "updatedAt": "2026-08-18T16:51:16Z",
+      "stars": 289,
+      "updatedAt": "2026-08-18T17:26:35Z",
       "license": "MIT",
       "topics": [
         "ai-agent",
@@ -625,25 +647,6 @@
       ]
     },
     {
-      "id": "1182135360",
-      "name": "notes",
-      "fullName": "zhaoolee/notes",
-      "owner": "zhaoolee",
-      "description": "开源版锤子便签，复刻锤科美学，一键Docker私有化部署，支持skill调用，支持dsh plugin，支持多租户，一键生成公众号格式，支持导出便签为图片",
-      "htmlUrl": "https://github.com/zhaoolee/notes",
-      "homepage": "https://notes.fangyuanxiaozhan.com",
-      "npmUrl": "https://www.npmjs.com/package/notes",
-      "npmName": "notes",
-      "stars": 147,
-      "updatedAt": "2026-08-18T14:17:02Z",
-      "license": "",
-      "topics": [
-        "dsh-plugin",
-        "notes",
-        "smartisan"
-      ]
-    },
-    {
       "id": "1163808542",
       "name": "modsearch",
       "fullName": "liustack/modsearch",
@@ -653,8 +656,8 @@
       "homepage": "https://liustack.dev",
       "npmUrl": "https://www.npmjs.com/package/%40liustack%2Fmodsearch",
       "npmName": "@liustack/modsearch",
-      "stars": 147,
-      "updatedAt": "2026-08-18T17:14:54Z",
+      "stars": 148,
+      "updatedAt": "2026-08-18T17:33:17Z",
       "license": "MIT",
       "topics": [
         "agent-skills",
@@ -676,6 +679,25 @@
         "pi-agent",
         "web-fetch",
         "web-search"
+      ]
+    },
+    {
+      "id": "1182135360",
+      "name": "notes",
+      "fullName": "zhaoolee/notes",
+      "owner": "zhaoolee",
+      "description": "开源版锤子便签，复刻锤科美学，一键Docker私有化部署，支持skill调用，支持dsh plugin，支持多租户，一键生成公众号格式，支持导出便签为图片",
+      "htmlUrl": "https://github.com/zhaoolee/notes",
+      "homepage": "https://notes.fangyuanxiaozhan.com",
+      "npmUrl": "https://www.npmjs.com/package/notes",
+      "npmName": "notes",
+      "stars": 147,
+      "updatedAt": "2026-08-18T14:17:02Z",
+      "license": "",
+      "topics": [
+        "dsh-plugin",
+        "notes",
+        "smartisan"
       ]
     },
     {
@@ -826,8 +848,8 @@
       "homepage": "",
       "npmUrl": "https://www.npmjs.com/package/dsh-plugin-subscriptions",
       "npmName": "dsh-plugin-subscriptions",
-      "stars": 106,
-      "updatedAt": "2026-08-18T17:23:45Z",
+      "stars": 108,
+      "updatedAt": "2026-08-18T17:44:19Z",
       "license": "MIT",
       "topics": [
         "ai-agent",
@@ -840,6 +862,31 @@
         "llm",
         "oauth",
         "typescript"
+      ]
+    },
+    {
+      "id": "1334618124",
+      "name": "open-sea-skin",
+      "fullName": "d-dev0101/open-sea-skin",
+      "owner": "d-dev0101",
+      "description": "WebGPU ocean skin for DeepSeek Harness — DSH plugin, Harness-only Chrome/Edge extension, static installer, and native integration.",
+      "htmlUrl": "https://github.com/d-dev0101/open-sea-skin",
+      "homepage": "https://d-dev0101.github.io/open-sea-skin/",
+      "npmUrl": "https://www.npmjs.com/package/open-sea-skin",
+      "npmName": "open-sea-skin",
+      "stars": 101,
+      "updatedAt": "2026-08-18T17:53:16Z",
+      "license": "MIT",
+      "topics": [
+        "chrome-extension",
+        "deepseek",
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "ocean-skin",
+        "theme",
+        "threejs",
+        "webgpu"
       ]
     },
     {
@@ -871,8 +918,8 @@
       "homepage": "",
       "npmUrl": "https://www.npmjs.com/package/dsh-cost-meter",
       "npmName": "dsh-cost-meter",
-      "stars": 94,
-      "updatedAt": "2026-08-18T15:54:22Z",
+      "stars": 95,
+      "updatedAt": "2026-08-18T17:36:40Z",
       "license": "MIT",
       "topics": [
         "cost-tracking",
@@ -954,31 +1001,6 @@
         "restore-point",
         "turn-rewind",
         "workspace-safety"
-      ]
-    },
-    {
-      "id": "1334618124",
-      "name": "open-sea-skin",
-      "fullName": "d-dev0101/open-sea-skin",
-      "owner": "d-dev0101",
-      "description": "WebGPU ocean skin for DeepSeek Harness — DSH plugin, Harness-only Chrome/Edge extension, static installer, and native integration.",
-      "htmlUrl": "https://github.com/d-dev0101/open-sea-skin",
-      "homepage": "https://d-dev0101.github.io/open-sea-skin/",
-      "npmUrl": "https://www.npmjs.com/package/open-sea-skin",
-      "npmName": "open-sea-skin",
-      "stars": 82,
-      "updatedAt": "2026-08-18T17:24:33Z",
-      "license": "MIT",
-      "topics": [
-        "chrome-extension",
-        "deepseek",
-        "deepseek-harness",
-        "dsh",
-        "dsh-plugin",
-        "ocean-skin",
-        "theme",
-        "threejs",
-        "webgpu"
       ]
     },
     {
@@ -1070,7 +1092,7 @@
       "npmUrl": "https://www.npmjs.com/package/%40dockyard-dsh%2Fplugin",
       "npmName": "@dockyard-dsh/plugin",
       "stars": 67,
-      "updatedAt": "2026-08-18T16:11:14Z",
+      "updatedAt": "2026-08-18T17:36:51Z",
       "license": "MIT",
       "topics": [
         "account-pool",
@@ -1503,8 +1525,8 @@
       "homepage": "",
       "npmUrl": "",
       "npmName": "",
-      "stars": 42,
-      "updatedAt": "2026-08-18T15:39:08Z",
+      "stars": 44,
+      "updatedAt": "2026-08-18T17:53:03Z",
       "license": "MIT",
       "topics": [
         "ai-agent",
@@ -1512,6 +1534,32 @@
         "deepseek",
         "deepseek-harness",
         "shizuku"
+      ]
+    },
+    {
+      "id": "1333365124",
+      "name": "deepseek-harness-tui",
+      "fullName": "openma-ai/deepseek-harness-tui",
+      "owner": "openma-ai",
+      "description": "Self-Improvement TUI Plugin of DeepSeek Harness. Everything Here Is Also A Plugin. dsh-tui",
+      "htmlUrl": "https://github.com/openma-ai/deepseek-harness-tui",
+      "homepage": "https://dshsuite.dev",
+      "npmUrl": "",
+      "npmName": "",
+      "stars": 40,
+      "updatedAt": "2026-08-18T17:36:12Z",
+      "license": "MIT",
+      "topics": [
+        "agent",
+        "agents",
+        "deepseek-harness",
+        "deepseek-harness-plugin",
+        "deepseek-harness-plugin-dev",
+        "deepseek-harness-plugins",
+        "dsh-plugin",
+        "dsh-plugins",
+        "tui",
+        "tui-rs"
       ]
     },
     {
@@ -1529,32 +1577,6 @@
       "license": "MIT",
       "topics": [
         "dsh-plugin"
-      ]
-    },
-    {
-      "id": "1333365124",
-      "name": "deepseek-harness-tui",
-      "fullName": "openma-ai/deepseek-harness-tui",
-      "owner": "openma-ai",
-      "description": "Self-Improvement TUI Plugin of DeepSeek Harness. Everything Here Is Also A Plugin. dsh-tui",
-      "htmlUrl": "https://github.com/openma-ai/deepseek-harness-tui",
-      "homepage": "https://dshsuite.dev",
-      "npmUrl": "",
-      "npmName": "",
-      "stars": 40,
-      "updatedAt": "2026-08-18T17:20:30Z",
-      "license": "MIT",
-      "topics": [
-        "agent",
-        "agents",
-        "deepseek-harness",
-        "deepseek-harness-plugin",
-        "deepseek-harness-plugin-dev",
-        "deepseek-harness-plugins",
-        "dsh-plugin",
-        "dsh-plugins",
-        "tui",
-        "tui-rs"
       ]
     },
     {
@@ -2029,12 +2051,33 @@
       "homepage": "",
       "npmUrl": "https://www.npmjs.com/package/dsh-status-rotator",
       "npmName": "dsh-status-rotator",
-      "stars": 26,
-      "updatedAt": "2026-08-18T17:24:55Z",
+      "stars": 27,
+      "updatedAt": "2026-08-18T17:40:34Z",
       "license": "MIT",
       "topics": [
         "dsh",
         "dsh-plugin"
+      ]
+    },
+    {
+      "id": "1333320049",
+      "name": "dsh-web-search-pro",
+      "fullName": "anweat/dsh-web-search-pro",
+      "owner": "anweat",
+      "description": "Enhanced, persistent web search plugin for DeepSeek Harness (multi-engine search, SQLite+LRU cache, platform backends, Playwright rendering)",
+      "htmlUrl": "https://github.com/anweat/dsh-web-search-pro",
+      "homepage": "",
+      "npmUrl": "https://www.npmjs.com/package/dsh-web-search-pro",
+      "npmName": "dsh-web-search-pro",
+      "stars": 25,
+      "updatedAt": "2026-08-18T17:27:44Z",
+      "license": "MIT",
+      "topics": [
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "plugin",
+        "web-search"
       ]
     },
     {
