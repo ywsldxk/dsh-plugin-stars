@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T22:16:38.993Z",
+  "generatedAt": "2026-08-18T22:49:07.975Z",
   "source": "github-search-topics-dsh-plugin,dsh,deepseek-harness",
   "threshold": 25,
   "note": "Merged and deduplicated by repository id from three GitHub repository topic searches (topic:dsh-plugin, topic:dsh, topic:deepseek-harness). GitHub repository search returns at most 1,000 results per query, so this list contains the most popular matches within those windows, not a complete census.",
@@ -139,8 +139,8 @@
       "homepage": "https://whiteguo233.github.io/OpenBiliClaw/",
       "npmUrl": "",
       "npmName": "",
-      "stars": 2897,
-      "updatedAt": "2026-08-18T21:19:44Z",
+      "stars": 2898,
+      "updatedAt": "2026-08-18T22:19:49Z",
       "license": "MIT",
       "topics": [
         "ai-agent",
@@ -660,8 +660,8 @@
       "homepage": "",
       "npmUrl": "https://www.npmjs.com/package/%40deepseek-ai%2Fdsh-root",
       "npmName": "@deepseek-ai/dsh-root",
-      "stars": 165,
-      "updatedAt": "2026-08-18T21:41:36Z",
+      "stars": 166,
+      "updatedAt": "2026-08-18T22:19:42Z",
       "license": "MIT",
       "topics": [
         "ai-agent",
@@ -688,8 +688,8 @@
       "homepage": "https://d-dev0101.github.io/open-sea-skin/",
       "npmUrl": "https://www.npmjs.com/package/open-sea-skin",
       "npmName": "open-sea-skin",
-      "stars": 151,
-      "updatedAt": "2026-08-18T21:48:35Z",
+      "stars": 157,
+      "updatedAt": "2026-08-18T22:41:15Z",
       "license": "MIT",
       "topics": [
         "chrome-extension",
@@ -2070,7 +2070,7 @@
       "npmUrl": "https://www.npmjs.com/package/dsh-market",
       "npmName": "dsh-market",
       "stars": 27,
-      "updatedAt": "2026-08-18T14:42:17Z",
+      "updatedAt": "2026-08-18T22:26:57Z",
       "license": "NOASSERTION",
       "topics": [
         "deepseek-harness",
@@ -2197,6 +2197,42 @@
         "dsh",
         "dsh-plugin",
         "workshop"
+      ]
+    },
+    {
+      "id": "1333722443",
+      "name": "dsh-AuthInOne",
+      "fullName": "Stormycry-cryp/dsh-AuthInOne",
+      "owner": "Stormycry-cryp",
+      "description": "Self-contained DeepSeek Harness (DSH) plugin for Provider/Auth login, model switching, image fallback, token/cost analytics, and same-port Web restart. Useful? A star helps.",
+      "htmlUrl": "https://github.com/Stormycry-cryp/dsh-AuthInOne",
+      "homepage": "",
+      "npmUrl": "https://www.npmjs.com/package/dsh-auth-in-one",
+      "npmName": "dsh-auth-in-one",
+      "stars": 25,
+      "updatedAt": "2026-08-18T22:41:52Z",
+      "license": "MIT",
+      "topics": [
+        "cost-attribution",
+        "cost-tracking",
+        "custom-api",
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "image-understanding",
+        "llm-provider",
+        "model-switching",
+        "multimodal",
+        "oauth",
+        "openai-codex",
+        "openai-compatible",
+        "provider-management",
+        "same-port-restart",
+        "self-contained-installer",
+        "text-only-model",
+        "token-usage",
+        "usage-attribution",
+        "vision-fallback"
       ]
     }
   ]
