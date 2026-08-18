@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T20:17:17.102Z",
+  "generatedAt": "2026-08-18T20:48:02.056Z",
   "source": "github-search-topics-dsh-plugin,dsh,deepseek-harness",
   "threshold": 25,
   "note": "Merged and deduplicated by repository id from three GitHub repository topic searches (topic:dsh-plugin, topic:dsh, topic:deepseek-harness). GitHub repository search returns at most 1,000 results per query, so this list contains the most popular matches within those windows, not a complete census.",
@@ -14,8 +14,8 @@
       "homepage": "https://open-design.ai",
       "npmUrl": "https://www.npmjs.com/package/open-design",
       "npmName": "open-design",
-      "stars": 88850,
-      "updatedAt": "2026-08-18T20:15:44Z",
+      "stars": 88854,
+      "updatedAt": "2026-08-18T20:34:29Z",
       "license": "Apache-2.0",
       "topics": [
         "agent-skills",
@@ -50,8 +50,8 @@
       "homepage": "https://gallery.dsh-market.com",
       "npmUrl": "https://www.npmjs.com/package/dsh-web-ui",
       "npmName": "dsh-web-ui",
-      "stars": 4559,
-      "updatedAt": "2026-08-18T20:12:18Z",
+      "stars": 4562,
+      "updatedAt": "2026-08-18T20:43:38Z",
       "license": "Apache-2.0",
       "topics": [
         "deepseek-harness",
@@ -70,8 +70,8 @@
       "homepage": "https://www.ipollo.ai/",
       "npmUrl": "https://www.npmjs.com/package/%40ipollo%2Fipollowork-workspace",
       "npmName": "@ipollo/ipollowork-workspace",
-      "stars": 4164,
-      "updatedAt": "2026-08-18T20:03:14Z",
+      "stars": 4166,
+      "updatedAt": "2026-08-18T20:26:16Z",
       "license": "NOASSERTION",
       "topics": [
         "agent-collaboration",
@@ -356,8 +356,8 @@
       "homepage": "https://hol.org/guard",
       "npmUrl": "",
       "npmName": "",
-      "stars": 448,
-      "updatedAt": "2026-08-18T18:31:44Z",
+      "stars": 449,
+      "updatedAt": "2026-08-18T20:38:11Z",
       "license": "Apache-2.0",
       "topics": [
         "agent-security",
@@ -628,8 +628,8 @@
       "homepage": "",
       "npmUrl": "https://www.npmjs.com/package/%40deepseek-ai%2Fdsh-root",
       "npmName": "@deepseek-ai/dsh-root",
-      "stars": 161,
-      "updatedAt": "2026-08-18T19:57:44Z",
+      "stars": 162,
+      "updatedAt": "2026-08-18T20:42:12Z",
       "license": "MIT",
       "topics": [
         "ai-agent",
@@ -729,6 +729,31 @@
       ]
     },
     {
+      "id": "1334618124",
+      "name": "open-sea-skin",
+      "fullName": "d-dev0101/open-sea-skin",
+      "owner": "d-dev0101",
+      "description": "WebGPU ocean skin for DeepSeek Harness — DSH plugin, Harness-only Chrome/Edge extension, static installer, and native integration.",
+      "htmlUrl": "https://github.com/d-dev0101/open-sea-skin",
+      "homepage": "https://d-dev0101.github.io/open-sea-skin/",
+      "npmUrl": "https://www.npmjs.com/package/open-sea-skin",
+      "npmName": "open-sea-skin",
+      "stars": 139,
+      "updatedAt": "2026-08-18T20:43:51Z",
+      "license": "MIT",
+      "topics": [
+        "chrome-extension",
+        "deepseek",
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "ocean-skin",
+        "theme",
+        "threejs",
+        "webgpu"
+      ]
+    },
+    {
       "id": "1333212317",
       "name": "Blue-Whale-Harness",
       "fullName": "leenkcool/Blue-Whale-Harness",
@@ -749,31 +774,6 @@
         "harness-ai",
         "plugin-marketplace",
         "plugins"
-      ]
-    },
-    {
-      "id": "1334618124",
-      "name": "open-sea-skin",
-      "fullName": "d-dev0101/open-sea-skin",
-      "owner": "d-dev0101",
-      "description": "WebGPU ocean skin for DeepSeek Harness — DSH plugin, Harness-only Chrome/Edge extension, static installer, and native integration.",
-      "htmlUrl": "https://github.com/d-dev0101/open-sea-skin",
-      "homepage": "https://d-dev0101.github.io/open-sea-skin/",
-      "npmUrl": "https://www.npmjs.com/package/open-sea-skin",
-      "npmName": "open-sea-skin",
-      "stars": 134,
-      "updatedAt": "2026-08-18T20:10:09Z",
-      "license": "MIT",
-      "topics": [
-        "chrome-extension",
-        "deepseek",
-        "deepseek-harness",
-        "dsh",
-        "dsh-plugin",
-        "ocean-skin",
-        "theme",
-        "threejs",
-        "webgpu"
       ]
     },
     {
@@ -1091,8 +1091,8 @@
       "homepage": "",
       "npmUrl": "https://www.npmjs.com/package/%40dockyard-dsh%2Fplugin",
       "npmName": "@dockyard-dsh/plugin",
-      "stars": 67,
-      "updatedAt": "2026-08-18T17:36:51Z",
+      "stars": 68,
+      "updatedAt": "2026-08-18T20:21:57Z",
       "license": "MIT",
       "topics": [
         "account-pool",
@@ -1354,7 +1354,7 @@
       "npmUrl": "https://www.npmjs.com/package/%40deepseek-ai%2Fdsh-plugin-console",
       "npmName": "@deepseek-ai/dsh-plugin-console",
       "stars": 53,
-      "updatedAt": "2026-08-18T17:23:54Z",
+      "updatedAt": "2026-08-18T20:19:46Z",
       "license": "MIT",
       "topics": [
         "deepseek-harness",
@@ -1898,6 +1898,28 @@
       ]
     },
     {
+      "id": "1334817483",
+      "name": "dsh-mobile",
+      "fullName": "saya-ch/dsh-mobile",
+      "owner": "saya-ch",
+      "description": "DeepSeek Harness 移动端适配与安全局域网访问插件，支持 Android App 和手机浏览器。",
+      "htmlUrl": "https://github.com/saya-ch/dsh-mobile",
+      "homepage": "",
+      "npmUrl": "https://www.npmjs.com/package/dsh-mobile",
+      "npmName": "dsh-mobile",
+      "stars": 31,
+      "updatedAt": "2026-08-18T20:30:48Z",
+      "license": "Apache-2.0",
+      "topics": [
+        "android",
+        "deepseek-harness",
+        "dsh-plugin",
+        "lan",
+        "mobile",
+        "webview"
+      ]
+    },
+    {
       "id": "1335082381",
       "name": "dsh-save-money",
       "fullName": "zhu168/dsh-save-money",
@@ -1914,28 +1936,6 @@
         "dsh",
         "dsh-plugin",
         "dsh-plugins"
-      ]
-    },
-    {
-      "id": "1334817483",
-      "name": "dsh-mobile",
-      "fullName": "saya-ch/dsh-mobile",
-      "owner": "saya-ch",
-      "description": "DeepSeek Harness 移动端适配与安全局域网访问插件，支持 Android App 和手机浏览器。",
-      "htmlUrl": "https://github.com/saya-ch/dsh-mobile",
-      "homepage": "",
-      "npmUrl": "https://www.npmjs.com/package/dsh-mobile",
-      "npmName": "dsh-mobile",
-      "stars": 30,
-      "updatedAt": "2026-08-18T19:43:55Z",
-      "license": "Apache-2.0",
-      "topics": [
-        "android",
-        "deepseek-harness",
-        "dsh-plugin",
-        "lan",
-        "mobile",
-        "webview"
       ]
     },
     {
@@ -2103,6 +2103,24 @@
         "dsh-plugins",
         "gateway",
         "im-gateway"
+      ]
+    },
+    {
+      "id": "1332051085",
+      "name": "dsh-share",
+      "fullName": "hellodigua/dsh-share",
+      "owner": "hellodigua",
+      "description": "DSH 对话分享插件，分享单轮或多轮对话，可导出为图片或 Markdown。Share DSH Q&As or selected conversation groups as PNG or Markdown.",
+      "htmlUrl": "https://github.com/hellodigua/dsh-share",
+      "homepage": "",
+      "npmUrl": "https://www.npmjs.com/package/dsh-share",
+      "npmName": "dsh-share",
+      "stars": 25,
+      "updatedAt": "2026-08-18T20:38:17Z",
+      "license": "MIT",
+      "topics": [
+        "dsh",
+        "dsh-plugin"
       ]
     },
     {
