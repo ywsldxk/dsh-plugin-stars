@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T20:19:50.270Z",
+  "generatedAt": "2026-08-19T20:52:47.837Z",
   "source": "github-search-topics-dsh-plugin,dsh,deepseek-harness",
   "threshold": 25,
   "note": "Merged and deduplicated by repository id from three GitHub repository topic searches (topic:dsh-plugin, topic:dsh, topic:deepseek-harness). GitHub repository search returns at most 1,000 results per query, so this list contains the most popular matches within those windows, not a complete census.",
@@ -14,8 +14,8 @@
       "homepage": "https://open-design.ai",
       "npmUrl": "https://www.npmjs.com/package/open-design",
       "npmName": "open-design",
-      "stars": 89295,
-      "updatedAt": "2026-08-19T20:18:33Z",
+      "stars": 89298,
+      "updatedAt": "2026-08-19T20:41:44Z",
       "license": "Apache-2.0",
       "topics": [
         "agent-skills",
@@ -50,8 +50,8 @@
       "homepage": "https://gallery.dsh-market.com",
       "npmUrl": "https://www.npmjs.com/package/dsh-web-ui",
       "npmName": "dsh-web-ui",
-      "stars": 4871,
-      "updatedAt": "2026-08-19T20:12:32Z",
+      "stars": 4873,
+      "updatedAt": "2026-08-19T20:42:47Z",
       "license": "Apache-2.0",
       "topics": [
         "deepseek-harness",
@@ -70,8 +70,8 @@
       "homepage": "https://www.ipollo.ai/",
       "npmUrl": "https://www.npmjs.com/package/%40ipollo%2Fipollowork-workspace",
       "npmName": "@ipollo/ipollowork-workspace",
-      "stars": 4269,
-      "updatedAt": "2026-08-19T20:00:19Z",
+      "stars": 4270,
+      "updatedAt": "2026-08-19T20:40:45Z",
       "license": "NOASSERTION",
       "topics": [
         "agent-collaboration",
@@ -176,7 +176,7 @@
       "npmUrl": "https://www.npmjs.com/package/%40deepseek-harness-tui%2Fdsh-tui",
       "npmName": "@deepseek-harness-tui/dsh-tui",
       "stars": 2077,
-      "updatedAt": "2026-08-19T20:13:15Z",
+      "updatedAt": "2026-08-19T20:32:21Z",
       "license": "MIT",
       "topics": [
         "claude-code",
@@ -261,8 +261,8 @@
       "homepage": "https://app.tongflow.com",
       "npmUrl": "https://www.npmjs.com/package/tongflow-app",
       "npmName": "tongflow-app",
-      "stars": 874,
-      "updatedAt": "2026-08-19T20:05:16Z",
+      "stars": 875,
+      "updatedAt": "2026-08-19T20:49:53Z",
       "license": "AGPL-3.0",
       "topics": [
         "3d",
@@ -507,8 +507,8 @@
       "homepage": "https://www.beyondata.com/",
       "npmUrl": "https://www.npmjs.com/package/%40deepseek-ai%2Fdsh-root",
       "npmName": "@deepseek-ai/dsh-root",
-      "stars": 352,
-      "updatedAt": "2026-08-19T17:43:23Z",
+      "stars": 353,
+      "updatedAt": "2026-08-19T20:50:44Z",
       "license": "MIT",
       "topics": [
         "ai-agent",
@@ -1633,6 +1633,32 @@
       ]
     },
     {
+      "id": "1333365124",
+      "name": "Martty",
+      "fullName": "openma-ai/Martty",
+      "owner": "openma-ai",
+      "description": "deepseek-harness-tui before. Self-Improvement TUI Plugin of DeepSeek Harness. Everything Here Is Also A Plugin. dsh-tui",
+      "htmlUrl": "https://github.com/openma-ai/Martty",
+      "homepage": "https://martty.sh",
+      "npmUrl": "",
+      "npmName": "",
+      "stars": 42,
+      "updatedAt": "2026-08-19T20:33:07Z",
+      "license": "MIT",
+      "topics": [
+        "agent",
+        "agents",
+        "deepseek-harness",
+        "deepseek-harness-plugin",
+        "deepseek-harness-plugin-dev",
+        "deepseek-harness-plugins",
+        "dsh-plugin",
+        "dsh-plugins",
+        "tui",
+        "tui-rs"
+      ]
+    },
+    {
       "id": "1334214605",
       "name": "dsh-reverse-skill",
       "fullName": "dhicoc/dsh-reverse-skill",
@@ -1652,32 +1678,6 @@
         "pentest",
         "reverse-engineering",
         "security"
-      ]
-    },
-    {
-      "id": "1333365124",
-      "name": "Martty",
-      "fullName": "openma-ai/Martty",
-      "owner": "openma-ai",
-      "description": "deepseek-harness-tui before. Self-Improvement TUI Plugin of DeepSeek Harness. Everything Here Is Also A Plugin. dsh-tui",
-      "htmlUrl": "https://github.com/openma-ai/Martty",
-      "homepage": "https://martty.sh",
-      "npmUrl": "",
-      "npmName": "",
-      "stars": 41,
-      "updatedAt": "2026-08-19T17:18:36Z",
-      "license": "MIT",
-      "topics": [
-        "agent",
-        "agents",
-        "deepseek-harness",
-        "deepseek-harness-plugin",
-        "deepseek-harness-plugin-dev",
-        "deepseek-harness-plugins",
-        "dsh-plugin",
-        "dsh-plugins",
-        "tui",
-        "tui-rs"
       ]
     },
     {
@@ -1777,6 +1777,28 @@
       ]
     },
     {
+      "id": "1334817483",
+      "name": "dsh-mobile",
+      "fullName": "saya-ch/dsh-mobile",
+      "owner": "saya-ch",
+      "description": "DeepSeek Harness 移动端适配与安全局域网访问插件，支持 Android App 和手机浏览器。",
+      "htmlUrl": "https://github.com/saya-ch/dsh-mobile",
+      "homepage": "",
+      "npmUrl": "https://www.npmjs.com/package/dsh-mobile",
+      "npmName": "dsh-mobile",
+      "stars": 39,
+      "updatedAt": "2026-08-19T20:38:55Z",
+      "license": "Apache-2.0",
+      "topics": [
+        "android",
+        "deepseek-harness",
+        "dsh-plugin",
+        "lan",
+        "mobile",
+        "webview"
+      ]
+    },
+    {
       "id": "1328601495",
       "name": "dsh-plugin-mineru",
       "fullName": "HuanLinOTO/dsh-plugin-mineru",
@@ -1845,28 +1867,6 @@
         "resume-screening",
         "talent-sourcing",
         "workflow-automation"
-      ]
-    },
-    {
-      "id": "1334817483",
-      "name": "dsh-mobile",
-      "fullName": "saya-ch/dsh-mobile",
-      "owner": "saya-ch",
-      "description": "DeepSeek Harness 移动端适配与安全局域网访问插件，支持 Android App 和手机浏览器。",
-      "htmlUrl": "https://github.com/saya-ch/dsh-mobile",
-      "homepage": "",
-      "npmUrl": "https://www.npmjs.com/package/dsh-mobile",
-      "npmName": "dsh-mobile",
-      "stars": 38,
-      "updatedAt": "2026-08-19T18:53:04Z",
-      "license": "Apache-2.0",
-      "topics": [
-        "android",
-        "deepseek-harness",
-        "dsh-plugin",
-        "lan",
-        "mobile",
-        "webview"
       ]
     },
     {
