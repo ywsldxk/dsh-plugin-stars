@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T20:52:47.837Z",
+  "generatedAt": "2026-08-19T21:20:07.863Z",
   "source": "github-search-topics-dsh-plugin,dsh,deepseek-harness",
   "threshold": 25,
   "note": "Merged and deduplicated by repository id from three GitHub repository topic searches (topic:dsh-plugin, topic:dsh, topic:deepseek-harness). GitHub repository search returns at most 1,000 results per query, so this list contains the most popular matches within those windows, not a complete census.",
@@ -14,8 +14,8 @@
       "homepage": "https://open-design.ai",
       "npmUrl": "https://www.npmjs.com/package/open-design",
       "npmName": "open-design",
-      "stars": 89298,
-      "updatedAt": "2026-08-19T20:41:44Z",
+      "stars": 89301,
+      "updatedAt": "2026-08-19T21:16:27Z",
       "license": "Apache-2.0",
       "topics": [
         "agent-skills",
@@ -50,8 +50,8 @@
       "homepage": "https://gallery.dsh-market.com",
       "npmUrl": "https://www.npmjs.com/package/dsh-web-ui",
       "npmName": "dsh-web-ui",
-      "stars": 4873,
-      "updatedAt": "2026-08-19T20:42:47Z",
+      "stars": 4874,
+      "updatedAt": "2026-08-19T21:08:14Z",
       "license": "Apache-2.0",
       "topics": [
         "deepseek-harness",
@@ -70,8 +70,8 @@
       "homepage": "https://www.ipollo.ai/",
       "npmUrl": "https://www.npmjs.com/package/%40ipollo%2Fipollowork-workspace",
       "npmName": "@ipollo/ipollowork-workspace",
-      "stars": 4270,
-      "updatedAt": "2026-08-19T20:40:45Z",
+      "stars": 4271,
+      "updatedAt": "2026-08-19T21:18:24Z",
       "license": "NOASSERTION",
       "topics": [
         "agent-collaboration",
@@ -175,8 +175,8 @@
       "homepage": "https://dshtui.com/",
       "npmUrl": "https://www.npmjs.com/package/%40deepseek-harness-tui%2Fdsh-tui",
       "npmName": "@deepseek-harness-tui/dsh-tui",
-      "stars": 2077,
-      "updatedAt": "2026-08-19T20:32:21Z",
+      "stars": 2076,
+      "updatedAt": "2026-08-19T21:18:04Z",
       "license": "MIT",
       "topics": [
         "claude-code",
@@ -420,7 +420,7 @@
       "npmUrl": "https://www.npmjs.com/package/dsh-context",
       "npmName": "dsh-context",
       "stars": 484,
-      "updatedAt": "2026-08-19T20:06:32Z",
+      "updatedAt": "2026-08-19T21:08:35Z",
       "license": "Apache-2.0",
       "topics": [
         "cordis-plugin",
@@ -599,7 +599,7 @@
       "npmUrl": "https://www.npmjs.com/package/whale-girl",
       "npmName": "whale-girl",
       "stars": 247,
-      "updatedAt": "2026-08-19T16:57:55Z",
+      "updatedAt": "2026-08-19T21:18:25Z",
       "license": "MIT",
       "topics": [
         "deepseek-harness",
@@ -1606,7 +1606,7 @@
       "npmUrl": "https://www.npmjs.com/package/%40vlln%2Fdsh-navbar",
       "npmName": "@vlln/dsh-navbar",
       "stars": 46,
-      "updatedAt": "2026-08-19T17:01:00Z",
+      "updatedAt": "2026-08-19T21:13:09Z",
       "license": "MIT",
       "topics": [
         "dsh",
@@ -2167,32 +2167,6 @@
       ]
     },
     {
-      "id": "1338176891",
-      "name": "dsh-beauty-skins",
-      "fullName": "XieRW/dsh-beauty-skins",
-      "owner": "XieRW",
-      "description": "给 DeepSeek Harness 用的美女系列皮肤：设置里从 哲风壁纸 拉预览网格，点一张即应用，配色从壁纸提取。支持动态壁纸，也保留自定义选图。",
-      "htmlUrl": "https://github.com/XieRW/dsh-beauty-skins",
-      "homepage": "",
-      "npmUrl": "",
-      "npmName": "",
-      "stars": 29,
-      "updatedAt": "2026-08-19T19:42:35Z",
-      "license": "MIT",
-      "topics": [
-        "beauty",
-        "cordis",
-        "cordis-plugin",
-        "deepseek",
-        "deepseek-harness",
-        "deepseek-harness-plugin",
-        "dsh",
-        "dsh-plugin",
-        "dsh-plugin-theme",
-        "skin"
-      ]
-    },
-    {
       "id": "1333868070",
       "name": "deepseek-harness-handbook",
       "fullName": "sandbaseai/deepseek-harness-handbook",
@@ -2322,6 +2296,32 @@
       ]
     },
     {
+      "id": "1338176891",
+      "name": "dsh-beauty-skins",
+      "fullName": "XieRW/dsh-beauty-skins",
+      "owner": "XieRW",
+      "description": "给 DeepSeek Harness 用的美女系列皮肤：设置里从 哲风壁纸 拉预览网格，点一张即应用，配色从壁纸提取。支持动态壁纸，也保留自定义选图。",
+      "htmlUrl": "https://github.com/XieRW/dsh-beauty-skins",
+      "homepage": "",
+      "npmUrl": "",
+      "npmName": "",
+      "stars": 28,
+      "updatedAt": "2026-08-19T21:19:15Z",
+      "license": "MIT",
+      "topics": [
+        "beauty",
+        "cordis",
+        "cordis-plugin",
+        "deepseek",
+        "deepseek-harness",
+        "deepseek-harness-plugin",
+        "dsh",
+        "dsh-plugin",
+        "dsh-plugin-theme",
+        "skin"
+      ]
+    },
+    {
       "id": "1333722443",
       "name": "dsh-AuthInOne",
       "fullName": "Stormycry-cryp/dsh-AuthInOne",
@@ -2382,27 +2382,6 @@
       ]
     },
     {
-      "id": "1333320049",
-      "name": "dsh-web-search-pro",
-      "fullName": "anweat/dsh-web-search-pro",
-      "owner": "anweat",
-      "description": "Enhanced, persistent web search plugin for DeepSeek Harness (multi-engine search, SQLite+LRU cache, platform backends, Playwright rendering)",
-      "htmlUrl": "https://github.com/anweat/dsh-web-search-pro",
-      "homepage": "",
-      "npmUrl": "https://www.npmjs.com/package/dsh-web-search-pro",
-      "npmName": "dsh-web-search-pro",
-      "stars": 26,
-      "updatedAt": "2026-08-19T13:34:11Z",
-      "license": "MIT",
-      "topics": [
-        "deepseek-harness",
-        "dsh",
-        "dsh-plugin",
-        "plugin",
-        "web-search"
-      ]
-    },
-    {
       "id": "1335660277",
       "name": "picturereader",
       "fullName": "jing-hy/picturereader",
@@ -2422,6 +2401,27 @@
         "ocr",
         "pixel-art",
         "vision"
+      ]
+    },
+    {
+      "id": "1333320049",
+      "name": "dsh-web-search-pro",
+      "fullName": "anweat/dsh-web-search-pro",
+      "owner": "anweat",
+      "description": "Enhanced, persistent web search plugin for DeepSeek Harness (multi-engine search, SQLite+LRU cache, platform backends, Playwright rendering)",
+      "htmlUrl": "https://github.com/anweat/dsh-web-search-pro",
+      "homepage": "",
+      "npmUrl": "https://www.npmjs.com/package/dsh-web-search-pro",
+      "npmName": "dsh-web-search-pro",
+      "stars": 26,
+      "updatedAt": "2026-08-19T13:34:11Z",
+      "license": "MIT",
+      "topics": [
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "plugin",
+        "web-search"
       ]
     },
     {
