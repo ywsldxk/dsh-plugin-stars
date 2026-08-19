@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T23:17:28.623Z",
+  "generatedAt": "2026-08-19T23:45:19.778Z",
   "source": "github-search-topics-dsh-plugin,dsh,deepseek-harness",
   "threshold": 25,
   "note": "Merged and deduplicated by repository id from three GitHub repository topic searches (topic:dsh-plugin, topic:dsh, topic:deepseek-harness). GitHub repository search returns at most 1,000 results per query, so this list contains the most popular matches within those windows, not a complete census.",
@@ -14,8 +14,8 @@
       "homepage": "https://open-design.ai",
       "npmUrl": "https://www.npmjs.com/package/open-design",
       "npmName": "open-design",
-      "stars": 89323,
-      "updatedAt": "2026-08-19T23:13:20Z",
+      "stars": 89324,
+      "updatedAt": "2026-08-19T23:32:52Z",
       "license": "Apache-2.0",
       "topics": [
         "agent-skills",
@@ -50,8 +50,8 @@
       "homepage": "https://gallery.dsh-market.com",
       "npmUrl": "https://www.npmjs.com/package/dsh-web-ui",
       "npmName": "dsh-web-ui",
-      "stars": 4875,
-      "updatedAt": "2026-08-19T23:16:05Z",
+      "stars": 4877,
+      "updatedAt": "2026-08-19T23:36:26Z",
       "license": "Apache-2.0",
       "topics": [
         "deepseek-harness",
@@ -70,8 +70,8 @@
       "homepage": "https://www.ipollo.ai/",
       "npmUrl": "https://www.npmjs.com/package/%40ipollo%2Fipollowork-workspace",
       "npmName": "@ipollo/ipollowork-workspace",
-      "stars": 4275,
-      "updatedAt": "2026-08-19T23:00:22Z",
+      "stars": 4276,
+      "updatedAt": "2026-08-19T23:27:42Z",
       "license": "NOASSERTION",
       "topics": [
         "agent-collaboration",
@@ -200,8 +200,8 @@
       "homepage": "https://openpets.dev",
       "npmUrl": "https://www.npmjs.com/package/openpets-v2-workspace",
       "npmName": "openpets-v2-workspace",
-      "stars": 1087,
-      "updatedAt": "2026-08-19T15:02:42Z",
+      "stars": 1088,
+      "updatedAt": "2026-08-19T23:43:19Z",
       "license": "MIT",
       "topics": [
         "ai-agents",
@@ -296,8 +296,8 @@
       "homepage": "",
       "npmUrl": "https://www.npmjs.com/package/%40nanmicoder%2Fdsh-agent-teams",
       "npmName": "@nanmicoder/dsh-agent-teams",
-      "stars": 608,
-      "updatedAt": "2026-08-19T18:53:34Z",
+      "stars": 609,
+      "updatedAt": "2026-08-19T23:34:36Z",
       "license": "MIT",
       "topics": [
         "agentteams",
@@ -317,8 +317,8 @@
       "homepage": "",
       "npmUrl": "https://www.npmjs.com/package/deepseek-harness-desktop",
       "npmName": "deepseek-harness-desktop",
-      "stars": 601,
-      "updatedAt": "2026-08-19T19:20:46Z",
+      "stars": 602,
+      "updatedAt": "2026-08-19T23:20:11Z",
       "license": "MIT",
       "topics": [
         "deepseek",
@@ -419,8 +419,8 @@
       "homepage": "https://www.npmjs.com/package/dsh-context",
       "npmUrl": "https://www.npmjs.com/package/dsh-context",
       "npmName": "dsh-context",
-      "stars": 485,
-      "updatedAt": "2026-08-19T21:42:18Z",
+      "stars": 486,
+      "updatedAt": "2026-08-19T23:30:24Z",
       "license": "Apache-2.0",
       "topics": [
         "cordis-plugin",
@@ -903,8 +903,8 @@
       "homepage": "",
       "npmUrl": "https://www.npmjs.com/package/dsh-cost-meter",
       "npmName": "dsh-cost-meter",
-      "stars": 114,
-      "updatedAt": "2026-08-19T16:54:03Z",
+      "stars": 115,
+      "updatedAt": "2026-08-19T23:33:35Z",
       "license": "MIT",
       "topics": [
         "cost-tracking",
@@ -1978,6 +1978,28 @@
       ]
     },
     {
+      "id": "1334266810",
+      "name": "dsh-session-manager",
+      "fullName": "dream12347/dsh-session-manager",
+      "owner": "dream12347",
+      "description": "DSH 会话管理插件：删除（回收站恢复/彻底清除）、统计、继续/暂停、打开日志目录、对话顶部抽屉、工作区分组与排序、上下文压缩阈值设置。DSH session manager: delete with trash/restore/purge, stats, continue/pause, log folder, header drawer, workspace grouping, context compaction threshold.",
+      "htmlUrl": "https://github.com/dream12347/dsh-session-manager",
+      "homepage": "",
+      "npmUrl": "https://www.npmjs.com/package/dsh-session-manager",
+      "npmName": "dsh-session-manager",
+      "stars": 32,
+      "updatedAt": "2026-08-19T23:31:35Z",
+      "license": "MIT",
+      "topics": [
+        "ai-worker",
+        "deeepseek-harness-plugins",
+        "deepseek-harness",
+        "deepseek-harness-plugin",
+        "dsh",
+        "dsh-plugin"
+      ]
+    },
+    {
       "id": "1333088207",
       "name": "oh-my-tianshu",
       "fullName": "huiliyi37/oh-my-tianshu",
@@ -2085,28 +2107,6 @@
         "dsh-plugins",
         "gateway",
         "im-gateway"
-      ]
-    },
-    {
-      "id": "1334266810",
-      "name": "dsh-session-manager",
-      "fullName": "dream12347/dsh-session-manager",
-      "owner": "dream12347",
-      "description": "DSH 会话管理插件：删除（回收站恢复/彻底清除）、统计、继续/暂停、打开日志目录、对话顶部抽屉、工作区分组与排序、上下文压缩阈值设置。DSH session manager: delete with trash/restore/purge, stats, continue/pause, log folder, header drawer, workspace grouping, context compaction threshold.",
-      "htmlUrl": "https://github.com/dream12347/dsh-session-manager",
-      "homepage": "",
-      "npmUrl": "https://www.npmjs.com/package/dsh-session-manager",
-      "npmName": "dsh-session-manager",
-      "stars": 30,
-      "updatedAt": "2026-08-19T16:19:41Z",
-      "license": "MIT",
-      "topics": [
-        "ai-worker",
-        "deeepseek-harness-plugins",
-        "deepseek-harness",
-        "deepseek-harness-plugin",
-        "dsh",
-        "dsh-plugin"
       ]
     },
     {
@@ -2239,7 +2239,7 @@
       "npmUrl": "https://www.npmjs.com/package/deepseek-harness-handbook",
       "npmName": "deepseek-harness-handbook",
       "stars": 29,
-      "updatedAt": "2026-08-19T23:10:53Z",
+      "updatedAt": "2026-08-19T23:39:08Z",
       "license": "Apache-2.0",
       "topics": [
         "agent",
@@ -2301,38 +2301,6 @@
       ]
     },
     {
-      "id": "1333317835",
-      "name": "dsh-market",
-      "fullName": "2BingLing/dsh-market",
-      "owner": "2BingLing",
-      "description": "DeepSeek Harness 插件市场 · 持续收录 1500+ DSH 插件：中文搜索 + 实用五维评分 + 一键安装。Web 版与 DSH 侧边栏插件双形态。Plugin marketplace for DeepSeek Harness: 1500+ plugins, Chinese search, 5-dim scoring, one-click install.",
-      "htmlUrl": "https://github.com/2BingLing/dsh-market",
-      "homepage": "https://dsh.market/",
-      "npmUrl": "https://www.npmjs.com/package/dsh-market",
-      "npmName": "dsh-market",
-      "stars": 28,
-      "updatedAt": "2026-08-19T07:17:22Z",
-      "license": "NOASSERTION",
-      "topics": [
-        "deepseek-harness",
-        "deepseek-harness-plugin",
-        "deepseek-harness-plugins",
-        "dsh",
-        "dsh-bundle",
-        "dsh-market",
-        "dsh-plugin",
-        "dsh-plugins",
-        "dsh-skill",
-        "dsh-web",
-        "marketplace",
-        "plugin-market",
-        "plugin-marketplace",
-        "plugin-registry",
-        "plugin-search",
-        "web"
-      ]
-    },
-    {
       "id": "1333936445",
       "name": "dsh-code",
       "fullName": "UNLINEARITY/dsh-code",
@@ -2355,6 +2323,38 @@
         "dsh-plugin",
         "harness",
         "plugin"
+      ]
+    },
+    {
+      "id": "1333317835",
+      "name": "dsh-market",
+      "fullName": "2BingLing/dsh-market",
+      "owner": "2BingLing",
+      "description": "DeepSeek Harness 插件市场 · 持续收录 1500+ DSH 插件：中文搜索 + 实用五维评分 + 一键安装。Web 版与 DSH 侧边栏插件双形态。Plugin marketplace for DeepSeek Harness: 1500+ plugins, Chinese search, 5-dim scoring, one-click install.",
+      "htmlUrl": "https://github.com/2BingLing/dsh-market",
+      "homepage": "https://dsh.market/",
+      "npmUrl": "https://www.npmjs.com/package/dsh-market",
+      "npmName": "dsh-market",
+      "stars": 28,
+      "updatedAt": "2026-08-19T23:30:04Z",
+      "license": "NOASSERTION",
+      "topics": [
+        "deepseek-harness",
+        "deepseek-harness-plugin",
+        "deepseek-harness-plugins",
+        "dsh",
+        "dsh-bundle",
+        "dsh-market",
+        "dsh-plugin",
+        "dsh-plugins",
+        "dsh-skill",
+        "dsh-web",
+        "marketplace",
+        "plugin-market",
+        "plugin-marketplace",
+        "plugin-registry",
+        "plugin-search",
+        "web"
       ]
     },
     {
@@ -2443,6 +2443,25 @@
         "dsh-plugin",
         "dshx",
         "ego-lite"
+      ]
+    },
+    {
+      "id": "1334028660",
+      "name": "dsh-plugin-session-delete",
+      "fullName": "lsz-asd/dsh-plugin-session-delete",
+      "owner": "lsz-asd",
+      "description": "Delete DeepSeek Harness sessions from the UI: header danger button + sidebar session-row menu item (no conversation jump), risk-consent dialog with session name/id, stops running agents first, in-place list refresh without page reload. Works in web and the desktop client.",
+      "htmlUrl": "https://github.com/lsz-asd/dsh-plugin-session-delete",
+      "homepage": "",
+      "npmUrl": "https://www.npmjs.com/package/%40huanlin%2Fdsh-plugin-session-delete",
+      "npmName": "@huanlin/dsh-plugin-session-delete",
+      "stars": 25,
+      "updatedAt": "2026-08-19T23:29:29Z",
+      "license": "",
+      "topics": [
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin"
       ]
     },
     {
