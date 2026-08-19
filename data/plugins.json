@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T21:49:05.985Z",
+  "generatedAt": "2026-08-19T22:18:28.176Z",
   "source": "github-search-topics-dsh-plugin,dsh,deepseek-harness",
   "threshold": 25,
   "note": "Merged and deduplicated by repository id from three GitHub repository topic searches (topic:dsh-plugin, topic:dsh, topic:deepseek-harness). GitHub repository search returns at most 1,000 results per query, so this list contains the most popular matches within those windows, not a complete census.",
@@ -14,8 +14,8 @@
       "homepage": "https://open-design.ai",
       "npmUrl": "https://www.npmjs.com/package/open-design",
       "npmName": "open-design",
-      "stars": 89311,
-      "updatedAt": "2026-08-19T21:48:46Z",
+      "stars": 89314,
+      "updatedAt": "2026-08-19T22:17:21Z",
       "license": "Apache-2.0",
       "topics": [
         "agent-skills",
@@ -70,8 +70,8 @@
       "homepage": "https://www.ipollo.ai/",
       "npmUrl": "https://www.npmjs.com/package/%40ipollo%2Fipollowork-workspace",
       "npmName": "@ipollo/ipollowork-workspace",
-      "stars": 4270,
-      "updatedAt": "2026-08-19T21:20:47Z",
+      "stars": 4271,
+      "updatedAt": "2026-08-19T22:01:48Z",
       "license": "NOASSERTION",
       "topics": [
         "agent-collaboration",
@@ -139,8 +139,8 @@
       "homepage": "https://whiteguo233.github.io/OpenBiliClaw/",
       "npmUrl": "",
       "npmName": "",
-      "stars": 2932,
-      "updatedAt": "2026-08-19T17:48:54Z",
+      "stars": 2933,
+      "updatedAt": "2026-08-19T21:50:32Z",
       "license": "MIT",
       "topics": [
         "ai-agent",
@@ -556,8 +556,8 @@
       "homepage": "",
       "npmUrl": "https://www.npmjs.com/package/dsh-browser",
       "npmName": "dsh-browser",
-      "stars": 324,
-      "updatedAt": "2026-08-19T19:30:30Z",
+      "stars": 325,
+      "updatedAt": "2026-08-19T22:04:38Z",
       "license": "MIT",
       "topics": [
         "browser-automation",
@@ -581,7 +581,7 @@
       "npmUrl": "https://www.npmjs.com/package/%40omdsh-dev%2Fdsh-genui",
       "npmName": "@omdsh-dev/dsh-genui",
       "stars": 250,
-      "updatedAt": "2026-08-19T21:36:23Z",
+      "updatedAt": "2026-08-19T21:52:18Z",
       "license": "MIT",
       "topics": [
         "dsh",
@@ -2203,7 +2203,7 @@
       "npmUrl": "https://www.npmjs.com/package/deepseek-harness-handbook",
       "npmName": "deepseek-harness-handbook",
       "stars": 29,
-      "updatedAt": "2026-08-19T18:41:26Z",
+      "updatedAt": "2026-08-19T22:10:41Z",
       "license": "Apache-2.0",
       "topics": [
         "agent",
@@ -2243,6 +2243,24 @@
       "license": "MIT",
       "topics": [
         "deepseek-harness",
+        "dsh-plugin"
+      ]
+    },
+    {
+      "id": "1332051085",
+      "name": "dsh-share",
+      "fullName": "hellodigua/dsh-share",
+      "owner": "hellodigua",
+      "description": "DSH 对话分享插件，分享单轮或多轮对话，可导出为图片或 Markdown。Share DSH Q&As or selected conversation groups as PNG or Markdown.",
+      "htmlUrl": "https://github.com/hellodigua/dsh-share",
+      "homepage": "",
+      "npmUrl": "https://www.npmjs.com/package/dsh-share",
+      "npmName": "dsh-share",
+      "stars": 28,
+      "updatedAt": "2026-08-19T09:14:46Z",
+      "license": "MIT",
+      "topics": [
+        "dsh",
         "dsh-plugin"
       ]
     },
@@ -2301,24 +2319,6 @@
         "plugin-registry",
         "plugin-search",
         "web"
-      ]
-    },
-    {
-      "id": "1332051085",
-      "name": "dsh-share",
-      "fullName": "hellodigua/dsh-share",
-      "owner": "hellodigua",
-      "description": "DSH 对话分享插件，分享单轮或多轮对话，可导出为图片或 Markdown。Share DSH Q&As or selected conversation groups as PNG or Markdown.",
-      "htmlUrl": "https://github.com/hellodigua/dsh-share",
-      "homepage": "",
-      "npmUrl": "https://www.npmjs.com/package/dsh-share",
-      "npmName": "dsh-share",
-      "stars": 28,
-      "updatedAt": "2026-08-19T09:14:46Z",
-      "license": "MIT",
-      "topics": [
-        "dsh",
-        "dsh-plugin"
       ]
     },
     {
