@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T21:20:07.863Z",
+  "generatedAt": "2026-08-19T21:49:05.985Z",
   "source": "github-search-topics-dsh-plugin,dsh,deepseek-harness",
   "threshold": 25,
   "note": "Merged and deduplicated by repository id from three GitHub repository topic searches (topic:dsh-plugin, topic:dsh, topic:deepseek-harness). GitHub repository search returns at most 1,000 results per query, so this list contains the most popular matches within those windows, not a complete census.",
@@ -14,8 +14,8 @@
       "homepage": "https://open-design.ai",
       "npmUrl": "https://www.npmjs.com/package/open-design",
       "npmName": "open-design",
-      "stars": 89301,
-      "updatedAt": "2026-08-19T21:16:27Z",
+      "stars": 89311,
+      "updatedAt": "2026-08-19T21:48:46Z",
       "license": "Apache-2.0",
       "topics": [
         "agent-skills",
@@ -70,8 +70,8 @@
       "homepage": "https://www.ipollo.ai/",
       "npmUrl": "https://www.npmjs.com/package/%40ipollo%2Fipollowork-workspace",
       "npmName": "@ipollo/ipollowork-workspace",
-      "stars": 4271,
-      "updatedAt": "2026-08-19T21:18:24Z",
+      "stars": 4270,
+      "updatedAt": "2026-08-19T21:20:47Z",
       "license": "NOASSERTION",
       "topics": [
         "agent-collaboration",
@@ -176,7 +176,7 @@
       "npmUrl": "https://www.npmjs.com/package/%40deepseek-harness-tui%2Fdsh-tui",
       "npmName": "@deepseek-harness-tui/dsh-tui",
       "stars": 2076,
-      "updatedAt": "2026-08-19T21:18:04Z",
+      "updatedAt": "2026-08-19T21:39:38Z",
       "license": "MIT",
       "topics": [
         "claude-code",
@@ -419,8 +419,8 @@
       "homepage": "https://www.npmjs.com/package/dsh-context",
       "npmUrl": "https://www.npmjs.com/package/dsh-context",
       "npmName": "dsh-context",
-      "stars": 484,
-      "updatedAt": "2026-08-19T21:08:35Z",
+      "stars": 485,
+      "updatedAt": "2026-08-19T21:42:18Z",
       "license": "Apache-2.0",
       "topics": [
         "cordis-plugin",
@@ -580,8 +580,8 @@
       "homepage": "",
       "npmUrl": "https://www.npmjs.com/package/%40omdsh-dev%2Fdsh-genui",
       "npmName": "@omdsh-dev/dsh-genui",
-      "stars": 249,
-      "updatedAt": "2026-08-19T18:01:45Z",
+      "stars": 250,
+      "updatedAt": "2026-08-19T21:36:23Z",
       "license": "MIT",
       "topics": [
         "dsh",
@@ -1021,8 +1021,8 @@
       "homepage": "",
       "npmUrl": "https://www.npmjs.com/package/dsh-plugin-wallpaper-engine",
       "npmName": "dsh-plugin-wallpaper-engine",
-      "stars": 94,
-      "updatedAt": "2026-08-19T18:26:01Z",
+      "stars": 95,
+      "updatedAt": "2026-08-19T21:41:52Z",
       "license": "",
       "topics": [
         "dsh-plugin",
@@ -1435,8 +1435,8 @@
       "homepage": "https://www.npmjs.com/package/@shengsheng/dsh-taskboard",
       "npmUrl": "https://www.npmjs.com/package/%40shengsheng%2Fdsh-taskboard",
       "npmName": "@shengsheng/dsh-taskboard",
-      "stars": 54,
-      "updatedAt": "2026-08-19T19:53:12Z",
+      "stars": 55,
+      "updatedAt": "2026-08-19T21:20:33Z",
       "license": "Apache-2.0",
       "topics": [
         "agent",
@@ -1606,7 +1606,7 @@
       "npmUrl": "https://www.npmjs.com/package/%40vlln%2Fdsh-navbar",
       "npmName": "@vlln/dsh-navbar",
       "stars": 46,
-      "updatedAt": "2026-08-19T21:13:09Z",
+      "updatedAt": "2026-08-19T21:20:26Z",
       "license": "MIT",
       "topics": [
         "dsh",
@@ -2020,6 +2020,30 @@
       ]
     },
     {
+      "id": "1333738786",
+      "name": "dsh-auto-continue",
+      "fullName": "HsiangNianian/dsh-auto-continue",
+      "owner": "HsiangNianian",
+      "description": "DSH Web UI plugin: auto-sends 「继续」 to resume requests interrupted by non-human causes — error classification, adaptive backoff, pause, idempotency guard, loop guard, templated resume texts, stats, all configurable from the settings card",
+      "htmlUrl": "https://github.com/HsiangNianian/dsh-auto-continue",
+      "homepage": "",
+      "npmUrl": "https://www.npmjs.com/package/dsh-client-auto-continue",
+      "npmName": "dsh-client-auto-continue",
+      "stars": 31,
+      "updatedAt": "2026-08-19T21:42:03Z",
+      "license": "MIT",
+      "topics": [
+        "auto-continue",
+        "automatic",
+        "cordis",
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "plugin",
+        "web-ui"
+      ]
+    },
+    {
       "id": "1335082381",
       "name": "dsh-save-money",
       "fullName": "zhu168/dsh-save-money",
@@ -2086,30 +2110,6 @@
       ]
     },
     {
-      "id": "1333738786",
-      "name": "dsh-auto-continue",
-      "fullName": "HsiangNianian/dsh-auto-continue",
-      "owner": "HsiangNianian",
-      "description": "DSH Web UI plugin: auto-sends 「继续」 to resume requests interrupted by non-human causes — error classification, adaptive backoff, pause, idempotency guard, loop guard, templated resume texts, stats, all configurable from the settings card",
-      "htmlUrl": "https://github.com/HsiangNianian/dsh-auto-continue",
-      "homepage": "",
-      "npmUrl": "https://www.npmjs.com/package/dsh-client-auto-continue",
-      "npmName": "dsh-client-auto-continue",
-      "stars": 30,
-      "updatedAt": "2026-08-19T13:14:31Z",
-      "license": "MIT",
-      "topics": [
-        "auto-continue",
-        "automatic",
-        "cordis",
-        "deepseek-harness",
-        "dsh",
-        "dsh-plugin",
-        "plugin",
-        "web-ui"
-      ]
-    },
-    {
       "id": "1333130893",
       "name": "dsh-ui-whale",
       "fullName": "lhh010/dsh-ui-whale",
@@ -2138,7 +2138,7 @@
       "npmUrl": "https://www.npmjs.com/package/dsh-prompt-enhancer",
       "npmName": "dsh-prompt-enhancer",
       "stars": 29,
-      "updatedAt": "2026-08-19T19:56:07Z",
+      "updatedAt": "2026-08-19T21:41:54Z",
       "license": "",
       "topics": [
         "deepseek",
@@ -2164,6 +2164,32 @@
       "topics": [
         "deepseek",
         "dsh-plugin"
+      ]
+    },
+    {
+      "id": "1338176891",
+      "name": "dsh-beauty-skins",
+      "fullName": "XieRW/dsh-beauty-skins",
+      "owner": "XieRW",
+      "description": "给 DeepSeek Harness 用的美女系列皮肤：设置里从 哲风壁纸 拉预览网格，点一张即应用，配色从壁纸提取。支持动态壁纸，也保留自定义选图。",
+      "htmlUrl": "https://github.com/XieRW/dsh-beauty-skins",
+      "homepage": "",
+      "npmUrl": "",
+      "npmName": "",
+      "stars": 29,
+      "updatedAt": "2026-08-19T21:25:40Z",
+      "license": "MIT",
+      "topics": [
+        "beauty",
+        "cordis",
+        "cordis-plugin",
+        "deepseek",
+        "deepseek-harness",
+        "deepseek-harness-plugin",
+        "dsh",
+        "dsh-plugin",
+        "dsh-plugin-theme",
+        "skin"
       ]
     },
     {
@@ -2293,32 +2319,6 @@
       "topics": [
         "dsh",
         "dsh-plugin"
-      ]
-    },
-    {
-      "id": "1338176891",
-      "name": "dsh-beauty-skins",
-      "fullName": "XieRW/dsh-beauty-skins",
-      "owner": "XieRW",
-      "description": "给 DeepSeek Harness 用的美女系列皮肤：设置里从 哲风壁纸 拉预览网格，点一张即应用，配色从壁纸提取。支持动态壁纸，也保留自定义选图。",
-      "htmlUrl": "https://github.com/XieRW/dsh-beauty-skins",
-      "homepage": "",
-      "npmUrl": "",
-      "npmName": "",
-      "stars": 28,
-      "updatedAt": "2026-08-19T21:19:15Z",
-      "license": "MIT",
-      "topics": [
-        "beauty",
-        "cordis",
-        "cordis-plugin",
-        "deepseek",
-        "deepseek-harness",
-        "deepseek-harness-plugin",
-        "dsh",
-        "dsh-plugin",
-        "dsh-plugin-theme",
-        "skin"
       ]
     },
     {
