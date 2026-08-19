@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T19:02:13.942Z",
+  "generatedAt": "2026-08-19T19:48:34.031Z",
   "source": "github-search-topics-dsh-plugin,dsh,deepseek-harness",
   "threshold": 25,
   "note": "Merged and deduplicated by repository id from three GitHub repository topic searches (topic:dsh-plugin, topic:dsh, topic:deepseek-harness). GitHub repository search returns at most 1,000 results per query, so this list contains the most popular matches within those windows, not a complete census.",
@@ -14,8 +14,8 @@
       "homepage": "https://open-design.ai",
       "npmUrl": "https://www.npmjs.com/package/open-design",
       "npmName": "open-design",
-      "stars": 89285,
-      "updatedAt": "2026-08-19T18:42:37Z",
+      "stars": 89289,
+      "updatedAt": "2026-08-19T19:40:12Z",
       "license": "Apache-2.0",
       "topics": [
         "agent-skills",
@@ -50,8 +50,8 @@
       "homepage": "https://gallery.dsh-market.com",
       "npmUrl": "https://www.npmjs.com/package/dsh-web-ui",
       "npmName": "dsh-web-ui",
-      "stars": 4866,
-      "updatedAt": "2026-08-19T18:56:21Z",
+      "stars": 4868,
+      "updatedAt": "2026-08-19T19:30:52Z",
       "license": "Apache-2.0",
       "topics": [
         "deepseek-harness",
@@ -261,8 +261,8 @@
       "homepage": "https://app.tongflow.com",
       "npmUrl": "https://www.npmjs.com/package/tongflow-app",
       "npmName": "tongflow-app",
-      "stars": 872,
-      "updatedAt": "2026-08-19T18:33:20Z",
+      "stars": 873,
+      "updatedAt": "2026-08-19T19:30:43Z",
       "license": "AGPL-3.0",
       "topics": [
         "3d",
@@ -317,8 +317,8 @@
       "homepage": "",
       "npmUrl": "https://www.npmjs.com/package/deepseek-harness-desktop",
       "npmName": "deepseek-harness-desktop",
-      "stars": 600,
-      "updatedAt": "2026-08-19T18:46:52Z",
+      "stars": 601,
+      "updatedAt": "2026-08-19T19:20:46Z",
       "license": "MIT",
       "topics": [
         "deepseek",
@@ -419,8 +419,8 @@
       "homepage": "https://www.npmjs.com/package/dsh-context",
       "npmUrl": "https://www.npmjs.com/package/dsh-context",
       "npmName": "dsh-context",
-      "stars": 482,
-      "updatedAt": "2026-08-19T18:19:32Z",
+      "stars": 483,
+      "updatedAt": "2026-08-19T19:23:23Z",
       "license": "Apache-2.0",
       "topics": [
         "cordis-plugin",
@@ -535,8 +535,8 @@
       "homepage": "",
       "npmUrl": "https://www.npmjs.com/package/%40deepseek-ai%2Fdsh-client-ui-aqua",
       "npmName": "@deepseek-ai/dsh-client-ui-aqua",
-      "stars": 326,
-      "updatedAt": "2026-08-19T17:25:15Z",
+      "stars": 327,
+      "updatedAt": "2026-08-19T19:06:17Z",
       "license": "MIT",
       "topics": [
         "deepseek-harness",
@@ -556,8 +556,8 @@
       "homepage": "",
       "npmUrl": "https://www.npmjs.com/package/dsh-browser",
       "npmName": "dsh-browser",
-      "stars": 323,
-      "updatedAt": "2026-08-19T17:34:01Z",
+      "stars": 324,
+      "updatedAt": "2026-08-19T19:30:30Z",
       "license": "MIT",
       "topics": [
         "browser-automation",
@@ -619,8 +619,8 @@
       "homepage": "",
       "npmUrl": "https://www.npmjs.com/package/%40deepseek-ai%2Fdsh-root",
       "npmName": "@deepseek-ai/dsh-root",
-      "stars": 221,
-      "updatedAt": "2026-08-19T16:29:46Z",
+      "stars": 222,
+      "updatedAt": "2026-08-19T19:35:46Z",
       "license": "MIT",
       "topics": [
         "ai-agent",
@@ -1304,8 +1304,8 @@
       "homepage": "",
       "npmUrl": "https://www.npmjs.com/package/dsh-find-plugin",
       "npmName": "dsh-find-plugin",
-      "stars": 62,
-      "updatedAt": "2026-08-19T17:27:27Z",
+      "stars": 63,
+      "updatedAt": "2026-08-19T19:03:41Z",
       "license": "MIT",
       "topics": [
         "deepseek-harness",
@@ -1423,27 +1423,6 @@
         "plugin",
         "stock",
         "stock-market"
-      ]
-    },
-    {
-      "id": "1336085426",
-      "name": "deepseek-harness-android-app",
-      "fullName": "woaiys3/deepseek-harness-android-app",
-      "owner": "woaiys3",
-      "description": "把 DeepSeek Harness 打包成可直接安装的 Android APK：原生壳 + 移动端适配 + Shizuku 特权插件 + 系统能力插件",
-      "htmlUrl": "https://github.com/woaiys3/deepseek-harness-android-app",
-      "homepage": "",
-      "npmUrl": "",
-      "npmName": "",
-      "stars": 55,
-      "updatedAt": "2026-08-19T15:34:24Z",
-      "license": "MIT",
-      "topics": [
-        "ai-agent",
-        "android",
-        "deepseek",
-        "deepseek-harness",
-        "shizuku"
       ]
     },
     {
@@ -2009,7 +1988,7 @@
       "npmUrl": "https://www.npmjs.com/package/%40huiliyi37%2Foh-my-tianshu-root",
       "npmName": "@huiliyi37/oh-my-tianshu-root",
       "stars": 32,
-      "updatedAt": "2026-08-17T01:20:38Z",
+      "updatedAt": "2026-08-19T19:36:26Z",
       "license": "Apache-2.0",
       "topics": [
         "agent",
@@ -2167,6 +2146,32 @@
       ]
     },
     {
+      "id": "1338176891",
+      "name": "dsh-beauty-skins",
+      "fullName": "XieRW/dsh-beauty-skins",
+      "owner": "XieRW",
+      "description": "给 DeepSeek Harness 用的美女系列皮肤：设置里从 哲风壁纸 拉预览网格，点一张即应用，配色从壁纸提取。支持动态壁纸，也保留自定义选图。",
+      "htmlUrl": "https://github.com/XieRW/dsh-beauty-skins",
+      "homepage": "",
+      "npmUrl": "",
+      "npmName": "",
+      "stars": 29,
+      "updatedAt": "2026-08-19T19:42:35Z",
+      "license": "MIT",
+      "topics": [
+        "beauty",
+        "cordis",
+        "cordis-plugin",
+        "deepseek",
+        "deepseek-harness",
+        "deepseek-harness-plugin",
+        "dsh",
+        "dsh-plugin",
+        "dsh-plugin-theme",
+        "skin"
+      ]
+    },
+    {
       "id": "1333868070",
       "name": "deepseek-harness-handbook",
       "fullName": "sandbaseai/deepseek-harness-handbook",
@@ -2242,6 +2247,31 @@
       ]
     },
     {
+      "id": "1333936445",
+      "name": "dsh-code",
+      "fullName": "UNLINEARITY/dsh-code",
+      "owner": "UNLINEARITY",
+      "description": " Claude-Code-style TUI bundle for DeepSeek Harness. 充分结合 DSH 的核心机制和高级特性与Codex CLI 、Claude Code 等主流交互机制，打造的 DSH-Code. （注：支持DSH 特殊模式，插件系统，模型管理，子代理会话，Deepseek 官方 API 特殊动画）",
+      "htmlUrl": "https://github.com/UNLINEARITY/dsh-code",
+      "homepage": "",
+      "npmUrl": "https://www.npmjs.com/package/dsh-code",
+      "npmName": "dsh-code",
+      "stars": 28,
+      "updatedAt": "2026-08-19T12:42:54Z",
+      "license": "MIT",
+      "topics": [
+        "claude-code",
+        "cli",
+        "codex",
+        "deepseek",
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "harness",
+        "plugin"
+      ]
+    },
+    {
       "id": "1333317835",
       "name": "dsh-market",
       "fullName": "2BingLing/dsh-market",
@@ -2274,31 +2304,6 @@
       ]
     },
     {
-      "id": "1333936445",
-      "name": "dsh-code",
-      "fullName": "UNLINEARITY/dsh-code",
-      "owner": "UNLINEARITY",
-      "description": " Claude-Code-style TUI bundle for DeepSeek Harness. 充分结合 DSH 的核心机制和高级特性与Codex CLI 、Claude Code 等主流交互机制，打造的 DSH-Code. （注：支持DSH 特殊模式，插件系统，模型管理，子代理会话，Deepseek 官方 API 特殊动画）",
-      "htmlUrl": "https://github.com/UNLINEARITY/dsh-code",
-      "homepage": "",
-      "npmUrl": "https://www.npmjs.com/package/dsh-code",
-      "npmName": "dsh-code",
-      "stars": 28,
-      "updatedAt": "2026-08-19T12:42:54Z",
-      "license": "MIT",
-      "topics": [
-        "claude-code",
-        "cli",
-        "codex",
-        "deepseek",
-        "deepseek-harness",
-        "dsh",
-        "dsh-plugin",
-        "harness",
-        "plugin"
-      ]
-    },
-    {
       "id": "1332051085",
       "name": "dsh-share",
       "fullName": "hellodigua/dsh-share",
@@ -2314,32 +2319,6 @@
       "topics": [
         "dsh",
         "dsh-plugin"
-      ]
-    },
-    {
-      "id": "1338176891",
-      "name": "dsh-beauty-skins",
-      "fullName": "XieRW/dsh-beauty-skins",
-      "owner": "XieRW",
-      "description": "给 DeepSeek Harness 用的美女系列皮肤：设置里从 哲风壁纸 拉预览网格，点一张即应用，配色从壁纸提取。支持动态壁纸，也保留自定义选图。",
-      "htmlUrl": "https://github.com/XieRW/dsh-beauty-skins",
-      "homepage": "",
-      "npmUrl": "",
-      "npmName": "",
-      "stars": 28,
-      "updatedAt": "2026-08-19T18:23:38Z",
-      "license": "MIT",
-      "topics": [
-        "beauty",
-        "cordis",
-        "cordis-plugin",
-        "deepseek",
-        "deepseek-harness",
-        "deepseek-harness-plugin",
-        "dsh",
-        "dsh-plugin",
-        "dsh-plugin-theme",
-        "skin"
       ]
     },
     {
@@ -2403,6 +2382,27 @@
       ]
     },
     {
+      "id": "1333320049",
+      "name": "dsh-web-search-pro",
+      "fullName": "anweat/dsh-web-search-pro",
+      "owner": "anweat",
+      "description": "Enhanced, persistent web search plugin for DeepSeek Harness (multi-engine search, SQLite+LRU cache, platform backends, Playwright rendering)",
+      "htmlUrl": "https://github.com/anweat/dsh-web-search-pro",
+      "homepage": "",
+      "npmUrl": "https://www.npmjs.com/package/dsh-web-search-pro",
+      "npmName": "dsh-web-search-pro",
+      "stars": 26,
+      "updatedAt": "2026-08-19T13:34:11Z",
+      "license": "MIT",
+      "topics": [
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "plugin",
+        "web-search"
+      ]
+    },
+    {
       "id": "1335660277",
       "name": "picturereader",
       "fullName": "jing-hy/picturereader",
@@ -2422,27 +2422,6 @@
         "ocr",
         "pixel-art",
         "vision"
-      ]
-    },
-    {
-      "id": "1333320049",
-      "name": "dsh-web-search-pro",
-      "fullName": "anweat/dsh-web-search-pro",
-      "owner": "anweat",
-      "description": "Enhanced, persistent web search plugin for DeepSeek Harness (multi-engine search, SQLite+LRU cache, platform backends, Playwright rendering)",
-      "htmlUrl": "https://github.com/anweat/dsh-web-search-pro",
-      "homepage": "",
-      "npmUrl": "https://www.npmjs.com/package/dsh-web-search-pro",
-      "npmName": "dsh-web-search-pro",
-      "stars": 26,
-      "updatedAt": "2026-08-19T13:34:11Z",
-      "license": "MIT",
-      "topics": [
-        "deepseek-harness",
-        "dsh",
-        "dsh-plugin",
-        "plugin",
-        "web-search"
       ]
     },
     {
