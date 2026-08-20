@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T22:54:03.261Z",
+  "generatedAt": "2026-08-20T23:20:10.299Z",
   "source": "github-search-topics-dsh-plugin,dsh,deepseek-harness",
   "threshold": 25,
   "note": "Merged and deduplicated by repository id from three GitHub repository topic searches (topic:dsh-plugin, topic:dsh, topic:deepseek-harness). GitHub repository search returns at most 1,000 results per query, so this list contains the most popular matches within those windows, not a complete census.",
@@ -14,8 +14,8 @@
       "homepage": "https://open-design.ai",
       "npmUrl": "https://www.npmjs.com/package/open-design",
       "npmName": "open-design",
-      "stars": 89742,
-      "updatedAt": "2026-08-20T22:35:20Z",
+      "stars": 89744,
+      "updatedAt": "2026-08-20T23:19:15Z",
       "license": "Apache-2.0",
       "topics": [
         "agent-skills",
@@ -50,8 +50,8 @@
       "homepage": "https://gallery.dsh-market.com",
       "npmUrl": "https://www.npmjs.com/package/dsh-web-ui",
       "npmName": "dsh-web-ui",
-      "stars": 5155,
-      "updatedAt": "2026-08-20T22:49:04Z",
+      "stars": 5156,
+      "updatedAt": "2026-08-20T23:14:58Z",
       "license": "Apache-2.0",
       "topics": [
         "deepseek-harness",
@@ -70,8 +70,8 @@
       "homepage": "https://www.ipollo.ai/",
       "npmUrl": "https://www.npmjs.com/package/%40ipollo%2Fipollowork-workspace",
       "npmName": "@ipollo/ipollowork-workspace",
-      "stars": 4343,
-      "updatedAt": "2026-08-20T22:36:51Z",
+      "stars": 4346,
+      "updatedAt": "2026-08-20T23:02:30Z",
       "license": "NOASSERTION",
       "topics": [
         "agent-collaboration",
@@ -103,8 +103,8 @@
       "homepage": "https://liustack.dev",
       "npmUrl": "https://www.npmjs.com/package/%40liustack%2Fmodlens",
       "npmName": "@liustack/modlens",
-      "stars": 3399,
-      "updatedAt": "2026-08-20T22:44:40Z",
+      "stars": 3401,
+      "updatedAt": "2026-08-20T23:01:16Z",
       "license": "MIT",
       "topics": [
         "agent-skills",
@@ -507,8 +507,8 @@
       "homepage": "https://www.beyondata.com/",
       "npmUrl": "https://www.npmjs.com/package/%40deepseek-ai%2Fdsh-root",
       "npmName": "@deepseek-ai/dsh-root",
-      "stars": 408,
-      "updatedAt": "2026-08-20T21:44:08Z",
+      "stars": 409,
+      "updatedAt": "2026-08-20T23:17:16Z",
       "license": "MIT",
       "topics": [
         "ai-agent",
@@ -580,8 +580,8 @@
       "homepage": "",
       "npmUrl": "https://www.npmjs.com/package/%40omdsh-dev%2Fdsh-genui",
       "npmName": "@omdsh-dev/dsh-genui",
-      "stars": 267,
-      "updatedAt": "2026-08-20T20:52:30Z",
+      "stars": 268,
+      "updatedAt": "2026-08-20T23:01:03Z",
       "license": "MIT",
       "topics": [
         "dsh",
@@ -1486,8 +1486,8 @@
       "homepage": "",
       "npmUrl": "https://www.npmjs.com/package/%40zseven-w%2Fdsh-ios",
       "npmName": "@zseven-w/dsh-ios",
-      "stars": 55,
-      "updatedAt": "2026-08-20T22:14:35Z",
+      "stars": 56,
+      "updatedAt": "2026-08-20T23:10:02Z",
       "license": "MIT",
       "topics": [
         "accessibility",
@@ -1859,6 +1859,42 @@
       ]
     },
     {
+      "id": "1333722443",
+      "name": "dsh-AuthInOne",
+      "fullName": "Stormycry-cryp/dsh-AuthInOne",
+      "owner": "Stormycry-cryp",
+      "description": "Self-contained DeepSeek Harness (DSH) plugin for Provider/Auth login, model switching, image fallback, token/cost analytics, and same-port Web restart. Useful? A star helps.",
+      "htmlUrl": "https://github.com/Stormycry-cryp/dsh-AuthInOne",
+      "homepage": "",
+      "npmUrl": "https://www.npmjs.com/package/dsh-auth-in-one",
+      "npmName": "dsh-auth-in-one",
+      "stars": 42,
+      "updatedAt": "2026-08-20T23:03:04Z",
+      "license": "MIT",
+      "topics": [
+        "cost-attribution",
+        "cost-tracking",
+        "custom-api",
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "image-understanding",
+        "llm-provider",
+        "model-switching",
+        "multimodal",
+        "oauth",
+        "openai-codex",
+        "openai-compatible",
+        "provider-management",
+        "same-port-restart",
+        "self-contained-installer",
+        "text-only-model",
+        "token-usage",
+        "usage-attribution",
+        "vision-fallback"
+      ]
+    },
+    {
       "id": "1338176891",
       "name": "dsh-beauty-skins",
       "fullName": "XieRW/dsh-beauty-skins",
@@ -1882,6 +1918,30 @@
         "dsh-plugin",
         "dsh-plugin-theme",
         "skin"
+      ]
+    },
+    {
+      "id": "1334309410",
+      "name": "dsh-vision-complete",
+      "fullName": "Yts1919/dsh-vision-complete",
+      "owner": "Yts1919",
+      "description": "给 DeepSeek 补上「眼睛和耳朵」的多模态视觉插件：看图 / OCR / 物体检测 / 视频理解 / 语音转写 / 截图直读，一键安装（DSH 插件）。",
+      "htmlUrl": "https://github.com/Yts1919/dsh-vision-complete",
+      "homepage": "",
+      "npmUrl": "",
+      "npmName": "",
+      "stars": 41,
+      "updatedAt": "2026-08-20T08:43:00Z",
+      "license": "MIT",
+      "topics": [
+        "dashscope",
+        "deepseek",
+        "dsh-plugin",
+        "mcp",
+        "multimodal",
+        "ocr",
+        "qwen",
+        "vision"
       ]
     },
     {
@@ -1914,30 +1974,6 @@
         "plugin-registry",
         "plugin-search",
         "web"
-      ]
-    },
-    {
-      "id": "1334309410",
-      "name": "dsh-vision-complete",
-      "fullName": "Yts1919/dsh-vision-complete",
-      "owner": "Yts1919",
-      "description": "给 DeepSeek 补上「眼睛和耳朵」的多模态视觉插件：看图 / OCR / 物体检测 / 视频理解 / 语音转写 / 截图直读，一键安装（DSH 插件）。",
-      "htmlUrl": "https://github.com/Yts1919/dsh-vision-complete",
-      "homepage": "",
-      "npmUrl": "",
-      "npmName": "",
-      "stars": 41,
-      "updatedAt": "2026-08-20T08:43:00Z",
-      "license": "MIT",
-      "topics": [
-        "dashscope",
-        "deepseek",
-        "dsh-plugin",
-        "mcp",
-        "multimodal",
-        "ocr",
-        "qwen",
-        "vision"
       ]
     },
     {
@@ -1992,42 +2028,6 @@
         "deepseek-harness-plugin",
         "dsh",
         "dsh-plugin"
-      ]
-    },
-    {
-      "id": "1333722443",
-      "name": "dsh-AuthInOne",
-      "fullName": "Stormycry-cryp/dsh-AuthInOne",
-      "owner": "Stormycry-cryp",
-      "description": "Self-contained DeepSeek Harness (DSH) plugin for Provider/Auth login, model switching, image fallback, token/cost analytics, and same-port Web restart. Useful? A star helps.",
-      "htmlUrl": "https://github.com/Stormycry-cryp/dsh-AuthInOne",
-      "homepage": "",
-      "npmUrl": "https://www.npmjs.com/package/dsh-auth-in-one",
-      "npmName": "dsh-auth-in-one",
-      "stars": 41,
-      "updatedAt": "2026-08-20T18:46:13Z",
-      "license": "MIT",
-      "topics": [
-        "cost-attribution",
-        "cost-tracking",
-        "custom-api",
-        "deepseek-harness",
-        "dsh",
-        "dsh-plugin",
-        "image-understanding",
-        "llm-provider",
-        "model-switching",
-        "multimodal",
-        "oauth",
-        "openai-codex",
-        "openai-compatible",
-        "provider-management",
-        "same-port-restart",
-        "self-contained-installer",
-        "text-only-model",
-        "token-usage",
-        "usage-attribution",
-        "vision-fallback"
       ]
     },
     {
@@ -2242,6 +2242,24 @@
       ]
     },
     {
+      "id": "1334325657",
+      "name": "deepseek-harness-remote",
+      "fullName": "liguobao/deepseek-harness-remote",
+      "owner": "liguobao",
+      "description": "基于 DeepSeek Harness 插件机制的多端远程访问方案，让桌面端与 Android 端安全连接并操作远程 Harness。（A multi-device remote access solution built on the DeepSeek Harness plugin system, enabling desktop and Android clients to securely connect to and operate a remote Harness.）",
+      "htmlUrl": "https://github.com/liguobao/deepseek-harness-remote",
+      "homepage": "https://dsh.r2049.cn/",
+      "npmUrl": "https://www.npmjs.com/package/dsh-remote",
+      "npmName": "dsh-remote",
+      "stars": 33,
+      "updatedAt": "2026-08-20T19:03:13Z",
+      "license": "",
+      "topics": [
+        "deepseek",
+        "dsh-plugin"
+      ]
+    },
+    {
       "id": "1333232606",
       "name": "dsh-meme",
       "fullName": "yyh-001/dsh-meme",
@@ -2261,24 +2279,6 @@
         "qq-bot",
         "selfloom",
         "semantic-search"
-      ]
-    },
-    {
-      "id": "1334325657",
-      "name": "deepseek-harness-remote",
-      "fullName": "liguobao/deepseek-harness-remote",
-      "owner": "liguobao",
-      "description": "基于 DeepSeek Harness 插件机制的多端远程访问方案，让桌面端与 Android 端安全连接并操作远程 Harness。（A multi-device remote access solution built on the DeepSeek Harness plugin system, enabling desktop and Android clients to securely connect to and operate a remote Harness.）",
-      "htmlUrl": "https://github.com/liguobao/deepseek-harness-remote",
-      "homepage": "https://dsh.r2049.cn/",
-      "npmUrl": "https://www.npmjs.com/package/dsh-remote",
-      "npmName": "dsh-remote",
-      "stars": 33,
-      "updatedAt": "2026-08-20T19:03:13Z",
-      "license": "",
-      "topics": [
-        "deepseek",
-        "dsh-plugin"
       ]
     },
     {
@@ -2759,6 +2759,27 @@
         "dsh",
         "dsh-plugin",
         "dsh-plugins"
+      ]
+    },
+    {
+      "id": "1327920055",
+      "name": "dsh-plugin-check",
+      "fullName": "omdsh-dev/dsh-plugin-check",
+      "owner": "omdsh-dev",
+      "description": "DSH 插件健康检查工具：扫描插件仓库的清单协议 / patch 格式 / 构建陷阱 / hub 收录状态，零依赖只读，注册 plugin_check 工具",
+      "htmlUrl": "https://github.com/omdsh-dev/dsh-plugin-check",
+      "homepage": "",
+      "npmUrl": "https://www.npmjs.com/package/%40deepseek-ai%2Fdsh-plugin-check",
+      "npmName": "@deepseek-ai/dsh-plugin-check",
+      "stars": 25,
+      "updatedAt": "2026-08-20T22:58:17Z",
+      "license": "MIT",
+      "topics": [
+        "diagnostics",
+        "dsh",
+        "dsh-plugin",
+        "linting",
+        "plugin-health"
       ]
     },
     {
