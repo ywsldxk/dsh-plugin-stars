@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T22:49:33.762Z",
+  "generatedAt": "2026-08-21T23:17:54.663Z",
   "source": "github-search-topics-dsh-plugin,dsh,deepseek-harness",
   "threshold": 25,
   "note": "Merged and deduplicated by repository id from three GitHub repository topic searches (topic:dsh-plugin, topic:dsh, topic:deepseek-harness). GitHub repository search returns at most 1,000 results per query, so this list contains the most popular matches within those windows, not a complete census.",
@@ -14,8 +14,8 @@
       "homepage": "https://open-design.ai",
       "npmUrl": "https://www.npmjs.com/package/open-design",
       "npmName": "open-design",
-      "stars": 90149,
-      "updatedAt": "2026-08-21T22:39:27Z",
+      "stars": 90154,
+      "updatedAt": "2026-08-21T23:16:21Z",
       "license": "Apache-2.0",
       "topics": [
         "agent-skills",
@@ -51,7 +51,7 @@
       "npmUrl": "https://www.npmjs.com/package/dsh-web-ui",
       "npmName": "dsh-web-ui",
       "stars": 5420,
-      "updatedAt": "2026-08-21T22:45:29Z",
+      "updatedAt": "2026-08-21T23:09:44Z",
       "license": "Apache-2.0",
       "topics": [
         "deepseek-harness",
@@ -70,8 +70,8 @@
       "homepage": "https://www.ipollo.ai/",
       "npmUrl": "https://www.npmjs.com/package/%40ipollo%2Fipollowork-workspace",
       "npmName": "@ipollo/ipollowork-workspace",
-      "stars": 4425,
-      "updatedAt": "2026-08-21T22:46:18Z",
+      "stars": 4426,
+      "updatedAt": "2026-08-21T22:53:08Z",
       "license": "NOASSERTION",
       "topics": [
         "agent-collaboration",
@@ -141,7 +141,7 @@
       "npmUrl": "",
       "npmName": "",
       "stars": 2975,
-      "updatedAt": "2026-08-21T22:40:37Z",
+      "updatedAt": "2026-08-21T22:54:16Z",
       "license": "MIT",
       "topics": [
         "ai-agent",
@@ -177,7 +177,7 @@
       "npmUrl": "https://www.npmjs.com/package/%40deepseek-harness-tui%2Fdsh-tui",
       "npmName": "@deepseek-harness-tui/dsh-tui",
       "stars": 2262,
-      "updatedAt": "2026-08-21T22:30:19Z",
+      "updatedAt": "2026-08-21T22:59:07Z",
       "license": "MIT",
       "topics": [
         "claude-code",
@@ -284,8 +284,8 @@
       "homepage": "https://www.npmjs.com/package/dsh-context",
       "npmUrl": "https://www.npmjs.com/package/dsh-context",
       "npmName": "dsh-context",
-      "stars": 762,
-      "updatedAt": "2026-08-21T20:34:59Z",
+      "stars": 763,
+      "updatedAt": "2026-08-21T23:08:47Z",
       "license": "Apache-2.0",
       "topics": [
         "cordis-plugin",
@@ -443,8 +443,8 @@
       "homepage": "https://www.beyondata.com/",
       "npmUrl": "https://www.npmjs.com/package/%40deepseek-ai%2Fdsh-root",
       "npmName": "@deepseek-ai/dsh-root",
-      "stars": 433,
-      "updatedAt": "2026-08-21T18:34:36Z",
+      "stars": 434,
+      "updatedAt": "2026-08-21T22:50:54Z",
       "license": "MIT",
       "topics": [
         "ai-agent",
@@ -501,8 +501,8 @@
       "homepage": "",
       "npmUrl": "https://www.npmjs.com/package/dsh-browser",
       "npmName": "dsh-browser",
-      "stars": 373,
-      "updatedAt": "2026-08-21T20:58:41Z",
+      "stars": 374,
+      "updatedAt": "2026-08-21T22:57:25Z",
       "license": "MIT",
       "topics": [
         "browser-automation",
@@ -740,8 +740,8 @@
       "homepage": "",
       "npmUrl": "https://www.npmjs.com/package/%40zseven-w%2Fdsh-ios",
       "npmName": "@zseven-w/dsh-ios",
-      "stars": 170,
-      "updatedAt": "2026-08-21T19:54:01Z",
+      "stars": 171,
+      "updatedAt": "2026-08-21T23:08:57Z",
       "license": "MIT",
       "topics": [
         "accessibility",
@@ -1198,8 +1198,8 @@
       "homepage": "",
       "npmUrl": "https://www.npmjs.com/package/dsh-mobile",
       "npmName": "dsh-mobile",
-      "stars": 90,
-      "updatedAt": "2026-08-21T22:46:53Z",
+      "stars": 92,
+      "updatedAt": "2026-08-21T23:15:03Z",
       "license": "Apache-2.0",
       "topics": [
         "android",
@@ -1400,27 +1400,6 @@
       ]
     },
     {
-      "id": "1335912966",
-      "name": "dsh-skin-market",
-      "fullName": "kingOfSoySauce/dsh-skin-market",
-      "owner": "kingOfSoySauce",
-      "description": "DeepSeek Harness skin market 皮肤市场 已收录100+DSH 皮肤 完善评分系统加人工审核，有便捷的社区收录入口；有在线页面方便在线浏览，也有插件方便管理本地皮肤",
-      "htmlUrl": "https://github.com/kingOfSoySauce/dsh-skin-market",
-      "homepage": "https://kingofsoysauce.github.io/dsh-skin-market/",
-      "npmUrl": "https://www.npmjs.com/package/dsh-skin-market",
-      "npmName": "dsh-skin-market",
-      "stars": 70,
-      "updatedAt": "2026-08-21T18:09:02Z",
-      "license": "MIT",
-      "topics": [
-        "deepseek-harness",
-        "dsh-plugin",
-        "plugin-market",
-        "skin-market",
-        "themes"
-      ]
-    },
-    {
       "id": "1336849011",
       "name": "dsh-plugin-bridge",
       "fullName": "Totoro-qaq/dsh-plugin-bridge",
@@ -1441,6 +1420,27 @@
         "dsh-plugin",
         "preset-migration",
         "session-migration"
+      ]
+    },
+    {
+      "id": "1335912966",
+      "name": "dsh-skin-market",
+      "fullName": "kingOfSoySauce/dsh-skin-market",
+      "owner": "kingOfSoySauce",
+      "description": "DeepSeek Harness skin market 皮肤市场 已收录100+DSH 皮肤 完善评分系统加人工审核，有便捷的社区收录入口；有在线页面方便在线浏览，也有插件方便管理本地皮肤",
+      "htmlUrl": "https://github.com/kingOfSoySauce/dsh-skin-market",
+      "homepage": "https://kingofsoysauce.github.io/dsh-skin-market/",
+      "npmUrl": "https://www.npmjs.com/package/dsh-skin-market",
+      "npmName": "dsh-skin-market",
+      "stars": 70,
+      "updatedAt": "2026-08-21T18:09:02Z",
+      "license": "MIT",
+      "topics": [
+        "deepseek-harness",
+        "dsh-plugin",
+        "plugin-market",
+        "skin-market",
+        "themes"
       ]
     },
     {
