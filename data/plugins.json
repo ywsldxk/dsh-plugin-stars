@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T20:47:58.233Z",
+  "generatedAt": "2026-08-21T21:17:59.377Z",
   "source": "github-search-topics-dsh-plugin,dsh,deepseek-harness",
   "threshold": 25,
   "note": "Merged and deduplicated by repository id from three GitHub repository topic searches (topic:dsh-plugin, topic:dsh, topic:deepseek-harness). GitHub repository search returns at most 1,000 results per query, so this list contains the most popular matches within those windows, not a complete census.",
@@ -14,8 +14,8 @@
       "homepage": "https://open-design.ai",
       "npmUrl": "https://www.npmjs.com/package/open-design",
       "npmName": "open-design",
-      "stars": 90126,
-      "updatedAt": "2026-08-21T20:43:57Z",
+      "stars": 90133,
+      "updatedAt": "2026-08-21T21:12:54Z",
       "license": "Apache-2.0",
       "topics": [
         "agent-skills",
@@ -50,8 +50,8 @@
       "homepage": "https://gallery.dsh-market.com",
       "npmUrl": "https://www.npmjs.com/package/dsh-web-ui",
       "npmName": "dsh-web-ui",
-      "stars": 5417,
-      "updatedAt": "2026-08-21T20:42:51Z",
+      "stars": 5418,
+      "updatedAt": "2026-08-21T21:16:35Z",
       "license": "Apache-2.0",
       "topics": [
         "deepseek-harness",
@@ -70,8 +70,8 @@
       "homepage": "https://www.ipollo.ai/",
       "npmUrl": "https://www.npmjs.com/package/%40ipollo%2Fipollowork-workspace",
       "npmName": "@ipollo/ipollowork-workspace",
-      "stars": 4417,
-      "updatedAt": "2026-08-21T20:43:23Z",
+      "stars": 4419,
+      "updatedAt": "2026-08-21T20:54:28Z",
       "license": "NOASSERTION",
       "topics": [
         "agent-collaboration",
@@ -262,8 +262,8 @@
       "homepage": "",
       "npmUrl": "https://www.npmjs.com/package/deepseek-harness-desktop",
       "npmName": "deepseek-harness-desktop",
-      "stars": 843,
-      "updatedAt": "2026-08-21T19:29:21Z",
+      "stars": 844,
+      "updatedAt": "2026-08-21T20:59:44Z",
       "license": "MIT",
       "topics": [
         "deepseek",
@@ -306,8 +306,8 @@
       "homepage": "",
       "npmUrl": "https://www.npmjs.com/package/%40nanmicoder%2Fdsh-agent-teams",
       "npmName": "@nanmicoder/dsh-agent-teams",
-      "stars": 761,
-      "updatedAt": "2026-08-21T20:12:45Z",
+      "stars": 762,
+      "updatedAt": "2026-08-21T21:05:03Z",
       "license": "MIT",
       "topics": [
         "agentteams",
@@ -501,8 +501,8 @@
       "homepage": "",
       "npmUrl": "https://www.npmjs.com/package/dsh-browser",
       "npmName": "dsh-browser",
-      "stars": 374,
-      "updatedAt": "2026-08-21T20:00:29Z",
+      "stars": 373,
+      "updatedAt": "2026-08-21T20:58:41Z",
       "license": "MIT",
       "topics": [
         "browser-automation",
@@ -1454,8 +1454,8 @@
       "homepage": "",
       "npmUrl": "https://www.npmjs.com/package/dsh-plugin-bridge",
       "npmName": "dsh-plugin-bridge",
-      "stars": 68,
-      "updatedAt": "2026-08-21T19:45:06Z",
+      "stars": 69,
+      "updatedAt": "2026-08-21T21:11:10Z",
       "license": "MIT",
       "topics": [
         "context-migration",
@@ -1558,8 +1558,8 @@
       "homepage": "",
       "npmUrl": "",
       "npmName": "",
-      "stars": 59,
-      "updatedAt": "2026-08-21T18:48:24Z",
+      "stars": 60,
+      "updatedAt": "2026-08-21T21:10:44Z",
       "license": "MIT",
       "topics": [
         "beauty",
@@ -1672,6 +1672,29 @@
       ]
     },
     {
+      "id": "1334675743",
+      "name": "dsh-balance-plugin",
+      "fullName": "Francis-Xavier-code/dsh-balance-plugin",
+      "owner": "Francis-Xavier-code",
+      "description": "deepSeek 余额监控与用量统计（DSH 动态 Cordis 插件）：余额监控 · 官方充值入口 · 用量统计 · 三方插件管理",
+      "htmlUrl": "https://github.com/Francis-Xavier-code/dsh-balance-plugin",
+      "homepage": "",
+      "npmUrl": "https://www.npmjs.com/package/dsh-balance-plugin",
+      "npmName": "dsh-balance-plugin",
+      "stars": 53,
+      "updatedAt": "2026-08-21T16:01:14Z",
+      "license": "MIT",
+      "topics": [
+        "dsh",
+        "dsh-plugin",
+        "dsh-plugins",
+        "dsharpplus",
+        "token",
+        "wallet",
+        "webui"
+      ]
+    },
+    {
       "id": "1333722443",
       "name": "dsh-AuthInOne",
       "fullName": "Stormycry-cryp/dsh-AuthInOne",
@@ -1705,29 +1728,6 @@
         "token-usage",
         "usage-attribution",
         "vision-fallback"
-      ]
-    },
-    {
-      "id": "1334675743",
-      "name": "dsh-balance-plugin",
-      "fullName": "Francis-Xavier-code/dsh-balance-plugin",
-      "owner": "Francis-Xavier-code",
-      "description": "deepSeek 余额监控与用量统计（DSH 动态 Cordis 插件）：余额监控 · 官方充值入口 · 用量统计 · 三方插件管理",
-      "htmlUrl": "https://github.com/Francis-Xavier-code/dsh-balance-plugin",
-      "homepage": "",
-      "npmUrl": "https://www.npmjs.com/package/dsh-balance-plugin",
-      "npmName": "dsh-balance-plugin",
-      "stars": 53,
-      "updatedAt": "2026-08-21T16:01:14Z",
-      "license": "MIT",
-      "topics": [
-        "dsh",
-        "dsh-plugin",
-        "dsh-plugins",
-        "dsharpplus",
-        "token",
-        "wallet",
-        "webui"
       ]
     },
     {
@@ -1995,6 +1995,24 @@
       ]
     },
     {
+      "id": "1334325657",
+      "name": "deepseek-harness-remote",
+      "fullName": "liguobao/deepseek-harness-remote",
+      "owner": "liguobao",
+      "description": "基于 DeepSeek Harness 插件机制的多端远程访问方案，让桌面端与 Android 端安全连接并操作远程 Harness。（A multi-device remote access solution built on the DeepSeek Harness plugin system, enabling desktop and Android clients to securely connect to and operate a remote Harness.）",
+      "htmlUrl": "https://github.com/liguobao/deepseek-harness-remote",
+      "homepage": "https://dsh.r2049.cn/",
+      "npmUrl": "https://www.npmjs.com/package/dsh-remote",
+      "npmName": "dsh-remote",
+      "stars": 43,
+      "updatedAt": "2026-08-21T19:17:32Z",
+      "license": "",
+      "topics": [
+        "deepseek",
+        "dsh-plugin"
+      ]
+    },
+    {
       "id": "1334266810",
       "name": "dsh-session-manager",
       "fullName": "dream12347/dsh-session-manager",
@@ -2013,24 +2031,6 @@
         "deepseek-harness",
         "deepseek-harness-plugin",
         "dsh",
-        "dsh-plugin"
-      ]
-    },
-    {
-      "id": "1334325657",
-      "name": "deepseek-harness-remote",
-      "fullName": "liguobao/deepseek-harness-remote",
-      "owner": "liguobao",
-      "description": "基于 DeepSeek Harness 插件机制的多端远程访问方案，让桌面端与 Android 端安全连接并操作远程 Harness。（A multi-device remote access solution built on the DeepSeek Harness plugin system, enabling desktop and Android clients to securely connect to and operate a remote Harness.）",
-      "htmlUrl": "https://github.com/liguobao/deepseek-harness-remote",
-      "homepage": "https://dsh.r2049.cn/",
-      "npmUrl": "https://www.npmjs.com/package/dsh-remote",
-      "npmName": "dsh-remote",
-      "stars": 43,
-      "updatedAt": "2026-08-21T19:17:32Z",
-      "license": "",
-      "topics": [
-        "deepseek",
         "dsh-plugin"
       ]
     },
