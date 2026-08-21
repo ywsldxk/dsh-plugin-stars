@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T21:47:32.618Z",
+  "generatedAt": "2026-08-21T22:17:41.857Z",
   "source": "github-search-topics-dsh-plugin,dsh,deepseek-harness",
   "threshold": 25,
   "note": "Merged and deduplicated by repository id from three GitHub repository topic searches (topic:dsh-plugin, topic:dsh, topic:deepseek-harness). GitHub repository search returns at most 1,000 results per query, so this list contains the most popular matches within those windows, not a complete census.",
@@ -14,8 +14,8 @@
       "homepage": "https://open-design.ai",
       "npmUrl": "https://www.npmjs.com/package/open-design",
       "npmName": "open-design",
-      "stars": 90135,
-      "updatedAt": "2026-08-21T21:40:30Z",
+      "stars": 90141,
+      "updatedAt": "2026-08-21T22:09:09Z",
       "license": "Apache-2.0",
       "topics": [
         "agent-skills",
@@ -50,8 +50,8 @@
       "homepage": "https://gallery.dsh-market.com",
       "npmUrl": "https://www.npmjs.com/package/dsh-web-ui",
       "npmName": "dsh-web-ui",
-      "stars": 5418,
-      "updatedAt": "2026-08-21T21:42:02Z",
+      "stars": 5419,
+      "updatedAt": "2026-08-21T22:16:08Z",
       "license": "Apache-2.0",
       "topics": [
         "deepseek-harness",
@@ -70,8 +70,8 @@
       "homepage": "https://www.ipollo.ai/",
       "npmUrl": "https://www.npmjs.com/package/%40ipollo%2Fipollowork-workspace",
       "npmName": "@ipollo/ipollowork-workspace",
-      "stars": 4422,
-      "updatedAt": "2026-08-21T21:38:56Z",
+      "stars": 4423,
+      "updatedAt": "2026-08-21T22:01:29Z",
       "license": "NOASSERTION",
       "topics": [
         "agent-collaboration",
@@ -262,8 +262,8 @@
       "homepage": "",
       "npmUrl": "https://www.npmjs.com/package/deepseek-harness-desktop",
       "npmName": "deepseek-harness-desktop",
-      "stars": 844,
-      "updatedAt": "2026-08-21T20:59:44Z",
+      "stars": 846,
+      "updatedAt": "2026-08-21T22:06:06Z",
       "license": "MIT",
       "topics": [
         "deepseek",
@@ -929,8 +929,8 @@
       "homepage": "",
       "npmUrl": "https://www.npmjs.com/package/dsh-synapse",
       "npmName": "dsh-synapse",
-      "stars": 144,
-      "updatedAt": "2026-08-21T18:46:40Z",
+      "stars": 145,
+      "updatedAt": "2026-08-21T21:51:54Z",
       "license": "MIT",
       "topics": [
         "deepseek",
@@ -1220,8 +1220,8 @@
       "homepage": "",
       "npmUrl": "https://www.npmjs.com/package/dsh-mobile",
       "npmName": "dsh-mobile",
-      "stars": 87,
-      "updatedAt": "2026-08-21T20:44:08Z",
+      "stars": 88,
+      "updatedAt": "2026-08-21T21:52:03Z",
       "license": "Apache-2.0",
       "topics": [
         "android",
@@ -1230,6 +1230,24 @@
         "lan",
         "mobile",
         "webview"
+      ]
+    },
+    {
+      "id": "1330089831",
+      "name": "dsh-annotation",
+      "fullName": "omdsh-dev/dsh-annotation",
+      "owner": "omdsh-dev",
+      "description": "DSH Web 选中批注插件：选文字→批注→回车随消息发送；气泡隐藏批注块（零闪烁）；回复按 Annotation N 逐条对照（可悬浮芯片）。官方 bundle，零核心改动",
+      "htmlUrl": "https://github.com/omdsh-dev/dsh-annotation",
+      "homepage": "https://omdsh-dev.github.io/dsh-annotation/",
+      "npmUrl": "https://www.npmjs.com/package/%40omdsh-dev%2Fdsh-annotation",
+      "npmName": "@omdsh-dev/dsh-annotation",
+      "stars": 87,
+      "updatedAt": "2026-08-21T10:53:36Z",
+      "license": "MIT",
+      "topics": [
+        "dsh",
+        "dsh-plugin"
       ]
     },
     {
@@ -1255,24 +1273,6 @@
         "plugin",
         "provider",
         "typescript"
-      ]
-    },
-    {
-      "id": "1330089831",
-      "name": "dsh-annotation",
-      "fullName": "omdsh-dev/dsh-annotation",
-      "owner": "omdsh-dev",
-      "description": "DSH Web 选中批注插件：选文字→批注→回车随消息发送；气泡隐藏批注块（零闪烁）；回复按 Annotation N 逐条对照（可悬浮芯片）。官方 bundle，零核心改动",
-      "htmlUrl": "https://github.com/omdsh-dev/dsh-annotation",
-      "homepage": "https://omdsh-dev.github.io/dsh-annotation/",
-      "npmUrl": "https://www.npmjs.com/package/%40omdsh-dev%2Fdsh-annotation",
-      "npmName": "@omdsh-dev/dsh-annotation",
-      "stars": 87,
-      "updatedAt": "2026-08-21T10:53:36Z",
-      "license": "MIT",
-      "topics": [
-        "dsh",
-        "dsh-plugin"
       ]
     },
     {
@@ -1584,8 +1584,8 @@
       "homepage": "",
       "npmUrl": "https://www.npmjs.com/package/%40dhicoc%2Fdsh-reverse-skill",
       "npmName": "@dhicoc/dsh-reverse-skill",
-      "stars": 58,
-      "updatedAt": "2026-08-21T15:46:40Z",
+      "stars": 59,
+      "updatedAt": "2026-08-21T22:01:16Z",
       "license": "MIT",
       "topics": [
         "ctf",
@@ -2212,7 +2212,7 @@
       "npmUrl": "https://www.npmjs.com/package/deepseek-harness-handbook",
       "npmName": "deepseek-harness-handbook",
       "stars": 38,
-      "updatedAt": "2026-08-21T16:02:37Z",
+      "updatedAt": "2026-08-21T21:54:42Z",
       "license": "Apache-2.0",
       "topics": [
         "agent",
@@ -2336,26 +2336,6 @@
       ]
     },
     {
-      "id": "1333084899",
-      "name": "dsh-interconnect",
-      "fullName": "Chinesezjc/dsh-interconnect",
-      "owner": "Chinesezjc",
-      "description": "Cross-instance message/event handoff plugins for DSH (interconnect service + tools)",
-      "htmlUrl": "https://github.com/Chinesezjc/dsh-interconnect",
-      "homepage": "",
-      "npmUrl": "https://www.npmjs.com/package/dsh-interconnect",
-      "npmName": "dsh-interconnect",
-      "stars": 34,
-      "updatedAt": "2026-08-19T08:14:58Z",
-      "license": "MIT",
-      "topics": [
-        "deepseek-harness",
-        "dsh",
-        "dsh-plugin",
-        "interconnect"
-      ]
-    },
-    {
       "id": "1337972266",
       "name": "dsh-omi-voice",
       "fullName": "PolinniZhong/dsh-omi-voice",
@@ -2376,6 +2356,26 @@
         "text-to-speech",
         "tts",
         "voice"
+      ]
+    },
+    {
+      "id": "1333084899",
+      "name": "dsh-interconnect",
+      "fullName": "Chinesezjc/dsh-interconnect",
+      "owner": "Chinesezjc",
+      "description": "Cross-instance message/event handoff plugins for DSH (interconnect service + tools)",
+      "htmlUrl": "https://github.com/Chinesezjc/dsh-interconnect",
+      "homepage": "",
+      "npmUrl": "https://www.npmjs.com/package/dsh-interconnect",
+      "npmName": "dsh-interconnect",
+      "stars": 34,
+      "updatedAt": "2026-08-19T08:14:58Z",
+      "license": "MIT",
+      "topics": [
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "interconnect"
       ]
     },
     {
@@ -2558,6 +2558,25 @@
       ]
     },
     {
+      "id": "1336836593",
+      "name": "dsh-recall-unread",
+      "fullName": "hg1048596-pixel/dsh-recall-unread",
+      "owner": "hg1048596-pixel",
+      "description": "DeepSeek Harness (DSH) 插件：在模型读取前撤回已发送的文字消息，支持单条与全部撤回。A DeepSeek Harness plugin that recalls sent-but-unread text messages before the model reads them — one-by-one or all at once.",
+      "htmlUrl": "https://github.com/hg1048596-pixel/dsh-recall-unread",
+      "homepage": "",
+      "npmUrl": "https://www.npmjs.com/package/dsh-recall-unread",
+      "npmName": "dsh-recall-unread",
+      "stars": 30,
+      "updatedAt": "2026-08-21T22:02:16Z",
+      "license": "MIT",
+      "topics": [
+        "dsh-plugin",
+        "dsh-plugin-market",
+        "dsh-plugins"
+      ]
+    },
+    {
       "id": "1335238049",
       "name": "dsh-whale-musume",
       "fullName": "Sutera-Diffusus/dsh-whale-musume",
@@ -2612,25 +2631,6 @@
         "dsh-plugin",
         "dshx",
         "ego-lite"
-      ]
-    },
-    {
-      "id": "1336836593",
-      "name": "dsh-recall-unread",
-      "fullName": "hg1048596-pixel/dsh-recall-unread",
-      "owner": "hg1048596-pixel",
-      "description": "DeepSeek Harness (DSH) 插件：在模型读取前撤回已发送的文字消息，支持单条与全部撤回。A DeepSeek Harness plugin that recalls sent-but-unread text messages before the model reads them — one-by-one or all at once.",
-      "htmlUrl": "https://github.com/hg1048596-pixel/dsh-recall-unread",
-      "homepage": "",
-      "npmUrl": "https://www.npmjs.com/package/dsh-recall-unread",
-      "npmName": "dsh-recall-unread",
-      "stars": 29,
-      "updatedAt": "2026-08-21T17:43:13Z",
-      "license": "MIT",
-      "topics": [
-        "dsh-plugin",
-        "dsh-plugin-market",
-        "dsh-plugins"
       ]
     },
     {
@@ -2757,6 +2757,27 @@
       ]
     },
     {
+      "id": "1337211821",
+      "name": "dsh-endfield-ui",
+      "fullName": "rison114514/dsh-endfield-ui",
+      "owner": "rison114514",
+      "description": "Endfield-inspired industrial UI shell for DeepSeek Harness (dsh) — non-official fan theme. Install: dsh plugin --profile web add @rison/dsh-endfield-ui",
+      "htmlUrl": "https://github.com/rison114514/dsh-endfield-ui",
+      "homepage": "https://github.com/rison114514/dsh-endfield-ui#readme",
+      "npmUrl": "",
+      "npmName": "",
+      "stars": 28,
+      "updatedAt": "2026-08-21T17:46:57Z",
+      "license": "",
+      "topics": [
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "theme",
+        "web-ui"
+      ]
+    },
+    {
       "id": "1333768172",
       "name": "dsh-mcp-panel",
       "fullName": "PerryLink/dsh-mcp-panel",
@@ -2781,27 +2802,6 @@
         "mcp-console",
         "observability",
         "panel"
-      ]
-    },
-    {
-      "id": "1337211821",
-      "name": "dsh-endfield-ui",
-      "fullName": "rison114514/dsh-endfield-ui",
-      "owner": "rison114514",
-      "description": "Endfield-inspired industrial UI shell for DeepSeek Harness (dsh) — non-official fan theme. Install: dsh plugin --profile web add @rison/dsh-endfield-ui",
-      "htmlUrl": "https://github.com/rison114514/dsh-endfield-ui",
-      "homepage": "https://github.com/rison114514/dsh-endfield-ui#readme",
-      "npmUrl": "",
-      "npmName": "",
-      "stars": 28,
-      "updatedAt": "2026-08-21T17:46:57Z",
-      "license": "",
-      "topics": [
-        "deepseek-harness",
-        "dsh",
-        "dsh-plugin",
-        "theme",
-        "web-ui"
       ]
     },
     {
