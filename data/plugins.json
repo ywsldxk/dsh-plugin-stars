@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T10:47:49.200Z",
+  "generatedAt": "2026-08-22T11:15:28.652Z",
   "source": "github-search-topics-dsh-plugin,dsh,deepseek-harness",
   "threshold": 25,
   "note": "Merged and deduplicated by repository id from three GitHub repository topic searches (topic:dsh-plugin, topic:dsh, topic:deepseek-harness). GitHub repository search returns at most 1,000 results per query, so this list contains the most popular matches within those windows, not a complete census.",
@@ -14,8 +14,8 @@
       "homepage": "https://open-design.ai",
       "npmUrl": "https://www.npmjs.com/package/open-design",
       "npmName": "open-design",
-      "stars": 90289,
-      "updatedAt": "2026-08-22T10:44:16Z",
+      "stars": 90296,
+      "updatedAt": "2026-08-22T11:15:00Z",
       "license": "Apache-2.0",
       "topics": [
         "agent-skills",
@@ -50,8 +50,8 @@
       "homepage": "https://gallery.dsh-market.com",
       "npmUrl": "https://www.npmjs.com/package/dsh-web-ui",
       "npmName": "dsh-web-ui",
-      "stars": 5509,
-      "updatedAt": "2026-08-22T10:40:30Z",
+      "stars": 5512,
+      "updatedAt": "2026-08-22T11:10:24Z",
       "license": "Apache-2.0",
       "topics": [
         "deepseek-harness",
@@ -70,8 +70,8 @@
       "homepage": "https://www.ipollo.ai/",
       "npmUrl": "https://www.npmjs.com/package/%40ipollo%2Fipollowork-workspace",
       "npmName": "@ipollo/ipollowork-workspace",
-      "stars": 4471,
-      "updatedAt": "2026-08-22T10:41:57Z",
+      "stars": 4472,
+      "updatedAt": "2026-08-22T11:06:35Z",
       "license": "NOASSERTION",
       "topics": [
         "agent-collaboration",
@@ -104,8 +104,8 @@
       "homepage": "https://liustack.dev",
       "npmUrl": "https://www.npmjs.com/package/%40liustack%2Fmodlens",
       "npmName": "@liustack/modlens",
-      "stars": 3513,
-      "updatedAt": "2026-08-22T10:44:55Z",
+      "stars": 3514,
+      "updatedAt": "2026-08-22T11:03:11Z",
       "license": "MIT",
       "topics": [
         "agent-skills",
@@ -201,8 +201,8 @@
       "homepage": "https://openpets.dev",
       "npmUrl": "https://www.npmjs.com/package/openpets-v2-workspace",
       "npmName": "openpets-v2-workspace",
-      "stars": 1103,
-      "updatedAt": "2026-08-22T05:55:50Z",
+      "stars": 1104,
+      "updatedAt": "2026-08-22T11:03:11Z",
       "license": "MIT",
       "topics": [
         "ai-agents",
@@ -262,8 +262,8 @@
       "homepage": "",
       "npmUrl": "https://www.npmjs.com/package/deepseek-harness-desktop",
       "npmName": "deepseek-harness-desktop",
-      "stars": 896,
-      "updatedAt": "2026-08-22T10:41:53Z",
+      "stars": 917,
+      "updatedAt": "2026-08-22T11:07:16Z",
       "license": "MIT",
       "topics": [
         "deepseek",
@@ -284,8 +284,8 @@
       "homepage": "",
       "npmUrl": "https://www.npmjs.com/package/%40nanmicoder%2Fdsh-agent-teams",
       "npmName": "@nanmicoder/dsh-agent-teams",
-      "stars": 784,
-      "updatedAt": "2026-08-22T10:02:53Z",
+      "stars": 785,
+      "updatedAt": "2026-08-22T11:09:15Z",
       "license": "MIT",
       "topics": [
         "agentteams",
@@ -305,8 +305,8 @@
       "homepage": "https://www.npmjs.com/package/dsh-context",
       "npmUrl": "https://www.npmjs.com/package/dsh-context",
       "npmName": "dsh-context",
-      "stars": 778,
-      "updatedAt": "2026-08-22T10:09:07Z",
+      "stars": 779,
+      "updatedAt": "2026-08-22T10:57:27Z",
       "license": "Apache-2.0",
       "topics": [
         "cordis-plugin",
@@ -585,8 +585,8 @@
       "homepage": "",
       "npmUrl": "https://www.npmjs.com/package/%40deepseek-ai%2Fdsh-root",
       "npmName": "@deepseek-ai/dsh-root",
-      "stars": 250,
-      "updatedAt": "2026-08-22T09:52:27Z",
+      "stars": 251,
+      "updatedAt": "2026-08-22T11:02:15Z",
       "license": "MIT",
       "topics": [
         "ai-agent",
@@ -696,8 +696,8 @@
       "homepage": "",
       "npmUrl": "https://www.npmjs.com/package/dsh-memory-evolve",
       "npmName": "dsh-memory-evolve",
-      "stars": 218,
-      "updatedAt": "2026-08-22T06:03:14Z",
+      "stars": 219,
+      "updatedAt": "2026-08-22T11:05:41Z",
       "license": "MIT",
       "topics": [
         "deepseek-harness",
@@ -884,7 +884,7 @@
       "npmUrl": "https://www.npmjs.com/package/dsh-cost-meter",
       "npmName": "dsh-cost-meter",
       "stars": 153,
-      "updatedAt": "2026-08-22T10:26:44Z",
+      "updatedAt": "2026-08-22T11:14:04Z",
       "license": "MIT",
       "topics": [
         "cost-tracking",
@@ -943,6 +943,24 @@
       ]
     },
     {
+      "id": "1334828439",
+      "name": "DSH-Launcher",
+      "fullName": "MarcoG-h/DSH-Launcher",
+      "owner": "MarcoG-h",
+      "description": "最全面的DeepSeek Harness🐋启动器  *首创多实例管理中枢* | 多开并行 | 整合包下载 | 一键部署 | 插件管理 |  ",
+      "htmlUrl": "https://github.com/MarcoG-h/DSH-Launcher",
+      "homepage": "",
+      "npmUrl": "https://www.npmjs.com/package/dsh-launcher",
+      "npmName": "dsh-launcher",
+      "stars": 141,
+      "updatedAt": "2026-08-22T11:07:20Z",
+      "license": "",
+      "topics": [
+        "dsh",
+        "dsh-launcher"
+      ]
+    },
+    {
       "id": "1332212466",
       "name": "dsh-openpencil",
       "fullName": "ZSeven-W/dsh-openpencil",
@@ -964,24 +982,6 @@
         "ppt",
         "ui",
         "ui-design"
-      ]
-    },
-    {
-      "id": "1334828439",
-      "name": "DSH-Launcher",
-      "fullName": "MarcoG-h/DSH-Launcher",
-      "owner": "MarcoG-h",
-      "description": "最全面的DeepSeek Harness🐋启动器  *首创多实例管理中枢* | 多开并行 | 整合包下载 | 一键部署 | 插件管理 |  ",
-      "htmlUrl": "https://github.com/MarcoG-h/DSH-Launcher",
-      "homepage": "",
-      "npmUrl": "https://www.npmjs.com/package/dsh-launcher",
-      "npmName": "dsh-launcher",
-      "stars": 140,
-      "updatedAt": "2026-08-22T07:50:44Z",
-      "license": "",
-      "topics": [
-        "dsh",
-        "dsh-launcher"
       ]
     },
     {
@@ -1102,7 +1102,7 @@
       "npmUrl": "https://www.npmjs.com/package/dsh-undo-savepoint",
       "npmName": "dsh-undo-savepoint",
       "stars": 112,
-      "updatedAt": "2026-08-22T02:10:38Z",
+      "updatedAt": "2026-08-22T11:14:52Z",
       "license": "MIT",
       "topics": [
         "backup",
@@ -1127,8 +1127,8 @@
       "homepage": "",
       "npmUrl": "https://www.npmjs.com/package/dsh-mobile",
       "npmName": "dsh-mobile",
-      "stars": 101,
-      "updatedAt": "2026-08-22T09:14:54Z",
+      "stars": 102,
+      "updatedAt": "2026-08-22T11:01:18Z",
       "license": "Apache-2.0",
       "topics": [
         "android",
@@ -1430,8 +1430,8 @@
       "homepage": "",
       "npmUrl": "https://www.npmjs.com/package/dsh-find-plugin",
       "npmName": "dsh-find-plugin",
-      "stars": 75,
-      "updatedAt": "2026-08-22T10:40:40Z",
+      "stars": 76,
+      "updatedAt": "2026-08-22T10:58:27Z",
       "license": "MIT",
       "topics": [
         "deepseek-harness",
@@ -1470,8 +1470,8 @@
       "homepage": "https://kingofsoysauce.github.io/dsh-skin-market/",
       "npmUrl": "https://www.npmjs.com/package/dsh-skin-market",
       "npmName": "dsh-skin-market",
-      "stars": 72,
-      "updatedAt": "2026-08-22T09:12:09Z",
+      "stars": 71,
+      "updatedAt": "2026-08-22T10:48:54Z",
       "license": "MIT",
       "topics": [
         "deepseek-harness",
@@ -1535,7 +1535,7 @@
       "npmUrl": "https://www.npmjs.com/package/%40noob-stupid%2Fdsh-plugin-console",
       "npmName": "@noob-stupid/dsh-plugin-console",
       "stars": 67,
-      "updatedAt": "2026-08-22T10:37:59Z",
+      "updatedAt": "2026-08-22T10:56:00Z",
       "license": "MIT",
       "topics": [
         "deepseek-harness",
@@ -1685,8 +1685,8 @@
       "homepage": "",
       "npmUrl": "https://www.npmjs.com/package/dsh-notifier",
       "npmName": "dsh-notifier",
-      "stars": 56,
-      "updatedAt": "2026-08-22T10:44:10Z",
+      "stars": 57,
+      "updatedAt": "2026-08-22T11:12:32Z",
       "license": "MIT",
       "topics": [
         "dsh-plugin"
@@ -2312,6 +2312,34 @@
       ]
     },
     {
+      "id": "1333682494",
+      "name": "dsh-plugin-cc",
+      "fullName": "cpj-dev/dsh-plugin-cc",
+      "owner": "cpj-dev",
+      "description": "Bridge Deepseek-harness into Claude Code for review, critique, delegation, and session import.",
+      "htmlUrl": "https://github.com/cpj-dev/dsh-plugin-cc",
+      "homepage": "",
+      "npmUrl": "https://www.npmjs.com/package/dsh-plugin-cc",
+      "npmName": "dsh-plugin-cc",
+      "stars": 38,
+      "updatedAt": "2026-08-22T08:53:47Z",
+      "license": "MIT",
+      "topics": [
+        "ai-agent",
+        "claude",
+        "claude-code",
+        "claude-code-plugin",
+        "claude-plugin",
+        "coding-agent",
+        "deepseek",
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "dsh-plugins",
+        "slash-commands"
+      ]
+    },
+    {
       "id": "1338463750",
       "name": "DSH-EasyRewrite",
       "fullName": "Renzic-Stone/DSH-EasyRewrite",
@@ -2345,34 +2373,6 @@
         "undo",
         "version-pager",
         "withdrawal"
-      ]
-    },
-    {
-      "id": "1333682494",
-      "name": "dsh-plugin-cc",
-      "fullName": "cpj-dev/dsh-plugin-cc",
-      "owner": "cpj-dev",
-      "description": "Bridge Deepseek-harness into Claude Code for review, critique, delegation, and session import.",
-      "htmlUrl": "https://github.com/cpj-dev/dsh-plugin-cc",
-      "homepage": "",
-      "npmUrl": "https://www.npmjs.com/package/dsh-plugin-cc",
-      "npmName": "dsh-plugin-cc",
-      "stars": 38,
-      "updatedAt": "2026-08-22T08:53:47Z",
-      "license": "MIT",
-      "topics": [
-        "ai-agent",
-        "claude",
-        "claude-code",
-        "claude-code-plugin",
-        "claude-plugin",
-        "coding-agent",
-        "deepseek",
-        "deepseek-harness",
-        "dsh",
-        "dsh-plugin",
-        "dsh-plugins",
-        "slash-commands"
       ]
     },
     {
@@ -2789,24 +2789,6 @@
       ]
     },
     {
-      "id": "1335799735",
-      "name": "dsh-plugin-guard",
-      "fullName": "lxzy-7/dsh-plugin-guard",
-      "owner": "lxzy-7",
-      "description": "Install safety net for DeepSeek Harness: pre-install snapshots, one-click/automatic rollback, guarded boot, and incident reports that auto-trigger agent analysis. 中文: DeepSeek Harness 插件安装安全网（安装前自动快照、一键/自动回退、守护启动、事故报告自动触发 Agent 分析）。",
-      "htmlUrl": "https://github.com/lxzy-7/dsh-plugin-guard",
-      "homepage": "",
-      "npmUrl": "https://www.npmjs.com/package/dsh-plugin-guard",
-      "npmName": "dsh-plugin-guard",
-      "stars": 29,
-      "updatedAt": "2026-08-22T09:18:18Z",
-      "license": "MIT",
-      "topics": [
-        "deepseek-harness",
-        "dsh-plugin"
-      ]
-    },
-    {
       "id": "1333320049",
       "name": "dsh-web-search-pro",
       "fullName": "anweat/dsh-web-search-pro",
@@ -2825,6 +2807,24 @@
         "dsh-plugin",
         "plugin",
         "web-search"
+      ]
+    },
+    {
+      "id": "1335799735",
+      "name": "dsh-plugin-guard",
+      "fullName": "lxzy-7/dsh-plugin-guard",
+      "owner": "lxzy-7",
+      "description": "Install safety net for DeepSeek Harness: pre-install snapshots, one-click/automatic rollback, guarded boot, and incident reports that auto-trigger agent analysis. 中文: DeepSeek Harness 插件安装安全网（安装前自动快照、一键/自动回退、守护启动、事故报告自动触发 Agent 分析）。",
+      "htmlUrl": "https://github.com/lxzy-7/dsh-plugin-guard",
+      "homepage": "",
+      "npmUrl": "https://www.npmjs.com/package/dsh-plugin-guard",
+      "npmName": "dsh-plugin-guard",
+      "stars": 29,
+      "updatedAt": "2026-08-22T09:18:18Z",
+      "license": "MIT",
+      "topics": [
+        "deepseek-harness",
+        "dsh-plugin"
       ]
     },
     {
