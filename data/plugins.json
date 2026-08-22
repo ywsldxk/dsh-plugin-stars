@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T18:56:35.386Z",
+  "generatedAt": "2026-08-22T19:20:49.059Z",
   "source": "github-search-topics-dsh-plugin,dsh,deepseek-harness",
   "threshold": 25,
   "note": "Merged and deduplicated by repository id from three GitHub repository topic searches (topic:dsh-plugin, topic:dsh, topic:deepseek-harness). GitHub repository search returns at most 1,000 results per query, so this list contains the most popular matches within those windows, not a complete census.",
@@ -14,8 +14,8 @@
       "homepage": "https://open-design.ai",
       "npmUrl": "https://www.npmjs.com/package/open-design",
       "npmName": "open-design",
-      "stars": 90395,
-      "updatedAt": "2026-08-22T18:51:10Z",
+      "stars": 90401,
+      "updatedAt": "2026-08-22T19:16:04Z",
       "license": "Apache-2.0",
       "topics": [
         "agent-skills",
@@ -50,8 +50,8 @@
       "homepage": "https://dsh-market.com",
       "npmUrl": "https://www.npmjs.com/package/dsh-web-ui",
       "npmName": "dsh-web-ui",
-      "stars": 5587,
-      "updatedAt": "2026-08-22T18:50:20Z",
+      "stars": 5588,
+      "updatedAt": "2026-08-22T19:14:07Z",
       "license": "Apache-2.0",
       "topics": [
         "deepseek-harness",
@@ -69,8 +69,8 @@
       "homepage": "https://www.ipollo.ai/",
       "npmUrl": "https://www.npmjs.com/package/%40ipollo%2Fipollowork-workspace",
       "npmName": "@ipollo/ipollowork-workspace",
-      "stars": 4496,
-      "updatedAt": "2026-08-22T18:49:01Z",
+      "stars": 4500,
+      "updatedAt": "2026-08-22T19:19:05Z",
       "license": "NOASSERTION",
       "topics": [
         "agent-collaboration",
@@ -103,8 +103,8 @@
       "homepage": "https://liustack.dev",
       "npmUrl": "https://www.npmjs.com/package/%40liustack%2Fmodlens",
       "npmName": "@liustack/modlens",
-      "stars": 3524,
-      "updatedAt": "2026-08-22T18:35:45Z",
+      "stars": 3525,
+      "updatedAt": "2026-08-22T19:10:19Z",
       "license": "MIT",
       "topics": [
         "agent-skills",
@@ -140,7 +140,7 @@
       "npmUrl": "",
       "npmName": "",
       "stars": 2984,
-      "updatedAt": "2026-08-22T18:24:22Z",
+      "updatedAt": "2026-08-22T19:05:09Z",
       "license": "MIT",
       "topics": [
         "ai-agent",
@@ -175,8 +175,8 @@
       "homepage": "https://dshtui.com/",
       "npmUrl": "https://www.npmjs.com/package/%40deepseek-harness-tui%2Fdsh-tui",
       "npmName": "@deepseek-harness-tui/dsh-tui",
-      "stars": 2311,
-      "updatedAt": "2026-08-22T18:54:11Z",
+      "stars": 2312,
+      "updatedAt": "2026-08-22T18:57:09Z",
       "license": "MIT",
       "topics": [
         "claude-code",
@@ -284,7 +284,7 @@
       "npmUrl": "https://www.npmjs.com/package/%40nanmicoder%2Fdsh-agent-teams",
       "npmName": "@nanmicoder/dsh-agent-teams",
       "stars": 829,
-      "updatedAt": "2026-08-22T18:42:29Z",
+      "updatedAt": "2026-08-22T19:01:57Z",
       "license": "MIT",
       "topics": [
         "agentteams",
@@ -1027,8 +1027,8 @@
       "homepage": "",
       "npmUrl": "https://www.npmjs.com/package/oh-story-dsh",
       "npmName": "oh-story-dsh",
-      "stars": 129,
-      "updatedAt": "2026-08-22T18:07:24Z",
+      "stars": 130,
+      "updatedAt": "2026-08-22T19:07:22Z",
       "license": "MIT",
       "topics": [
         "ai-agents",
@@ -1101,7 +1101,7 @@
       "npmUrl": "https://www.npmjs.com/package/dsh-undo-savepoint",
       "npmName": "dsh-undo-savepoint",
       "stars": 115,
-      "updatedAt": "2026-08-22T18:53:23Z",
+      "updatedAt": "2026-08-22T19:13:25Z",
       "license": "MIT",
       "topics": [
         "backup",
@@ -1276,7 +1276,7 @@
       "npmUrl": "https://www.npmjs.com/package/dsh-plugin-bridge",
       "npmName": "dsh-plugin-bridge",
       "stars": 92,
-      "updatedAt": "2026-08-22T18:16:04Z",
+      "updatedAt": "2026-08-22T19:03:09Z",
       "license": "MIT",
       "topics": [
         "context-migration",
@@ -1915,7 +1915,7 @@
       "npmUrl": "https://www.npmjs.com/package/dsh-remote",
       "npmName": "dsh-remote",
       "stars": 52,
-      "updatedAt": "2026-08-22T18:06:09Z",
+      "updatedAt": "2026-08-22T19:17:50Z",
       "license": "",
       "topics": [
         "deepseek",
