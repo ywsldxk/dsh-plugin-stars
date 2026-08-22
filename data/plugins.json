@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T19:20:49.059Z",
+  "generatedAt": "2026-08-22T19:44:44.567Z",
   "source": "github-search-topics-dsh-plugin,dsh,deepseek-harness",
   "threshold": 25,
   "note": "Merged and deduplicated by repository id from three GitHub repository topic searches (topic:dsh-plugin, topic:dsh, topic:deepseek-harness). GitHub repository search returns at most 1,000 results per query, so this list contains the most popular matches within those windows, not a complete census.",
@@ -14,8 +14,8 @@
       "homepage": "https://open-design.ai",
       "npmUrl": "https://www.npmjs.com/package/open-design",
       "npmName": "open-design",
-      "stars": 90401,
-      "updatedAt": "2026-08-22T19:16:04Z",
+      "stars": 90407,
+      "updatedAt": "2026-08-22T19:44:12Z",
       "license": "Apache-2.0",
       "topics": [
         "agent-skills",
@@ -50,8 +50,8 @@
       "homepage": "https://dsh-market.com",
       "npmUrl": "https://www.npmjs.com/package/dsh-web-ui",
       "npmName": "dsh-web-ui",
-      "stars": 5588,
-      "updatedAt": "2026-08-22T19:14:07Z",
+      "stars": 5589,
+      "updatedAt": "2026-08-22T19:20:21Z",
       "license": "Apache-2.0",
       "topics": [
         "deepseek-harness",
@@ -69,8 +69,8 @@
       "homepage": "https://www.ipollo.ai/",
       "npmUrl": "https://www.npmjs.com/package/%40ipollo%2Fipollowork-workspace",
       "npmName": "@ipollo/ipollowork-workspace",
-      "stars": 4500,
-      "updatedAt": "2026-08-22T19:19:05Z",
+      "stars": 4503,
+      "updatedAt": "2026-08-22T19:34:44Z",
       "license": "NOASSERTION",
       "topics": [
         "agent-collaboration",
@@ -103,8 +103,8 @@
       "homepage": "https://liustack.dev",
       "npmUrl": "https://www.npmjs.com/package/%40liustack%2Fmodlens",
       "npmName": "@liustack/modlens",
-      "stars": 3525,
-      "updatedAt": "2026-08-22T19:10:19Z",
+      "stars": 3526,
+      "updatedAt": "2026-08-22T19:26:09Z",
       "license": "MIT",
       "topics": [
         "agent-skills",
@@ -139,8 +139,8 @@
       "homepage": "https://whiteguo233.github.io/OpenBiliClaw/",
       "npmUrl": "",
       "npmName": "",
-      "stars": 2984,
-      "updatedAt": "2026-08-22T19:05:09Z",
+      "stars": 2985,
+      "updatedAt": "2026-08-22T19:32:28Z",
       "license": "MIT",
       "topics": [
         "ai-agent",
@@ -500,8 +500,8 @@
       "homepage": "",
       "npmUrl": "https://www.npmjs.com/package/dsh-browser",
       "npmName": "dsh-browser",
-      "stars": 389,
-      "updatedAt": "2026-08-22T18:15:59Z",
+      "stars": 392,
+      "updatedAt": "2026-08-22T19:43:56Z",
       "license": "MIT",
       "topics": [
         "browser-automation",
@@ -612,8 +612,8 @@
       "homepage": "",
       "npmUrl": "https://www.npmjs.com/package/dsh-plugin-subscriptions",
       "npmName": "dsh-plugin-subscriptions",
-      "stars": 240,
-      "updatedAt": "2026-08-22T16:49:24Z",
+      "stars": 242,
+      "updatedAt": "2026-08-22T19:43:39Z",
       "license": "MIT",
       "topics": [
         "ai-agent",
@@ -695,8 +695,8 @@
       "homepage": "",
       "npmUrl": "https://www.npmjs.com/package/dsh-memory-evolve",
       "npmName": "dsh-memory-evolve",
-      "stars": 221,
-      "updatedAt": "2026-08-22T17:57:44Z",
+      "stars": 223,
+      "updatedAt": "2026-08-22T19:44:09Z",
       "license": "MIT",
       "topics": [
         "deepseek-harness",
@@ -880,8 +880,8 @@
       "homepage": "",
       "npmUrl": "https://www.npmjs.com/package/dsh-cost-meter",
       "npmName": "dsh-cost-meter",
-      "stars": 157,
-      "updatedAt": "2026-08-22T18:23:28Z",
+      "stars": 158,
+      "updatedAt": "2026-08-22T19:31:00Z",
       "license": "MIT",
       "topics": [
         "cost-tracking",
@@ -1101,7 +1101,7 @@
       "npmUrl": "https://www.npmjs.com/package/dsh-undo-savepoint",
       "npmName": "dsh-undo-savepoint",
       "stars": 115,
-      "updatedAt": "2026-08-22T19:13:25Z",
+      "updatedAt": "2026-08-22T19:21:05Z",
       "license": "MIT",
       "topics": [
         "backup",
@@ -1148,8 +1148,8 @@
       "homepage": "",
       "npmUrl": "https://www.npmjs.com/package/%40zseven-w%2Fdsh-crew",
       "npmName": "@zseven-w/dsh-crew",
-      "stars": 99,
-      "updatedAt": "2026-08-22T16:49:57Z",
+      "stars": 100,
+      "updatedAt": "2026-08-22T19:28:02Z",
       "license": "MIT",
       "topics": [
         "ai-agents",
@@ -1253,8 +1253,8 @@
       "homepage": "",
       "npmUrl": "https://www.npmjs.com/package/dsh-skill-mcp-panel",
       "npmName": "dsh-skill-mcp-panel",
-      "stars": 92,
-      "updatedAt": "2026-08-22T15:49:14Z",
+      "stars": 93,
+      "updatedAt": "2026-08-22T19:33:54Z",
       "license": "MIT",
       "topics": [
         "deepseek",
@@ -1275,8 +1275,8 @@
       "homepage": "",
       "npmUrl": "https://www.npmjs.com/package/dsh-plugin-bridge",
       "npmName": "dsh-plugin-bridge",
-      "stars": 92,
-      "updatedAt": "2026-08-22T19:03:09Z",
+      "stars": 93,
+      "updatedAt": "2026-08-22T19:41:13Z",
       "license": "MIT",
       "topics": [
         "context-migration",
@@ -2159,6 +2159,34 @@
       ]
     },
     {
+      "id": "1333682494",
+      "name": "dsh-plugin-cc",
+      "fullName": "cpj-dev/dsh-plugin-cc",
+      "owner": "cpj-dev",
+      "description": "Bridge Deepseek-harness into Claude Code for review, critique, delegation, and session import.",
+      "htmlUrl": "https://github.com/cpj-dev/dsh-plugin-cc",
+      "homepage": "",
+      "npmUrl": "https://www.npmjs.com/package/dsh-plugin-cc",
+      "npmName": "dsh-plugin-cc",
+      "stars": 42,
+      "updatedAt": "2026-08-22T19:24:38Z",
+      "license": "MIT",
+      "topics": [
+        "ai-agent",
+        "claude",
+        "claude-code",
+        "claude-code-plugin",
+        "claude-plugin",
+        "coding-agent",
+        "deepseek",
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "dsh-plugins",
+        "slash-commands"
+      ]
+    },
+    {
       "id": "1333612974",
       "name": "dsh-prompt-enhancer",
       "fullName": "Fishsb/dsh-prompt-enhancer",
@@ -2177,34 +2205,6 @@
         "dsh-plugin",
         "plugin",
         "prompt-engineering"
-      ]
-    },
-    {
-      "id": "1333682494",
-      "name": "dsh-plugin-cc",
-      "fullName": "cpj-dev/dsh-plugin-cc",
-      "owner": "cpj-dev",
-      "description": "Bridge Deepseek-harness into Claude Code for review, critique, delegation, and session import.",
-      "htmlUrl": "https://github.com/cpj-dev/dsh-plugin-cc",
-      "homepage": "",
-      "npmUrl": "https://www.npmjs.com/package/dsh-plugin-cc",
-      "npmName": "dsh-plugin-cc",
-      "stars": 41,
-      "updatedAt": "2026-08-22T17:09:38Z",
-      "license": "MIT",
-      "topics": [
-        "ai-agent",
-        "claude",
-        "claude-code",
-        "claude-code-plugin",
-        "claude-plugin",
-        "coding-agent",
-        "deepseek",
-        "deepseek-harness",
-        "dsh",
-        "dsh-plugin",
-        "dsh-plugins",
-        "slash-commands"
       ]
     },
     {
@@ -2434,6 +2434,33 @@
       ]
     },
     {
+      "id": "1333768172",
+      "name": "dsh-mcp-panel",
+      "fullName": "PerryLink/dsh-mcp-panel",
+      "owner": "PerryLink",
+      "description": "MCP management console for the official DeepSeek Harness MCP client: /mcp command with health diagnostics and pipeline trial calls, a Settings MCP tab with server CRUD (approval-gated writes, automatic backups) and a tool trial console over the official tool pipeline (Apache-2.0, dsh-plugin).",
+      "htmlUrl": "https://github.com/PerryLink/dsh-mcp-panel",
+      "homepage": "https://www.npmjs.com/package/dsh-mcp-panel",
+      "npmUrl": "https://www.npmjs.com/package/dsh-mcp-panel",
+      "npmName": "dsh-mcp-panel",
+      "stars": 36,
+      "updatedAt": "2026-08-22T19:43:04Z",
+      "license": "Apache-2.0",
+      "topics": [
+        "cordis",
+        "deepseek",
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "management",
+        "mcp",
+        "mcp-client",
+        "mcp-console",
+        "observability",
+        "panel"
+      ]
+    },
+    {
       "id": "1333088207",
       "name": "oh-my-tianshu",
       "fullName": "huiliyi37/oh-my-tianshu",
@@ -2538,33 +2565,6 @@
         "dsh-plugin",
         "plugin",
         "web-ui"
-      ]
-    },
-    {
-      "id": "1333768172",
-      "name": "dsh-mcp-panel",
-      "fullName": "PerryLink/dsh-mcp-panel",
-      "owner": "PerryLink",
-      "description": "MCP management console for the official DeepSeek Harness MCP client: /mcp command with health diagnostics and pipeline trial calls, a Settings MCP tab with server CRUD (approval-gated writes, automatic backups) and a tool trial console over the official tool pipeline (Apache-2.0, dsh-plugin).",
-      "htmlUrl": "https://github.com/PerryLink/dsh-mcp-panel",
-      "homepage": "https://www.npmjs.com/package/dsh-mcp-panel",
-      "npmUrl": "https://www.npmjs.com/package/dsh-mcp-panel",
-      "npmName": "dsh-mcp-panel",
-      "stars": 35,
-      "updatedAt": "2026-08-22T18:45:22Z",
-      "license": "Apache-2.0",
-      "topics": [
-        "cordis",
-        "deepseek",
-        "deepseek-harness",
-        "dsh",
-        "dsh-plugin",
-        "management",
-        "mcp",
-        "mcp-client",
-        "mcp-console",
-        "observability",
-        "panel"
       ]
     },
     {
