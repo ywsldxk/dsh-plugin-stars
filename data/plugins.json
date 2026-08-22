@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T21:15:50.582Z",
+  "generatedAt": "2026-08-22T21:44:22.868Z",
   "source": "github-search-topics-dsh-plugin,dsh,deepseek-harness",
   "threshold": 25,
   "note": "Merged and deduplicated by repository id from three GitHub repository topic searches (topic:dsh-plugin, topic:dsh, topic:deepseek-harness). GitHub repository search returns at most 1,000 results per query, so this list contains the most popular matches within those windows, not a complete census.",
@@ -14,8 +14,8 @@
       "homepage": "https://open-design.ai",
       "npmUrl": "https://www.npmjs.com/package/open-design",
       "npmName": "open-design",
-      "stars": 90418,
-      "updatedAt": "2026-08-22T21:03:52Z",
+      "stars": 90419,
+      "updatedAt": "2026-08-22T21:41:46Z",
       "license": "Apache-2.0",
       "topics": [
         "agent-skills",
@@ -69,8 +69,8 @@
       "homepage": "https://www.ipollo.ai/",
       "npmUrl": "https://www.npmjs.com/package/%40ipollo%2Fipollowork-workspace",
       "npmName": "@ipollo/ipollowork-workspace",
-      "stars": 4513,
-      "updatedAt": "2026-08-22T21:11:36Z",
+      "stars": 4516,
+      "updatedAt": "2026-08-22T21:35:05Z",
       "license": "NOASSERTION",
       "topics": [
         "agent-collaboration",
@@ -524,8 +524,8 @@
       "homepage": "",
       "npmUrl": "https://www.npmjs.com/package/%40deepseek-ai%2Fdsh-client-ui-aqua",
       "npmName": "@deepseek-ai/dsh-client-ui-aqua",
-      "stars": 365,
-      "updatedAt": "2026-08-22T17:33:09Z",
+      "stars": 364,
+      "updatedAt": "2026-08-22T21:28:52Z",
       "license": "AGPL-3.0",
       "topics": [
         "deepseek-harness",
@@ -696,7 +696,7 @@
       "npmUrl": "https://www.npmjs.com/package/dsh-memory-evolve",
       "npmName": "dsh-memory-evolve",
       "stars": 224,
-      "updatedAt": "2026-08-22T20:36:42Z",
+      "updatedAt": "2026-08-22T21:40:17Z",
       "license": "MIT",
       "topics": [
         "deepseek-harness",
@@ -806,8 +806,8 @@
       "homepage": "",
       "npmUrl": "https://www.npmjs.com/package/dsh-synapse",
       "npmName": "dsh-synapse",
-      "stars": 164,
-      "updatedAt": "2026-08-22T21:06:30Z",
+      "stars": 165,
+      "updatedAt": "2026-08-22T21:23:47Z",
       "license": "MIT",
       "topics": [
         "deepseek",
@@ -951,8 +951,8 @@
       "homepage": "https://op.zseven.tech",
       "npmUrl": "https://www.npmjs.com/package/%40zseven-w%2Fdsh-openpencil",
       "npmName": "@zseven-w/dsh-openpencil",
-      "stars": 145,
-      "updatedAt": "2026-08-22T17:09:52Z",
+      "stars": 146,
+      "updatedAt": "2026-08-22T21:27:04Z",
       "license": "MIT",
       "topics": [
         "deepseek-harness",
@@ -1027,8 +1027,8 @@
       "homepage": "",
       "npmUrl": "https://www.npmjs.com/package/oh-story-dsh",
       "npmName": "oh-story-dsh",
-      "stars": 131,
-      "updatedAt": "2026-08-22T19:52:47Z",
+      "stars": 132,
+      "updatedAt": "2026-08-22T21:21:03Z",
       "license": "MIT",
       "topics": [
         "ai-agents",
@@ -1100,8 +1100,8 @@
       "homepage": "",
       "npmUrl": "https://www.npmjs.com/package/dsh-mobile",
       "npmName": "dsh-mobile",
-      "stars": 116,
-      "updatedAt": "2026-08-22T20:07:36Z",
+      "stars": 117,
+      "updatedAt": "2026-08-22T21:34:42Z",
       "license": "Apache-2.0",
       "topics": [
         "android",
@@ -1410,8 +1410,8 @@
       "homepage": "",
       "npmUrl": "https://www.npmjs.com/package/dsh-find-plugin",
       "npmName": "dsh-find-plugin",
-      "stars": 77,
-      "updatedAt": "2026-08-22T16:40:39Z",
+      "stars": 78,
+      "updatedAt": "2026-08-22T21:43:52Z",
       "license": "MIT",
       "topics": [
         "deepseek-harness",
@@ -1591,26 +1591,6 @@
       ]
     },
     {
-      "id": "1331608070",
-      "name": "dsh-desktop",
-      "fullName": "bruc3van/dsh-desktop",
-      "owner": "bruc3van",
-      "description": "一款主打安全且更尊重开发者的第三方 DSH 桌面客户端。官方 Web UI ，长任务常驻托盘，支持通知推送；内置安全市场，600+精选插件支持先审查、再安装。",
-      "htmlUrl": "https://github.com/bruc3van/dsh-desktop",
-      "homepage": "https://x.com/bruc3van",
-      "npmUrl": "https://www.npmjs.com/package/dsh-desktop",
-      "npmName": "dsh-desktop",
-      "stars": 66,
-      "updatedAt": "2026-08-22T13:02:13Z",
-      "license": "MIT",
-      "topics": [
-        "deepseek",
-        "deepseek-desktop",
-        "deepseek-harness",
-        "dsh-plugin"
-      ]
-    },
-    {
       "id": "1334214605",
       "name": "dsh-reverse-skill",
       "fullName": "dhicoc/dsh-reverse-skill",
@@ -1630,6 +1610,26 @@
         "pentest",
         "reverse-engineering",
         "security"
+      ]
+    },
+    {
+      "id": "1331608070",
+      "name": "dsh-desktop",
+      "fullName": "bruc3van/dsh-desktop",
+      "owner": "bruc3van",
+      "description": "一款主打安全且更尊重开发者的第三方 DSH 桌面客户端。官方 Web UI ，长任务常驻托盘，支持通知推送；内置安全市场，600+精选插件支持先审查、再安装。",
+      "htmlUrl": "https://github.com/bruc3van/dsh-desktop",
+      "homepage": "https://x.com/bruc3van",
+      "npmUrl": "https://www.npmjs.com/package/dsh-desktop",
+      "npmName": "dsh-desktop",
+      "stars": 66,
+      "updatedAt": "2026-08-22T13:02:13Z",
+      "license": "MIT",
+      "topics": [
+        "deepseek",
+        "deepseek-desktop",
+        "deepseek-harness",
+        "dsh-plugin"
       ]
     },
     {
@@ -1692,6 +1692,30 @@
       ]
     },
     {
+      "id": "1335877752",
+      "name": "dsh-evolve-modes",
+      "fullName": "GraySilver/dsh-evolve-modes",
+      "owner": "GraySilver",
+      "description": "让 Agent 的工作方式可组合、可审查、可持续改进，最终实现 Agent Self Evoling。 DeepSeek Harness Web plugin with composable task controls and isolated, human-reviewed self-evolution.",
+      "htmlUrl": "https://github.com/GraySilver/dsh-evolve-modes",
+      "homepage": "https://www.npmjs.com/package/@graysilver/dsh-evolve-modes",
+      "npmUrl": "https://www.npmjs.com/package/%40graysilver%2Fdsh-evolve-modes",
+      "npmName": "@graysilver/dsh-evolve-modes",
+      "stars": 58,
+      "updatedAt": "2026-08-22T21:17:28Z",
+      "license": "MIT",
+      "topics": [
+        "acceptance-review",
+        "agent-review",
+        "ai-agents",
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "plan-mode",
+        "prompt-engineering"
+      ]
+    },
+    {
       "id": "1334657392",
       "name": "dsh-notifier",
       "fullName": "THEWOLFWALKER/dsh-notifier",
@@ -1706,30 +1730,6 @@
       "license": "MIT",
       "topics": [
         "dsh-plugin"
-      ]
-    },
-    {
-      "id": "1335877752",
-      "name": "dsh-evolve-modes",
-      "fullName": "GraySilver/dsh-evolve-modes",
-      "owner": "GraySilver",
-      "description": "让 Agent 的工作方式可组合、可审查、可持续改进，最终实现 Agent Self Evoling。 DeepSeek Harness Web plugin with composable task controls and isolated, human-reviewed self-evolution.",
-      "htmlUrl": "https://github.com/GraySilver/dsh-evolve-modes",
-      "homepage": "https://www.npmjs.com/package/@graysilver/dsh-evolve-modes",
-      "npmUrl": "https://www.npmjs.com/package/%40graysilver%2Fdsh-evolve-modes",
-      "npmName": "@graysilver/dsh-evolve-modes",
-      "stars": 57,
-      "updatedAt": "2026-08-22T18:00:27Z",
-      "license": "MIT",
-      "topics": [
-        "acceptance-review",
-        "agent-review",
-        "ai-agents",
-        "deepseek-harness",
-        "dsh",
-        "dsh-plugin",
-        "plan-mode",
-        "prompt-engineering"
       ]
     },
     {
@@ -2610,6 +2610,25 @@
       ]
     },
     {
+      "id": "1336836593",
+      "name": "dsh-recall-unread",
+      "fullName": "hg1048596-pixel/dsh-recall-unread",
+      "owner": "hg1048596-pixel",
+      "description": "DeepSeek Harness (DSH) 插件：在模型读取前撤回已发送的文字消息，支持单条与全部撤回。A DeepSeek Harness plugin that recalls sent-but-unread text messages before the model reads them — one-by-one or all at once.",
+      "htmlUrl": "https://github.com/hg1048596-pixel/dsh-recall-unread",
+      "homepage": "",
+      "npmUrl": "https://www.npmjs.com/package/dsh-recall-unread",
+      "npmName": "dsh-recall-unread",
+      "stars": 33,
+      "updatedAt": "2026-08-22T07:02:14Z",
+      "license": "MIT",
+      "topics": [
+        "dsh-plugin",
+        "dsh-plugin-market",
+        "dsh-plugins"
+      ]
+    },
+    {
       "id": "1335660277",
       "name": "picturereader",
       "fullName": "jing-hy/picturereader",
@@ -2632,25 +2651,6 @@
       ]
     },
     {
-      "id": "1336836593",
-      "name": "dsh-recall-unread",
-      "fullName": "hg1048596-pixel/dsh-recall-unread",
-      "owner": "hg1048596-pixel",
-      "description": "DeepSeek Harness (DSH) 插件：在模型读取前撤回已发送的文字消息，支持单条与全部撤回。A DeepSeek Harness plugin that recalls sent-but-unread text messages before the model reads them — one-by-one or all at once.",
-      "htmlUrl": "https://github.com/hg1048596-pixel/dsh-recall-unread",
-      "homepage": "",
-      "npmUrl": "https://www.npmjs.com/package/dsh-recall-unread",
-      "npmName": "dsh-recall-unread",
-      "stars": 33,
-      "updatedAt": "2026-08-22T07:02:14Z",
-      "license": "MIT",
-      "topics": [
-        "dsh-plugin",
-        "dsh-plugin-market",
-        "dsh-plugins"
-      ]
-    },
-    {
       "id": "1335082381",
       "name": "dsh-save-money",
       "fullName": "zhu168/dsh-save-money",
@@ -2661,12 +2661,30 @@
       "npmUrl": "https://www.npmjs.com/package/dsh-save-money",
       "npmName": "dsh-save-money",
       "stars": 33,
-      "updatedAt": "2026-08-20T18:09:01Z",
+      "updatedAt": "2026-08-22T21:38:31Z",
       "license": "MIT",
       "topics": [
         "dsh",
         "dsh-plugin",
         "dsh-plugins"
+      ]
+    },
+    {
+      "id": "1332051085",
+      "name": "dsh-share",
+      "fullName": "hellodigua/dsh-share",
+      "owner": "hellodigua",
+      "description": "DSH 对话分享插件，分享单轮或多轮对话，可导出为图片或 Markdown。Share DSH Q&As or selected conversation groups as PNG or Markdown.",
+      "htmlUrl": "https://github.com/hellodigua/dsh-share",
+      "homepage": "",
+      "npmUrl": "https://www.npmjs.com/package/dsh-share",
+      "npmName": "dsh-share",
+      "stars": 31,
+      "updatedAt": "2026-08-22T21:33:06Z",
+      "license": "MIT",
+      "topics": [
+        "dsh",
+        "dsh-plugin"
       ]
     },
     {
@@ -2771,24 +2789,6 @@
         "dsh-plugin",
         "dshx",
         "ego-lite"
-      ]
-    },
-    {
-      "id": "1332051085",
-      "name": "dsh-share",
-      "fullName": "hellodigua/dsh-share",
-      "owner": "hellodigua",
-      "description": "DSH 对话分享插件，分享单轮或多轮对话，可导出为图片或 Markdown。Share DSH Q&As or selected conversation groups as PNG or Markdown.",
-      "htmlUrl": "https://github.com/hellodigua/dsh-share",
-      "homepage": "",
-      "npmUrl": "https://www.npmjs.com/package/dsh-share",
-      "npmName": "dsh-share",
-      "stars": 30,
-      "updatedAt": "2026-08-21T17:08:17Z",
-      "license": "MIT",
-      "topics": [
-        "dsh",
-        "dsh-plugin"
       ]
     },
     {
