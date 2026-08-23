@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T21:16:00.890Z",
+  "generatedAt": "2026-08-23T21:44:36.280Z",
   "source": "github-search-topics-dsh-plugin,dsh,deepseek-harness",
   "threshold": 25,
   "note": "Merged and deduplicated by repository id from three GitHub repository topic searches (topic:dsh-plugin, topic:dsh, topic:deepseek-harness). GitHub repository search returns at most 1,000 results per query, so this list contains the most popular matches within those windows, not a complete census.",
@@ -14,8 +14,8 @@
       "homepage": "https://open-design.ai",
       "npmUrl": "https://www.npmjs.com/package/open-design",
       "npmName": "open-design",
-      "stars": 90721,
-      "updatedAt": "2026-08-23T21:14:17Z",
+      "stars": 90725,
+      "updatedAt": "2026-08-23T21:41:43Z",
       "license": "Apache-2.0",
       "topics": [
         "agent-skills",
@@ -50,8 +50,8 @@
       "homepage": "https://dsh-market.com",
       "npmUrl": "https://www.npmjs.com/package/dsh-web-ui",
       "npmName": "dsh-web-ui",
-      "stars": 5739,
-      "updatedAt": "2026-08-23T21:08:10Z",
+      "stars": 5741,
+      "updatedAt": "2026-08-23T21:39:26Z",
       "license": "Apache-2.0",
       "topics": [
         "cordis",
@@ -72,8 +72,8 @@
       "homepage": "https://www.ipollo.ai/",
       "npmUrl": "https://www.npmjs.com/package/%40ipollo%2Fipollowork-workspace",
       "npmName": "@ipollo/ipollowork-workspace",
-      "stars": 4638,
-      "updatedAt": "2026-08-23T20:57:06Z",
+      "stars": 4641,
+      "updatedAt": "2026-08-23T21:22:56Z",
       "license": "NOASSERTION",
       "topics": [
         "agent-collaboration",
@@ -106,8 +106,8 @@
       "homepage": "https://liustack.dev",
       "npmUrl": "https://www.npmjs.com/package/%40liustack%2Fmodlens",
       "npmName": "@liustack/modlens",
-      "stars": 3556,
-      "updatedAt": "2026-08-23T20:54:06Z",
+      "stars": 3555,
+      "updatedAt": "2026-08-23T21:33:07Z",
       "license": "MIT",
       "topics": [
         "agent-skills",
@@ -142,8 +142,8 @@
       "homepage": "https://whiteguo233.github.io/OpenBiliClaw/",
       "npmUrl": "",
       "npmName": "",
-      "stars": 2999,
-      "updatedAt": "2026-08-23T20:32:35Z",
+      "stars": 3000,
+      "updatedAt": "2026-08-23T21:36:12Z",
       "license": "MIT",
       "topics": [
         "ai-agent",
@@ -178,8 +178,8 @@
       "homepage": "https://dshtui.com/",
       "npmUrl": "https://www.npmjs.com/package/%40deepseek-harness-tui%2Fdsh-tui",
       "npmName": "@deepseek-harness-tui/dsh-tui",
-      "stars": 2370,
-      "updatedAt": "2026-08-23T20:57:02Z",
+      "stars": 2371,
+      "updatedAt": "2026-08-23T21:36:30Z",
       "license": "MIT",
       "topics": [
         "claude-code",
@@ -1363,8 +1363,8 @@
       "homepage": "",
       "npmUrl": "https://www.npmjs.com/package/dsh-dream-skin",
       "npmName": "dsh-dream-skin",
-      "stars": 90,
-      "updatedAt": "2026-08-23T18:46:29Z",
+      "stars": 91,
+      "updatedAt": "2026-08-23T21:21:36Z",
       "license": "MIT",
       "topics": [
         "deepseek-harness",
@@ -2071,6 +2071,24 @@
       ]
     },
     {
+      "id": "1333328839",
+      "name": "dsh-status-rotator",
+      "fullName": "01Virex/dsh-status-rotator",
+      "owner": "01Virex",
+      "description": "A DeepSeek Harness (dsh) web plugin that replaces the \"Deep diving…\" turn-status label with phase-aware, typewriter-animated, rainbow-gradient phrases — all configurable from a JSON file.",
+      "htmlUrl": "https://github.com/01Virex/dsh-status-rotator",
+      "homepage": "",
+      "npmUrl": "https://www.npmjs.com/package/dsh-status-rotator",
+      "npmName": "dsh-status-rotator",
+      "stars": 51,
+      "updatedAt": "2026-08-23T21:25:37Z",
+      "license": "MIT",
+      "topics": [
+        "dsh",
+        "dsh-plugin"
+      ]
+    },
+    {
       "id": "1335654115",
       "name": "dsh-desktop-hub",
       "fullName": "FlashingChen/dsh-desktop-hub",
@@ -2091,24 +2109,6 @@
         "dsh-plugins",
         "electron",
         "typescript"
-      ]
-    },
-    {
-      "id": "1333328839",
-      "name": "dsh-status-rotator",
-      "fullName": "01Virex/dsh-status-rotator",
-      "owner": "01Virex",
-      "description": "A DeepSeek Harness (dsh) web plugin that replaces the \"Deep diving…\" turn-status label with phase-aware, typewriter-animated, rainbow-gradient phrases — all configurable from a JSON file.",
-      "htmlUrl": "https://github.com/01Virex/dsh-status-rotator",
-      "homepage": "",
-      "npmUrl": "https://www.npmjs.com/package/dsh-status-rotator",
-      "npmName": "dsh-status-rotator",
-      "stars": 50,
-      "updatedAt": "2026-08-23T18:44:09Z",
-      "license": "MIT",
-      "topics": [
-        "dsh",
-        "dsh-plugin"
       ]
     },
     {
@@ -2473,6 +2473,25 @@
       ]
     },
     {
+      "id": "1336836593",
+      "name": "dsh-recall-unread",
+      "fullName": "hg1048596-pixel/dsh-recall-unread",
+      "owner": "hg1048596-pixel",
+      "description": "DeepSeek Harness (DSH) 插件：在模型读取前撤回已发送的文字消息，支持单条与全部撤回。A DeepSeek Harness plugin that recalls sent-but-unread text messages before the model reads them — one-by-one or all at once.",
+      "htmlUrl": "https://github.com/hg1048596-pixel/dsh-recall-unread",
+      "homepage": "",
+      "npmUrl": "https://www.npmjs.com/package/dsh-recall-unread",
+      "npmName": "dsh-recall-unread",
+      "stars": 37,
+      "updatedAt": "2026-08-23T21:24:03Z",
+      "license": "MIT",
+      "topics": [
+        "dsh-plugin",
+        "dsh-plugin-market",
+        "dsh-plugins"
+      ]
+    },
+    {
       "id": "1333320049",
       "name": "dsh-web-search-pro",
       "fullName": "anweat/dsh-web-search-pro",
@@ -2515,25 +2534,6 @@
         "dsh-plugin",
         "plugin",
         "web-ui"
-      ]
-    },
-    {
-      "id": "1336836593",
-      "name": "dsh-recall-unread",
-      "fullName": "hg1048596-pixel/dsh-recall-unread",
-      "owner": "hg1048596-pixel",
-      "description": "DeepSeek Harness (DSH) 插件：在模型读取前撤回已发送的文字消息，支持单条与全部撤回。A DeepSeek Harness plugin that recalls sent-but-unread text messages before the model reads them — one-by-one or all at once.",
-      "htmlUrl": "https://github.com/hg1048596-pixel/dsh-recall-unread",
-      "homepage": "",
-      "npmUrl": "https://www.npmjs.com/package/dsh-recall-unread",
-      "npmName": "dsh-recall-unread",
-      "stars": 36,
-      "updatedAt": "2026-08-23T19:00:54Z",
-      "license": "MIT",
-      "topics": [
-        "dsh-plugin",
-        "dsh-plugin-market",
-        "dsh-plugins"
       ]
     },
     {
