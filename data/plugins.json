@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T22:46:13.387Z",
+  "generatedAt": "2026-08-23T23:15:05.216Z",
   "source": "github-search-topics-dsh-plugin,dsh,deepseek-harness",
   "threshold": 25,
   "note": "Merged and deduplicated by repository id from three GitHub repository topic searches (topic:dsh-plugin, topic:dsh, topic:deepseek-harness). GitHub repository search returns at most 1,000 results per query, so this list contains the most popular matches within those windows, not a complete census.",
@@ -14,8 +14,8 @@
       "homepage": "https://open-design.ai",
       "npmUrl": "https://www.npmjs.com/package/open-design",
       "npmName": "open-design",
-      "stars": 90730,
-      "updatedAt": "2026-08-23T22:24:49Z",
+      "stars": 90734,
+      "updatedAt": "2026-08-23T23:10:53Z",
       "license": "Apache-2.0",
       "topics": [
         "agent-skills",
@@ -72,8 +72,8 @@
       "homepage": "https://www.ipollo.ai/",
       "npmUrl": "https://www.npmjs.com/package/%40ipollo%2Fipollowork-workspace",
       "npmName": "@ipollo/ipollowork-workspace",
-      "stars": 4644,
-      "updatedAt": "2026-08-23T22:37:01Z",
+      "stars": 4645,
+      "updatedAt": "2026-08-23T22:54:48Z",
       "license": "NOASSERTION",
       "topics": [
         "agent-collaboration",
@@ -178,8 +178,8 @@
       "homepage": "https://dshtui.com/",
       "npmUrl": "https://www.npmjs.com/package/%40deepseek-harness-tui%2Fdsh-tui",
       "npmName": "@deepseek-harness-tui/dsh-tui",
-      "stars": 2372,
-      "updatedAt": "2026-08-23T22:18:11Z",
+      "stars": 2373,
+      "updatedAt": "2026-08-23T23:07:17Z",
       "license": "MIT",
       "topics": [
         "claude-code",
@@ -286,8 +286,8 @@
       "homepage": "https://www.npmjs.com/package/dsh-context",
       "npmUrl": "https://www.npmjs.com/package/dsh-context",
       "npmName": "dsh-context",
-      "stars": 939,
-      "updatedAt": "2026-08-23T22:40:21Z",
+      "stars": 940,
+      "updatedAt": "2026-08-23T22:57:21Z",
       "license": "Apache-2.0",
       "topics": [
         "cordis-plugin",
@@ -308,8 +308,8 @@
       "homepage": "",
       "npmUrl": "https://www.npmjs.com/package/%40nanmicoder%2Fdsh-agent-teams",
       "npmName": "@nanmicoder/dsh-agent-teams",
-      "stars": 898,
-      "updatedAt": "2026-08-23T19:10:52Z",
+      "stars": 899,
+      "updatedAt": "2026-08-23T22:57:31Z",
       "license": "MIT",
       "topics": [
         "agentteams",
@@ -528,7 +528,7 @@
       "npmUrl": "https://www.npmjs.com/package/%40deepseek-ai%2Fdsh-client-ui-aqua",
       "npmName": "@deepseek-ai/dsh-client-ui-aqua",
       "stars": 371,
-      "updatedAt": "2026-08-23T15:57:31Z",
+      "updatedAt": "2026-08-23T23:14:09Z",
       "license": "AGPL-3.0",
       "topics": [
         "deepseek-harness",
@@ -566,8 +566,8 @@
       "homepage": "",
       "npmUrl": "https://www.npmjs.com/package/whale-girl",
       "npmName": "whale-girl",
-      "stars": 273,
-      "updatedAt": "2026-08-23T12:03:13Z",
+      "stars": 274,
+      "updatedAt": "2026-08-23T23:09:12Z",
       "license": "MIT",
       "topics": [
         "deepseek-harness",
@@ -588,7 +588,7 @@
       "npmUrl": "https://www.npmjs.com/package/dsh-plugin-subscriptions",
       "npmName": "dsh-plugin-subscriptions",
       "stars": 252,
-      "updatedAt": "2026-08-23T19:58:39Z",
+      "updatedAt": "2026-08-23T23:08:16Z",
       "license": "MIT",
       "topics": [
         "ai-agent",
@@ -614,7 +614,7 @@
       "npmUrl": "https://www.npmjs.com/package/%40deepseek-ai%2Fdsh-root",
       "npmName": "@deepseek-ai/dsh-root",
       "stars": 252,
-      "updatedAt": "2026-08-23T08:27:33Z",
+      "updatedAt": "2026-08-23T22:55:55Z",
       "license": "MIT",
       "topics": [
         "ai-agent",
@@ -935,8 +935,8 @@
       "homepage": "",
       "npmUrl": "https://www.npmjs.com/package/oh-story-dsh",
       "npmName": "oh-story-dsh",
-      "stars": 156,
-      "updatedAt": "2026-08-23T17:58:51Z",
+      "stars": 157,
+      "updatedAt": "2026-08-23T23:12:34Z",
       "license": "MIT",
       "topics": [
         "ai-agents",
@@ -1168,29 +1168,6 @@
       ]
     },
     {
-      "id": "1333732838",
-      "name": "DSH-taskboard",
-      "fullName": "shengsheng90/DSH-taskboard",
-      "owner": "shengsheng90",
-      "description": "Native local Taskboard plugin for DeepSeek Harness. SQLite-backed projects, Agent claim/review, and a native Web UI — no iframe, no second chat runtime.",
-      "htmlUrl": "https://github.com/shengsheng90/DSH-taskboard",
-      "homepage": "https://www.npmjs.com/package/@shengsheng/dsh-taskboard",
-      "npmUrl": "https://www.npmjs.com/package/%40shengsheng%2Fdsh-taskboard",
-      "npmName": "@shengsheng/dsh-taskboard",
-      "stars": 108,
-      "updatedAt": "2026-08-23T21:06:46Z",
-      "license": "Apache-2.0",
-      "topics": [
-        "agent",
-        "cordis",
-        "deepseek-harness",
-        "dsh",
-        "dsh-plugin",
-        "task-management",
-        "taskboard"
-      ]
-    },
-    {
       "id": "1336614837",
       "name": "dsh-damage-pulse",
       "fullName": "wssfk12138/dsh-damage-pulse",
@@ -1212,6 +1189,29 @@
         "dsh-plugin",
         "token-monitor",
         "token-usage"
+      ]
+    },
+    {
+      "id": "1333732838",
+      "name": "DSH-taskboard",
+      "fullName": "shengsheng90/DSH-taskboard",
+      "owner": "shengsheng90",
+      "description": "Native local Taskboard plugin for DeepSeek Harness. SQLite-backed projects, Agent claim/review, and a native Web UI — no iframe, no second chat runtime.",
+      "htmlUrl": "https://github.com/shengsheng90/DSH-taskboard",
+      "homepage": "https://www.npmjs.com/package/@shengsheng/dsh-taskboard",
+      "npmUrl": "https://www.npmjs.com/package/%40shengsheng%2Fdsh-taskboard",
+      "npmName": "@shengsheng/dsh-taskboard",
+      "stars": 108,
+      "updatedAt": "2026-08-23T21:06:46Z",
+      "license": "Apache-2.0",
+      "topics": [
+        "agent",
+        "cordis",
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "task-management",
+        "taskboard"
       ]
     },
     {
@@ -1473,8 +1473,8 @@
       "homepage": "https://www.npmjs.com/package/@graysilver/dsh-evolve-modes",
       "npmUrl": "https://www.npmjs.com/package/%40graysilver%2Fdsh-evolve-modes",
       "npmName": "@graysilver/dsh-evolve-modes",
-      "stars": 79,
-      "updatedAt": "2026-08-23T21:13:37Z",
+      "stars": 80,
+      "updatedAt": "2026-08-23T22:54:03Z",
       "license": "MIT",
       "topics": [
         "acceptance-review",
@@ -1749,7 +1749,7 @@
       "npmUrl": "https://www.npmjs.com/package/dsh-market",
       "npmName": "dsh-market",
       "stars": 61,
-      "updatedAt": "2026-08-23T18:19:26Z",
+      "updatedAt": "2026-08-23T22:56:24Z",
       "license": "NOASSERTION",
       "topics": [
         "deepseek-harness",
@@ -2829,7 +2829,7 @@
       "npmUrl": "https://www.npmjs.com/package/%40skyf0xx%2Fhedgehog",
       "npmName": "@skyf0xx/hedgehog",
       "stars": 30,
-      "updatedAt": "2026-08-23T20:55:43Z",
+      "updatedAt": "2026-08-23T23:08:27Z",
       "license": "MIT",
       "topics": [
         "agent-skills",
@@ -3220,24 +3220,6 @@
       ]
     },
     {
-      "id": "1331821326",
-      "name": "dsh-plugin-better-sidebar-plugin-office",
-      "fullName": "HuanLinOTO/dsh-plugin-better-sidebar-plugin-office",
-      "owner": "HuanLinOTO",
-      "description": "为 better-sidebar 提供 Office 三件套预览（.docx/.xlsx/.pptx），独立 bundle 瘦身主体 | Provides Office-suite preview (.docx/.xlsx/.pptx) for better-sidebar as a separate bundle to slim the core",
-      "htmlUrl": "https://github.com/HuanLinOTO/dsh-plugin-better-sidebar-plugin-office",
-      "homepage": "",
-      "npmUrl": "https://www.npmjs.com/package/%40huanlin%2Fdsh-plugin-better-sidebar-plugin-office",
-      "npmName": "@huanlin/dsh-plugin-better-sidebar-plugin-office",
-      "stars": 25,
-      "updatedAt": "2026-08-23T13:49:49Z",
-      "license": "NOASSERTION",
-      "topics": [
-        "dsh-better-sidebar",
-        "dsh-plugin"
-      ]
-    },
-    {
       "id": "1334434866",
       "name": "dsh-recall-plugin",
       "fullName": "limbo947/dsh-recall-plugin",
@@ -3257,6 +3239,24 @@
         "dsh-plugin",
         "plugin",
         "windows"
+      ]
+    },
+    {
+      "id": "1331821326",
+      "name": "dsh-plugin-better-sidebar-plugin-office",
+      "fullName": "HuanLinOTO/dsh-plugin-better-sidebar-plugin-office",
+      "owner": "HuanLinOTO",
+      "description": "为 better-sidebar 提供 Office 三件套预览（.docx/.xlsx/.pptx），独立 bundle 瘦身主体 | Provides Office-suite preview (.docx/.xlsx/.pptx) for better-sidebar as a separate bundle to slim the core",
+      "htmlUrl": "https://github.com/HuanLinOTO/dsh-plugin-better-sidebar-plugin-office",
+      "homepage": "",
+      "npmUrl": "https://www.npmjs.com/package/%40huanlin%2Fdsh-plugin-better-sidebar-plugin-office",
+      "npmName": "@huanlin/dsh-plugin-better-sidebar-plugin-office",
+      "stars": 25,
+      "updatedAt": "2026-08-23T13:49:49Z",
+      "license": "NOASSERTION",
+      "topics": [
+        "dsh-better-sidebar",
+        "dsh-plugin"
       ]
     },
     {
