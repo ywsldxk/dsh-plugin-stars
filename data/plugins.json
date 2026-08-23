@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T07:56:08.073Z",
+  "generatedAt": "2026-08-23T08:23:41.534Z",
   "source": "github-search-topics-dsh-plugin,dsh,deepseek-harness",
   "threshold": 25,
   "note": "Merged and deduplicated by repository id from three GitHub repository topic searches (topic:dsh-plugin, topic:dsh, topic:deepseek-harness). GitHub repository search returns at most 1,000 results per query, so this list contains the most popular matches within those windows, not a complete census.",
@@ -14,8 +14,8 @@
       "homepage": "https://open-design.ai",
       "npmUrl": "https://www.npmjs.com/package/open-design",
       "npmName": "open-design",
-      "stars": 90540,
-      "updatedAt": "2026-08-23T07:47:50Z",
+      "stars": 90545,
+      "updatedAt": "2026-08-23T08:19:32Z",
       "license": "Apache-2.0",
       "topics": [
         "agent-skills",
@@ -50,8 +50,8 @@
       "homepage": "https://dsh-market.com",
       "npmUrl": "https://www.npmjs.com/package/dsh-web-ui",
       "npmName": "dsh-web-ui",
-      "stars": 5638,
-      "updatedAt": "2026-08-23T07:37:44Z",
+      "stars": 5639,
+      "updatedAt": "2026-08-23T08:20:18Z",
       "license": "Apache-2.0",
       "topics": [
         "cordis",
@@ -72,8 +72,8 @@
       "homepage": "https://www.ipollo.ai/",
       "npmUrl": "https://www.npmjs.com/package/%40ipollo%2Fipollowork-workspace",
       "npmName": "@ipollo/ipollowork-workspace",
-      "stars": 4574,
-      "updatedAt": "2026-08-23T07:41:01Z",
+      "stars": 4580,
+      "updatedAt": "2026-08-23T08:14:39Z",
       "license": "NOASSERTION",
       "topics": [
         "agent-collaboration",
@@ -106,8 +106,8 @@
       "homepage": "https://liustack.dev",
       "npmUrl": "https://www.npmjs.com/package/%40liustack%2Fmodlens",
       "npmName": "@liustack/modlens",
-      "stars": 3537,
-      "updatedAt": "2026-08-23T07:38:27Z",
+      "stars": 3538,
+      "updatedAt": "2026-08-23T08:05:44Z",
       "license": "MIT",
       "topics": [
         "agent-skills",
@@ -142,8 +142,8 @@
       "homepage": "https://whiteguo233.github.io/OpenBiliClaw/",
       "npmUrl": "",
       "npmName": "",
-      "stars": 2989,
-      "updatedAt": "2026-08-23T07:54:24Z",
+      "stars": 2991,
+      "updatedAt": "2026-08-23T08:03:47Z",
       "license": "MIT",
       "topics": [
         "ai-agent",
@@ -178,8 +178,8 @@
       "homepage": "https://dshtui.com/",
       "npmUrl": "https://www.npmjs.com/package/%40deepseek-harness-tui%2Fdsh-tui",
       "npmName": "@deepseek-harness-tui/dsh-tui",
-      "stars": 2335,
-      "updatedAt": "2026-08-23T07:45:37Z",
+      "stars": 2336,
+      "updatedAt": "2026-08-23T08:06:05Z",
       "license": "MIT",
       "topics": [
         "claude-code",
@@ -308,8 +308,8 @@
       "homepage": "",
       "npmUrl": "https://www.npmjs.com/package/%40nanmicoder%2Fdsh-agent-teams",
       "npmName": "@nanmicoder/dsh-agent-teams",
-      "stars": 854,
-      "updatedAt": "2026-08-23T07:15:35Z",
+      "stars": 856,
+      "updatedAt": "2026-08-23T08:13:49Z",
       "license": "MIT",
       "topics": [
         "agentteams",
@@ -330,7 +330,7 @@
       "npmUrl": "https://www.npmjs.com/package/dsh-desktop",
       "npmName": "dsh-desktop",
       "stars": 621,
-      "updatedAt": "2026-08-23T07:24:15Z",
+      "updatedAt": "2026-08-23T07:59:41Z",
       "license": "MIT",
       "topics": [
         "agentic-workflows",
@@ -409,8 +409,8 @@
       "homepage": "https://www.beyondata.com/",
       "npmUrl": "https://www.npmjs.com/package/%40deepseek-ai%2Fdsh-root",
       "npmName": "@deepseek-ai/dsh-root",
-      "stars": 465,
-      "updatedAt": "2026-08-23T07:25:40Z",
+      "stars": 466,
+      "updatedAt": "2026-08-23T08:10:51Z",
       "license": "MIT",
       "topics": [
         "ai-agent",
@@ -548,8 +548,8 @@
       "homepage": "https://omdsh-dev.github.io/dsh-genui/",
       "npmUrl": "https://www.npmjs.com/package/%40omdsh-dev%2Fdsh-genui",
       "npmName": "@omdsh-dev/dsh-genui",
-      "stars": 299,
-      "updatedAt": "2026-08-23T06:53:43Z",
+      "stars": 300,
+      "updatedAt": "2026-08-23T08:06:17Z",
       "license": "MIT",
       "topics": [
         "dsh",
@@ -615,8 +615,8 @@
       "homepage": "",
       "npmUrl": "https://www.npmjs.com/package/dsh-plugin-subscriptions",
       "npmName": "dsh-plugin-subscriptions",
-      "stars": 247,
-      "updatedAt": "2026-08-23T07:22:57Z",
+      "stars": 248,
+      "updatedAt": "2026-08-23T08:06:30Z",
       "license": "MIT",
       "topics": [
         "ai-agent",
@@ -833,7 +833,7 @@
       "npmUrl": "https://www.npmjs.com/package/dsh-cost-meter",
       "npmName": "dsh-cost-meter",
       "stars": 162,
-      "updatedAt": "2026-08-23T06:27:18Z",
+      "updatedAt": "2026-08-23T07:59:51Z",
       "license": "MIT",
       "topics": [
         "cost-tracking",
@@ -996,8 +996,8 @@
       "homepage": "",
       "npmUrl": "https://www.npmjs.com/package/oh-story-dsh",
       "npmName": "oh-story-dsh",
-      "stars": 139,
-      "updatedAt": "2026-08-23T07:40:08Z",
+      "stars": 140,
+      "updatedAt": "2026-08-23T07:57:16Z",
       "license": "MIT",
       "topics": [
         "ai-agents",
@@ -1056,8 +1056,8 @@
       "homepage": "",
       "npmUrl": "https://www.npmjs.com/package/dsh-mobile",
       "npmName": "dsh-mobile",
-      "stars": 126,
-      "updatedAt": "2026-08-23T07:32:22Z",
+      "stars": 129,
+      "updatedAt": "2026-08-23T08:14:12Z",
       "license": "Apache-2.0",
       "topics": [
         "android",
@@ -1301,8 +1301,8 @@
       "homepage": "",
       "npmUrl": "https://www.npmjs.com/package/dsh-damage-pulse",
       "npmName": "dsh-damage-pulse",
-      "stars": 92,
-      "updatedAt": "2026-08-23T02:43:42Z",
+      "stars": 93,
+      "updatedAt": "2026-08-23T08:05:39Z",
       "license": "MIT",
       "topics": [
         "balance-monitor",
@@ -1421,6 +1421,27 @@
       ]
     },
     {
+      "id": "1335912966",
+      "name": "dsh-skin-market",
+      "fullName": "kingOfSoySauce/dsh-skin-market",
+      "owner": "kingOfSoySauce",
+      "description": "DeepSeek Harness skin market 皮肤市场 已收录100+DSH 皮肤 完善评分系统加人工审核，有便捷的社区收录入口；有在线页面方便在线浏览，也有插件方便管理本地皮肤",
+      "htmlUrl": "https://github.com/kingOfSoySauce/dsh-skin-market",
+      "homepage": "https://kingofsoysauce.github.io/dsh-skin-market/",
+      "npmUrl": "https://www.npmjs.com/package/dsh-skin-market",
+      "npmName": "dsh-skin-market",
+      "stars": 80,
+      "updatedAt": "2026-08-23T08:22:52Z",
+      "license": "MIT",
+      "topics": [
+        "deepseek-harness",
+        "dsh-plugin",
+        "plugin-market",
+        "skin-market",
+        "themes"
+      ]
+    },
+    {
       "id": "1333689922",
       "name": "dsh-find-plugin",
       "fullName": "awesome-dsh-plugin/dsh-find-plugin",
@@ -1437,27 +1458,6 @@
         "deepseek-harness",
         "dsh",
         "dsh-plugin"
-      ]
-    },
-    {
-      "id": "1335912966",
-      "name": "dsh-skin-market",
-      "fullName": "kingOfSoySauce/dsh-skin-market",
-      "owner": "kingOfSoySauce",
-      "description": "DeepSeek Harness skin market 皮肤市场 已收录100+DSH 皮肤 完善评分系统加人工审核，有便捷的社区收录入口；有在线页面方便在线浏览，也有插件方便管理本地皮肤",
-      "htmlUrl": "https://github.com/kingOfSoySauce/dsh-skin-market",
-      "homepage": "https://kingofsoysauce.github.io/dsh-skin-market/",
-      "npmUrl": "https://www.npmjs.com/package/dsh-skin-market",
-      "npmName": "dsh-skin-market",
-      "stars": 79,
-      "updatedAt": "2026-08-23T06:07:11Z",
-      "license": "MIT",
-      "topics": [
-        "deepseek-harness",
-        "dsh-plugin",
-        "plugin-market",
-        "skin-market",
-        "themes"
       ]
     },
     {
@@ -1599,8 +1599,8 @@
       "homepage": "",
       "npmUrl": "https://www.npmjs.com/package/%40noob-stupid%2Fdsh-plugin-console",
       "npmName": "@noob-stupid/dsh-plugin-console",
-      "stars": 67,
-      "updatedAt": "2026-08-23T06:59:43Z",
+      "stars": 68,
+      "updatedAt": "2026-08-23T07:58:23Z",
       "license": "MIT",
       "topics": [
         "deepseek-harness",
@@ -1654,6 +1654,30 @@
       ]
     },
     {
+      "id": "1335877752",
+      "name": "dsh-evolve-modes",
+      "fullName": "GraySilver/dsh-evolve-modes",
+      "owner": "GraySilver",
+      "description": "让 Agent 的工作方式可组合、可审查、可持续改进，最终实现 Agent Self Evoling。 DeepSeek Harness Web plugin with composable task controls and isolated, human-reviewed self-evolution.",
+      "htmlUrl": "https://github.com/GraySilver/dsh-evolve-modes",
+      "homepage": "https://www.npmjs.com/package/@graysilver/dsh-evolve-modes",
+      "npmUrl": "https://www.npmjs.com/package/%40graysilver%2Fdsh-evolve-modes",
+      "npmName": "@graysilver/dsh-evolve-modes",
+      "stars": 65,
+      "updatedAt": "2026-08-23T08:21:47Z",
+      "license": "MIT",
+      "topics": [
+        "acceptance-review",
+        "agent-review",
+        "ai-agents",
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "plan-mode",
+        "prompt-engineering"
+      ]
+    },
+    {
       "id": "1335239016",
       "name": "dsh-claude-ux",
       "fullName": "eri64/dsh-claude-ux",
@@ -1673,30 +1697,6 @@
       ]
     },
     {
-      "id": "1335877752",
-      "name": "dsh-evolve-modes",
-      "fullName": "GraySilver/dsh-evolve-modes",
-      "owner": "GraySilver",
-      "description": "让 Agent 的工作方式可组合、可审查、可持续改进，最终实现 Agent Self Evoling。 DeepSeek Harness Web plugin with composable task controls and isolated, human-reviewed self-evolution.",
-      "htmlUrl": "https://github.com/GraySilver/dsh-evolve-modes",
-      "homepage": "https://www.npmjs.com/package/@graysilver/dsh-evolve-modes",
-      "npmUrl": "https://www.npmjs.com/package/%40graysilver%2Fdsh-evolve-modes",
-      "npmName": "@graysilver/dsh-evolve-modes",
-      "stars": 63,
-      "updatedAt": "2026-08-23T07:41:42Z",
-      "license": "MIT",
-      "topics": [
-        "acceptance-review",
-        "agent-review",
-        "ai-agents",
-        "deepseek-harness",
-        "dsh",
-        "dsh-plugin",
-        "plan-mode",
-        "prompt-engineering"
-      ]
-    },
-    {
       "id": "1334063554",
       "name": "dsh-stock-watch",
       "fullName": "Awu12277/dsh-stock-watch",
@@ -1706,8 +1706,8 @@
       "homepage": "",
       "npmUrl": "https://www.npmjs.com/package/dsh-stock-watch",
       "npmName": "dsh-stock-watch",
-      "stars": 59,
-      "updatedAt": "2026-08-22T20:22:36Z",
+      "stars": 60,
+      "updatedAt": "2026-08-23T08:22:21Z",
       "license": "MIT",
       "topics": [
         "dsh-plugin",
@@ -1777,8 +1777,8 @@
       "homepage": "",
       "npmUrl": "https://www.npmjs.com/package/dsh-auth-in-one",
       "npmName": "dsh-auth-in-one",
-      "stars": 56,
-      "updatedAt": "2026-08-23T06:59:21Z",
+      "stars": 57,
+      "updatedAt": "2026-08-23T08:10:57Z",
       "license": "MIT",
       "topics": [
         "cost-attribution",
@@ -1801,6 +1801,42 @@
         "token-usage",
         "usage-attribution",
         "vision-fallback"
+      ]
+    },
+    {
+      "id": "1156210476",
+      "name": "SpecFusion",
+      "fullName": "wxkingstar/SpecFusion",
+      "owner": "wxkingstar",
+      "description": "在 DeepSeek Harness / Claude Code / Cursor / Codex / Gemini CLI 里直接搜索 20 个中国开放平台的 65,600+ 篇 API 文档；零配置，支持 Skill 与 DSH 原生插件。",
+      "htmlUrl": "https://github.com/wxkingstar/SpecFusion",
+      "homepage": "https://specfusion.kingstar.xin/",
+      "npmUrl": "https://www.npmjs.com/package/specfusion",
+      "npmName": "specfusion",
+      "stars": 55,
+      "updatedAt": "2026-08-23T08:19:28Z",
+      "license": "MIT",
+      "topics": [
+        "ai-agents",
+        "alipay",
+        "api-documentation",
+        "chinese-api",
+        "claude-code",
+        "cursor",
+        "deepseek-harness",
+        "dingtalk",
+        "douyin",
+        "dsh-plugin",
+        "feishu",
+        "gemini-cli",
+        "jd",
+        "pinduoduo",
+        "shein",
+        "taobao",
+        "wechat",
+        "wecom",
+        "xiaohongshu",
+        "youzan"
       ]
     },
     {
@@ -1844,42 +1880,6 @@
         "token",
         "wallet",
         "webui"
-      ]
-    },
-    {
-      "id": "1156210476",
-      "name": "SpecFusion",
-      "fullName": "wxkingstar/SpecFusion",
-      "owner": "wxkingstar",
-      "description": "在 DeepSeek Harness / Claude Code / Cursor / Codex / Gemini CLI 里直接搜索 20 个中国开放平台的 65,600+ 篇 API 文档；零配置，支持 Skill 与 DSH 原生插件。",
-      "htmlUrl": "https://github.com/wxkingstar/SpecFusion",
-      "homepage": "https://specfusion.kingstar.xin/",
-      "npmUrl": "https://www.npmjs.com/package/specfusion",
-      "npmName": "specfusion",
-      "stars": 54,
-      "updatedAt": "2026-08-20T06:09:54Z",
-      "license": "MIT",
-      "topics": [
-        "ai-agents",
-        "alipay",
-        "api-documentation",
-        "chinese-api",
-        "claude-code",
-        "cursor",
-        "deepseek-harness",
-        "dingtalk",
-        "douyin",
-        "dsh-plugin",
-        "feishu",
-        "gemini-cli",
-        "jd",
-        "pinduoduo",
-        "shein",
-        "taobao",
-        "wechat",
-        "wecom",
-        "xiaohongshu",
-        "youzan"
       ]
     },
     {
@@ -2487,6 +2487,29 @@
       ]
     },
     {
+      "id": "1339469423",
+      "name": "dsh-lark-bridge",
+      "fullName": "bihangchi9-creator/dsh-lark-bridge",
+      "owner": "bihangchi9-creator",
+      "description": "A native DeepSeek Harness (dsh) plugin bridging dsh coding agents to Feishu/Lark group chats — one group, one project directory.",
+      "htmlUrl": "https://github.com/bihangchi9-creator/dsh-lark-bridge",
+      "homepage": "",
+      "npmUrl": "https://www.npmjs.com/package/dsh-lark-bridge",
+      "npmName": "dsh-lark-bridge",
+      "stars": 35,
+      "updatedAt": "2026-08-21T10:36:41Z",
+      "license": "NOASSERTION",
+      "topics": [
+        "bot",
+        "coding-agent",
+        "deepseek",
+        "deepseek-harness",
+        "dsh-plugin",
+        "feishu",
+        "lark"
+      ]
+    },
+    {
       "id": "1334205011",
       "name": "dsh-wsl-workspace",
       "fullName": "6Mikao9/dsh-wsl-workspace",
@@ -2525,29 +2548,6 @@
         "deepseek-v4-pro",
         "dsh",
         "dsh-plugin"
-      ]
-    },
-    {
-      "id": "1339469423",
-      "name": "dsh-lark-bridge",
-      "fullName": "bihangchi9-creator/dsh-lark-bridge",
-      "owner": "bihangchi9-creator",
-      "description": "A native DeepSeek Harness (dsh) plugin bridging dsh coding agents to Feishu/Lark group chats — one group, one project directory.",
-      "htmlUrl": "https://github.com/bihangchi9-creator/dsh-lark-bridge",
-      "homepage": "",
-      "npmUrl": "https://www.npmjs.com/package/dsh-lark-bridge",
-      "npmName": "dsh-lark-bridge",
-      "stars": 35,
-      "updatedAt": "2026-08-21T10:36:41Z",
-      "license": "NOASSERTION",
-      "topics": [
-        "bot",
-        "coding-agent",
-        "deepseek",
-        "deepseek-harness",
-        "dsh-plugin",
-        "feishu",
-        "lark"
       ]
     },
     {
@@ -3015,7 +3015,7 @@
       "npmUrl": "https://www.npmjs.com/package/%40michengai%2Fdsh-codex-ui",
       "npmName": "@michengai/dsh-codex-ui",
       "stars": 27,
-      "updatedAt": "2026-08-23T07:33:05Z",
+      "updatedAt": "2026-08-23T08:04:12Z",
       "license": "Apache-2.0",
       "topics": [
         "deepseek",
