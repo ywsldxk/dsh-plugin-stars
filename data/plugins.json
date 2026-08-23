@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T22:15:35.527Z",
+  "generatedAt": "2026-08-23T22:46:13.387Z",
   "source": "github-search-topics-dsh-plugin,dsh,deepseek-harness",
   "threshold": 25,
   "note": "Merged and deduplicated by repository id from three GitHub repository topic searches (topic:dsh-plugin, topic:dsh, topic:deepseek-harness). GitHub repository search returns at most 1,000 results per query, so this list contains the most popular matches within those windows, not a complete census.",
@@ -14,8 +14,8 @@
       "homepage": "https://open-design.ai",
       "npmUrl": "https://www.npmjs.com/package/open-design",
       "npmName": "open-design",
-      "stars": 90726,
-      "updatedAt": "2026-08-23T22:03:34Z",
+      "stars": 90730,
+      "updatedAt": "2026-08-23T22:24:49Z",
       "license": "Apache-2.0",
       "topics": [
         "agent-skills",
@@ -72,8 +72,8 @@
       "homepage": "https://www.ipollo.ai/",
       "npmUrl": "https://www.npmjs.com/package/%40ipollo%2Fipollowork-workspace",
       "npmName": "@ipollo/ipollowork-workspace",
-      "stars": 4643,
-      "updatedAt": "2026-08-23T21:51:49Z",
+      "stars": 4644,
+      "updatedAt": "2026-08-23T22:37:01Z",
       "license": "NOASSERTION",
       "topics": [
         "agent-collaboration",
@@ -106,8 +106,8 @@
       "homepage": "https://liustack.dev",
       "npmUrl": "https://www.npmjs.com/package/%40liustack%2Fmodlens",
       "npmName": "@liustack/modlens",
-      "stars": 3555,
-      "updatedAt": "2026-08-23T21:33:07Z",
+      "stars": 3556,
+      "updatedAt": "2026-08-23T22:37:30Z",
       "license": "MIT",
       "topics": [
         "agent-skills",
@@ -178,8 +178,8 @@
       "homepage": "https://dshtui.com/",
       "npmUrl": "https://www.npmjs.com/package/%40deepseek-harness-tui%2Fdsh-tui",
       "npmName": "@deepseek-harness-tui/dsh-tui",
-      "stars": 2371,
-      "updatedAt": "2026-08-23T21:36:30Z",
+      "stars": 2372,
+      "updatedAt": "2026-08-23T22:18:11Z",
       "license": "MIT",
       "topics": [
         "claude-code",
@@ -203,8 +203,8 @@
       "homepage": "https://openpets.dev",
       "npmUrl": "https://www.npmjs.com/package/openpets-v2-workspace",
       "npmName": "openpets-v2-workspace",
-      "stars": 1108,
-      "updatedAt": "2026-08-22T20:55:48Z",
+      "stars": 1109,
+      "updatedAt": "2026-08-23T22:39:32Z",
       "license": "MIT",
       "topics": [
         "ai-agents",
@@ -286,8 +286,8 @@
       "homepage": "https://www.npmjs.com/package/dsh-context",
       "npmUrl": "https://www.npmjs.com/package/dsh-context",
       "npmName": "dsh-context",
-      "stars": 938,
-      "updatedAt": "2026-08-23T20:04:51Z",
+      "stars": 939,
+      "updatedAt": "2026-08-23T22:40:21Z",
       "license": "Apache-2.0",
       "topics": [
         "cordis-plugin",
@@ -329,8 +329,8 @@
       "homepage": "",
       "npmUrl": "https://www.npmjs.com/package/dsh-desktop",
       "npmName": "dsh-desktop",
-      "stars": 621,
-      "updatedAt": "2026-08-23T17:26:25Z",
+      "stars": 622,
+      "updatedAt": "2026-08-23T22:41:54Z",
       "license": "MIT",
       "topics": [
         "agentic-workflows",
@@ -360,8 +360,8 @@
       "homepage": "",
       "npmUrl": "https://www.npmjs.com/package/museai",
       "npmName": "museai",
-      "stars": 604,
-      "updatedAt": "2026-08-23T07:35:51Z",
+      "stars": 605,
+      "updatedAt": "2026-08-23T22:42:29Z",
       "license": "",
       "topics": [
         "agent",
@@ -1154,8 +1154,8 @@
       "homepage": "",
       "npmUrl": "https://www.npmjs.com/package/dsh-plugin-bridge",
       "npmName": "dsh-plugin-bridge",
-      "stars": 114,
-      "updatedAt": "2026-08-23T18:39:52Z",
+      "stars": 115,
+      "updatedAt": "2026-08-23T22:18:19Z",
       "license": "MIT",
       "topics": [
         "context-migration",
@@ -1200,8 +1200,8 @@
       "homepage": "",
       "npmUrl": "https://www.npmjs.com/package/dsh-damage-pulse",
       "npmName": "dsh-damage-pulse",
-      "stars": 107,
-      "updatedAt": "2026-08-23T17:08:34Z",
+      "stars": 108,
+      "updatedAt": "2026-08-23T22:25:48Z",
       "license": "MIT",
       "topics": [
         "balance-monitor",
@@ -2452,6 +2452,25 @@
       ]
     },
     {
+      "id": "1336836593",
+      "name": "dsh-recall-unread",
+      "fullName": "hg1048596-pixel/dsh-recall-unread",
+      "owner": "hg1048596-pixel",
+      "description": "DeepSeek Harness (DSH) 插件：在模型读取前撤回已发送的文字消息，支持单条与全部撤回。A DeepSeek Harness plugin that recalls sent-but-unread text messages before the model reads them — one-by-one or all at once.",
+      "htmlUrl": "https://github.com/hg1048596-pixel/dsh-recall-unread",
+      "homepage": "",
+      "npmUrl": "https://www.npmjs.com/package/dsh-recall-unread",
+      "npmName": "dsh-recall-unread",
+      "stars": 38,
+      "updatedAt": "2026-08-23T22:17:50Z",
+      "license": "MIT",
+      "topics": [
+        "dsh-plugin",
+        "dsh-plugin-market",
+        "dsh-plugins"
+      ]
+    },
+    {
       "id": "1333986968",
       "name": "dsh-meow-memory",
       "fullName": "Phant0Meow/dsh-meow-memory",
@@ -2470,25 +2489,6 @@
         "dsh",
         "dsh-plugin",
         "memory"
-      ]
-    },
-    {
-      "id": "1336836593",
-      "name": "dsh-recall-unread",
-      "fullName": "hg1048596-pixel/dsh-recall-unread",
-      "owner": "hg1048596-pixel",
-      "description": "DeepSeek Harness (DSH) 插件：在模型读取前撤回已发送的文字消息，支持单条与全部撤回。A DeepSeek Harness plugin that recalls sent-but-unread text messages before the model reads them — one-by-one or all at once.",
-      "htmlUrl": "https://github.com/hg1048596-pixel/dsh-recall-unread",
-      "homepage": "",
-      "npmUrl": "https://www.npmjs.com/package/dsh-recall-unread",
-      "npmName": "dsh-recall-unread",
-      "stars": 37,
-      "updatedAt": "2026-08-23T21:24:03Z",
-      "license": "MIT",
-      "topics": [
-        "dsh-plugin",
-        "dsh-plugin-market",
-        "dsh-plugins"
       ]
     },
     {
@@ -3152,6 +3152,31 @@
       ]
     },
     {
+      "id": "1333234252",
+      "name": "dsh-tui",
+      "fullName": "dsh-tui/dsh-tui",
+      "owner": "dsh-tui",
+      "description": "Claude Code-style terminal UI for DeepSeek Harness agents, as an out-of-tree dsh plugin bundle",
+      "htmlUrl": "https://github.com/dsh-tui/dsh-tui",
+      "homepage": "https://openguardrails.com",
+      "npmUrl": "https://www.npmjs.com/package/%40dsh-tui%2Fdsh-tui",
+      "npmName": "@dsh-tui/dsh-tui",
+      "stars": 26,
+      "updatedAt": "2026-08-23T17:47:37Z",
+      "license": "NOASSERTION",
+      "topics": [
+        "agent",
+        "claude-code",
+        "cli",
+        "coding-agent",
+        "deepseek",
+        "deepseek-harness",
+        "dsh-plugin",
+        "terminal",
+        "tui"
+      ]
+    },
+    {
       "id": "1334248865",
       "name": "dsh-usage-stats",
       "fullName": "Make0209/dsh-usage-stats",
@@ -3192,31 +3217,6 @@
         "dsh-plugin-market",
         "dsh-plugins",
         "dsh-plugins-terminal"
-      ]
-    },
-    {
-      "id": "1333234252",
-      "name": "dsh-tui",
-      "fullName": "dsh-tui/dsh-tui",
-      "owner": "dsh-tui",
-      "description": "Claude Code-style terminal UI for DeepSeek Harness agents, as an out-of-tree dsh plugin bundle",
-      "htmlUrl": "https://github.com/dsh-tui/dsh-tui",
-      "homepage": "https://openguardrails.com",
-      "npmUrl": "https://www.npmjs.com/package/%40dsh-tui%2Fdsh-tui",
-      "npmName": "@dsh-tui/dsh-tui",
-      "stars": 26,
-      "updatedAt": "2026-08-23T17:47:37Z",
-      "license": "NOASSERTION",
-      "topics": [
-        "agent",
-        "claude-code",
-        "cli",
-        "coding-agent",
-        "deepseek",
-        "deepseek-harness",
-        "dsh-plugin",
-        "terminal",
-        "tui"
       ]
     },
     {
