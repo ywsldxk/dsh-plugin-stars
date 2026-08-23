@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T16:50:15.043Z",
+  "generatedAt": "2026-08-23T17:15:45.250Z",
   "source": "github-search-topics-dsh-plugin,dsh,deepseek-harness",
   "threshold": 25,
   "note": "Merged and deduplicated by repository id from three GitHub repository topic searches (topic:dsh-plugin, topic:dsh, topic:deepseek-harness). GitHub repository search returns at most 1,000 results per query, so this list contains the most popular matches within those windows, not a complete census.",
@@ -14,8 +14,8 @@
       "homepage": "https://open-design.ai",
       "npmUrl": "https://www.npmjs.com/package/open-design",
       "npmName": "open-design",
-      "stars": 90669,
-      "updatedAt": "2026-08-23T16:46:35Z",
+      "stars": 90675,
+      "updatedAt": "2026-08-23T17:13:45Z",
       "license": "Apache-2.0",
       "topics": [
         "agent-skills",
@@ -50,8 +50,8 @@
       "homepage": "https://dsh-market.com",
       "npmUrl": "https://www.npmjs.com/package/dsh-web-ui",
       "npmName": "dsh-web-ui",
-      "stars": 5728,
-      "updatedAt": "2026-08-23T16:49:48Z",
+      "stars": 5730,
+      "updatedAt": "2026-08-23T17:06:35Z",
       "license": "Apache-2.0",
       "topics": [
         "cordis",
@@ -72,8 +72,8 @@
       "homepage": "https://www.ipollo.ai/",
       "npmUrl": "https://www.npmjs.com/package/%40ipollo%2Fipollowork-workspace",
       "npmName": "@ipollo/ipollowork-workspace",
-      "stars": 4621,
-      "updatedAt": "2026-08-23T16:49:05Z",
+      "stars": 4623,
+      "updatedAt": "2026-08-23T17:03:14Z",
       "license": "NOASSERTION",
       "topics": [
         "agent-collaboration",
@@ -178,8 +178,8 @@
       "homepage": "https://dshtui.com/",
       "npmUrl": "https://www.npmjs.com/package/%40deepseek-harness-tui%2Fdsh-tui",
       "npmName": "@deepseek-harness-tui/dsh-tui",
-      "stars": 2366,
-      "updatedAt": "2026-08-23T16:45:40Z",
+      "stars": 2367,
+      "updatedAt": "2026-08-23T16:58:57Z",
       "license": "MIT",
       "topics": [
         "claude-code",
@@ -308,8 +308,8 @@
       "homepage": "",
       "npmUrl": "https://www.npmjs.com/package/%40nanmicoder%2Fdsh-agent-teams",
       "npmName": "@nanmicoder/dsh-agent-teams",
-      "stars": 896,
-      "updatedAt": "2026-08-23T16:38:27Z",
+      "stars": 897,
+      "updatedAt": "2026-08-23T17:13:05Z",
       "license": "MIT",
       "topics": [
         "agentteams",
@@ -330,7 +330,7 @@
       "npmUrl": "https://www.npmjs.com/package/dsh-desktop",
       "npmName": "dsh-desktop",
       "stars": 621,
-      "updatedAt": "2026-08-23T16:34:07Z",
+      "updatedAt": "2026-08-23T17:00:09Z",
       "license": "MIT",
       "topics": [
         "agentic-workflows",
@@ -641,8 +641,8 @@
       "homepage": "https://liustack.dev",
       "npmUrl": "https://www.npmjs.com/package/%40liustack%2Fmodsearch",
       "npmName": "@liustack/modsearch",
-      "stars": 234,
-      "updatedAt": "2026-08-23T15:59:42Z",
+      "stars": 235,
+      "updatedAt": "2026-08-23T17:14:39Z",
       "license": "MIT",
       "topics": [
         "agent-skills",
@@ -1165,6 +1165,30 @@
       ]
     },
     {
+      "id": "1336614837",
+      "name": "dsh-damage-pulse",
+      "fullName": "wssfk12138/dsh-damage-pulse",
+      "owner": "wssfk12138",
+      "description": "DeepSeek Harness Token 余额监控插件：鲸鱼娘待机/扣费/复苏动画、峰谷计费、连续扣费飘字与会话费用统计。",
+      "htmlUrl": "https://github.com/wssfk12138/dsh-damage-pulse",
+      "homepage": "",
+      "npmUrl": "https://www.npmjs.com/package/dsh-damage-pulse",
+      "npmName": "dsh-damage-pulse",
+      "stars": 107,
+      "updatedAt": "2026-08-23T17:08:34Z",
+      "license": "MIT",
+      "topics": [
+        "balance-monitor",
+        "damage-animation",
+        "deepseek",
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "token-monitor",
+        "token-usage"
+      ]
+    },
+    {
       "id": "1333732838",
       "name": "DSH-taskboard",
       "fullName": "shengsheng90/DSH-taskboard",
@@ -1185,30 +1209,6 @@
         "dsh-plugin",
         "task-management",
         "taskboard"
-      ]
-    },
-    {
-      "id": "1336614837",
-      "name": "dsh-damage-pulse",
-      "fullName": "wssfk12138/dsh-damage-pulse",
-      "owner": "wssfk12138",
-      "description": "DeepSeek Harness Token 余额监控插件：鲸鱼娘待机/扣费/复苏动画、峰谷计费、连续扣费飘字与会话费用统计。",
-      "htmlUrl": "https://github.com/wssfk12138/dsh-damage-pulse",
-      "homepage": "",
-      "npmUrl": "https://www.npmjs.com/package/dsh-damage-pulse",
-      "npmName": "dsh-damage-pulse",
-      "stars": 106,
-      "updatedAt": "2026-08-23T16:35:17Z",
-      "license": "MIT",
-      "topics": [
-        "balance-monitor",
-        "damage-animation",
-        "deepseek",
-        "deepseek-harness",
-        "dsh",
-        "dsh-plugin",
-        "token-monitor",
-        "token-usage"
       ]
     },
     {
@@ -1814,7 +1814,7 @@
       "npmUrl": "https://www.npmjs.com/package/dsh-remote",
       "npmName": "dsh-remote",
       "stars": 57,
-      "updatedAt": "2026-08-23T15:14:04Z",
+      "updatedAt": "2026-08-23T17:08:23Z",
       "license": "",
       "topics": [
         "deepseek",
@@ -1910,8 +1910,8 @@
       "homepage": "https://martty.sh",
       "npmUrl": "",
       "npmName": "",
-      "stars": 54,
-      "updatedAt": "2026-08-23T16:14:47Z",
+      "stars": 55,
+      "updatedAt": "2026-08-23T17:01:27Z",
       "license": "MIT",
       "topics": [
         "acp",
@@ -1997,6 +1997,42 @@
       ]
     },
     {
+      "id": "1338463750",
+      "name": "DSH-EasyRewrite",
+      "fullName": "Renzic-Stone/DSH-EasyRewrite",
+      "owner": "Renzic-Stone",
+      "description": "DSH Web内目前最无感的消息撤回、重编辑插件，原版体验，兼容性强，功能简单可开关，设置丰富，现代化轻量ui框架。The most seamless message recall & re-edit plugin for DSH Web — native experience, strong compatibility, simple toggles, rich settings, modern lightweight UI. DSH Web で最もシームレスなメッセージ撤回・再編集プラグイン——ネイティブ体験、高い互換性、シンプルなトグル、充実した設定、モダンで軽量な UI。",
+      "htmlUrl": "https://github.com/Renzic-Stone/DSH-EasyRewrite",
+      "homepage": "",
+      "npmUrl": "https://www.npmjs.com/package/dsh-easyrewrite",
+      "npmName": "dsh-easyrewrite",
+      "stars": 51,
+      "updatedAt": "2026-08-23T17:13:04Z",
+      "license": "MIT",
+      "topics": [
+        "bubble-edit",
+        "deepseek-harness",
+        "dsh",
+        "dsh-easyrewrite",
+        "dsh-plugin",
+        "dsh-plugin-market",
+        "dsh-plugins",
+        "dsh-undo",
+        "i18n",
+        "internationalization",
+        "localization",
+        "message-recall",
+        "multilingual",
+        "recall",
+        "renzic-stone",
+        "rewrite",
+        "rollback",
+        "undo",
+        "version-pager",
+        "withdrawal"
+      ]
+    },
+    {
       "id": "1334813049",
       "name": "dsh-smooth-stream",
       "fullName": "Laplace-bit/dsh-smooth-stream",
@@ -2029,42 +2065,6 @@
         "streaming-markdown",
         "typescript",
         "web-ui"
-      ]
-    },
-    {
-      "id": "1338463750",
-      "name": "DSH-EasyRewrite",
-      "fullName": "Renzic-Stone/DSH-EasyRewrite",
-      "owner": "Renzic-Stone",
-      "description": "DSH Web内目前最无感的消息撤回、重编辑插件，原版体验，兼容性强，功能简单可开关，设置丰富，现代化轻量ui框架。The most seamless message recall & re-edit plugin for DSH Web — native experience, strong compatibility, simple toggles, rich settings, modern lightweight UI. DSH Web で最もシームレスなメッセージ撤回・再編集プラグイン——ネイティブ体験、高い互換性、シンプルなトグル、充実した設定、モダンで軽量な UI。",
-      "htmlUrl": "https://github.com/Renzic-Stone/DSH-EasyRewrite",
-      "homepage": "",
-      "npmUrl": "https://www.npmjs.com/package/dsh-easyrewrite",
-      "npmName": "dsh-easyrewrite",
-      "stars": 50,
-      "updatedAt": "2026-08-23T15:30:44Z",
-      "license": "MIT",
-      "topics": [
-        "bubble-edit",
-        "deepseek-harness",
-        "dsh",
-        "dsh-easyrewrite",
-        "dsh-plugin",
-        "dsh-plugin-market",
-        "dsh-plugins",
-        "dsh-undo",
-        "i18n",
-        "internationalization",
-        "localization",
-        "message-recall",
-        "multilingual",
-        "recall",
-        "renzic-stone",
-        "rewrite",
-        "rollback",
-        "undo",
-        "version-pager",
-        "withdrawal"
       ]
     },
     {
@@ -2535,6 +2535,25 @@
       ]
     },
     {
+      "id": "1336836593",
+      "name": "dsh-recall-unread",
+      "fullName": "hg1048596-pixel/dsh-recall-unread",
+      "owner": "hg1048596-pixel",
+      "description": "DeepSeek Harness (DSH) 插件：在模型读取前撤回已发送的文字消息，支持单条与全部撤回。A DeepSeek Harness plugin that recalls sent-but-unread text messages before the model reads them — one-by-one or all at once.",
+      "htmlUrl": "https://github.com/hg1048596-pixel/dsh-recall-unread",
+      "homepage": "",
+      "npmUrl": "https://www.npmjs.com/package/dsh-recall-unread",
+      "npmName": "dsh-recall-unread",
+      "stars": 35,
+      "updatedAt": "2026-08-23T16:55:30Z",
+      "license": "MIT",
+      "topics": [
+        "dsh-plugin",
+        "dsh-plugin-market",
+        "dsh-plugins"
+      ]
+    },
+    {
       "id": "1334205011",
       "name": "dsh-wsl-workspace",
       "fullName": "6Mikao9/dsh-wsl-workspace",
@@ -2576,6 +2595,24 @@
       ]
     },
     {
+      "id": "1323590109",
+      "name": "dsh-vision",
+      "fullName": "william-jin-cmu/dsh-vision",
+      "owner": "william-jin-cmu",
+      "description": "dsh 插件：给纯文本 DeepSeek 加视觉——view_image 工具桥接任意 OpenAI 兼容 VLM（默认智谱免费档，实测 4 厂商 10 模型）",
+      "htmlUrl": "https://github.com/william-jin-cmu/dsh-vision",
+      "homepage": "",
+      "npmUrl": "https://www.npmjs.com/package/%40dsh-external%2Fdsh-vision",
+      "npmName": "@dsh-external/dsh-vision",
+      "stars": 35,
+      "updatedAt": "2026-08-23T04:09:50Z",
+      "license": "BSD-3-Clause",
+      "topics": [
+        "dsh",
+        "dsh-plugin"
+      ]
+    },
+    {
       "id": "1339469423",
       "name": "dsh-lark-bridge",
       "fullName": "bihangchi9-creator/dsh-lark-bridge",
@@ -2599,24 +2636,6 @@
       ]
     },
     {
-      "id": "1323590109",
-      "name": "dsh-vision",
-      "fullName": "william-jin-cmu/dsh-vision",
-      "owner": "william-jin-cmu",
-      "description": "dsh 插件：给纯文本 DeepSeek 加视觉——view_image 工具桥接任意 OpenAI 兼容 VLM（默认智谱免费档，实测 4 厂商 10 模型）",
-      "htmlUrl": "https://github.com/william-jin-cmu/dsh-vision",
-      "homepage": "",
-      "npmUrl": "https://www.npmjs.com/package/%40dsh-external%2Fdsh-vision",
-      "npmName": "@dsh-external/dsh-vision",
-      "stars": 35,
-      "updatedAt": "2026-08-23T04:09:50Z",
-      "license": "BSD-3-Clause",
-      "topics": [
-        "dsh",
-        "dsh-plugin"
-      ]
-    },
-    {
       "id": "1333084899",
       "name": "dsh-interconnect",
       "fullName": "Chinesezjc/dsh-interconnect",
@@ -2634,25 +2653,6 @@
         "dsh",
         "dsh-plugin",
         "interconnect"
-      ]
-    },
-    {
-      "id": "1336836593",
-      "name": "dsh-recall-unread",
-      "fullName": "hg1048596-pixel/dsh-recall-unread",
-      "owner": "hg1048596-pixel",
-      "description": "DeepSeek Harness (DSH) 插件：在模型读取前撤回已发送的文字消息，支持单条与全部撤回。A DeepSeek Harness plugin that recalls sent-but-unread text messages before the model reads them — one-by-one or all at once.",
-      "htmlUrl": "https://github.com/hg1048596-pixel/dsh-recall-unread",
-      "homepage": "",
-      "npmUrl": "https://www.npmjs.com/package/dsh-recall-unread",
-      "npmName": "dsh-recall-unread",
-      "stars": 34,
-      "updatedAt": "2026-08-23T15:43:50Z",
-      "license": "MIT",
-      "topics": [
-        "dsh-plugin",
-        "dsh-plugin-market",
-        "dsh-plugins"
       ]
     },
     {
@@ -2826,7 +2826,7 @@
       "npmUrl": "",
       "npmName": "",
       "stars": 30,
-      "updatedAt": "2026-08-23T14:14:06Z",
+      "updatedAt": "2026-08-23T16:57:24Z",
       "license": "",
       "topics": [
         "deepseek-harness",
