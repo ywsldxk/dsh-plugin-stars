@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T21:44:36.280Z",
+  "generatedAt": "2026-08-23T22:15:35.527Z",
   "source": "github-search-topics-dsh-plugin,dsh,deepseek-harness",
   "threshold": 25,
   "note": "Merged and deduplicated by repository id from three GitHub repository topic searches (topic:dsh-plugin, topic:dsh, topic:deepseek-harness). GitHub repository search returns at most 1,000 results per query, so this list contains the most popular matches within those windows, not a complete census.",
@@ -14,8 +14,8 @@
       "homepage": "https://open-design.ai",
       "npmUrl": "https://www.npmjs.com/package/open-design",
       "npmName": "open-design",
-      "stars": 90725,
-      "updatedAt": "2026-08-23T21:41:43Z",
+      "stars": 90726,
+      "updatedAt": "2026-08-23T22:03:34Z",
       "license": "Apache-2.0",
       "topics": [
         "agent-skills",
@@ -72,8 +72,8 @@
       "homepage": "https://www.ipollo.ai/",
       "npmUrl": "https://www.npmjs.com/package/%40ipollo%2Fipollowork-workspace",
       "npmName": "@ipollo/ipollowork-workspace",
-      "stars": 4641,
-      "updatedAt": "2026-08-23T21:22:56Z",
+      "stars": 4643,
+      "updatedAt": "2026-08-23T21:51:49Z",
       "license": "NOASSERTION",
       "topics": [
         "agent-collaboration",
@@ -833,7 +833,7 @@
       "npmUrl": "https://www.npmjs.com/package/dsh-cost-meter",
       "npmName": "dsh-cost-meter",
       "stars": 168,
-      "updatedAt": "2026-08-23T17:47:16Z",
+      "updatedAt": "2026-08-23T21:56:39Z",
       "license": "MIT",
       "topics": [
         "cost-tracking",
@@ -1979,27 +1979,6 @@
       ]
     },
     {
-      "id": "1333125623",
-      "name": "oh-my-dsh",
-      "fullName": "LaplaceYoung/oh-my-dsh",
-      "owner": "LaplaceYoung",
-      "description": "oh-my-dsh：面向 DSH (DeepSeek Harness) 的插件生态——700+ 插件，只通过扩展接缝注册，不修改 agent-loop 骨架",
-      "htmlUrl": "https://github.com/LaplaceYoung/oh-my-dsh",
-      "homepage": "",
-      "npmUrl": "https://www.npmjs.com/package/oh-my-dsh",
-      "npmName": "oh-my-dsh",
-      "stars": 52,
-      "updatedAt": "2026-08-23T08:27:01Z",
-      "license": "",
-      "topics": [
-        "agent",
-        "deepseek-harness",
-        "dsh-ecosystem",
-        "dsh-plugin",
-        "oh-my-dsh"
-      ]
-    },
-    {
       "id": "1338463750",
       "name": "DSH-EasyRewrite",
       "fullName": "Renzic-Stone/DSH-EasyRewrite",
@@ -2009,8 +1988,8 @@
       "homepage": "",
       "npmUrl": "https://www.npmjs.com/package/dsh-easyrewrite",
       "npmName": "dsh-easyrewrite",
-      "stars": 51,
-      "updatedAt": "2026-08-23T17:13:04Z",
+      "stars": 52,
+      "updatedAt": "2026-08-23T22:04:57Z",
       "license": "MIT",
       "topics": [
         "bubble-edit",
@@ -2033,6 +2012,27 @@
         "undo",
         "version-pager",
         "withdrawal"
+      ]
+    },
+    {
+      "id": "1333125623",
+      "name": "oh-my-dsh",
+      "fullName": "LaplaceYoung/oh-my-dsh",
+      "owner": "LaplaceYoung",
+      "description": "oh-my-dsh：面向 DSH (DeepSeek Harness) 的插件生态——700+ 插件，只通过扩展接缝注册，不修改 agent-loop 骨架",
+      "htmlUrl": "https://github.com/LaplaceYoung/oh-my-dsh",
+      "homepage": "",
+      "npmUrl": "https://www.npmjs.com/package/oh-my-dsh",
+      "npmName": "oh-my-dsh",
+      "stars": 52,
+      "updatedAt": "2026-08-23T08:27:01Z",
+      "license": "",
+      "topics": [
+        "agent",
+        "deepseek-harness",
+        "dsh-ecosystem",
+        "dsh-plugin",
+        "oh-my-dsh"
       ]
     },
     {
@@ -2462,7 +2462,7 @@
       "npmUrl": "https://www.npmjs.com/package/meow-memory",
       "npmName": "meow-memory",
       "stars": 38,
-      "updatedAt": "2026-08-23T20:22:23Z",
+      "updatedAt": "2026-08-23T22:11:51Z",
       "license": "MIT",
       "topics": [
         "agent-memory",
