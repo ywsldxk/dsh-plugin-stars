@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T19:19:04.315Z",
+  "generatedAt": "2026-08-23T19:44:19.453Z",
   "source": "github-search-topics-dsh-plugin,dsh,deepseek-harness",
   "threshold": 25,
   "note": "Merged and deduplicated by repository id from three GitHub repository topic searches (topic:dsh-plugin, topic:dsh, topic:deepseek-harness). GitHub repository search returns at most 1,000 results per query, so this list contains the most popular matches within those windows, not a complete census.",
@@ -14,8 +14,8 @@
       "homepage": "https://open-design.ai",
       "npmUrl": "https://www.npmjs.com/package/open-design",
       "npmName": "open-design",
-      "stars": 90699,
-      "updatedAt": "2026-08-23T19:11:15Z",
+      "stars": 90707,
+      "updatedAt": "2026-08-23T19:32:47Z",
       "license": "Apache-2.0",
       "topics": [
         "agent-skills",
@@ -50,8 +50,8 @@
       "homepage": "https://dsh-market.com",
       "npmUrl": "https://www.npmjs.com/package/dsh-web-ui",
       "npmName": "dsh-web-ui",
-      "stars": 5736,
-      "updatedAt": "2026-08-23T19:18:17Z",
+      "stars": 5737,
+      "updatedAt": "2026-08-23T19:39:27Z",
       "license": "Apache-2.0",
       "topics": [
         "cordis",
@@ -72,8 +72,8 @@
       "homepage": "https://www.ipollo.ai/",
       "npmUrl": "https://www.npmjs.com/package/%40ipollo%2Fipollowork-workspace",
       "npmName": "@ipollo/ipollowork-workspace",
-      "stars": 4631,
-      "updatedAt": "2026-08-23T19:15:46Z",
+      "stars": 4632,
+      "updatedAt": "2026-08-23T19:40:57Z",
       "license": "NOASSERTION",
       "topics": [
         "agent-collaboration",
@@ -106,8 +106,8 @@
       "homepage": "https://liustack.dev",
       "npmUrl": "https://www.npmjs.com/package/%40liustack%2Fmodlens",
       "npmName": "@liustack/modlens",
-      "stars": 3553,
-      "updatedAt": "2026-08-23T19:08:45Z",
+      "stars": 3554,
+      "updatedAt": "2026-08-23T19:23:08Z",
       "license": "MIT",
       "topics": [
         "agent-skills",
@@ -287,7 +287,7 @@
       "npmUrl": "https://www.npmjs.com/package/dsh-context",
       "npmName": "dsh-context",
       "stars": 937,
-      "updatedAt": "2026-08-23T19:13:52Z",
+      "updatedAt": "2026-08-23T19:24:46Z",
       "license": "Apache-2.0",
       "topics": [
         "cordis-plugin",
@@ -641,8 +641,8 @@
       "homepage": "https://liustack.dev",
       "npmUrl": "https://www.npmjs.com/package/%40liustack%2Fmodsearch",
       "npmName": "@liustack/modsearch",
-      "stars": 235,
-      "updatedAt": "2026-08-23T17:14:39Z",
+      "stars": 236,
+      "updatedAt": "2026-08-23T19:24:46Z",
       "license": "MIT",
       "topics": [
         "agent-skills",
@@ -1128,8 +1128,8 @@
       "homepage": "",
       "npmUrl": "https://www.npmjs.com/package/dsh-undo-savepoint",
       "npmName": "dsh-undo-savepoint",
-      "stars": 118,
-      "updatedAt": "2026-08-23T18:31:33Z",
+      "stars": 119,
+      "updatedAt": "2026-08-23T19:28:08Z",
       "license": "MIT",
       "topics": [
         "backup",
@@ -1224,8 +1224,8 @@
       "homepage": "",
       "npmUrl": "https://www.npmjs.com/package/%40zseven-w%2Fdsh-crew",
       "npmName": "@zseven-w/dsh-crew",
-      "stars": 103,
-      "updatedAt": "2026-08-23T16:04:16Z",
+      "stars": 104,
+      "updatedAt": "2026-08-23T19:37:15Z",
       "license": "MIT",
       "topics": [
         "ai-agents",
@@ -1291,6 +1291,23 @@
       ]
     },
     {
+      "id": "1341805689",
+      "name": "dsh-android",
+      "fullName": "ZSeven-W/dsh-android",
+      "owner": "ZSeven-W",
+      "description": "DeepSeek Harness plugin for Android — build, run, and interact with a live emulator or USB device stream inside a conversation, driven entirely through adb.",
+      "htmlUrl": "https://github.com/ZSeven-W/dsh-android",
+      "homepage": "",
+      "npmUrl": "https://www.npmjs.com/package/%40zseven-w%2Fdsh-android",
+      "npmName": "@zseven-w/dsh-android",
+      "stars": 97,
+      "updatedAt": "2026-08-23T19:37:58Z",
+      "license": "MIT",
+      "topics": [
+        "dsh-plugin"
+      ]
+    },
+    {
       "id": "1334076307",
       "name": "dsh-tabbit",
       "fullName": "Tabbit-Browser/dsh-tabbit",
@@ -1316,23 +1333,6 @@
         "dsh-plugins",
         "playwright",
         "tabbit"
-      ]
-    },
-    {
-      "id": "1341805689",
-      "name": "dsh-android",
-      "fullName": "ZSeven-W/dsh-android",
-      "owner": "ZSeven-W",
-      "description": "DeepSeek Harness plugin for Android — build, run, and interact with a live emulator or USB device stream inside a conversation, driven entirely through adb.",
-      "htmlUrl": "https://github.com/ZSeven-W/dsh-android",
-      "homepage": "",
-      "npmUrl": "https://www.npmjs.com/package/%40zseven-w%2Fdsh-android",
-      "npmName": "@zseven-w/dsh-android",
-      "stars": 95,
-      "updatedAt": "2026-08-23T16:30:53Z",
-      "license": "MIT",
-      "topics": [
-        "dsh-plugin"
       ]
     },
     {
@@ -1583,7 +1583,7 @@
       "npmUrl": "https://www.npmjs.com/package/%40dsh-external%2Fdsh-automation",
       "npmName": "@dsh-external/dsh-automation",
       "stars": 73,
-      "updatedAt": "2026-08-23T13:53:21Z",
+      "updatedAt": "2026-08-23T19:18:57Z",
       "license": "MIT",
       "topics": [
         "automation",
@@ -1807,6 +1807,26 @@
       ]
     },
     {
+      "id": "1330041615",
+      "name": "dsh-navbar",
+      "fullName": "vlln/dsh-navbar",
+      "owner": "vlln",
+      "description": "DSH 插件：对话节点导航条（右缘节点串快速跳转 user 消息）。官方 bundle 插件，dsh plugin --profile web add 安装",
+      "htmlUrl": "https://github.com/vlln/dsh-navbar",
+      "homepage": "",
+      "npmUrl": "https://www.npmjs.com/package/%40vlln%2Fdsh-navbar",
+      "npmName": "@vlln/dsh-navbar",
+      "stars": 58,
+      "updatedAt": "2026-08-23T19:33:03Z",
+      "license": "MIT",
+      "topics": [
+        "dsh",
+        "dsh-plugin",
+        "plugin",
+        "ui"
+      ]
+    },
+    {
       "id": "1334325657",
       "name": "deepseek-harness-remote",
       "fullName": "liguobao/deepseek-harness-remote",
@@ -1822,26 +1842,6 @@
       "topics": [
         "deepseek",
         "dsh-plugin"
-      ]
-    },
-    {
-      "id": "1330041615",
-      "name": "dsh-navbar",
-      "fullName": "vlln/dsh-navbar",
-      "owner": "vlln",
-      "description": "DSH 插件：对话节点导航条（右缘节点串快速跳转 user 消息）。官方 bundle 插件，dsh plugin --profile web add 安装",
-      "htmlUrl": "https://github.com/vlln/dsh-navbar",
-      "homepage": "",
-      "npmUrl": "https://www.npmjs.com/package/%40vlln%2Fdsh-navbar",
-      "npmName": "@vlln/dsh-navbar",
-      "stars": 57,
-      "updatedAt": "2026-08-23T15:58:29Z",
-      "license": "MIT",
-      "topics": [
-        "dsh",
-        "dsh-plugin",
-        "plugin",
-        "ui"
       ]
     },
     {
@@ -1871,6 +1871,29 @@
         "dsh-plugins",
         "tui",
         "tui-rs"
+      ]
+    },
+    {
+      "id": "1334675743",
+      "name": "dsh-balance-plugin",
+      "fullName": "yxxbc/dsh-balance-plugin",
+      "owner": "yxxbc",
+      "description": "deepSeek 余额监控与用量统计（DSH 动态 Cordis 插件）：余额监控 · 官方充值入口 · 用量统计 · 三方插件管理",
+      "htmlUrl": "https://github.com/yxxbc/dsh-balance-plugin",
+      "homepage": "",
+      "npmUrl": "https://www.npmjs.com/package/dsh-balance-plugin",
+      "npmName": "dsh-balance-plugin",
+      "stars": 55,
+      "updatedAt": "2026-08-23T12:21:05Z",
+      "license": "MIT",
+      "topics": [
+        "dsh",
+        "dsh-plugin",
+        "dsh-plugins",
+        "dsharpplus",
+        "token",
+        "wallet",
+        "webui"
       ]
     },
     {
@@ -1907,29 +1930,6 @@
         "wecom",
         "xiaohongshu",
         "youzan"
-      ]
-    },
-    {
-      "id": "1334675743",
-      "name": "dsh-balance-plugin",
-      "fullName": "yxxbc/dsh-balance-plugin",
-      "owner": "yxxbc",
-      "description": "deepSeek 余额监控与用量统计（DSH 动态 Cordis 插件）：余额监控 · 官方充值入口 · 用量统计 · 三方插件管理",
-      "htmlUrl": "https://github.com/yxxbc/dsh-balance-plugin",
-      "homepage": "",
-      "npmUrl": "https://www.npmjs.com/package/dsh-balance-plugin",
-      "npmName": "dsh-balance-plugin",
-      "stars": 55,
-      "updatedAt": "2026-08-23T12:21:05Z",
-      "license": "MIT",
-      "topics": [
-        "dsh",
-        "dsh-plugin",
-        "dsh-plugins",
-        "dsharpplus",
-        "token",
-        "wallet",
-        "webui"
       ]
     },
     {
@@ -2972,7 +2972,7 @@
       "npmUrl": "https://www.npmjs.com/package/%40anionex%2Fdsh-computer-use",
       "npmName": "@anionex/dsh-computer-use",
       "stars": 28,
-      "updatedAt": "2026-08-23T15:28:10Z",
+      "updatedAt": "2026-08-23T19:32:48Z",
       "license": "MIT",
       "topics": [
         "accessibility",
