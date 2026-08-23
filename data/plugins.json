@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T19:44:19.453Z",
+  "generatedAt": "2026-08-23T20:15:06.213Z",
   "source": "github-search-topics-dsh-plugin,dsh,deepseek-harness",
   "threshold": 25,
   "note": "Merged and deduplicated by repository id from three GitHub repository topic searches (topic:dsh-plugin, topic:dsh, topic:deepseek-harness). GitHub repository search returns at most 1,000 results per query, so this list contains the most popular matches within those windows, not a complete census.",
@@ -14,8 +14,8 @@
       "homepage": "https://open-design.ai",
       "npmUrl": "https://www.npmjs.com/package/open-design",
       "npmName": "open-design",
-      "stars": 90707,
-      "updatedAt": "2026-08-23T19:32:47Z",
+      "stars": 90712,
+      "updatedAt": "2026-08-23T20:01:49Z",
       "license": "Apache-2.0",
       "topics": [
         "agent-skills",
@@ -51,7 +51,7 @@
       "npmUrl": "https://www.npmjs.com/package/dsh-web-ui",
       "npmName": "dsh-web-ui",
       "stars": 5737,
-      "updatedAt": "2026-08-23T19:39:27Z",
+      "updatedAt": "2026-08-23T20:13:10Z",
       "license": "Apache-2.0",
       "topics": [
         "cordis",
@@ -72,8 +72,8 @@
       "homepage": "https://www.ipollo.ai/",
       "npmUrl": "https://www.npmjs.com/package/%40ipollo%2Fipollowork-workspace",
       "npmName": "@ipollo/ipollowork-workspace",
-      "stars": 4632,
-      "updatedAt": "2026-08-23T19:40:57Z",
+      "stars": 4634,
+      "updatedAt": "2026-08-23T20:09:59Z",
       "license": "NOASSERTION",
       "topics": [
         "agent-collaboration",
@@ -106,8 +106,8 @@
       "homepage": "https://liustack.dev",
       "npmUrl": "https://www.npmjs.com/package/%40liustack%2Fmodlens",
       "npmName": "@liustack/modlens",
-      "stars": 3554,
-      "updatedAt": "2026-08-23T19:23:08Z",
+      "stars": 3555,
+      "updatedAt": "2026-08-23T19:51:01Z",
       "license": "MIT",
       "topics": [
         "agent-skills",
@@ -264,8 +264,8 @@
       "homepage": "",
       "npmUrl": "https://www.npmjs.com/package/deepseek-harness-desktop",
       "npmName": "deepseek-harness-desktop",
-      "stars": 996,
-      "updatedAt": "2026-08-23T18:14:37Z",
+      "stars": 997,
+      "updatedAt": "2026-08-23T19:44:28Z",
       "license": "MIT",
       "topics": [
         "deepseek",
@@ -286,8 +286,8 @@
       "homepage": "https://www.npmjs.com/package/dsh-context",
       "npmUrl": "https://www.npmjs.com/package/dsh-context",
       "npmName": "dsh-context",
-      "stars": 937,
-      "updatedAt": "2026-08-23T19:24:46Z",
+      "stars": 938,
+      "updatedAt": "2026-08-23T20:04:51Z",
       "license": "Apache-2.0",
       "topics": [
         "cordis-plugin",
@@ -578,6 +578,32 @@
       ]
     },
     {
+      "id": "1333964468",
+      "name": "dsh-plugin-subscriptions",
+      "fullName": "V1ki/dsh-plugin-subscriptions",
+      "owner": "V1ki",
+      "description": "Use ChatGPT (Codex), Claude, and Grok (X Premium) subscriptions as DeepSeek Harness LLM providers — OAuth login in the web UI, no API keys",
+      "htmlUrl": "https://github.com/V1ki/dsh-plugin-subscriptions",
+      "homepage": "",
+      "npmUrl": "https://www.npmjs.com/package/dsh-plugin-subscriptions",
+      "npmName": "dsh-plugin-subscriptions",
+      "stars": 252,
+      "updatedAt": "2026-08-23T19:58:39Z",
+      "license": "MIT",
+      "topics": [
+        "ai-agent",
+        "chatgpt",
+        "claude",
+        "codex",
+        "deepseek-harness",
+        "dsh-plugin",
+        "grok",
+        "llm",
+        "oauth",
+        "typescript"
+      ]
+    },
+    {
       "id": "1336793734",
       "name": "pilot-harness",
       "fullName": "op7418/pilot-harness",
@@ -603,32 +629,6 @@
         "macos",
         "typescript",
         "windows"
-      ]
-    },
-    {
-      "id": "1333964468",
-      "name": "dsh-plugin-subscriptions",
-      "fullName": "V1ki/dsh-plugin-subscriptions",
-      "owner": "V1ki",
-      "description": "Use ChatGPT (Codex), Claude, and Grok (X Premium) subscriptions as DeepSeek Harness LLM providers — OAuth login in the web UI, no API keys",
-      "htmlUrl": "https://github.com/V1ki/dsh-plugin-subscriptions",
-      "homepage": "",
-      "npmUrl": "https://www.npmjs.com/package/dsh-plugin-subscriptions",
-      "npmName": "dsh-plugin-subscriptions",
-      "stars": 251,
-      "updatedAt": "2026-08-23T15:08:38Z",
-      "license": "MIT",
-      "topics": [
-        "ai-agent",
-        "chatgpt",
-        "claude",
-        "codex",
-        "deepseek-harness",
-        "dsh-plugin",
-        "grok",
-        "llm",
-        "oauth",
-        "typescript"
       ]
     },
     {
@@ -717,8 +717,8 @@
       "homepage": "",
       "npmUrl": "https://www.npmjs.com/package/%40zseven-w%2Fdsh-ios",
       "npmName": "@zseven-w/dsh-ios",
-      "stars": 217,
-      "updatedAt": "2026-08-23T17:17:41Z",
+      "stars": 218,
+      "updatedAt": "2026-08-23T19:46:08Z",
       "license": "MIT",
       "topics": [
         "accessibility",
@@ -1483,6 +1483,30 @@
       ]
     },
     {
+      "id": "1335877752",
+      "name": "dsh-evolve-modes",
+      "fullName": "GraySilver/dsh-evolve-modes",
+      "owner": "GraySilver",
+      "description": "让 Agent 的工作方式可组合、可审查、可持续改进，最终实现 Agent Self Evoling。 DeepSeek Harness Web plugin with composable task controls and isolated, human-reviewed self-evolution.",
+      "htmlUrl": "https://github.com/GraySilver/dsh-evolve-modes",
+      "homepage": "https://www.npmjs.com/package/@graysilver/dsh-evolve-modes",
+      "npmUrl": "https://www.npmjs.com/package/%40graysilver%2Fdsh-evolve-modes",
+      "npmName": "@graysilver/dsh-evolve-modes",
+      "stars": 77,
+      "updatedAt": "2026-08-23T20:00:31Z",
+      "license": "MIT",
+      "topics": [
+        "acceptance-review",
+        "agent-review",
+        "ai-agents",
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "plan-mode",
+        "prompt-engineering"
+      ]
+    },
+    {
       "id": "1335490343",
       "name": "dockyard-dsh",
       "fullName": "AITabby/dockyard-dsh",
@@ -1501,30 +1525,6 @@
         "dsh-plugin",
         "macos",
         "oauth"
-      ]
-    },
-    {
-      "id": "1335877752",
-      "name": "dsh-evolve-modes",
-      "fullName": "GraySilver/dsh-evolve-modes",
-      "owner": "GraySilver",
-      "description": "让 Agent 的工作方式可组合、可审查、可持续改进，最终实现 Agent Self Evoling。 DeepSeek Harness Web plugin with composable task controls and isolated, human-reviewed self-evolution.",
-      "htmlUrl": "https://github.com/GraySilver/dsh-evolve-modes",
-      "homepage": "https://www.npmjs.com/package/@graysilver/dsh-evolve-modes",
-      "npmUrl": "https://www.npmjs.com/package/%40graysilver%2Fdsh-evolve-modes",
-      "npmName": "@graysilver/dsh-evolve-modes",
-      "stars": 76,
-      "updatedAt": "2026-08-23T19:14:39Z",
-      "license": "MIT",
-      "topics": [
-        "acceptance-review",
-        "agent-review",
-        "ai-agents",
-        "deepseek-harness",
-        "dsh",
-        "dsh-plugin",
-        "plan-mode",
-        "prompt-engineering"
       ]
     },
     {
@@ -1635,6 +1635,30 @@
       ]
     },
     {
+      "id": "1333974533",
+      "name": "dsh-plugin-hub",
+      "fullName": "Noob-stupid/dsh-plugin-hub",
+      "owner": "Noob-stupid",
+      "description": "DeepSeek Harness (DSH) 插件管理面板：一键启用/停用插件 + GitHub dsh-plugin 插件市场，带插件详情与一键安装 | Plugin manager & marketplace for DeepSeek Harness",
+      "htmlUrl": "https://github.com/Noob-stupid/dsh-plugin-hub",
+      "homepage": "",
+      "npmUrl": "https://www.npmjs.com/package/%40noob-stupid%2Fdsh-plugin-console",
+      "npmName": "@noob-stupid/dsh-plugin-console",
+      "stars": 67,
+      "updatedAt": "2026-08-23T20:10:41Z",
+      "license": "MIT",
+      "topics": [
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "dsh-plugins",
+        "github",
+        "help-wanted",
+        "plugin-manager",
+        "plugin-market"
+      ]
+    },
+    {
       "id": "1334214605",
       "name": "dsh-reverse-skill",
       "fullName": "dhicoc/dsh-reverse-skill",
@@ -1654,30 +1678,6 @@
         "pentest",
         "reverse-engineering",
         "security"
-      ]
-    },
-    {
-      "id": "1333974533",
-      "name": "dsh-plugin-hub",
-      "fullName": "Noob-stupid/dsh-plugin-hub",
-      "owner": "Noob-stupid",
-      "description": "DeepSeek Harness (DSH) 插件管理面板：一键启用/停用插件 + GitHub dsh-plugin 插件市场，带插件详情与一键安装 | Plugin manager & marketplace for DeepSeek Harness",
-      "htmlUrl": "https://github.com/Noob-stupid/dsh-plugin-hub",
-      "homepage": "",
-      "npmUrl": "https://www.npmjs.com/package/%40noob-stupid%2Fdsh-plugin-console",
-      "npmName": "@noob-stupid/dsh-plugin-console",
-      "stars": 66,
-      "updatedAt": "2026-08-23T18:12:15Z",
-      "license": "MIT",
-      "topics": [
-        "deepseek-harness",
-        "dsh",
-        "dsh-plugin",
-        "dsh-plugins",
-        "github",
-        "help-wanted",
-        "plugin-manager",
-        "plugin-market"
       ]
     },
     {
@@ -3042,6 +3042,25 @@
       ]
     },
     {
+      "id": "1333816731",
+      "name": "DSH-Launcher",
+      "fullName": "WEP-56/DSH-Launcher",
+      "owner": "WEP-56",
+      "description": "deepseek harness的启动器，非webui二次打包而是webui内嵌，可以适配所有webui强化插件。额外提供dsh包管理、配置文件管理、插件管理、浏览器标签页、多窗口等功能",
+      "htmlUrl": "https://github.com/WEP-56/DSH-Launcher",
+      "homepage": "",
+      "npmUrl": "https://www.npmjs.com/package/dsh-launcher",
+      "npmName": "dsh-launcher",
+      "stars": 27,
+      "updatedAt": "2026-08-23T19:52:12Z",
+      "license": "",
+      "topics": [
+        "dsh",
+        "dsh-plugin",
+        "dsh-plugins"
+      ]
+    },
+    {
       "id": "1334346564",
       "name": "dsh-codex-ui",
       "fullName": "MichengAI/dsh-codex-ui",
@@ -3173,25 +3192,6 @@
         "dsh-plugin-market",
         "dsh-plugins",
         "dsh-plugins-terminal"
-      ]
-    },
-    {
-      "id": "1333816731",
-      "name": "DSH-Launcher",
-      "fullName": "WEP-56/DSH-Launcher",
-      "owner": "WEP-56",
-      "description": "deepseek harness的启动器，非webui二次打包而是webui内嵌，可以适配所有webui强化插件。额外提供dsh包管理、配置文件管理、插件管理、浏览器标签页、多窗口等功能",
-      "htmlUrl": "https://github.com/WEP-56/DSH-Launcher",
-      "homepage": "",
-      "npmUrl": "https://www.npmjs.com/package/dsh-launcher",
-      "npmName": "dsh-launcher",
-      "stars": 26,
-      "updatedAt": "2026-08-22T12:31:48Z",
-      "license": "",
-      "topics": [
-        "dsh",
-        "dsh-plugin",
-        "dsh-plugins"
       ]
     },
     {
