@@ -12,9 +12,9 @@ DeepSeek Harness（DSH）插件排行榜 / Plugin Leaderboard。
 <!-- RANKING:START -->
 | 排名 | 插件 | Stars | 简介 |
 | ---: | --- | ---: | --- |
-| 1 | [nexu-io/open-design](https://github.com/nexu-io/open-design) | 91079 | 🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images & video — real files, HTML/PDF/PPTX/MP4 export. 🤖 Claude Code / Codex / Cursor / DeepSeek Harness / OpenCode & 20+ CLIs via BYOK. |
-| 2 | [anywhere-labs/dsh-desktop](https://github.com/anywhere-labs/dsh-desktop) | 19650 | 为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。 |
-| 3 | [zhu1090093659/dsh-web](https://github.com/zhu1090093659/dsh-web) | 5909 | DeepSeek Harness（DSH）Web 插件聚合生态包 · 一切皆插件，创意工坊分发（dsh-market.com） |
+| 1 | [nexu-io/open-design](https://github.com/nexu-io/open-design) | 91081 | 🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images & video — real files, HTML/PDF/PPTX/MP4 export. 🤖 Claude Code / Codex / Cursor / DeepSeek Harness / OpenCode & 20+ CLIs via BYOK. |
+| 2 | [anywhere-labs/dsh-desktop](https://github.com/anywhere-labs/dsh-desktop) | 19652 | 为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。 |
+| 3 | [zhu1090093659/dsh-web](https://github.com/zhu1090093659/dsh-web) | 5911 | DeepSeek Harness（DSH）Web 插件聚合生态包 · 一切皆插件，创意工坊分发（dsh-market.com） |
 | 4 | [Devin-AXIS/iPolloWork](https://github.com/Devin-AXIS/iPolloWork) | 4736 | Enterprise-grade, local-first Agent Workbench for people and agent teams. A unified multi-engine workspace for Codex Harness, DeepSeek Harness, and OpenCode, with unified plugins and Skills, multi-agent projects and tasks, and editable code, documents, presentations, design, and video. |
 | 5 | [liustack/modlens](https://github.com/liustack/modlens) | 3602 | The first vision plugin for DeepSeek Harness, and the vision bridge for every text-only coding agent. Paste an image, get structured JSON evidence (OCR, layout, semantics). \| 全网最强 DeepSeek Harness 外挂视觉插件，为 DeepSeek、GLM 等纯文本模型外挂视觉能力，粘贴图片即得结构化 JSON 证据（OCR、版面、语义）。 |
 | 6 | [whiteguo233/OpenBiliClaw](https://github.com/whiteguo233/OpenBiliClaw) | 3020 | 本地私有、开源的自进化跨平台 AI 内容发现 Agent：先理解你，再主动从 B站、小红书、抖音、YouTube、X、知乎、Reddit、微博等平台与开放 Web 寻找内容。（支持 deepseek harness 插件） \| Local-first open-source cross-platform AI content discovery agent: understands you, then proactively finds content across Bilibili, Xiaohongshu, Douyin, YouTube, X, Zhihu, Reddit, Weibo and the open web.（support deepseek harness plugin） |
@@ -22,7 +22,7 @@ DeepSeek Harness（DSH）插件排行榜 / Plugin Leaderboard。
 | 8 | [alvinunreal/openpets](https://github.com/alvinunreal/openpets) | 1110 | Local first, desktop companion platform with animated pets, plugin SDK and coding-agent integrations. |
 | 9 | [dsh-tauri-desk/deepseek-harness-desktop](https://github.com/dsh-tauri-desk/deepseek-harness-desktop) | 1104 | DeepSeek Harness Tauri 桌面版 \| Only 5mb installer, zero environment setup, preset plugins, Windows / macOS / Linux. |
 | 10 | [TencentCloudBase/CloudBase-AI-Toolkit](https://github.com/TencentCloudBase/CloudBase-AI-Toolkit) | 1074 | Backend for AI coding agents on CloudBase — database, auth, functions via Plugin, Skills & MCP. |
-| 11 | [bowenliang123/dsh-context](https://github.com/bowenliang123/dsh-context) | 1001 | The best DeepSeek Harness plugin for context insight and management, with context dashboard / browser and context command, for context statistics, composition, breakdown, evolution details, understanding how the context is made of, and how it evolves. 一站式 DeepSeek Harness 上下文可视化插件，Context 面板及浏览器与 Context 命令，透视上下文组成、演进、压缩、剪枝等事件与动作。 |
+| 11 | [bowenliang123/dsh-context](https://github.com/bowenliang123/dsh-context) | 1002 | The best DeepSeek Harness plugin for context insight and management, with context dashboard / browser and context command, for context statistics, composition, breakdown, evolution details, understanding how the context is made of, and how it evolves. 一站式 DeepSeek Harness 上下文可视化插件，Context 面板及浏览器与 Context 命令，透视上下文组成、演进、压缩、剪枝等事件与动作。 |
 | 12 | [NanmiCoder/dsh-agent-teams](https://github.com/NanmiCoder/dsh-agent-teams) | 952 | AgentTeams plugin for DeepSeek Harness |
 | 13 | [vibeinging/dsh-desktop](https://github.com/vibeinging/dsh-desktop) | 631 | DeepSeek Harness Desktop App: a local AI desktop workspace for DSH Sessions, projects, files, web research, plugins, and Office artifacts. |
 | 14 | [yejiming/MuseAI](https://github.com/yejiming/MuseAI) | 612 | 创建你的 AI 角色，进入你的故事世界。和角色聊天、冒险、穿书，让每一次互动都留下羁绊（支持 DeepSeek Harness 插件，欢迎使用） |
@@ -53,8 +53,8 @@ DeepSeek Harness（DSH）插件排行榜 / Plugin Leaderboard。
 | 39 | [ZSeven-W/dsh-openpencil](https://github.com/ZSeven-W/dsh-openpencil) | 153 | The DeepSeek Harness plugin for OpenPencil — preview, inspect, and edit real .op documents inside a conversation. |
 | 40 | [saya-ch/dsh-mobile](https://github.com/saya-ch/dsh-mobile) | 138 | DeepSeek Harness 移动端适配与安全访问插件，支持局域网、远程连接、Android App 和手机浏览器。 |
 | 41 | [EthanYoQ/Invoice-Downloader](https://github.com/EthanYoQ/Invoice-Downloader) | 134 | 电子发票整理与报销准备工具：从邮箱批量收集 PDF/OFD/XML 发票，OCR 识别、分类归档并生成 Excel 汇总；提供 Windows/macOS 桌面版与 DSH 插件。 |
-| 42 | [Ayase34/gal-view](https://github.com/Ayase34/gal-view) | 125 | 把dsh会话界面切换成galgame游戏界面的插件 |
-| 43 | [Totoro-qaq/dsh-plugin-bridge](https://github.com/Totoro-qaq/dsh-plugin-bridge) | 125 | DeepSeek Harness plugin for previewable cross-preset session migration. Fixed-schema handoffs preserve state, source-model intent, and unresolved images; the original session stays untouched. |
+| 42 | [Totoro-qaq/dsh-plugin-bridge](https://github.com/Totoro-qaq/dsh-plugin-bridge) | 126 | DeepSeek Harness plugin for previewable cross-preset session migration. Fixed-schema handoffs preserve state, source-model intent, and unresolved images; the original session stays untouched. |
+| 43 | [Ayase34/gal-view](https://github.com/Ayase34/gal-view) | 125 | 把dsh会话界面切换成galgame游戏界面的插件 |
 | 44 | [ZSeven-W/dsh-noema](https://github.com/ZSeven-W/dsh-noema) | 125 | Noema long-term memory plugin for DSH: durable, inspectable agent memory with recall tools and a settings page. |
 | 45 | [lire1131/dsh-undo-savepoint](https://github.com/lire1131/dsh-undo-savepoint) | 123 | DSH crash-rescue plugin: undo config & plugin-code changes, secret-safe snapshots, one-click SAFE MODE, plus offline CLI/GUI that work even when DSH won't boot. |
 | 46 | [wssfk12138/dsh-damage-pulse](https://github.com/wssfk12138/dsh-damage-pulse) | 118 | DeepSeek Harness Token 余额监控插件：鲸鱼娘待机/扣费/复苏动画、峰谷计费、连续扣费飘字与会话费用统计。 |
@@ -63,5 +63,5 @@ DeepSeek Harness（DSH）插件排行榜 / Plugin Leaderboard。
 | 49 | [ZSeven-W/dsh-android](https://github.com/ZSeven-W/dsh-android) | 107 | DeepSeek Harness plugin for Android — build, run, and interact with a live emulator or USB device stream inside a conversation, driven entirely through adb. |
 | 50 | [Fishquito7/dsh-skill-mcp-panel](https://github.com/Fishquito7/dsh-skill-mcp-panel) | 101 | DSH Web UI plugin: skill and MCP management（Web界面的skill/MCP管理工具） |
 
-> 数据更新时间：2026/08/25 06:19 · 收录数：148 · 最低 Star：25 · [打开完整榜单](https://ywsldxk.github.io/dsh-plugin-stars/)
+> 数据更新时间：2026/08/25 06:51 · 收录数：148 · 最低 Star：25 · [打开完整榜单](https://ywsldxk.github.io/dsh-plugin-stars/)
 <!-- RANKING:END -->
