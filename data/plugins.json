@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T21:28:14.445Z",
+  "generatedAt": "2026-08-24T21:54:52.103Z",
   "source": "github-search-topics-dsh-plugin,dsh,deepseek-harness",
   "threshold": 25,
   "note": "Merged and deduplicated by repository id from three GitHub repository topic searches (topic:dsh-plugin, topic:dsh, topic:deepseek-harness). GitHub repository search returns at most 1,000 results per query, so this list contains the most popular matches within those windows, not a complete census.",
@@ -14,8 +14,8 @@
       "homepage": "https://open-design.ai",
       "npmUrl": "https://www.npmjs.com/package/open-design",
       "npmName": "open-design",
-      "stars": 91074,
-      "updatedAt": "2026-08-24T21:25:49Z",
+      "stars": 91077,
+      "updatedAt": "2026-08-24T21:42:54Z",
       "license": "Apache-2.0",
       "topics": [
         "agent-skills",
@@ -50,8 +50,8 @@
       "homepage": "https://dshdesktop.cn",
       "npmUrl": "https://www.npmjs.com/package/deepseek-harness-desktop",
       "npmName": "deepseek-harness-desktop",
-      "stars": 19649,
-      "updatedAt": "2026-08-24T21:05:00Z",
+      "stars": 19650,
+      "updatedAt": "2026-08-24T21:51:11Z",
       "license": "MIT",
       "topics": [
         "cordis",
@@ -97,7 +97,7 @@
       "npmUrl": "https://www.npmjs.com/package/%40ipollo%2Fipollowork-workspace",
       "npmName": "@ipollo/ipollowork-workspace",
       "stars": 4735,
-      "updatedAt": "2026-08-24T21:25:15Z",
+      "updatedAt": "2026-08-24T21:27:38Z",
       "license": "NOASSERTION",
       "topics": [
         "agent-collaboration",
@@ -203,7 +203,7 @@
       "npmUrl": "https://www.npmjs.com/package/%40deepseek-harness-tui%2Fdsh-tui",
       "npmName": "@deepseek-harness-tui/dsh-tui",
       "stars": 2472,
-      "updatedAt": "2026-08-24T21:18:53Z",
+      "updatedAt": "2026-08-24T21:48:42Z",
       "license": "MIT",
       "topics": [
         "claude-code",
@@ -434,8 +434,8 @@
       "homepage": "https://www.beyondata.com/",
       "npmUrl": "https://www.npmjs.com/package/%40deepseek-ai%2Fdsh-root",
       "npmName": "@deepseek-ai/dsh-root",
-      "stars": 503,
-      "updatedAt": "2026-08-24T19:47:42Z",
+      "stars": 504,
+      "updatedAt": "2026-08-24T21:28:05Z",
       "license": "MIT",
       "topics": [
         "ai-agent",
