@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T19:24:06.661Z",
+  "generatedAt": "2026-08-24T19:53:28.573Z",
   "source": "github-search-topics-dsh-plugin,dsh,deepseek-harness",
   "threshold": 25,
   "note": "Merged and deduplicated by repository id from three GitHub repository topic searches (topic:dsh-plugin, topic:dsh, topic:deepseek-harness). GitHub repository search returns at most 1,000 results per query, so this list contains the most popular matches within those windows, not a complete census.",
@@ -14,8 +14,8 @@
       "homepage": "https://open-design.ai",
       "npmUrl": "https://www.npmjs.com/package/open-design",
       "npmName": "open-design",
-      "stars": 91053,
-      "updatedAt": "2026-08-24T19:23:34Z",
+      "stars": 91058,
+      "updatedAt": "2026-08-24T19:51:39Z",
       "license": "Apache-2.0",
       "topics": [
         "agent-skills",
@@ -50,8 +50,8 @@
       "homepage": "https://dshdesktop.cn",
       "npmUrl": "https://www.npmjs.com/package/deepseek-harness-desktop",
       "npmName": "deepseek-harness-desktop",
-      "stars": 19647,
-      "updatedAt": "2026-08-24T19:23:35Z",
+      "stars": 19648,
+      "updatedAt": "2026-08-24T19:34:30Z",
       "license": "MIT",
       "topics": [
         "cordis",
@@ -74,8 +74,8 @@
       "homepage": "https://dsh-market.com",
       "npmUrl": "https://www.npmjs.com/package/dsh-web",
       "npmName": "dsh-web",
-      "stars": 5909,
-      "updatedAt": "2026-08-24T19:21:31Z",
+      "stars": 5910,
+      "updatedAt": "2026-08-24T19:51:36Z",
       "license": "Apache-2.0",
       "topics": [
         "cordis",
@@ -96,8 +96,8 @@
       "homepage": "https://www.ipollo.ai/",
       "npmUrl": "https://www.npmjs.com/package/%40ipollo%2Fipollowork-workspace",
       "npmName": "@ipollo/ipollowork-workspace",
-      "stars": 4726,
-      "updatedAt": "2026-08-24T19:06:01Z",
+      "stars": 4727,
+      "updatedAt": "2026-08-24T19:37:50Z",
       "license": "NOASSERTION",
       "topics": [
         "agent-collaboration",
@@ -202,8 +202,8 @@
       "homepage": "https://dshtui.com/",
       "npmUrl": "https://www.npmjs.com/package/%40deepseek-harness-tui%2Fdsh-tui",
       "npmName": "@deepseek-harness-tui/dsh-tui",
-      "stars": 2469,
-      "updatedAt": "2026-08-24T19:01:11Z",
+      "stars": 2471,
+      "updatedAt": "2026-08-24T19:49:22Z",
       "license": "MIT",
       "topics": [
         "claude-code",
@@ -434,8 +434,8 @@
       "homepage": "https://www.beyondata.com/",
       "npmUrl": "https://www.npmjs.com/package/%40deepseek-ai%2Fdsh-root",
       "npmName": "@deepseek-ai/dsh-root",
-      "stars": 502,
-      "updatedAt": "2026-08-24T19:12:23Z",
+      "stars": 503,
+      "updatedAt": "2026-08-24T19:47:42Z",
       "license": "MIT",
       "topics": [
         "ai-agent",
@@ -798,8 +798,8 @@
       "homepage": "https://ningbainb.github.io/deepseek-harness-desktop/",
       "npmUrl": "https://www.npmjs.com/package/dsh-web-ui",
       "npmName": "dsh-web-ui",
-      "stars": 185,
-      "updatedAt": "2026-08-24T17:05:31Z",
+      "stars": 186,
+      "updatedAt": "2026-08-24T19:46:18Z",
       "license": "BSD-3-Clause",
       "topics": [
         "ai-agent",
@@ -1092,6 +1092,29 @@
       ]
     },
     {
+      "id": "1336849011",
+      "name": "dsh-plugin-bridge",
+      "fullName": "Totoro-qaq/dsh-plugin-bridge",
+      "owner": "Totoro-qaq",
+      "description": "DeepSeek Harness plugin for previewable cross-preset session migration. Fixed-schema handoffs preserve state, source-model intent, and unresolved images; the original session stays untouched.",
+      "htmlUrl": "https://github.com/Totoro-qaq/dsh-plugin-bridge",
+      "homepage": "",
+      "npmUrl": "https://www.npmjs.com/package/dsh-plugin-bridge",
+      "npmName": "dsh-plugin-bridge",
+      "stars": 125,
+      "updatedAt": "2026-08-24T19:48:16Z",
+      "license": "MIT",
+      "topics": [
+        "context-migration",
+        "cordis",
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "preset-migration",
+        "session-migration"
+      ]
+    },
+    {
       "id": "1334167430",
       "name": "dsh-noema",
       "fullName": "ZSeven-W/dsh-noema",
@@ -1117,29 +1140,6 @@
         "noema",
         "plugin",
         "typescript"
-      ]
-    },
-    {
-      "id": "1336849011",
-      "name": "dsh-plugin-bridge",
-      "fullName": "Totoro-qaq/dsh-plugin-bridge",
-      "owner": "Totoro-qaq",
-      "description": "DeepSeek Harness plugin for previewable cross-preset session migration. Fixed-schema handoffs preserve state, source-model intent, and unresolved images; the original session stays untouched.",
-      "htmlUrl": "https://github.com/Totoro-qaq/dsh-plugin-bridge",
-      "homepage": "",
-      "npmUrl": "https://www.npmjs.com/package/dsh-plugin-bridge",
-      "npmName": "dsh-plugin-bridge",
-      "stars": 123,
-      "updatedAt": "2026-08-24T16:44:27Z",
-      "license": "MIT",
-      "topics": [
-        "context-migration",
-        "cordis",
-        "deepseek-harness",
-        "dsh",
-        "dsh-plugin",
-        "preset-migration",
-        "session-migration"
       ]
     },
     {
@@ -1202,8 +1202,8 @@
       "homepage": "https://www.npmjs.com/package/@shengsheng/dsh-taskboard",
       "npmUrl": "https://www.npmjs.com/package/%40shengsheng%2Fdsh-taskboard",
       "npmName": "@shengsheng/dsh-taskboard",
-      "stars": 116,
-      "updatedAt": "2026-08-24T18:17:34Z",
+      "stars": 117,
+      "updatedAt": "2026-08-24T19:29:21Z",
       "license": "Apache-2.0",
       "topics": [
         "agent",
@@ -1567,8 +1567,8 @@
       "homepage": "",
       "npmUrl": "https://www.npmjs.com/package/%40dockyard-dsh%2Fplugin",
       "npmName": "@dockyard-dsh/plugin",
-      "stars": 77,
-      "updatedAt": "2026-08-23T17:22:03Z",
+      "stars": 78,
+      "updatedAt": "2026-08-24T19:24:55Z",
       "license": "MIT",
       "topics": [
         "account-pool",
@@ -2298,8 +2298,8 @@
       "homepage": "",
       "npmUrl": "https://www.npmjs.com/package/dsh-recall-unread",
       "npmName": "dsh-recall-unread",
-      "stars": 45,
-      "updatedAt": "2026-08-24T14:58:00Z",
+      "stars": 46,
+      "updatedAt": "2026-08-24T19:27:31Z",
       "license": "MIT",
       "topics": [
         "dsh-plugin",
@@ -2330,6 +2330,29 @@
       ]
     },
     {
+      "id": "1337972266",
+      "name": "dsh-omi-voice",
+      "fullName": "PolinniZhong/dsh-omi-voice",
+      "owner": "PolinniZhong",
+      "description": "DeepSeek Harness 语音朗读插件：沉浸式听朗读，用豆包 TTS 自然音色读 AI 回复（BYOK · 点读/暂停/继续）",
+      "htmlUrl": "https://github.com/PolinniZhong/dsh-omi-voice",
+      "homepage": "",
+      "npmUrl": "https://www.npmjs.com/package/dsh-omi-voice",
+      "npmName": "dsh-omi-voice",
+      "stars": 43,
+      "updatedAt": "2026-08-24T10:02:19Z",
+      "license": "MIT",
+      "topics": [
+        "chinese",
+        "deepseek-harness",
+        "dsh-plugin",
+        "read-aloud",
+        "text-to-speech",
+        "tts",
+        "voice"
+      ]
+    },
+    {
       "id": "1333768172",
       "name": "dsh-mcp-panel",
       "fullName": "PerryLink/dsh-mcp-panel",
@@ -2354,29 +2377,6 @@
         "mcp-console",
         "observability",
         "panel"
-      ]
-    },
-    {
-      "id": "1337972266",
-      "name": "dsh-omi-voice",
-      "fullName": "PolinniZhong/dsh-omi-voice",
-      "owner": "PolinniZhong",
-      "description": "DeepSeek Harness 语音朗读插件：沉浸式听朗读，用豆包 TTS 自然音色读 AI 回复（BYOK · 点读/暂停/继续）",
-      "htmlUrl": "https://github.com/PolinniZhong/dsh-omi-voice",
-      "homepage": "",
-      "npmUrl": "https://www.npmjs.com/package/dsh-omi-voice",
-      "npmName": "dsh-omi-voice",
-      "stars": 43,
-      "updatedAt": "2026-08-24T10:02:19Z",
-      "license": "MIT",
-      "topics": [
-        "chinese",
-        "deepseek-harness",
-        "dsh-plugin",
-        "read-aloud",
-        "text-to-speech",
-        "tts",
-        "voice"
       ]
     },
     {
@@ -3257,6 +3257,61 @@
       ]
     },
     {
+      "id": "1336850842",
+      "name": "dsh-ecosystem-spec",
+      "fullName": "T-Auto/dsh-ecosystem-spec",
+      "owner": "T-Auto",
+      "description": "deepseek-harness TUI Plugin Access and Implementation Standards / deepseek-harness终端交互生态插件准入规范与实施标准",
+      "htmlUrl": "https://github.com/T-Auto/dsh-ecosystem-spec",
+      "homepage": "",
+      "npmUrl": "https://www.npmjs.com/package/dsh-ecosystem-spec",
+      "npmName": "dsh-ecosystem-spec",
+      "stars": 27,
+      "updatedAt": "2026-08-24T19:27:56Z",
+      "license": "MIT",
+      "topics": [
+        "deepseek",
+        "deepseek-harness",
+        "dsh-plugin",
+        "spec",
+        "tui"
+      ]
+    },
+    {
+      "id": "1337930857",
+      "name": "dsh-bridge",
+      "fullName": "wenbin-wb/dsh-bridge",
+      "owner": "wenbin-wb",
+      "description": "🚀 DeepSeek Harness 多通道远程访问与安全守护插件 | 局域网扫码直连、Cloudflare / 自建公网隧道、微信 / QQ / 飞书 / Telegram 机器人全生命周期对话 | 内置全协议访问安全认证、后台防篡改与容灾保命体系",
+      "htmlUrl": "https://github.com/wenbin-wb/dsh-bridge",
+      "homepage": "https://github.com/wenbin-wb/dsh-bridge",
+      "npmUrl": "https://www.npmjs.com/package/%40wenbin_wb%2Fdsh-bridge",
+      "npmName": "@wenbin_wb/dsh-bridge",
+      "stars": 27,
+      "updatedAt": "2026-08-24T19:32:23Z",
+      "license": "MIT",
+      "topics": [
+        "access-control",
+        "authentication",
+        "chatbot",
+        "cloudflare",
+        "deepseek",
+        "deepseek-harness",
+        "dsh-plugin",
+        "feishu",
+        "im-bot",
+        "lark",
+        "qq-bot",
+        "qr-code",
+        "remote-access",
+        "security",
+        "telegram",
+        "tunnel",
+        "websocket",
+        "wechat"
+      ]
+    },
+    {
       "id": "1334156126",
       "name": "dsh-plugin-marketplace",
       "fullName": "AwesomeHou/dsh-plugin-marketplace",
@@ -3323,27 +3378,6 @@
       ]
     },
     {
-      "id": "1336850842",
-      "name": "dsh-ecosystem-spec",
-      "fullName": "T-Auto/dsh-ecosystem-spec",
-      "owner": "T-Auto",
-      "description": "deepseek-harness TUI Plugin Access and Implementation Standards / deepseek-harness终端交互生态插件准入规范与实施标准",
-      "htmlUrl": "https://github.com/T-Auto/dsh-ecosystem-spec",
-      "homepage": "",
-      "npmUrl": "https://www.npmjs.com/package/dsh-ecosystem-spec",
-      "npmName": "dsh-ecosystem-spec",
-      "stars": 26,
-      "updatedAt": "2026-08-24T16:38:53Z",
-      "license": "MIT",
-      "topics": [
-        "deepseek",
-        "deepseek-harness",
-        "dsh-plugin",
-        "spec",
-        "tui"
-      ]
-    },
-    {
       "id": "1333234252",
       "name": "dsh-tui",
       "fullName": "dsh-tui/dsh-tui",
@@ -3385,40 +3419,6 @@
         "deepseek-harness",
         "dsh",
         "dsh-plugin"
-      ]
-    },
-    {
-      "id": "1337930857",
-      "name": "dsh-bridge",
-      "fullName": "wenbin-wb/dsh-bridge",
-      "owner": "wenbin-wb",
-      "description": "🚀 DeepSeek Harness 多通道远程访问与安全守护插件 | 局域网扫码直连、Cloudflare / 自建公网隧道、微信 / QQ / 飞书 / Telegram 机器人全生命周期对话 | 内置全协议访问安全认证、后台防篡改与容灾保命体系",
-      "htmlUrl": "https://github.com/wenbin-wb/dsh-bridge",
-      "homepage": "https://github.com/wenbin-wb/dsh-bridge",
-      "npmUrl": "https://www.npmjs.com/package/%40wenbin_wb%2Fdsh-bridge",
-      "npmName": "@wenbin_wb/dsh-bridge",
-      "stars": 26,
-      "updatedAt": "2026-08-24T16:11:08Z",
-      "license": "MIT",
-      "topics": [
-        "access-control",
-        "authentication",
-        "chatbot",
-        "cloudflare",
-        "deepseek",
-        "deepseek-harness",
-        "dsh-plugin",
-        "feishu",
-        "im-bot",
-        "lark",
-        "qq-bot",
-        "qr-code",
-        "remote-access",
-        "security",
-        "telegram",
-        "tunnel",
-        "websocket",
-        "wechat"
       ]
     },
     {
