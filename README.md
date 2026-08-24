@@ -12,10 +12,10 @@ DeepSeek Harness（DSH）插件排行榜 / Plugin Leaderboard。
 <!-- RANKING:START -->
 | 排名 | 插件 | Stars | 简介 |
 | ---: | --- | ---: | --- |
-| 1 | [nexu-io/open-design](https://github.com/nexu-io/open-design) | 91077 | 🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images & video — real files, HTML/PDF/PPTX/MP4 export. 🤖 Claude Code / Codex / Cursor / DeepSeek Harness / OpenCode & 20+ CLIs via BYOK. |
+| 1 | [nexu-io/open-design](https://github.com/nexu-io/open-design) | 91079 | 🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images & video — real files, HTML/PDF/PPTX/MP4 export. 🤖 Claude Code / Codex / Cursor / DeepSeek Harness / OpenCode & 20+ CLIs via BYOK. |
 | 2 | [anywhere-labs/dsh-desktop](https://github.com/anywhere-labs/dsh-desktop) | 19650 | 为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。 |
 | 3 | [zhu1090093659/dsh-web](https://github.com/zhu1090093659/dsh-web) | 5909 | DeepSeek Harness（DSH）Web 插件聚合生态包 · 一切皆插件，创意工坊分发（dsh-market.com） |
-| 4 | [Devin-AXIS/iPolloWork](https://github.com/Devin-AXIS/iPolloWork) | 4735 | Enterprise-grade, local-first Agent Workbench for people and agent teams. A unified multi-engine workspace for Codex Harness, DeepSeek Harness, and OpenCode, with unified plugins and Skills, multi-agent projects and tasks, and editable code, documents, presentations, design, and video. |
+| 4 | [Devin-AXIS/iPolloWork](https://github.com/Devin-AXIS/iPolloWork) | 4736 | Enterprise-grade, local-first Agent Workbench for people and agent teams. A unified multi-engine workspace for Codex Harness, DeepSeek Harness, and OpenCode, with unified plugins and Skills, multi-agent projects and tasks, and editable code, documents, presentations, design, and video. |
 | 5 | [liustack/modlens](https://github.com/liustack/modlens) | 3602 | The first vision plugin for DeepSeek Harness, and the vision bridge for every text-only coding agent. Paste an image, get structured JSON evidence (OCR, layout, semantics). \| 全网最强 DeepSeek Harness 外挂视觉插件，为 DeepSeek、GLM 等纯文本模型外挂视觉能力，粘贴图片即得结构化 JSON 证据（OCR、版面、语义）。 |
 | 6 | [whiteguo233/OpenBiliClaw](https://github.com/whiteguo233/OpenBiliClaw) | 3020 | 本地私有、开源的自进化跨平台 AI 内容发现 Agent：先理解你，再主动从 B站、小红书、抖音、YouTube、X、知乎、Reddit、微博等平台与开放 Web 寻找内容。（支持 deepseek harness 插件） \| Local-first open-source cross-platform AI content discovery agent: understands you, then proactively finds content across Bilibili, Xiaohongshu, Douyin, YouTube, X, Zhihu, Reddit, Weibo and the open web.（support deepseek harness plugin） |
 | 7 | [ccch1mneyyy/dsh-TUI](https://github.com/ccch1mneyyy/dsh-TUI) | 2472 | DSH 官方公众号收录的 TUI 补位插件：Claude Code 风，鲸鱼顶栏/实时状态/流式思考/双击 Esc 回滚/上下文进度+TPS。npm 一键装。  DSH official WeChat featured TUI plugin — Claude Code style: whale bar, live status, streaming thoughts, double-Esc rollback, context bar + TPS. npm one-click. |
@@ -63,5 +63,5 @@ DeepSeek Harness（DSH）插件排行榜 / Plugin Leaderboard。
 | 49 | [ZSeven-W/dsh-android](https://github.com/ZSeven-W/dsh-android) | 107 | DeepSeek Harness plugin for Android — build, run, and interact with a live emulator or USB device stream inside a conversation, driven entirely through adb. |
 | 50 | [Fishquito7/dsh-skill-mcp-panel](https://github.com/Fishquito7/dsh-skill-mcp-panel) | 101 | DSH Web UI plugin: skill and MCP management（Web界面的skill/MCP管理工具） |
 
-> 数据更新时间：2026/08/25 05:54 · 收录数：147 · 最低 Star：25 · [打开完整榜单](https://ywsldxk.github.io/dsh-plugin-stars/)
+> 数据更新时间：2026/08/25 06:19 · 收录数：148 · 最低 Star：25 · [打开完整榜单](https://ywsldxk.github.io/dsh-plugin-stars/)
 <!-- RANKING:END -->

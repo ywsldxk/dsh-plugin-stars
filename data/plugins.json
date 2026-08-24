@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T21:54:52.103Z",
+  "generatedAt": "2026-08-24T22:19:19.612Z",
   "source": "github-search-topics-dsh-plugin,dsh,deepseek-harness",
   "threshold": 25,
   "note": "Merged and deduplicated by repository id from three GitHub repository topic searches (topic:dsh-plugin, topic:dsh, topic:deepseek-harness). GitHub repository search returns at most 1,000 results per query, so this list contains the most popular matches within those windows, not a complete census.",
@@ -14,8 +14,8 @@
       "homepage": "https://open-design.ai",
       "npmUrl": "https://www.npmjs.com/package/open-design",
       "npmName": "open-design",
-      "stars": 91077,
-      "updatedAt": "2026-08-24T21:42:54Z",
+      "stars": 91079,
+      "updatedAt": "2026-08-24T22:08:51Z",
       "license": "Apache-2.0",
       "topics": [
         "agent-skills",
@@ -96,8 +96,8 @@
       "homepage": "https://www.ipollo.ai/",
       "npmUrl": "https://www.npmjs.com/package/%40ipollo%2Fipollowork-workspace",
       "npmName": "@ipollo/ipollowork-workspace",
-      "stars": 4735,
-      "updatedAt": "2026-08-24T21:27:38Z",
+      "stars": 4736,
+      "updatedAt": "2026-08-24T22:09:05Z",
       "license": "NOASSERTION",
       "topics": [
         "agent-collaboration",
@@ -203,7 +203,7 @@
       "npmUrl": "https://www.npmjs.com/package/%40deepseek-harness-tui%2Fdsh-tui",
       "npmName": "@deepseek-harness-tui/dsh-tui",
       "stars": 2472,
-      "updatedAt": "2026-08-24T21:48:42Z",
+      "updatedAt": "2026-08-24T21:57:51Z",
       "license": "MIT",
       "topics": [
         "claude-code",
@@ -1128,7 +1128,7 @@
       "npmUrl": "https://www.npmjs.com/package/dsh-plugin-bridge",
       "npmName": "dsh-plugin-bridge",
       "stars": 125,
-      "updatedAt": "2026-08-24T19:48:16Z",
+      "updatedAt": "2026-08-24T22:11:34Z",
       "license": "MIT",
       "topics": [
         "context-migration",
@@ -1560,6 +1560,27 @@
       ]
     },
     {
+      "id": "1335490343",
+      "name": "dockyard-dsh",
+      "fullName": "AITabby/dockyard-dsh",
+      "owner": "AITabby",
+      "description": "A macOS-only native account-pool and provider plugin for DeepSeek Harness.",
+      "htmlUrl": "https://github.com/AITabby/dockyard-dsh",
+      "homepage": "",
+      "npmUrl": "https://www.npmjs.com/package/%40dockyard-dsh%2Fplugin",
+      "npmName": "@dockyard-dsh/plugin",
+      "stars": 78,
+      "updatedAt": "2026-08-24T19:24:55Z",
+      "license": "MIT",
+      "topics": [
+        "account-pool",
+        "deepseek-harness",
+        "dsh-plugin",
+        "macos",
+        "oauth"
+      ]
+    },
+    {
       "id": "1333150357",
       "name": "dsh-automation",
       "fullName": "titanwings/dsh-automation",
@@ -1581,27 +1602,6 @@
         "dsh-bundle",
         "dsh-plugin",
         "scheduled-tasks"
-      ]
-    },
-    {
-      "id": "1335490343",
-      "name": "dockyard-dsh",
-      "fullName": "AITabby/dockyard-dsh",
-      "owner": "AITabby",
-      "description": "A macOS-only native account-pool and provider plugin for DeepSeek Harness.",
-      "htmlUrl": "https://github.com/AITabby/dockyard-dsh",
-      "homepage": "",
-      "npmUrl": "https://www.npmjs.com/package/%40dockyard-dsh%2Fplugin",
-      "npmName": "@dockyard-dsh/plugin",
-      "stars": 78,
-      "updatedAt": "2026-08-24T19:24:55Z",
-      "license": "MIT",
-      "topics": [
-        "account-pool",
-        "deepseek-harness",
-        "dsh-plugin",
-        "macos",
-        "oauth"
       ]
     },
     {
@@ -2721,28 +2721,6 @@
       ]
     },
     {
-      "id": "1335660277",
-      "name": "picturereader",
-      "fullName": "jing-hy/picturereader",
-      "owner": "jing-hy",
-      "description": "DSH plugin: pixel-to-text image reading for text-only models. image_scan/image_ocr/image_sample tools + image-reading skill (34-image trained methodology). Pure local, optional PaddleOCR.",
-      "htmlUrl": "https://github.com/jing-hy/picturereader",
-      "homepage": "",
-      "npmUrl": "https://www.npmjs.com/package/picturereader",
-      "npmName": "picturereader",
-      "stars": 35,
-      "updatedAt": "2026-08-24T06:23:39Z",
-      "license": "MIT",
-      "topics": [
-        "deepseek-harness",
-        "dsh-plugin",
-        "image-reading",
-        "ocr",
-        "pixel-art",
-        "vision"
-      ]
-    },
-    {
       "id": "1335238049",
       "name": "dsh-whale-musume",
       "fullName": "Sutera-Diffusus/dsh-whale-musume",
@@ -2776,6 +2754,28 @@
         "productivity",
         "virtual-assistant",
         "whale-girl"
+      ]
+    },
+    {
+      "id": "1335660277",
+      "name": "picturereader",
+      "fullName": "jing-hy/picturereader",
+      "owner": "jing-hy",
+      "description": "DSH plugin: pixel-to-text image reading for text-only models. image_scan/image_ocr/image_sample tools + image-reading skill (34-image trained methodology). Pure local, optional PaddleOCR.",
+      "htmlUrl": "https://github.com/jing-hy/picturereader",
+      "homepage": "",
+      "npmUrl": "https://www.npmjs.com/package/picturereader",
+      "npmName": "picturereader",
+      "stars": 35,
+      "updatedAt": "2026-08-24T06:23:39Z",
+      "license": "MIT",
+      "topics": [
+        "deepseek-harness",
+        "dsh-plugin",
+        "image-reading",
+        "ocr",
+        "pixel-art",
+        "vision"
       ]
     },
     {
@@ -3526,6 +3526,29 @@
         "deepseek-harness",
         "dsh",
         "dsh-plugin"
+      ]
+    },
+    {
+      "id": "1339251799",
+      "name": "dsh-secure-audit",
+      "fullName": "PensiveFei/dsh-secure-audit",
+      "owner": "PensiveFei",
+      "description": "Read-only security & compliance plugin for DeepSeek Harness: prompt-injection detection, Chinese-PII redaction, and local configuration audit with redacted, reproducible reports.",
+      "htmlUrl": "https://github.com/PensiveFei/dsh-secure-audit",
+      "homepage": "",
+      "npmUrl": "https://www.npmjs.com/package/dsh-secure-audit",
+      "npmName": "dsh-secure-audit",
+      "stars": 25,
+      "updatedAt": "2026-08-24T21:58:01Z",
+      "license": "MIT",
+      "topics": [
+        "audit",
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "pii",
+        "prompt-injection",
+        "security"
       ]
     },
     {
