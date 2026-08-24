@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T20:23:02.798Z",
+  "generatedAt": "2026-08-24T20:57:54.407Z",
   "source": "github-search-topics-dsh-plugin,dsh,deepseek-harness",
   "threshold": 25,
   "note": "Merged and deduplicated by repository id from three GitHub repository topic searches (topic:dsh-plugin, topic:dsh, topic:deepseek-harness). GitHub repository search returns at most 1,000 results per query, so this list contains the most popular matches within those windows, not a complete census.",
@@ -14,8 +14,8 @@
       "homepage": "https://open-design.ai",
       "npmUrl": "https://www.npmjs.com/package/open-design",
       "npmName": "open-design",
-      "stars": 91064,
-      "updatedAt": "2026-08-24T20:21:39Z",
+      "stars": 91067,
+      "updatedAt": "2026-08-24T20:56:41Z",
       "license": "Apache-2.0",
       "topics": [
         "agent-skills",
@@ -96,8 +96,8 @@
       "homepage": "https://www.ipollo.ai/",
       "npmUrl": "https://www.npmjs.com/package/%40ipollo%2Fipollowork-workspace",
       "npmName": "@ipollo/ipollowork-workspace",
-      "stars": 4729,
-      "updatedAt": "2026-08-24T20:21:37Z",
+      "stars": 4730,
+      "updatedAt": "2026-08-24T20:47:51Z",
       "license": "NOASSERTION",
       "topics": [
         "agent-collaboration",
@@ -130,8 +130,8 @@
       "homepage": "https://liustack.dev",
       "npmUrl": "https://www.npmjs.com/package/%40liustack%2Fmodlens",
       "npmName": "@liustack/modlens",
-      "stars": 3601,
-      "updatedAt": "2026-08-24T19:03:18Z",
+      "stars": 3602,
+      "updatedAt": "2026-08-24T20:31:28Z",
       "license": "MIT",
       "topics": [
         "agent-skills",
@@ -203,7 +203,7 @@
       "npmUrl": "https://www.npmjs.com/package/%40deepseek-harness-tui%2Fdsh-tui",
       "npmName": "@deepseek-harness-tui/dsh-tui",
       "stars": 2471,
-      "updatedAt": "2026-08-24T20:01:30Z",
+      "updatedAt": "2026-08-24T20:25:35Z",
       "license": "MIT",
       "topics": [
         "claude-code",
@@ -668,25 +668,6 @@
       ]
     },
     {
-      "id": "1323731026",
-      "name": "dsh-memory-evolve",
-      "fullName": "csyangwen/dsh-memory-evolve",
-      "owner": "csyangwen",
-      "description": "为 DeepSeek Harness 带来「跨会话长期记忆 + 后台自我进化」能力的纯插件实现：五轨记忆 · git 分支感知 · 回合内自我审查 · 技能自我进化与技能管理器 · 四轨待办 · COI 调度 · 会话广播 · 会话搜索 · 提示词管理器 · 临时信息便签——零核心修改、零运行时依赖，随装随用、卸载即净。",
-      "htmlUrl": "https://github.com/csyangwen/dsh-memory-evolve",
-      "homepage": "",
-      "npmUrl": "https://www.npmjs.com/package/dsh-memory-evolve",
-      "npmName": "dsh-memory-evolve",
-      "stars": 241,
-      "updatedAt": "2026-08-24T13:49:21Z",
-      "license": "MIT",
-      "topics": [
-        "deepseek-harness",
-        "dsh",
-        "dsh-plugin"
-      ]
-    },
-    {
       "id": "1339882322",
       "name": "dsh-ios",
       "fullName": "ZSeven-W/dsh-ios",
@@ -696,8 +677,8 @@
       "homepage": "",
       "npmUrl": "https://www.npmjs.com/package/%40zseven-w%2Fdsh-ios",
       "npmName": "@zseven-w/dsh-ios",
-      "stars": 241,
-      "updatedAt": "2026-08-24T16:32:39Z",
+      "stars": 242,
+      "updatedAt": "2026-08-24T20:39:42Z",
       "license": "MIT",
       "topics": [
         "accessibility",
@@ -719,17 +700,36 @@
       ]
     },
     {
+      "id": "1323731026",
+      "name": "dsh-memory-evolve",
+      "fullName": "csyangwen/dsh-memory-evolve",
+      "owner": "csyangwen",
+      "description": "为 DeepSeek Harness 带来「跨会话长期记忆 + 后台自我进化」能力的纯插件实现：五轨记忆 · git 分支感知 · 回合内自我审查 · 技能自我进化与技能管理器 · 四轨待办 · COI 调度 · 会话广播 · 会话搜索 · 提示词管理器 · 临时信息便签——零核心修改、零运行时依赖，随装随用、卸载即净。",
+      "htmlUrl": "https://github.com/csyangwen/dsh-memory-evolve",
+      "homepage": "",
+      "npmUrl": "https://www.npmjs.com/package/dsh-memory-evolve",
+      "npmName": "dsh-memory-evolve",
+      "stars": 241,
+      "updatedAt": "2026-08-24T13:49:21Z",
+      "license": "MIT",
+      "topics": [
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin"
+      ]
+    },
+    {
       "id": "1334392318",
       "name": "DSHA",
       "fullName": "qiannianhuanxiang/DSHA",
       "owner": "qiannianhuanxiang",
-      "description": "DeepSeek Harness 安卓客户端：免 ROOT 免 Termux 一键运行 dsh。默认 proroot 运行时启动快 5~6 倍；对话数据存公开目录卸载重装不丢、API Key 走 Android Keystore 加密；ADB 无线配对免 Shizuku、设备 Shell 桥接让 agent 操作手机；插件市场（分类筛选/安装前预检/自动改用 npm 包）、内置终端、环境自检、看门狗、危险命令守卫、WebUI 移动端适配",
+      "description": "免 ROOT 免 Termux，在手机上跑 DeepSeek Harness。proroot 运行时启动快 5~6 倍 · ADB 免 Shizuku 直连 · 卸载重装数据不丢 · 备份与自愈体系，内置插件市场与插件管理。",
       "htmlUrl": "https://github.com/qiannianhuanxiang/DSHA",
       "homepage": "",
       "npmUrl": "",
       "npmName": "",
-      "stars": 240,
-      "updatedAt": "2026-08-24T20:21:02Z",
+      "stars": 241,
+      "updatedAt": "2026-08-24T20:31:15Z",
       "license": "MIT",
       "topics": [
         "android",
@@ -776,8 +776,8 @@
       "homepage": "",
       "npmUrl": "https://www.npmjs.com/package/dsh-synapse",
       "npmName": "dsh-synapse",
-      "stars": 203,
-      "updatedAt": "2026-08-24T15:42:14Z",
+      "stars": 204,
+      "updatedAt": "2026-08-24T20:42:58Z",
       "license": "MIT",
       "topics": [
         "deepseek",
@@ -997,6 +997,25 @@
       ]
     },
     {
+      "id": "1182135360",
+      "name": "notes",
+      "fullName": "zhaoolee/notes",
+      "owner": "zhaoolee",
+      "description": "开源版锤子便签，复刻锤科美学，一键Docker私有化部署，支持skill调用，支持dsh plugin，支持多租户，一键生成公众号格式，支持导出便签为图片",
+      "htmlUrl": "https://github.com/zhaoolee/notes",
+      "homepage": "https://notes.fangyuanxiaozhan.com",
+      "npmUrl": "https://www.npmjs.com/package/notes",
+      "npmName": "notes",
+      "stars": 153,
+      "updatedAt": "2026-08-24T20:27:44Z",
+      "license": "",
+      "topics": [
+        "dsh-plugin",
+        "notes",
+        "smartisan"
+      ]
+    },
+    {
       "id": "1332212466",
       "name": "dsh-openpencil",
       "fullName": "ZSeven-W/dsh-openpencil",
@@ -1018,25 +1037,6 @@
         "ppt",
         "ui",
         "ui-design"
-      ]
-    },
-    {
-      "id": "1182135360",
-      "name": "notes",
-      "fullName": "zhaoolee/notes",
-      "owner": "zhaoolee",
-      "description": "开源版锤子便签，复刻锤科美学，一键Docker私有化部署，支持skill调用，支持dsh plugin，支持多租户，一键生成公众号格式，支持导出便签为图片",
-      "htmlUrl": "https://github.com/zhaoolee/notes",
-      "homepage": "https://notes.fangyuanxiaozhan.com",
-      "npmUrl": "https://www.npmjs.com/package/notes",
-      "npmName": "notes",
-      "stars": 152,
-      "updatedAt": "2026-08-24T15:43:44Z",
-      "license": "",
-      "topics": [
-        "dsh-plugin",
-        "notes",
-        "smartisan"
       ]
     },
     {
@@ -1524,8 +1524,8 @@
       "homepage": "",
       "npmUrl": "",
       "npmName": "",
-      "stars": 80,
-      "updatedAt": "2026-08-24T18:02:17Z",
+      "stars": 81,
+      "updatedAt": "2026-08-24T20:44:35Z",
       "license": "MIT",
       "topics": [
         "beauty",
@@ -1614,8 +1614,8 @@
       "homepage": "",
       "npmUrl": "https://www.npmjs.com/package/%40tencent-connect%2Fdsh-qqbot",
       "npmName": "@tencent-connect/dsh-qqbot",
-      "stars": 75,
-      "updatedAt": "2026-08-24T15:18:20Z",
+      "stars": 76,
+      "updatedAt": "2026-08-24T20:36:22Z",
       "license": "MIT",
       "topics": [
         "dsh",
