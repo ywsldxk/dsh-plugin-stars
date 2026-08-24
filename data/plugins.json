@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T22:51:39.875Z",
+  "generatedAt": "2026-08-24T23:17:34.546Z",
   "source": "github-search-topics-dsh-plugin,dsh,deepseek-harness",
   "threshold": 25,
   "note": "Merged and deduplicated by repository id from three GitHub repository topic searches (topic:dsh-plugin, topic:dsh, topic:deepseek-harness). GitHub repository search returns at most 1,000 results per query, so this list contains the most popular matches within those windows, not a complete census.",
@@ -14,8 +14,8 @@
       "homepage": "https://open-design.ai",
       "npmUrl": "https://www.npmjs.com/package/open-design",
       "npmName": "open-design",
-      "stars": 91081,
-      "updatedAt": "2026-08-24T22:45:41Z",
+      "stars": 91087,
+      "updatedAt": "2026-08-24T23:08:35Z",
       "license": "Apache-2.0",
       "topics": [
         "agent-skills",
@@ -50,8 +50,8 @@
       "homepage": "https://dshdesktop.cn",
       "npmUrl": "https://www.npmjs.com/package/deepseek-harness-desktop",
       "npmName": "deepseek-harness-desktop",
-      "stars": 19652,
-      "updatedAt": "2026-08-24T22:37:19Z",
+      "stars": 19653,
+      "updatedAt": "2026-08-24T23:10:32Z",
       "license": "MIT",
       "topics": [
         "cordis",
@@ -74,8 +74,8 @@
       "homepage": "https://dsh-market.com",
       "npmUrl": "https://www.npmjs.com/package/dsh-web",
       "npmName": "dsh-web",
-      "stars": 5911,
-      "updatedAt": "2026-08-24T22:49:33Z",
+      "stars": 5913,
+      "updatedAt": "2026-08-24T23:13:03Z",
       "license": "Apache-2.0",
       "topics": [
         "cordis",
@@ -96,8 +96,8 @@
       "homepage": "https://www.ipollo.ai/",
       "npmUrl": "https://www.npmjs.com/package/%40ipollo%2Fipollowork-workspace",
       "npmName": "@ipollo/ipollowork-workspace",
-      "stars": 4736,
-      "updatedAt": "2026-08-24T22:09:05Z",
+      "stars": 4738,
+      "updatedAt": "2026-08-24T23:13:53Z",
       "license": "NOASSERTION",
       "topics": [
         "agent-collaboration",
@@ -333,8 +333,8 @@
       "homepage": "",
       "npmUrl": "https://www.npmjs.com/package/%40nanmicoder%2Fdsh-agent-teams",
       "npmName": "@nanmicoder/dsh-agent-teams",
-      "stars": 952,
-      "updatedAt": "2026-08-24T19:13:00Z",
+      "stars": 951,
+      "updatedAt": "2026-08-24T23:16:22Z",
       "license": "MIT",
       "topics": [
         "agentteams",
@@ -588,8 +588,8 @@
       "homepage": "",
       "npmUrl": "https://www.npmjs.com/package/dsh-plugin-subscriptions",
       "npmName": "dsh-plugin-subscriptions",
-      "stars": 264,
-      "updatedAt": "2026-08-24T17:22:09Z",
+      "stars": 265,
+      "updatedAt": "2026-08-24T23:00:11Z",
       "license": "MIT",
       "topics": [
         "ai-agent",
@@ -935,8 +935,8 @@
       "homepage": "https://github.com/cocofhu/anime-find#readme",
       "npmUrl": "https://www.npmjs.com/package/%40cocofhu%2Fanime-find",
       "npmName": "@cocofhu/anime-find",
-      "stars": 160,
-      "updatedAt": "2026-08-24T13:37:33Z",
+      "stars": 161,
+      "updatedAt": "2026-08-24T23:17:06Z",
       "license": "MIT",
       "topics": [
         "anime",
@@ -1108,8 +1108,8 @@
       "homepage": "",
       "npmUrl": "https://www.npmjs.com/package/dsh-plugin-bridge",
       "npmName": "dsh-plugin-bridge",
-      "stars": 126,
-      "updatedAt": "2026-08-24T22:25:31Z",
+      "stars": 127,
+      "updatedAt": "2026-08-24T22:53:22Z",
       "license": "MIT",
       "topics": [
         "context-migration",
@@ -1344,8 +1344,8 @@
       "homepage": "",
       "npmUrl": "https://www.npmjs.com/package/dsh-dream-skin",
       "npmName": "dsh-dream-skin",
-      "stars": 99,
-      "updatedAt": "2026-08-24T22:43:36Z",
+      "stars": 100,
+      "updatedAt": "2026-08-24T23:12:02Z",
       "license": "MIT",
       "topics": [
         "deepseek-harness",
@@ -1355,6 +1355,30 @@
         "skin",
         "theme",
         "wallpaper"
+      ]
+    },
+    {
+      "id": "1335877752",
+      "name": "dsh-evolve-modes",
+      "fullName": "GraySilver/dsh-evolve-modes",
+      "owner": "GraySilver",
+      "description": "让 Agent 的工作方式可组合、可审查、可持续改进，最终实现 Agent Self Evoling。 DeepSeek Harness Web plugin with composable task controls and isolated, human-reviewed self-evolution.",
+      "htmlUrl": "https://github.com/GraySilver/dsh-evolve-modes",
+      "homepage": "https://www.npmjs.com/package/@graysilver/dsh-evolve-modes",
+      "npmUrl": "https://www.npmjs.com/package/%40graysilver%2Fdsh-evolve-modes",
+      "npmName": "@graysilver/dsh-evolve-modes",
+      "stars": 96,
+      "updatedAt": "2026-08-24T23:04:58Z",
+      "license": "MIT",
+      "topics": [
+        "acceptance-review",
+        "agent-review",
+        "ai-agents",
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "plan-mode",
+        "prompt-engineering"
       ]
     },
     {
@@ -1425,30 +1449,6 @@
       "topics": [
         "dsh",
         "dsh-plugin"
-      ]
-    },
-    {
-      "id": "1335877752",
-      "name": "dsh-evolve-modes",
-      "fullName": "GraySilver/dsh-evolve-modes",
-      "owner": "GraySilver",
-      "description": "让 Agent 的工作方式可组合、可审查、可持续改进，最终实现 Agent Self Evoling。 DeepSeek Harness Web plugin with composable task controls and isolated, human-reviewed self-evolution.",
-      "htmlUrl": "https://github.com/GraySilver/dsh-evolve-modes",
-      "homepage": "https://www.npmjs.com/package/@graysilver/dsh-evolve-modes",
-      "npmUrl": "https://www.npmjs.com/package/%40graysilver%2Fdsh-evolve-modes",
-      "npmName": "@graysilver/dsh-evolve-modes",
-      "stars": 95,
-      "updatedAt": "2026-08-24T22:39:26Z",
-      "license": "MIT",
-      "topics": [
-        "acceptance-review",
-        "agent-review",
-        "ai-agents",
-        "deepseek-harness",
-        "dsh",
-        "dsh-plugin",
-        "plan-mode",
-        "prompt-engineering"
       ]
     },
     {
@@ -3592,6 +3592,23 @@
         "dsh",
         "dsh-plugin",
         "workshop"
+      ]
+    },
+    {
+      "id": "1333375150",
+      "name": "dsh-plugin-template",
+      "fullName": "bugmaker2/dsh-plugin-template",
+      "owner": "bugmaker2",
+      "description": "Template for deepseek-harness plugin development.",
+      "htmlUrl": "https://github.com/bugmaker2/dsh-plugin-template",
+      "homepage": "",
+      "npmUrl": "https://www.npmjs.com/package/dsh-plugin-template",
+      "npmName": "dsh-plugin-template",
+      "stars": 25,
+      "updatedAt": "2026-08-24T22:53:41Z",
+      "license": "MIT",
+      "topics": [
+        "dsh-plugin"
       ]
     }
   ]
