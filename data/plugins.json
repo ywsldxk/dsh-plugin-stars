@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T23:17:34.546Z",
+  "generatedAt": "2026-08-24T23:44:51.372Z",
   "source": "github-search-topics-dsh-plugin,dsh,deepseek-harness",
   "threshold": 25,
   "note": "Merged and deduplicated by repository id from three GitHub repository topic searches (topic:dsh-plugin, topic:dsh, topic:deepseek-harness). GitHub repository search returns at most 1,000 results per query, so this list contains the most popular matches within those windows, not a complete census.",
@@ -14,8 +14,8 @@
       "homepage": "https://open-design.ai",
       "npmUrl": "https://www.npmjs.com/package/open-design",
       "npmName": "open-design",
-      "stars": 91087,
-      "updatedAt": "2026-08-24T23:08:35Z",
+      "stars": 91089,
+      "updatedAt": "2026-08-24T23:41:20Z",
       "license": "Apache-2.0",
       "topics": [
         "agent-skills",
@@ -50,8 +50,8 @@
       "homepage": "https://dshdesktop.cn",
       "npmUrl": "https://www.npmjs.com/package/deepseek-harness-desktop",
       "npmName": "deepseek-harness-desktop",
-      "stars": 19653,
-      "updatedAt": "2026-08-24T23:10:32Z",
+      "stars": 19656,
+      "updatedAt": "2026-08-24T23:35:11Z",
       "license": "MIT",
       "topics": [
         "cordis",
@@ -96,8 +96,8 @@
       "homepage": "https://www.ipollo.ai/",
       "npmUrl": "https://www.npmjs.com/package/%40ipollo%2Fipollowork-workspace",
       "npmName": "@ipollo/ipollowork-workspace",
-      "stars": 4738,
-      "updatedAt": "2026-08-24T23:13:53Z",
+      "stars": 4739,
+      "updatedAt": "2026-08-24T23:41:16Z",
       "license": "NOASSERTION",
       "topics": [
         "agent-collaboration",
@@ -256,8 +256,8 @@
       "homepage": "",
       "npmUrl": "https://www.npmjs.com/package/deepseek-harness-desktop",
       "npmName": "deepseek-harness-desktop",
-      "stars": 1104,
-      "updatedAt": "2026-08-24T21:21:40Z",
+      "stars": 1105,
+      "updatedAt": "2026-08-24T23:44:15Z",
       "license": "MIT",
       "topics": [
         "deepseek",
@@ -311,8 +311,8 @@
       "homepage": "https://www.npmjs.com/package/dsh-context",
       "npmUrl": "https://www.npmjs.com/package/dsh-context",
       "npmName": "dsh-context",
-      "stars": 1002,
-      "updatedAt": "2026-08-24T22:50:57Z",
+      "stars": 1003,
+      "updatedAt": "2026-08-24T23:34:43Z",
       "license": "Apache-2.0",
       "topics": [
         "cordis-plugin",
@@ -333,8 +333,8 @@
       "homepage": "",
       "npmUrl": "https://www.npmjs.com/package/%40nanmicoder%2Fdsh-agent-teams",
       "npmName": "@nanmicoder/dsh-agent-teams",
-      "stars": 951,
-      "updatedAt": "2026-08-24T23:16:22Z",
+      "stars": 952,
+      "updatedAt": "2026-08-24T23:36:08Z",
       "license": "MIT",
       "topics": [
         "agentteams",
@@ -668,6 +668,32 @@
       ]
     },
     {
+      "id": "1334392318",
+      "name": "DSHA",
+      "fullName": "qiannianhuanxiang/DSHA",
+      "owner": "qiannianhuanxiang",
+      "description": "免 ROOT 免 Termux，在手机上跑 DeepSeek Harness。proroot 运行时启动快 5~6 倍 · ADB 免 Shizuku 直连 · 卸载重装数据不丢 · 备份与自愈体系，内置插件市场与插件管理。",
+      "htmlUrl": "https://github.com/qiannianhuanxiang/DSHA",
+      "homepage": "",
+      "npmUrl": "",
+      "npmName": "",
+      "stars": 243,
+      "updatedAt": "2026-08-24T23:35:48Z",
+      "license": "MIT",
+      "topics": [
+        "android",
+        "coding-agent",
+        "deepseek",
+        "deepseek-harness",
+        "launcher",
+        "llm",
+        "proot",
+        "proroot",
+        "shizuku",
+        "webui"
+      ]
+    },
+    {
       "id": "1339882322",
       "name": "dsh-ios",
       "fullName": "ZSeven-W/dsh-ios",
@@ -697,32 +723,6 @@
         "ui-automation",
         "webdriveragent",
         "xcode"
-      ]
-    },
-    {
-      "id": "1334392318",
-      "name": "DSHA",
-      "fullName": "qiannianhuanxiang/DSHA",
-      "owner": "qiannianhuanxiang",
-      "description": "免 ROOT 免 Termux，在手机上跑 DeepSeek Harness。proroot 运行时启动快 5~6 倍 · ADB 免 Shizuku 直连 · 卸载重装数据不丢 · 备份与自愈体系，内置插件市场与插件管理。",
-      "htmlUrl": "https://github.com/qiannianhuanxiang/DSHA",
-      "homepage": "",
-      "npmUrl": "",
-      "npmName": "",
-      "stars": 242,
-      "updatedAt": "2026-08-24T21:27:04Z",
-      "license": "MIT",
-      "topics": [
-        "android",
-        "coding-agent",
-        "deepseek",
-        "deepseek-harness",
-        "launcher",
-        "llm",
-        "proot",
-        "proroot",
-        "shizuku",
-        "webui"
       ]
     },
     {
@@ -1195,6 +1195,29 @@
       ]
     },
     {
+      "id": "1333732838",
+      "name": "DSH-taskboard",
+      "fullName": "shengsheng90/DSH-taskboard",
+      "owner": "shengsheng90",
+      "description": "Native local Taskboard plugin for DeepSeek Harness. SQLite-backed projects, Agent claim/review, and a native Web UI — no iframe, no second chat runtime.",
+      "htmlUrl": "https://github.com/shengsheng90/DSH-taskboard",
+      "homepage": "https://www.npmjs.com/package/@shengsheng/dsh-taskboard",
+      "npmUrl": "https://www.npmjs.com/package/%40shengsheng%2Fdsh-taskboard",
+      "npmName": "@shengsheng/dsh-taskboard",
+      "stars": 119,
+      "updatedAt": "2026-08-24T23:20:58Z",
+      "license": "Apache-2.0",
+      "topics": [
+        "agent",
+        "cordis",
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "task-management",
+        "taskboard"
+      ]
+    },
+    {
       "id": "1336614837",
       "name": "dsh-damage-pulse",
       "fullName": "wssfk12138/dsh-damage-pulse",
@@ -1216,29 +1239,6 @@
         "dsh-plugin",
         "token-monitor",
         "token-usage"
-      ]
-    },
-    {
-      "id": "1333732838",
-      "name": "DSH-taskboard",
-      "fullName": "shengsheng90/DSH-taskboard",
-      "owner": "shengsheng90",
-      "description": "Native local Taskboard plugin for DeepSeek Harness. SQLite-backed projects, Agent claim/review, and a native Web UI — no iframe, no second chat runtime.",
-      "htmlUrl": "https://github.com/shengsheng90/DSH-taskboard",
-      "homepage": "https://www.npmjs.com/package/@shengsheng/dsh-taskboard",
-      "npmUrl": "https://www.npmjs.com/package/%40shengsheng%2Fdsh-taskboard",
-      "npmName": "@shengsheng/dsh-taskboard",
-      "stars": 118,
-      "updatedAt": "2026-08-24T20:08:40Z",
-      "license": "Apache-2.0",
-      "topics": [
-        "agent",
-        "cordis",
-        "deepseek-harness",
-        "dsh",
-        "dsh-plugin",
-        "task-management",
-        "taskboard"
       ]
     },
     {
@@ -1946,8 +1946,8 @@
       "homepage": "",
       "npmUrl": "https://www.npmjs.com/package/mimir-monorepo",
       "npmName": "mimir-monorepo",
-      "stars": 55,
-      "updatedAt": "2026-08-24T21:22:22Z",
+      "stars": 56,
+      "updatedAt": "2026-08-24T23:32:50Z",
       "license": "MIT",
       "topics": [
         "arxiv",
@@ -2343,8 +2343,8 @@
       "homepage": "",
       "npmUrl": "https://www.npmjs.com/package/dsh-omi-voice",
       "npmName": "dsh-omi-voice",
-      "stars": 44,
-      "updatedAt": "2026-08-24T20:20:23Z",
+      "stars": 45,
+      "updatedAt": "2026-08-24T23:40:03Z",
       "license": "MIT",
       "topics": [
         "chinese",
@@ -2721,6 +2721,28 @@
       ]
     },
     {
+      "id": "1335660277",
+      "name": "picturereader",
+      "fullName": "jing-hy/picturereader",
+      "owner": "jing-hy",
+      "description": "DSH plugin: pixel-to-text image reading for text-only models. image_scan/image_ocr/image_sample tools + image-reading skill (34-image trained methodology). Pure local, optional PaddleOCR.",
+      "htmlUrl": "https://github.com/jing-hy/picturereader",
+      "homepage": "",
+      "npmUrl": "https://www.npmjs.com/package/picturereader",
+      "npmName": "picturereader",
+      "stars": 35,
+      "updatedAt": "2026-08-24T06:23:39Z",
+      "license": "MIT",
+      "topics": [
+        "deepseek-harness",
+        "dsh-plugin",
+        "image-reading",
+        "ocr",
+        "pixel-art",
+        "vision"
+      ]
+    },
+    {
       "id": "1335238049",
       "name": "dsh-whale-musume",
       "fullName": "Sutera-Diffusus/dsh-whale-musume",
@@ -2754,28 +2776,6 @@
         "productivity",
         "virtual-assistant",
         "whale-girl"
-      ]
-    },
-    {
-      "id": "1335660277",
-      "name": "picturereader",
-      "fullName": "jing-hy/picturereader",
-      "owner": "jing-hy",
-      "description": "DSH plugin: pixel-to-text image reading for text-only models. image_scan/image_ocr/image_sample tools + image-reading skill (34-image trained methodology). Pure local, optional PaddleOCR.",
-      "htmlUrl": "https://github.com/jing-hy/picturereader",
-      "homepage": "",
-      "npmUrl": "https://www.npmjs.com/package/picturereader",
-      "npmName": "picturereader",
-      "stars": 35,
-      "updatedAt": "2026-08-24T06:23:39Z",
-      "license": "MIT",
-      "topics": [
-        "deepseek-harness",
-        "dsh-plugin",
-        "image-reading",
-        "ocr",
-        "pixel-art",
-        "vision"
       ]
     },
     {
@@ -2943,6 +2943,23 @@
       ]
     },
     {
+      "id": "1335599084",
+      "name": "dsh-tavern",
+      "fullName": "chen731215-dev/dsh-tavern",
+      "owner": "chen731215-dev",
+      "description": "DSH 原生酒馆管理面板，入口：设置 → 通用设置 → 酒馆管理（原生）。多角色卡/多世界书/多预设，会话级预设隔离；世界书智能关键词注入省 60-70% 上下文；记忆总结 + 角色关系网；剧情选项一键发送；创作/扮演双模式；NSFW 成人模式。免费非商用（CC BY-NC-SA 4.0）。安装：dsh plugin --profile web add dsh-tavern",
+      "htmlUrl": "https://github.com/chen731215-dev/dsh-tavern",
+      "homepage": "",
+      "npmUrl": "https://www.npmjs.com/package/dsh-tavern",
+      "npmName": "dsh-tavern",
+      "stars": 32,
+      "updatedAt": "2026-08-24T23:37:12Z",
+      "license": "NOASSERTION",
+      "topics": [
+        "dsh-plugin"
+      ]
+    },
+    {
       "id": "1334346564",
       "name": "dsh-codex-ui",
       "fullName": "MichengAI/dsh-codex-ui",
@@ -2961,23 +2978,6 @@
         "dsh",
         "dsh-plugin",
         "dsh-plugins"
-      ]
-    },
-    {
-      "id": "1335599084",
-      "name": "dsh-tavern",
-      "fullName": "chen731215-dev/dsh-tavern",
-      "owner": "chen731215-dev",
-      "description": "DSH 原生酒馆管理面板，入口：设置 → 通用设置 → 酒馆管理（原生）。多角色卡/多世界书/多预设，会话级预设隔离；世界书智能关键词注入省 60-70% 上下文；记忆总结 + 角色关系网；剧情选项一键发送；创作/扮演双模式；NSFW 成人模式。免费非商用（CC BY-NC-SA 4.0）。安装：dsh plugin --profile web add dsh-tavern",
-      "htmlUrl": "https://github.com/chen731215-dev/dsh-tavern",
-      "homepage": "",
-      "npmUrl": "https://www.npmjs.com/package/dsh-tavern",
-      "npmName": "dsh-tavern",
-      "stars": 31,
-      "updatedAt": "2026-08-24T16:24:59Z",
-      "license": "NOASSERTION",
-      "topics": [
-        "dsh-plugin"
       ]
     },
     {
@@ -3143,6 +3143,40 @@
       ]
     },
     {
+      "id": "1337930857",
+      "name": "dsh-bridge",
+      "fullName": "wenbin-wb/dsh-bridge",
+      "owner": "wenbin-wb",
+      "description": "🚀 DeepSeek Harness 多通道远程访问与安全守护插件 | 局域网扫码直连、Cloudflare / 自建公网隧道、微信 / QQ / 飞书 / Telegram 机器人全生命周期对话 | 内置全协议访问安全认证、后台防篡改与容灾保命体系",
+      "htmlUrl": "https://github.com/wenbin-wb/dsh-bridge",
+      "homepage": "https://github.com/wenbin-wb/dsh-bridge",
+      "npmUrl": "https://www.npmjs.com/package/%40wenbin_wb%2Fdsh-bridge",
+      "npmName": "@wenbin_wb/dsh-bridge",
+      "stars": 29,
+      "updatedAt": "2026-08-24T23:35:14Z",
+      "license": "MIT",
+      "topics": [
+        "access-control",
+        "authentication",
+        "chatbot",
+        "cloudflare",
+        "deepseek",
+        "deepseek-harness",
+        "dsh-plugin",
+        "feishu",
+        "im-bot",
+        "lark",
+        "qq-bot",
+        "qr-code",
+        "remote-access",
+        "security",
+        "telegram",
+        "tunnel",
+        "websocket",
+        "wechat"
+      ]
+    },
+    {
       "id": "1334380765",
       "name": "dsh-chat-timeline",
       "fullName": "jjxjjjjiik-bot/dsh-chat-timeline",
@@ -3187,6 +3221,26 @@
       ]
     },
     {
+      "id": "1334073773",
+      "name": "dsh-whale-report",
+      "fullName": "SenmuuuuW/dsh-whale-report",
+      "owner": "SenmuuuuW",
+      "description": "深迹 DeepTrace — Your Agent, in numbers. DSH 插件：从会话事件日志生成日报/周报/月报/年报/自定义区间，确定性洞察与协作复盘，只读、不改写历史。",
+      "htmlUrl": "https://github.com/SenmuuuuW/dsh-whale-report",
+      "homepage": "",
+      "npmUrl": "https://www.npmjs.com/package/dsh-whale-report",
+      "npmName": "dsh-whale-report",
+      "stars": 29,
+      "updatedAt": "2026-08-24T14:43:30Z",
+      "license": "MIT",
+      "topics": [
+        "agent-report",
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin"
+      ]
+    },
+    {
       "id": "1333116579",
       "name": "dsh-computer-use",
       "fullName": "Anionex/dsh-computer-use",
@@ -3215,26 +3269,6 @@
         "macos",
         "native-apps",
         "typescript"
-      ]
-    },
-    {
-      "id": "1334073773",
-      "name": "dsh-whale-report",
-      "fullName": "SenmuuuuW/dsh-whale-report",
-      "owner": "SenmuuuuW",
-      "description": "深迹 DeepTrace — Your Agent, in numbers. DSH 插件：从会话事件日志生成日报/周报/月报/年报/自定义区间，确定性洞察与协作复盘，只读、不改写历史。",
-      "htmlUrl": "https://github.com/SenmuuuuW/dsh-whale-report",
-      "homepage": "",
-      "npmUrl": "https://www.npmjs.com/package/dsh-whale-report",
-      "npmName": "dsh-whale-report",
-      "stars": 29,
-      "updatedAt": "2026-08-24T14:43:30Z",
-      "license": "MIT",
-      "topics": [
-        "agent-report",
-        "deepseek-harness",
-        "dsh",
-        "dsh-plugin"
       ]
     },
     {
@@ -3325,40 +3359,6 @@
         "dsh-plugin",
         "plugin",
         "plugin-marketplace"
-      ]
-    },
-    {
-      "id": "1337930857",
-      "name": "dsh-bridge",
-      "fullName": "wenbin-wb/dsh-bridge",
-      "owner": "wenbin-wb",
-      "description": "🚀 DeepSeek Harness 多通道远程访问与安全守护插件 | 局域网扫码直连、Cloudflare / 自建公网隧道、微信 / QQ / 飞书 / Telegram 机器人全生命周期对话 | 内置全协议访问安全认证、后台防篡改与容灾保命体系",
-      "htmlUrl": "https://github.com/wenbin-wb/dsh-bridge",
-      "homepage": "https://github.com/wenbin-wb/dsh-bridge",
-      "npmUrl": "https://www.npmjs.com/package/%40wenbin_wb%2Fdsh-bridge",
-      "npmName": "@wenbin_wb/dsh-bridge",
-      "stars": 27,
-      "updatedAt": "2026-08-24T19:32:23Z",
-      "license": "MIT",
-      "topics": [
-        "access-control",
-        "authentication",
-        "chatbot",
-        "cloudflare",
-        "deepseek",
-        "deepseek-harness",
-        "dsh-plugin",
-        "feishu",
-        "im-bot",
-        "lark",
-        "qq-bot",
-        "qr-code",
-        "remote-access",
-        "security",
-        "telegram",
-        "tunnel",
-        "websocket",
-        "wechat"
       ]
     },
     {
