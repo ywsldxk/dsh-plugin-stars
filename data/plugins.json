@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T21:52:06.906Z",
+  "generatedAt": "2026-08-25T22:20:00.316Z",
   "source": "github-search-topics-dsh-plugin,dsh,deepseek-harness",
   "threshold": 25,
   "note": "Merged and deduplicated by repository id from three GitHub repository topic searches (topic:dsh-plugin, topic:dsh, topic:deepseek-harness). GitHub repository search returns at most 1,000 results per query, so this list contains the most popular matches within those windows, not a complete census.",
@@ -14,8 +14,8 @@
       "homepage": "https://open-design.ai",
       "npmUrl": "https://www.npmjs.com/package/open-design",
       "npmName": "open-design",
-      "stars": 91458,
-      "updatedAt": "2026-08-25T21:39:26Z",
+      "stars": 91461,
+      "updatedAt": "2026-08-25T22:04:12Z",
       "license": "Apache-2.0",
       "topics": [
         "agent-skills",
@@ -74,8 +74,8 @@
       "homepage": "https://dsh-market.com",
       "npmUrl": "https://www.npmjs.com/package/dsh-web",
       "npmName": "dsh-web",
-      "stars": 6049,
-      "updatedAt": "2026-08-25T19:58:31Z",
+      "stars": 6050,
+      "updatedAt": "2026-08-25T22:06:49Z",
       "license": "Apache-2.0",
       "topics": [
         "cordis",
@@ -203,7 +203,7 @@
       "npmUrl": "https://www.npmjs.com/package/%40deepseek-harness-tui%2Fdsh-tui",
       "npmName": "@deepseek-harness-tui/dsh-tui",
       "stars": 2543,
-      "updatedAt": "2026-08-25T20:59:02Z",
+      "updatedAt": "2026-08-25T22:11:11Z",
       "license": "MIT",
       "topics": [
         "claude-code",
@@ -250,8 +250,8 @@
       "homepage": "https://openpets.dev",
       "npmUrl": "https://www.npmjs.com/package/openpets-v2-workspace",
       "npmName": "openpets-v2-workspace",
-      "stars": 1118,
-      "updatedAt": "2026-08-25T20:05:59Z",
+      "stars": 1119,
+      "updatedAt": "2026-08-25T22:06:34Z",
       "license": "MIT",
       "topics": [
         "ai-agents",
@@ -333,8 +333,8 @@
       "homepage": "",
       "npmUrl": "https://www.npmjs.com/package/%40nanmicoder%2Fdsh-agent-teams",
       "npmName": "@nanmicoder/dsh-agent-teams",
-      "stars": 1009,
-      "updatedAt": "2026-08-25T20:29:55Z",
+      "stars": 1010,
+      "updatedAt": "2026-08-25T22:06:34Z",
       "license": "MIT",
       "topics": [
         "agentteams",
@@ -425,7 +425,7 @@
       "npmUrl": "https://www.npmjs.com/package/graph-memory",
       "npmName": "graph-memory",
       "stars": 574,
-      "updatedAt": "2026-08-25T19:06:44Z",
+      "updatedAt": "2026-08-25T22:02:54Z",
       "license": "MIT",
       "topics": [
         "claude-code",
@@ -1061,8 +1061,8 @@
       "homepage": "",
       "npmUrl": "https://www.npmjs.com/package/dsh-mobile",
       "npmName": "dsh-mobile",
-      "stars": 143,
-      "updatedAt": "2026-08-25T21:40:29Z",
+      "stars": 144,
+      "updatedAt": "2026-08-25T22:12:57Z",
       "license": "Apache-2.0",
       "topics": [
         "android",
@@ -1143,8 +1143,8 @@
       "homepage": "https://www.npmjs.com/package/@shengsheng/dsh-taskboard",
       "npmUrl": "https://www.npmjs.com/package/%40shengsheng%2Fdsh-taskboard",
       "npmName": "@shengsheng/dsh-taskboard",
-      "stars": 129,
-      "updatedAt": "2026-08-25T21:30:19Z",
+      "stars": 130,
+      "updatedAt": "2026-08-25T22:13:25Z",
       "license": "Apache-2.0",
       "topics": [
         "agent",
@@ -1471,8 +1471,8 @@
       "homepage": "",
       "npmUrl": "https://www.npmjs.com/package/dsh-find-plugin",
       "npmName": "dsh-find-plugin",
-      "stars": 97,
-      "updatedAt": "2026-08-25T17:12:06Z",
+      "stars": 96,
+      "updatedAt": "2026-08-25T22:02:53Z",
       "license": "MIT",
       "topics": [
         "deepseek-harness",
@@ -1809,30 +1809,6 @@
       ]
     },
     {
-      "id": "1333974533",
-      "name": "dsh-plugin-hub",
-      "fullName": "Noob-stupid/dsh-plugin-hub",
-      "owner": "Noob-stupid",
-      "description": "DeepSeek Harness (DSH) 插件管理面板：一键启用/停用插件 + GitHub dsh-plugin 插件市场，带插件详情与一键安装 | Plugin manager & marketplace for DeepSeek Harness",
-      "htmlUrl": "https://github.com/Noob-stupid/dsh-plugin-hub",
-      "homepage": "",
-      "npmUrl": "https://www.npmjs.com/package/%40noob-stupid%2Fdsh-plugin-console",
-      "npmName": "@noob-stupid/dsh-plugin-console",
-      "stars": 70,
-      "updatedAt": "2026-08-25T18:29:06Z",
-      "license": "MIT",
-      "topics": [
-        "deepseek-harness",
-        "dsh",
-        "dsh-plugin",
-        "dsh-plugins",
-        "github",
-        "help-wanted",
-        "plugin-manager",
-        "plugin-market"
-      ]
-    },
-    {
       "id": "1333722443",
       "name": "dsh-AuthInOne",
       "fullName": "Stormycry-cryp/dsh-AuthInOne",
@@ -1866,6 +1842,30 @@
         "token-usage",
         "usage-attribution",
         "vision-fallback"
+      ]
+    },
+    {
+      "id": "1333974533",
+      "name": "dsh-plugin-hub",
+      "fullName": "Noob-stupid/dsh-plugin-hub",
+      "owner": "Noob-stupid",
+      "description": "DeepSeek Harness (DSH) 插件管理面板：一键启用/停用插件 + GitHub dsh-plugin 插件市场，带插件详情与一键安装 | Plugin manager & marketplace for DeepSeek Harness",
+      "htmlUrl": "https://github.com/Noob-stupid/dsh-plugin-hub",
+      "homepage": "",
+      "npmUrl": "https://www.npmjs.com/package/%40noob-stupid%2Fdsh-plugin-console",
+      "npmName": "@noob-stupid/dsh-plugin-console",
+      "stars": 69,
+      "updatedAt": "2026-08-25T22:02:38Z",
+      "license": "MIT",
+      "topics": [
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "dsh-plugins",
+        "github",
+        "help-wanted",
+        "plugin-manager",
+        "plugin-market"
       ]
     },
     {
@@ -1963,8 +1963,8 @@
       "homepage": "",
       "npmUrl": "https://www.npmjs.com/package/dsh-plugin-cc",
       "npmName": "dsh-plugin-cc",
-      "stars": 60,
-      "updatedAt": "2026-08-25T19:12:26Z",
+      "stars": 61,
+      "updatedAt": "2026-08-25T21:55:09Z",
       "license": "MIT",
       "topics": [
         "ai-agent",
@@ -2404,8 +2404,8 @@
       "homepage": "https://dsh-plugin.org",
       "npmUrl": "https://www.npmjs.com/package/dsh-plugin",
       "npmName": "dsh-plugin",
-      "stars": 48,
-      "updatedAt": "2026-08-25T18:12:19Z",
+      "stars": 47,
+      "updatedAt": "2026-08-25T22:02:39Z",
       "license": "MIT",
       "topics": [
         "agent",
@@ -3547,30 +3547,6 @@
       ]
     },
     {
-      "id": "1334156126",
-      "name": "dsh-plugin-marketplace",
-      "fullName": "AwesomeHou/dsh-plugin-marketplace",
-      "owner": "AwesomeHou",
-      "description": "Plugin marketplace for DeepSeek Harness — live-syncs the GitHub dsh-plugin topic (1800+ repos) into a searchable, paginated settings tab with one-click install and agent tools (market_search / market_install).",
-      "htmlUrl": "https://github.com/AwesomeHou/dsh-plugin-marketplace",
-      "homepage": "",
-      "npmUrl": "https://www.npmjs.com/package/dsh-plugin-marketplace",
-      "npmName": "dsh-plugin-marketplace",
-      "stars": 27,
-      "updatedAt": "2026-08-22T15:42:10Z",
-      "license": "MIT",
-      "topics": [
-        "ai-agent",
-        "cordis",
-        "deepseek",
-        "deepseek-harness",
-        "dsh",
-        "dsh-plugin",
-        "plugin",
-        "plugin-marketplace"
-      ]
-    },
-    {
       "id": "1334248865",
       "name": "dsh-usage-stats",
       "fullName": "Make0209/dsh-usage-stats",
@@ -3698,6 +3674,30 @@
       "topics": [
         "dsh-better-sidebar",
         "dsh-plugin"
+      ]
+    },
+    {
+      "id": "1334156126",
+      "name": "dsh-plugin-marketplace",
+      "fullName": "AwesomeHou/dsh-plugin-marketplace",
+      "owner": "AwesomeHou",
+      "description": "Plugin marketplace for DeepSeek Harness — live-syncs the GitHub dsh-plugin topic (1800+ repos) into a searchable, paginated settings tab with one-click install and agent tools (market_search / market_install).",
+      "htmlUrl": "https://github.com/AwesomeHou/dsh-plugin-marketplace",
+      "homepage": "",
+      "npmUrl": "https://www.npmjs.com/package/dsh-plugin-marketplace",
+      "npmName": "dsh-plugin-marketplace",
+      "stars": 26,
+      "updatedAt": "2026-08-25T22:03:09Z",
+      "license": "MIT",
+      "topics": [
+        "ai-agent",
+        "cordis",
+        "deepseek",
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "plugin",
+        "plugin-marketplace"
       ]
     },
     {
