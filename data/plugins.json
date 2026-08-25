@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T22:20:00.316Z",
+  "generatedAt": "2026-08-25T22:53:32.384Z",
   "source": "github-search-topics-dsh-plugin,dsh,deepseek-harness",
   "threshold": 25,
   "note": "Merged and deduplicated by repository id from three GitHub repository topic searches (topic:dsh-plugin, topic:dsh, topic:deepseek-harness). GitHub repository search returns at most 1,000 results per query, so this list contains the most popular matches within those windows, not a complete census.",
@@ -14,8 +14,8 @@
       "homepage": "https://open-design.ai",
       "npmUrl": "https://www.npmjs.com/package/open-design",
       "npmName": "open-design",
-      "stars": 91461,
-      "updatedAt": "2026-08-25T22:04:12Z",
+      "stars": 91465,
+      "updatedAt": "2026-08-25T22:41:46Z",
       "license": "Apache-2.0",
       "topics": [
         "agent-skills",
@@ -50,8 +50,8 @@
       "homepage": "https://dshdesktop.cn",
       "npmUrl": "https://www.npmjs.com/package/deepseek-harness-desktop",
       "npmName": "deepseek-harness-desktop",
-      "stars": 20177,
-      "updatedAt": "2026-08-25T20:47:47Z",
+      "stars": 20178,
+      "updatedAt": "2026-08-25T22:25:29Z",
       "license": "MIT",
       "topics": [
         "cordis",
@@ -96,8 +96,8 @@
       "homepage": "https://www.ipollo.ai/",
       "npmUrl": "https://www.npmjs.com/package/%40ipollo%2Fipollowork-workspace",
       "npmName": "@ipollo/ipollowork-workspace",
-      "stars": 4832,
-      "updatedAt": "2026-08-25T21:36:13Z",
+      "stars": 4834,
+      "updatedAt": "2026-08-25T22:51:21Z",
       "license": "NOASSERTION",
       "topics": [
         "agent-collaboration",
@@ -788,8 +788,8 @@
       "homepage": "",
       "npmUrl": "https://www.npmjs.com/package/dsh-synapse",
       "npmName": "dsh-synapse",
-      "stars": 225,
-      "updatedAt": "2026-08-25T18:35:16Z",
+      "stars": 226,
+      "updatedAt": "2026-08-25T22:36:10Z",
       "license": "MIT",
       "topics": [
         "deepseek",
@@ -1143,8 +1143,8 @@
       "homepage": "https://www.npmjs.com/package/@shengsheng/dsh-taskboard",
       "npmUrl": "https://www.npmjs.com/package/%40shengsheng%2Fdsh-taskboard",
       "npmName": "@shengsheng/dsh-taskboard",
-      "stars": 130,
-      "updatedAt": "2026-08-25T22:13:25Z",
+      "stars": 131,
+      "updatedAt": "2026-08-25T22:34:01Z",
       "license": "Apache-2.0",
       "topics": [
         "agent",
@@ -1471,8 +1471,8 @@
       "homepage": "",
       "npmUrl": "https://www.npmjs.com/package/dsh-find-plugin",
       "npmName": "dsh-find-plugin",
-      "stars": 96,
-      "updatedAt": "2026-08-25T22:02:53Z",
+      "stars": 97,
+      "updatedAt": "2026-08-25T22:30:52Z",
       "license": "MIT",
       "topics": [
         "deepseek-harness",
@@ -1562,8 +1562,8 @@
       "homepage": "https://dsh.r2049.cn/",
       "npmUrl": "https://www.npmjs.com/package/ds-harness-remote",
       "npmName": "ds-harness-remote",
-      "stars": 82,
-      "updatedAt": "2026-08-25T18:27:56Z",
+      "stars": 83,
+      "updatedAt": "2026-08-25T22:27:31Z",
       "license": "",
       "topics": [
         "deepseek",
@@ -2059,8 +2059,8 @@
       "homepage": "https://sandbaseai.github.io/deepseek-harness-handbook/",
       "npmUrl": "https://www.npmjs.com/package/deepseek-harness-handbook",
       "npmName": "deepseek-harness-handbook",
-      "stars": 58,
-      "updatedAt": "2026-08-25T21:04:09Z",
+      "stars": 59,
+      "updatedAt": "2026-08-25T22:30:31Z",
       "license": "Apache-2.0",
       "topics": [
         "agent",
@@ -2266,6 +2266,29 @@
       ]
     },
     {
+      "id": "1337972266",
+      "name": "dsh-omi-voice",
+      "fullName": "PolinniZhong/dsh-omi-voice",
+      "owner": "PolinniZhong",
+      "description": "DeepSeek Harness 语音朗读插件：沉浸式听朗读，用豆包 TTS 自然音色读 AI 回复（BYOK · 点读/暂停/继续）",
+      "htmlUrl": "https://github.com/PolinniZhong/dsh-omi-voice",
+      "homepage": "",
+      "npmUrl": "https://www.npmjs.com/package/dsh-omi-voice",
+      "npmName": "dsh-omi-voice",
+      "stars": 54,
+      "updatedAt": "2026-08-25T22:29:39Z",
+      "license": "MIT",
+      "topics": [
+        "chinese",
+        "deepseek-harness",
+        "dsh-plugin",
+        "read-aloud",
+        "text-to-speech",
+        "tts",
+        "voice"
+      ]
+    },
+    {
       "id": "1332396549",
       "name": "dsh-openbiliclaw",
       "fullName": "whiteguo233/dsh-openbiliclaw",
@@ -2284,29 +2307,6 @@
         "dsh",
         "dsh-plugin",
         "openbiliclaw"
-      ]
-    },
-    {
-      "id": "1337972266",
-      "name": "dsh-omi-voice",
-      "fullName": "PolinniZhong/dsh-omi-voice",
-      "owner": "PolinniZhong",
-      "description": "DeepSeek Harness 语音朗读插件：沉浸式听朗读，用豆包 TTS 自然音色读 AI 回复（BYOK · 点读/暂停/继续）",
-      "htmlUrl": "https://github.com/PolinniZhong/dsh-omi-voice",
-      "homepage": "",
-      "npmUrl": "https://www.npmjs.com/package/dsh-omi-voice",
-      "npmName": "dsh-omi-voice",
-      "stars": 53,
-      "updatedAt": "2026-08-25T20:28:31Z",
-      "license": "MIT",
-      "topics": [
-        "chinese",
-        "deepseek-harness",
-        "dsh-plugin",
-        "read-aloud",
-        "text-to-speech",
-        "tts",
-        "voice"
       ]
     },
     {
