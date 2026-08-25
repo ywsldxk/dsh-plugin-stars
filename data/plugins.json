@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T21:21:39.392Z",
+  "generatedAt": "2026-08-25T21:52:06.906Z",
   "source": "github-search-topics-dsh-plugin,dsh,deepseek-harness",
   "threshold": 25,
   "note": "Merged and deduplicated by repository id from three GitHub repository topic searches (topic:dsh-plugin, topic:dsh, topic:deepseek-harness). GitHub repository search returns at most 1,000 results per query, so this list contains the most popular matches within those windows, not a complete census.",
@@ -14,8 +14,8 @@
       "homepage": "https://open-design.ai",
       "npmUrl": "https://www.npmjs.com/package/open-design",
       "npmName": "open-design",
-      "stars": 91454,
-      "updatedAt": "2026-08-25T21:17:33Z",
+      "stars": 91458,
+      "updatedAt": "2026-08-25T21:39:26Z",
       "license": "Apache-2.0",
       "topics": [
         "agent-skills",
@@ -96,8 +96,8 @@
       "homepage": "https://www.ipollo.ai/",
       "npmUrl": "https://www.npmjs.com/package/%40ipollo%2Fipollowork-workspace",
       "npmName": "@ipollo/ipollowork-workspace",
-      "stars": 4830,
-      "updatedAt": "2026-08-25T20:45:35Z",
+      "stars": 4832,
+      "updatedAt": "2026-08-25T21:36:13Z",
       "license": "NOASSERTION",
       "topics": [
         "agent-collaboration",
@@ -130,8 +130,8 @@
       "homepage": "https://liustack.dev",
       "npmUrl": "https://www.npmjs.com/package/%40liustack%2Fmodlens",
       "npmName": "@liustack/modlens",
-      "stars": 3661,
-      "updatedAt": "2026-08-25T18:20:41Z",
+      "stars": 3662,
+      "updatedAt": "2026-08-25T21:39:25Z",
       "license": "MIT",
       "topics": [
         "agent-skills",
@@ -652,8 +652,8 @@
       "homepage": "https://liustack.dev",
       "npmUrl": "https://www.npmjs.com/package/%40liustack%2Fmodsearch",
       "npmName": "@liustack/modsearch",
-      "stars": 271,
-      "updatedAt": "2026-08-25T14:53:20Z",
+      "stars": 272,
+      "updatedAt": "2026-08-25T21:42:25Z",
       "license": "MIT",
       "topics": [
         "agent-skills",
@@ -1061,8 +1061,8 @@
       "homepage": "",
       "npmUrl": "https://www.npmjs.com/package/dsh-mobile",
       "npmName": "dsh-mobile",
-      "stars": 142,
-      "updatedAt": "2026-08-25T16:39:50Z",
+      "stars": 143,
+      "updatedAt": "2026-08-25T21:40:29Z",
       "license": "Apache-2.0",
       "topics": [
         "android",
@@ -1143,8 +1143,8 @@
       "homepage": "https://www.npmjs.com/package/@shengsheng/dsh-taskboard",
       "npmUrl": "https://www.npmjs.com/package/%40shengsheng%2Fdsh-taskboard",
       "npmName": "@shengsheng/dsh-taskboard",
-      "stars": 128,
-      "updatedAt": "2026-08-25T20:28:12Z",
+      "stars": 129,
+      "updatedAt": "2026-08-25T21:30:19Z",
       "license": "Apache-2.0",
       "topics": [
         "agent",
@@ -1666,8 +1666,8 @@
       "homepage": "https://mimir.smartlarkai.com",
       "npmUrl": "https://www.npmjs.com/package/mimir-monorepo",
       "npmName": "mimir-monorepo",
-      "stars": 76,
-      "updatedAt": "2026-08-25T18:45:16Z",
+      "stars": 77,
+      "updatedAt": "2026-08-25T21:24:30Z",
       "license": "MIT",
       "topics": [
         "arxiv",
@@ -2011,6 +2011,25 @@
       ]
     },
     {
+      "id": "1336836593",
+      "name": "dsh-recall-unread",
+      "fullName": "hg1048596-pixel/dsh-recall-unread",
+      "owner": "hg1048596-pixel",
+      "description": "DeepSeek Harness (DSH) 插件：在模型读取前撤回已发送的文字消息，支持单条与全部撤回。A DeepSeek Harness plugin that recalls sent-but-unread text messages before the model reads them — one-by-one or all at once.",
+      "htmlUrl": "https://github.com/hg1048596-pixel/dsh-recall-unread",
+      "homepage": "",
+      "npmUrl": "https://www.npmjs.com/package/dsh-recall-unread",
+      "npmName": "dsh-recall-unread",
+      "stars": 59,
+      "updatedAt": "2026-08-25T21:37:45Z",
+      "license": "MIT",
+      "topics": [
+        "dsh-plugin",
+        "dsh-plugin-market",
+        "dsh-plugins"
+      ]
+    },
+    {
       "id": "1330041615",
       "name": "dsh-navbar",
       "fullName": "vlln/dsh-navbar",
@@ -2064,25 +2083,6 @@
         "runbook",
         "sandbox",
         "troubleshooting"
-      ]
-    },
-    {
-      "id": "1336836593",
-      "name": "dsh-recall-unread",
-      "fullName": "hg1048596-pixel/dsh-recall-unread",
-      "owner": "hg1048596-pixel",
-      "description": "DeepSeek Harness (DSH) 插件：在模型读取前撤回已发送的文字消息，支持单条与全部撤回。A DeepSeek Harness plugin that recalls sent-but-unread text messages before the model reads them — one-by-one or all at once.",
-      "htmlUrl": "https://github.com/hg1048596-pixel/dsh-recall-unread",
-      "homepage": "",
-      "npmUrl": "https://www.npmjs.com/package/dsh-recall-unread",
-      "npmName": "dsh-recall-unread",
-      "stars": 57,
-      "updatedAt": "2026-08-25T20:45:45Z",
-      "license": "MIT",
-      "topics": [
-        "dsh-plugin",
-        "dsh-plugin-market",
-        "dsh-plugins"
       ]
     },
     {
@@ -2996,6 +2996,23 @@
       ]
     },
     {
+      "id": "1335599084",
+      "name": "dsh-tavern",
+      "fullName": "chen731215-dev/dsh-tavern",
+      "owner": "chen731215-dev",
+      "description": "DSH 原生酒馆管理面板，入口：设置 → 通用设置 → 酒馆管理（原生）。多角色卡/多世界书/多预设，会话级预设隔离；世界书智能关键词注入省 60-70% 上下文；记忆总结 + 角色关系网；剧情选项一键发送；创作/扮演双模式；NSFW 成人模式。免费非商用（CC BY-NC-SA 4.0）。安装：dsh plugin --profile web add dsh-tavern",
+      "htmlUrl": "https://github.com/chen731215-dev/dsh-tavern",
+      "homepage": "",
+      "npmUrl": "https://www.npmjs.com/package/dsh-tavern",
+      "npmName": "dsh-tavern",
+      "stars": 34,
+      "updatedAt": "2026-08-25T21:25:35Z",
+      "license": "NOASSERTION",
+      "topics": [
+        "dsh-plugin"
+      ]
+    },
+    {
       "id": "1333084899",
       "name": "dsh-interconnect",
       "fullName": "Chinesezjc/dsh-interconnect",
@@ -3079,23 +3096,6 @@
         "dsh",
         "dsh-plugin",
         "dsh-plugins"
-      ]
-    },
-    {
-      "id": "1335599084",
-      "name": "dsh-tavern",
-      "fullName": "chen731215-dev/dsh-tavern",
-      "owner": "chen731215-dev",
-      "description": "DSH 原生酒馆管理面板，入口：设置 → 通用设置 → 酒馆管理（原生）。多角色卡/多世界书/多预设，会话级预设隔离；世界书智能关键词注入省 60-70% 上下文；记忆总结 + 角色关系网；剧情选项一键发送；创作/扮演双模式；NSFW 成人模式。免费非商用（CC BY-NC-SA 4.0）。安装：dsh plugin --profile web add dsh-tavern",
-      "htmlUrl": "https://github.com/chen731215-dev/dsh-tavern",
-      "homepage": "",
-      "npmUrl": "https://www.npmjs.com/package/dsh-tavern",
-      "npmName": "dsh-tavern",
-      "stars": 33,
-      "updatedAt": "2026-08-25T18:21:55Z",
-      "license": "NOASSERTION",
-      "topics": [
-        "dsh-plugin"
       ]
     },
     {
