@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T19:55:40.573Z",
+  "generatedAt": "2026-08-25T20:21:53.581Z",
   "source": "github-search-topics-dsh-plugin,dsh,deepseek-harness",
   "threshold": 25,
   "note": "Merged and deduplicated by repository id from three GitHub repository topic searches (topic:dsh-plugin, topic:dsh, topic:deepseek-harness). GitHub repository search returns at most 1,000 results per query, so this list contains the most popular matches within those windows, not a complete census.",
@@ -14,8 +14,8 @@
       "homepage": "https://open-design.ai",
       "npmUrl": "https://www.npmjs.com/package/open-design",
       "npmName": "open-design",
-      "stars": 91442,
-      "updatedAt": "2026-08-25T19:36:58Z",
+      "stars": 91443,
+      "updatedAt": "2026-08-25T20:02:22Z",
       "license": "Apache-2.0",
       "topics": [
         "agent-skills",
@@ -74,8 +74,8 @@
       "homepage": "https://dsh-market.com",
       "npmUrl": "https://www.npmjs.com/package/dsh-web",
       "npmName": "dsh-web",
-      "stars": 6048,
-      "updatedAt": "2026-08-25T18:21:55Z",
+      "stars": 6049,
+      "updatedAt": "2026-08-25T19:58:31Z",
       "license": "Apache-2.0",
       "topics": [
         "cordis",
@@ -227,8 +227,8 @@
       "homepage": "",
       "npmUrl": "https://www.npmjs.com/package/deepseek-harness-desktop",
       "npmName": "deepseek-harness-desktop",
-      "stars": 1175,
-      "updatedAt": "2026-08-25T18:22:14Z",
+      "stars": 1176,
+      "updatedAt": "2026-08-25T19:55:57Z",
       "license": "MIT",
       "topics": [
         "deepseek",
@@ -251,7 +251,7 @@
       "npmUrl": "https://www.npmjs.com/package/openpets-v2-workspace",
       "npmName": "openpets-v2-workspace",
       "stars": 1118,
-      "updatedAt": "2026-08-25T18:28:32Z",
+      "updatedAt": "2026-08-25T20:05:59Z",
       "license": "MIT",
       "topics": [
         "ai-agents",
@@ -585,8 +585,8 @@
       "homepage": "https://deepseek.stream/plugins/dsh-infinite-gen-2",
       "npmUrl": "https://www.npmjs.com/package/dsh-infinite-gen-2",
       "npmName": "dsh-infinite-gen-2",
-      "stars": 297,
-      "updatedAt": "2026-08-25T19:04:05Z",
+      "stars": 298,
+      "updatedAt": "2026-08-25T20:03:03Z",
       "license": "MIT",
       "topics": [
         "armor-breaking",
@@ -1179,6 +1179,29 @@
       ]
     },
     {
+      "id": "1333732838",
+      "name": "DSH-taskboard",
+      "fullName": "shengsheng90/DSH-taskboard",
+      "owner": "shengsheng90",
+      "description": "Native local Taskboard plugin for DeepSeek Harness. SQLite-backed projects, Agent claim/review, and a native Web UI — no iframe, no second chat runtime.",
+      "htmlUrl": "https://github.com/shengsheng90/DSH-taskboard",
+      "homepage": "https://www.npmjs.com/package/@shengsheng/dsh-taskboard",
+      "npmUrl": "https://www.npmjs.com/package/%40shengsheng%2Fdsh-taskboard",
+      "npmName": "@shengsheng/dsh-taskboard",
+      "stars": 127,
+      "updatedAt": "2026-08-25T20:21:13Z",
+      "license": "Apache-2.0",
+      "topics": [
+        "agent",
+        "cordis",
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "task-management",
+        "taskboard"
+      ]
+    },
+    {
       "id": "1334167430",
       "name": "dsh-noema",
       "fullName": "ZSeven-W/dsh-noema",
@@ -1204,29 +1227,6 @@
         "noema",
         "plugin",
         "typescript"
-      ]
-    },
-    {
-      "id": "1333732838",
-      "name": "DSH-taskboard",
-      "fullName": "shengsheng90/DSH-taskboard",
-      "owner": "shengsheng90",
-      "description": "Native local Taskboard plugin for DeepSeek Harness. SQLite-backed projects, Agent claim/review, and a native Web UI — no iframe, no second chat runtime.",
-      "htmlUrl": "https://github.com/shengsheng90/DSH-taskboard",
-      "homepage": "https://www.npmjs.com/package/@shengsheng/dsh-taskboard",
-      "npmUrl": "https://www.npmjs.com/package/%40shengsheng%2Fdsh-taskboard",
-      "npmName": "@shengsheng/dsh-taskboard",
-      "stars": 125,
-      "updatedAt": "2026-08-25T15:56:09Z",
-      "license": "Apache-2.0",
-      "topics": [
-        "agent",
-        "cordis",
-        "deepseek-harness",
-        "dsh",
-        "dsh-plugin",
-        "task-management",
-        "taskboard"
       ]
     },
     {
@@ -1842,8 +1842,8 @@
       "homepage": "",
       "npmUrl": "https://www.npmjs.com/package/dsh-auth-in-one",
       "npmName": "dsh-auth-in-one",
-      "stars": 69,
-      "updatedAt": "2026-08-25T10:16:24Z",
+      "stars": 70,
+      "updatedAt": "2026-08-25T20:03:08Z",
       "license": "MIT",
       "topics": [
         "cost-attribution",
@@ -2102,6 +2102,42 @@
       ]
     },
     {
+      "id": "1333868070",
+      "name": "deepseek-harness-handbook",
+      "fullName": "sandbaseai/deepseek-harness-handbook",
+      "owner": "sandbaseai",
+      "description": "Independent, source-backed handbook for DeepSeek AI's official DeepSeek Harness (dsh): agents, plugins, security, troubleshooting, and runbooks.",
+      "htmlUrl": "https://github.com/sandbaseai/deepseek-harness-handbook",
+      "homepage": "https://sandbaseai.github.io/deepseek-harness-handbook/",
+      "npmUrl": "https://www.npmjs.com/package/deepseek-harness-handbook",
+      "npmName": "deepseek-harness-handbook",
+      "stars": 57,
+      "updatedAt": "2026-08-25T20:12:19Z",
+      "license": "Apache-2.0",
+      "topics": [
+        "agent",
+        "agent-harness",
+        "agent-runtime",
+        "agentic-ai",
+        "ai-agents",
+        "deepseek",
+        "deepseek-ai",
+        "deepseek-harness",
+        "deepseek-harness-guide",
+        "developer-tools",
+        "documentation",
+        "dsh",
+        "handbook",
+        "llm",
+        "mcp",
+        "model-context-protocol",
+        "multi-agent",
+        "runbook",
+        "sandbox",
+        "troubleshooting"
+      ]
+    },
+    {
       "id": "1336836593",
       "name": "dsh-recall-unread",
       "fullName": "hg1048596-pixel/dsh-recall-unread",
@@ -2141,42 +2177,6 @@
         "token",
         "wallet",
         "webui"
-      ]
-    },
-    {
-      "id": "1333868070",
-      "name": "deepseek-harness-handbook",
-      "fullName": "sandbaseai/deepseek-harness-handbook",
-      "owner": "sandbaseai",
-      "description": "Independent, source-backed handbook for DeepSeek AI's official DeepSeek Harness (dsh): agents, plugins, security, troubleshooting, and runbooks.",
-      "htmlUrl": "https://github.com/sandbaseai/deepseek-harness-handbook",
-      "homepage": "https://sandbaseai.github.io/deepseek-harness-handbook/",
-      "npmUrl": "https://www.npmjs.com/package/deepseek-harness-handbook",
-      "npmName": "deepseek-harness-handbook",
-      "stars": 56,
-      "updatedAt": "2026-08-25T16:08:29Z",
-      "license": "Apache-2.0",
-      "topics": [
-        "agent",
-        "agent-harness",
-        "agent-runtime",
-        "agentic-ai",
-        "ai-agents",
-        "deepseek",
-        "deepseek-ai",
-        "deepseek-harness",
-        "deepseek-harness-guide",
-        "developer-tools",
-        "documentation",
-        "dsh",
-        "handbook",
-        "llm",
-        "mcp",
-        "model-context-protocol",
-        "multi-agent",
-        "runbook",
-        "sandbox",
-        "troubleshooting"
       ]
     },
     {
@@ -2898,6 +2898,25 @@
       ]
     },
     {
+      "id": "1334205011",
+      "name": "dsh-wsl-workspace",
+      "fullName": "6Mikao9/dsh-wsl-workspace",
+      "owner": "6Mikao9",
+      "description": "WSL workspace support for DeepSeek Harness——无缝的 WSL 工作区使用体验，无需在 WSL 之中再安装一个dsh，安装该插件后在 GUI 里直接添加 WSL 工作区即可。WSL workspace support for DeepSeek Harness — Enjoy a seamless WSL workspace experience without needing to install dsh inside WSL. Once this plugin is installed, you can directly add a WSL workspace right from the GUI.",
+      "htmlUrl": "https://github.com/6Mikao9/dsh-wsl-workspace",
+      "homepage": "",
+      "npmUrl": "https://www.npmjs.com/package/dsh-wsl-workspace",
+      "npmName": "dsh-wsl-workspace",
+      "stars": 36,
+      "updatedAt": "2026-08-25T02:28:19Z",
+      "license": "MIT",
+      "topics": [
+        "dsh",
+        "dsh-plugin",
+        "dsh-plugins"
+      ]
+    },
+    {
       "id": "1335237926",
       "name": "custom-first-control-prompt",
       "fullName": "WM-CODER/custom-first-control-prompt",
@@ -2915,25 +2934,6 @@
         "deepseek-harness-plugins",
         "dsh-plugin",
         "dsh-plugin-market",
-        "dsh-plugins"
-      ]
-    },
-    {
-      "id": "1334205011",
-      "name": "dsh-wsl-workspace",
-      "fullName": "6Mikao9/dsh-wsl-workspace",
-      "owner": "6Mikao9",
-      "description": "WSL workspace support for DeepSeek Harness——无缝的 WSL 工作区使用体验，无需在 WSL 之中再安装一个dsh，安装该插件后在 GUI 里直接添加 WSL 工作区即可。WSL workspace support for DeepSeek Harness — Enjoy a seamless WSL workspace experience without needing to install dsh inside WSL. Once this plugin is installed, you can directly add a WSL workspace right from the GUI.",
-      "htmlUrl": "https://github.com/6Mikao9/dsh-wsl-workspace",
-      "homepage": "",
-      "npmUrl": "https://www.npmjs.com/package/dsh-wsl-workspace",
-      "npmName": "dsh-wsl-workspace",
-      "stars": 36,
-      "updatedAt": "2026-08-25T02:28:19Z",
-      "license": "MIT",
-      "topics": [
-        "dsh",
-        "dsh-plugin",
         "dsh-plugins"
       ]
     },
@@ -3352,6 +3352,26 @@
       ]
     },
     {
+      "id": "1334073773",
+      "name": "dsh-whale-report",
+      "fullName": "SenmuuuuW/dsh-whale-report",
+      "owner": "SenmuuuuW",
+      "description": "深迹 DeepTrace — Your Agent, in numbers. DSH 插件：从会话事件日志生成日报/周报/月报/年报/自定义区间，确定性洞察与协作复盘，只读、不改写历史。",
+      "htmlUrl": "https://github.com/SenmuuuuW/dsh-whale-report",
+      "homepage": "",
+      "npmUrl": "https://www.npmjs.com/package/dsh-whale-report",
+      "npmName": "dsh-whale-report",
+      "stars": 29,
+      "updatedAt": "2026-08-25T12:26:10Z",
+      "license": "MIT",
+      "topics": [
+        "agent-report",
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin"
+      ]
+    },
+    {
       "id": "1333936445",
       "name": "dsh-code",
       "fullName": "UNLINEARITY/dsh-code",
@@ -3374,26 +3394,6 @@
         "dsh-plugin",
         "harness",
         "plugin"
-      ]
-    },
-    {
-      "id": "1334073773",
-      "name": "dsh-whale-report",
-      "fullName": "SenmuuuuW/dsh-whale-report",
-      "owner": "SenmuuuuW",
-      "description": "深迹 DeepTrace — Your Agent, in numbers. DSH 插件：从会话事件日志生成日报/周报/月报/年报/自定义区间，确定性洞察与协作复盘，只读、不改写历史。",
-      "htmlUrl": "https://github.com/SenmuuuuW/dsh-whale-report",
-      "homepage": "",
-      "npmUrl": "https://www.npmjs.com/package/dsh-whale-report",
-      "npmName": "dsh-whale-report",
-      "stars": 29,
-      "updatedAt": "2026-08-25T12:26:10Z",
-      "license": "MIT",
-      "topics": [
-        "agent-report",
-        "deepseek-harness",
-        "dsh",
-        "dsh-plugin"
       ]
     },
     {
