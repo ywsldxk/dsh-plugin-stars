@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T22:53:32.384Z",
+  "generatedAt": "2026-08-25T23:20:19.446Z",
   "source": "github-search-topics-dsh-plugin,dsh,deepseek-harness",
   "threshold": 25,
   "note": "Merged and deduplicated by repository id from three GitHub repository topic searches (topic:dsh-plugin, topic:dsh, topic:deepseek-harness). GitHub repository search returns at most 1,000 results per query, so this list contains the most popular matches within those windows, not a complete census.",
@@ -14,8 +14,8 @@
       "homepage": "https://open-design.ai",
       "npmUrl": "https://www.npmjs.com/package/open-design",
       "npmName": "open-design",
-      "stars": 91465,
-      "updatedAt": "2026-08-25T22:41:46Z",
+      "stars": 91470,
+      "updatedAt": "2026-08-25T23:17:35Z",
       "license": "Apache-2.0",
       "topics": [
         "agent-skills",
@@ -96,8 +96,8 @@
       "homepage": "https://www.ipollo.ai/",
       "npmUrl": "https://www.npmjs.com/package/%40ipollo%2Fipollowork-workspace",
       "npmName": "@ipollo/ipollowork-workspace",
-      "stars": 4834,
-      "updatedAt": "2026-08-25T22:51:21Z",
+      "stars": 4835,
+      "updatedAt": "2026-08-25T23:10:40Z",
       "license": "NOASSERTION",
       "topics": [
         "agent-collaboration",
@@ -788,8 +788,8 @@
       "homepage": "",
       "npmUrl": "https://www.npmjs.com/package/dsh-synapse",
       "npmName": "dsh-synapse",
-      "stars": 226,
-      "updatedAt": "2026-08-25T22:36:10Z",
+      "stars": 227,
+      "updatedAt": "2026-08-25T22:58:35Z",
       "license": "MIT",
       "topics": [
         "deepseek",
@@ -1332,8 +1332,8 @@
       "homepage": "https://www.npmjs.com/package/@graysilver/dsh-evolve-modes",
       "npmUrl": "https://www.npmjs.com/package/%40graysilver%2Fdsh-evolve-modes",
       "npmName": "@graysilver/dsh-evolve-modes",
-      "stars": 105,
-      "updatedAt": "2026-08-25T16:43:47Z",
+      "stars": 106,
+      "updatedAt": "2026-08-25T23:08:34Z",
       "license": "MIT",
       "topics": [
         "acceptance-review",
@@ -1734,7 +1734,7 @@
       "npmUrl": "https://www.npmjs.com/package/dsh-easyrewrite",
       "npmName": "dsh-easyrewrite",
       "stars": 75,
-      "updatedAt": "2026-08-25T19:30:42Z",
+      "updatedAt": "2026-08-25T23:12:51Z",
       "license": "MIT",
       "topics": [
         "bubble-edit",
@@ -2606,7 +2606,7 @@
       "npmUrl": "https://www.npmjs.com/package/meow-memory",
       "npmName": "meow-memory",
       "stars": 43,
-      "updatedAt": "2026-08-25T06:06:42Z",
+      "updatedAt": "2026-08-25T22:58:40Z",
       "license": "MIT",
       "topics": [
         "agent-memory",
@@ -2875,25 +2875,6 @@
       ]
     },
     {
-      "id": "1334205011",
-      "name": "dsh-wsl-workspace",
-      "fullName": "6Mikao9/dsh-wsl-workspace",
-      "owner": "6Mikao9",
-      "description": "WSL workspace support for DeepSeek Harness——无缝的 WSL 工作区使用体验，无需在 WSL 之中再安装一个dsh，安装该插件后在 GUI 里直接添加 WSL 工作区即可。WSL workspace support for DeepSeek Harness — Enjoy a seamless WSL workspace experience without needing to install dsh inside WSL. Once this plugin is installed, you can directly add a WSL workspace right from the GUI.",
-      "htmlUrl": "https://github.com/6Mikao9/dsh-wsl-workspace",
-      "homepage": "",
-      "npmUrl": "https://www.npmjs.com/package/dsh-wsl-workspace",
-      "npmName": "dsh-wsl-workspace",
-      "stars": 36,
-      "updatedAt": "2026-08-25T02:28:19Z",
-      "license": "MIT",
-      "topics": [
-        "dsh",
-        "dsh-plugin",
-        "dsh-plugins"
-      ]
-    },
-    {
       "id": "1335237926",
       "name": "custom-first-control-prompt",
       "fullName": "WM-CODER/custom-first-control-prompt",
@@ -2911,6 +2892,25 @@
         "deepseek-harness-plugins",
         "dsh-plugin",
         "dsh-plugin-market",
+        "dsh-plugins"
+      ]
+    },
+    {
+      "id": "1334205011",
+      "name": "dsh-wsl-workspace",
+      "fullName": "6Mikao9/dsh-wsl-workspace",
+      "owner": "6Mikao9",
+      "description": "WSL workspace support for DeepSeek Harness——无缝的 WSL 工作区使用体验，无需在 WSL 之中再安装一个dsh，安装该插件后在 GUI 里直接添加 WSL 工作区即可。WSL workspace support for DeepSeek Harness — Enjoy a seamless WSL workspace experience without needing to install dsh inside WSL. Once this plugin is installed, you can directly add a WSL workspace right from the GUI.",
+      "htmlUrl": "https://github.com/6Mikao9/dsh-wsl-workspace",
+      "homepage": "",
+      "npmUrl": "https://www.npmjs.com/package/dsh-wsl-workspace",
+      "npmName": "dsh-wsl-workspace",
+      "stars": 36,
+      "updatedAt": "2026-08-25T02:28:19Z",
+      "license": "MIT",
+      "topics": [
+        "dsh",
+        "dsh-plugin",
         "dsh-plugins"
       ]
     },
@@ -2996,23 +2996,6 @@
       ]
     },
     {
-      "id": "1335599084",
-      "name": "dsh-tavern",
-      "fullName": "chen731215-dev/dsh-tavern",
-      "owner": "chen731215-dev",
-      "description": "DSH 原生酒馆管理面板，入口：设置 → 通用设置 → 酒馆管理（原生）。多角色卡/多世界书/多预设，会话级预设隔离；世界书智能关键词注入省 60-70% 上下文；记忆总结 + 角色关系网；剧情选项一键发送；创作/扮演双模式；NSFW 成人模式。免费非商用（CC BY-NC-SA 4.0）。安装：dsh plugin --profile web add dsh-tavern",
-      "htmlUrl": "https://github.com/chen731215-dev/dsh-tavern",
-      "homepage": "",
-      "npmUrl": "https://www.npmjs.com/package/dsh-tavern",
-      "npmName": "dsh-tavern",
-      "stars": 34,
-      "updatedAt": "2026-08-25T21:25:35Z",
-      "license": "NOASSERTION",
-      "topics": [
-        "dsh-plugin"
-      ]
-    },
-    {
       "id": "1333084899",
       "name": "dsh-interconnect",
       "fullName": "Chinesezjc/dsh-interconnect",
@@ -3030,6 +3013,23 @@
         "dsh",
         "dsh-plugin",
         "interconnect"
+      ]
+    },
+    {
+      "id": "1335599084",
+      "name": "dsh-tavern",
+      "fullName": "chen731215-dev/dsh-tavern",
+      "owner": "chen731215-dev",
+      "description": "DSH 原生酒馆管理面板，入口：设置 → 通用设置 → 酒馆管理（原生）。多角色卡/多世界书/多预设，会话级预设隔离；世界书智能关键词注入省 60-70% 上下文；记忆总结 + 角色关系网；剧情选项一键发送；创作/扮演双模式；NSFW 成人模式。免费非商用（CC BY-NC-SA 4.0）。安装：dsh plugin --profile web add dsh-tavern",
+      "htmlUrl": "https://github.com/chen731215-dev/dsh-tavern",
+      "homepage": "",
+      "npmUrl": "https://www.npmjs.com/package/dsh-tavern",
+      "npmName": "dsh-tavern",
+      "stars": 34,
+      "updatedAt": "2026-08-25T21:25:35Z",
+      "license": "NOASSERTION",
+      "topics": [
+        "dsh-plugin"
       ]
     },
     {
@@ -3145,7 +3145,7 @@
       "npmUrl": "https://www.npmjs.com/package/%40skyf0xx%2Fhedgehog",
       "npmName": "@skyf0xx/hedgehog",
       "stars": 32,
-      "updatedAt": "2026-08-25T13:37:12Z",
+      "updatedAt": "2026-08-25T23:15:03Z",
       "license": "MIT",
       "topics": [
         "agent-skills",
