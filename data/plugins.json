@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T11:30:02.883Z",
+  "generatedAt": "2026-08-25T11:56:45.293Z",
   "source": "github-search-topics-dsh-plugin,dsh,deepseek-harness",
   "threshold": 25,
   "note": "Merged and deduplicated by repository id from three GitHub repository topic searches (topic:dsh-plugin, topic:dsh, topic:deepseek-harness). GitHub repository search returns at most 1,000 results per query, so this list contains the most popular matches within those windows, not a complete census.",
@@ -14,8 +14,8 @@
       "homepage": "https://open-design.ai",
       "npmUrl": "https://www.npmjs.com/package/open-design",
       "npmName": "open-design",
-      "stars": 91305,
-      "updatedAt": "2026-08-25T11:26:32Z",
+      "stars": 91316,
+      "updatedAt": "2026-08-25T11:49:41Z",
       "license": "Apache-2.0",
       "topics": [
         "agent-skills",
@@ -50,8 +50,8 @@
       "homepage": "https://dshdesktop.cn",
       "npmUrl": "https://www.npmjs.com/package/deepseek-harness-desktop",
       "npmName": "deepseek-harness-desktop",
-      "stars": 20053,
-      "updatedAt": "2026-08-25T11:29:23Z",
+      "stars": 20058,
+      "updatedAt": "2026-08-25T11:55:33Z",
       "license": "MIT",
       "topics": [
         "cordis",
@@ -74,8 +74,8 @@
       "homepage": "https://dsh-market.com",
       "npmUrl": "https://www.npmjs.com/package/dsh-web",
       "npmName": "dsh-web",
-      "stars": 6024,
-      "updatedAt": "2026-08-25T11:22:53Z",
+      "stars": 6025,
+      "updatedAt": "2026-08-25T11:35:01Z",
       "license": "Apache-2.0",
       "topics": [
         "cordis",
@@ -96,8 +96,8 @@
       "homepage": "https://www.ipollo.ai/",
       "npmUrl": "https://www.npmjs.com/package/%40ipollo%2Fipollowork-workspace",
       "npmName": "@ipollo/ipollowork-workspace",
-      "stars": 4786,
-      "updatedAt": "2026-08-25T11:13:14Z",
+      "stars": 4790,
+      "updatedAt": "2026-08-25T11:48:58Z",
       "license": "NOASSERTION",
       "topics": [
         "agent-collaboration",
@@ -130,8 +130,8 @@
       "homepage": "https://liustack.dev",
       "npmUrl": "https://www.npmjs.com/package/%40liustack%2Fmodlens",
       "npmName": "@liustack/modlens",
-      "stars": 3647,
-      "updatedAt": "2026-08-25T11:08:30Z",
+      "stars": 3649,
+      "updatedAt": "2026-08-25T11:50:13Z",
       "license": "MIT",
       "topics": [
         "agent-skills",
@@ -202,8 +202,8 @@
       "homepage": "https://dshtui.com/",
       "npmUrl": "https://www.npmjs.com/package/%40deepseek-harness-tui%2Fdsh-tui",
       "npmName": "@deepseek-harness-tui/dsh-tui",
-      "stars": 2521,
-      "updatedAt": "2026-08-25T11:17:14Z",
+      "stars": 2526,
+      "updatedAt": "2026-08-25T11:54:58Z",
       "license": "MIT",
       "topics": [
         "claude-code",
@@ -250,8 +250,8 @@
       "homepage": "https://openpets.dev",
       "npmUrl": "https://www.npmjs.com/package/openpets-v2-workspace",
       "npmName": "openpets-v2-workspace",
-      "stars": 1117,
-      "updatedAt": "2026-08-25T10:53:31Z",
+      "stars": 1118,
+      "updatedAt": "2026-08-25T11:49:28Z",
       "license": "MIT",
       "topics": [
         "ai-agents",
@@ -311,8 +311,8 @@
       "homepage": "https://www.npmjs.com/package/dsh-context",
       "npmUrl": "https://www.npmjs.com/package/dsh-context",
       "npmName": "dsh-context",
-      "stars": 1020,
-      "updatedAt": "2026-08-25T11:21:30Z",
+      "stars": 1022,
+      "updatedAt": "2026-08-25T11:52:26Z",
       "license": "Apache-2.0",
       "topics": [
         "cordis-plugin",
@@ -452,8 +452,8 @@
       "homepage": "https://www.beyondata.com/",
       "npmUrl": "https://www.npmjs.com/package/%40deepseek-ai%2Fdsh-root",
       "npmName": "@deepseek-ai/dsh-root",
-      "stars": 518,
-      "updatedAt": "2026-08-25T09:33:38Z",
+      "stars": 519,
+      "updatedAt": "2026-08-25T11:44:00Z",
       "license": "MIT",
       "topics": [
         "ai-agent",
@@ -546,8 +546,8 @@
       "homepage": "",
       "npmUrl": "https://www.npmjs.com/package/%40deepseek-ai%2Fdsh-client-ui-aqua",
       "npmName": "@deepseek-ai/dsh-client-ui-aqua",
-      "stars": 384,
-      "updatedAt": "2026-08-25T06:53:49Z",
+      "stars": 383,
+      "updatedAt": "2026-08-25T11:46:00Z",
       "license": "AGPL-3.0",
       "topics": [
         "deepseek-harness",
@@ -632,8 +632,8 @@
       "homepage": "https://liustack.dev",
       "npmUrl": "https://www.npmjs.com/package/%40liustack%2Fmodsearch",
       "npmName": "@liustack/modsearch",
-      "stars": 268,
-      "updatedAt": "2026-08-25T11:00:05Z",
+      "stars": 269,
+      "updatedAt": "2026-08-25T11:42:45Z",
       "license": "MIT",
       "topics": [
         "agent-skills",
@@ -788,8 +788,8 @@
       "homepage": "",
       "npmUrl": "https://www.npmjs.com/package/dsh-synapse",
       "npmName": "dsh-synapse",
-      "stars": 215,
-      "updatedAt": "2026-08-25T10:34:32Z",
+      "stars": 216,
+      "updatedAt": "2026-08-25T11:47:36Z",
       "license": "MIT",
       "topics": [
         "deepseek",
@@ -871,8 +871,8 @@
       "homepage": "",
       "npmUrl": "https://www.npmjs.com/package/dsh-cost-meter",
       "npmName": "dsh-cost-meter",
-      "stars": 187,
-      "updatedAt": "2026-08-25T09:27:58Z",
+      "stars": 189,
+      "updatedAt": "2026-08-25T11:51:07Z",
       "license": "MIT",
       "topics": [
         "cost-tracking",
@@ -1162,8 +1162,8 @@
       "homepage": "",
       "npmUrl": "https://www.npmjs.com/package/dsh-undo-savepoint",
       "npmName": "dsh-undo-savepoint",
-      "stars": 126,
-      "updatedAt": "2026-08-25T09:51:53Z",
+      "stars": 127,
+      "updatedAt": "2026-08-25T11:42:09Z",
       "license": "MIT",
       "topics": [
         "backup",
@@ -1627,7 +1627,7 @@
       "npmUrl": "https://www.npmjs.com/package/dsh-remote",
       "npmName": "dsh-remote",
       "stars": 78,
-      "updatedAt": "2026-08-25T10:47:21Z",
+      "updatedAt": "2026-08-25T11:30:01Z",
       "license": "",
       "topics": [
         "deepseek",
@@ -1937,8 +1937,8 @@
       "homepage": "https://martty.sh",
       "npmUrl": "",
       "npmName": "",
-      "stars": 59,
-      "updatedAt": "2026-08-25T08:57:19Z",
+      "stars": 60,
+      "updatedAt": "2026-08-25T11:35:20Z",
       "license": "MIT",
       "topics": [
         "acp",
@@ -2293,8 +2293,8 @@
       "homepage": "",
       "npmUrl": "https://www.npmjs.com/package/dsh-omi-voice",
       "npmName": "dsh-omi-voice",
-      "stars": 50,
-      "updatedAt": "2026-08-25T08:50:10Z",
+      "stars": 51,
+      "updatedAt": "2026-08-25T11:39:48Z",
       "license": "MIT",
       "topics": [
         "chinese",
@@ -2430,8 +2430,8 @@
       "homepage": "https://www.npmjs.com/package/dsh-mcp-panel",
       "npmUrl": "https://www.npmjs.com/package/dsh-mcp-panel",
       "npmName": "dsh-mcp-panel",
-      "stars": 44,
-      "updatedAt": "2026-08-25T05:18:20Z",
+      "stars": 45,
+      "updatedAt": "2026-08-25T11:52:24Z",
       "license": "Apache-2.0",
       "topics": [
         "cordis",
@@ -2767,8 +2767,8 @@
       "homepage": "https://github.com/wenbin-wb/dsh-bridge",
       "npmUrl": "https://www.npmjs.com/package/%40wenbin_wb%2Fdsh-bridge",
       "npmName": "@wenbin_wb/dsh-bridge",
-      "stars": 36,
-      "updatedAt": "2026-08-25T10:52:03Z",
+      "stars": 37,
+      "updatedAt": "2026-08-25T11:36:55Z",
       "license": "MIT",
       "topics": [
         "access-control",
@@ -2789,6 +2789,27 @@
         "tunnel",
         "websocket",
         "wechat"
+      ]
+    },
+    {
+      "id": "1336850842",
+      "name": "dsh-ecosystem-spec",
+      "fullName": "T-Auto/dsh-ecosystem-spec",
+      "owner": "T-Auto",
+      "description": "deepseek-harness TUI Plugin Access and Implementation Standards / deepseek-harness终端交互生态插件准入规范与实施标准",
+      "htmlUrl": "https://github.com/T-Auto/dsh-ecosystem-spec",
+      "homepage": "",
+      "npmUrl": "https://www.npmjs.com/package/dsh-ecosystem-spec",
+      "npmName": "dsh-ecosystem-spec",
+      "stars": 36,
+      "updatedAt": "2026-08-25T11:47:19Z",
+      "license": "MIT",
+      "topics": [
+        "deepseek",
+        "deepseek-harness",
+        "dsh-plugin",
+        "spec",
+        "tui"
       ]
     },
     {
@@ -2885,27 +2906,6 @@
       "topics": [
         "dsh",
         "dsh-plugin"
-      ]
-    },
-    {
-      "id": "1336850842",
-      "name": "dsh-ecosystem-spec",
-      "fullName": "T-Auto/dsh-ecosystem-spec",
-      "owner": "T-Auto",
-      "description": "deepseek-harness TUI Plugin Access and Implementation Standards / deepseek-harness终端交互生态插件准入规范与实施标准",
-      "htmlUrl": "https://github.com/T-Auto/dsh-ecosystem-spec",
-      "homepage": "",
-      "npmUrl": "https://www.npmjs.com/package/dsh-ecosystem-spec",
-      "npmName": "dsh-ecosystem-spec",
-      "stars": 35,
-      "updatedAt": "2026-08-25T09:44:38Z",
-      "license": "MIT",
-      "topics": [
-        "deepseek",
-        "deepseek-harness",
-        "dsh-plugin",
-        "spec",
-        "tui"
       ]
     },
     {
@@ -3304,7 +3304,7 @@
       "npmUrl": "https://www.npmjs.com/package/dsh-whale-report",
       "npmName": "dsh-whale-report",
       "stars": 29,
-      "updatedAt": "2026-08-24T14:43:30Z",
+      "updatedAt": "2026-08-25T11:45:12Z",
       "license": "MIT",
       "topics": [
         "agent-report",
@@ -3637,7 +3637,7 @@
       "npmUrl": "https://www.npmjs.com/package/dsh-recall-plugin",
       "npmName": "dsh-recall-plugin",
       "stars": 25,
-      "updatedAt": "2026-08-25T11:20:19Z",
+      "updatedAt": "2026-08-25T11:49:23Z",
       "license": "MIT",
       "topics": [
         "cordis",
@@ -3710,6 +3710,27 @@
       ]
     },
     {
+      "id": "1338750747",
+      "name": "dsh-wenshan",
+      "fullName": "xuedai-mayi/dsh-wenshan",
+      "owner": "xuedai-mayi",
+      "description": "问山：DeepSeek Harness 地理野外实习知识图谱插件与非官方二次开发项目",
+      "htmlUrl": "https://github.com/xuedai-mayi/dsh-wenshan",
+      "homepage": "",
+      "npmUrl": "",
+      "npmName": "",
+      "stars": 25,
+      "updatedAt": "2026-08-25T11:11:07Z",
+      "license": "MIT",
+      "topics": [
+        "deepseek-harness",
+        "dsh-plugin",
+        "fieldwork",
+        "gis",
+        "knowledge-graph"
+      ]
+    },
+    {
       "id": "1335061439",
       "name": "dsh-chinese-traditional-wisdom-skill",
       "fullName": "dhicoc/dsh-chinese-traditional-wisdom-skill",
@@ -3733,27 +3754,6 @@
         "iching",
         "tcm",
         "ziwei-doushu"
-      ]
-    },
-    {
-      "id": "1338750747",
-      "name": "dsh-wenshan",
-      "fullName": "xuedai-mayi/dsh-wenshan",
-      "owner": "xuedai-mayi",
-      "description": "问山：DeepSeek Harness 地理野外实习知识图谱插件与非官方二次开发项目",
-      "htmlUrl": "https://github.com/xuedai-mayi/dsh-wenshan",
-      "homepage": "",
-      "npmUrl": "",
-      "npmName": "",
-      "stars": 25,
-      "updatedAt": "2026-08-25T11:11:07Z",
-      "license": "MIT",
-      "topics": [
-        "deepseek-harness",
-        "dsh-plugin",
-        "fieldwork",
-        "gis",
-        "knowledge-graph"
       ]
     },
     {
