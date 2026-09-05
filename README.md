@@ -12,10 +12,10 @@ DeepSeek Harness（DSH）插件排行榜 / Plugin Leaderboard。
 <!-- RANKING:START -->
 | 排名 | 插件 | Stars | 简介 |
 | ---: | --- | ---: | --- |
-| 1 | [nexu-io/open-design](https://github.com/nexu-io/open-design) | 94272 | 🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images & video — real files, HTML/PDF/PPTX/MP4 export. 🤖 Claude Code / Codex / Cursor / DeepSeek Harness / OpenCode & 20+ CLIs via BYOK. |
-| 2 | [anywhere-labs/dsh-desktop](https://github.com/anywhere-labs/dsh-desktop) | 23782 | 为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。 |
-| 3 | [zhu1090093659/dsh-web](https://github.com/zhu1090093659/dsh-web) | 6940 | DeepSeek Harness (DSH) Web Plugin Aggregation Ecosystem · Everything is a plugin, distributed via the Creative Workshop |
-| 4 | [Devin-AXIS/iPolloWork](https://github.com/Devin-AXIS/iPolloWork) | 5359 | Enterprise-grade, local-first Agent Workbench for people and agent teams. A unified multi-engine workspace for Codex Harness, DeepSeek Harness, and OpenCode, with unified plugins and Skills, multi-agent projects and tasks, and editable code, documents, presentations, design, and video. |
+| 1 | [nexu-io/open-design](https://github.com/nexu-io/open-design) | 94282 | 🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images & video — real files, HTML/PDF/PPTX/MP4 export. 🤖 Claude Code / Codex / Cursor / DeepSeek Harness / OpenCode & 20+ CLIs via BYOK. |
+| 2 | [anywhere-labs/dsh-desktop](https://github.com/anywhere-labs/dsh-desktop) | 23785 | 为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。 |
+| 3 | [zhu1090093659/dsh-web](https://github.com/zhu1090093659/dsh-web) | 6941 | DeepSeek Harness (DSH) Web Plugin Aggregation Ecosystem · Everything is a plugin, distributed via the Creative Workshop |
+| 4 | [Devin-AXIS/iPolloWork](https://github.com/Devin-AXIS/iPolloWork) | 5363 | Enterprise-grade, local-first Agent Workbench for people and agent teams. A unified multi-engine workspace for Codex Harness, DeepSeek Harness, and OpenCode, with unified plugins and Skills, multi-agent projects and tasks, and editable code, documents, presentations, design, and video. |
 | 5 | [liustack/modlens](https://github.com/liustack/modlens) | 3877 | The first vision plugin for DeepSeek Harness, and the vision bridge for every text-only coding agent. Paste an image, get structured JSON evidence (OCR, layout, semantics). \| 全网最强 DeepSeek Harness 外挂视觉插件，为 DeepSeek、GLM 等纯文本模型外挂视觉能力，粘贴图片即得结构化 JSON 证据（OCR、版面、语义）。 |
 | 6 | [whiteguo233/OpenBiliClaw](https://github.com/whiteguo233/OpenBiliClaw) | 3206 | 本地私有、开源的自进化跨平台 AI 内容发现 Agent：先理解你，再主动从 B站、小红书、抖音、YouTube、X、知乎、Reddit、微博等平台与开放 Web 寻找内容。（支持 deepseek harness 插件） \| Local-first open-source cross-platform AI content discovery agent: understands you, then proactively finds content across Bilibili, Xiaohongshu, Douyin, YouTube, X, Zhihu, Reddit, Weibo and the open web.（support deepseek harness plugin） |
 | 7 | [ccch1mneyyy/dsh-TUI](https://github.com/ccch1mneyyy/dsh-TUI) | 2847 | DSH 官方公众号收录的 TUI 补位插件：Claude Code 风，鲸鱼顶栏/实时状态/流式思考/双击 Esc 回滚/上下文进度+TPS。npm 一键装。  DSH official WeChat featured TUI plugin — Claude Code style: whale bar, live status, streaming thoughts, double-Esc rollback, context bar + TPS. npm one-click. |
@@ -51,7 +51,7 @@ DeepSeek Harness（DSH）插件排行榜 / Plugin Leaderboard。
 | 37 | [op7418/pilot-harness](https://github.com/op7418/pilot-harness) | 270 | Pilot Harness — a CodePilot-inspired desktop client and plugin suite for DeepSeek Harness on macOS, Windows, and Linux. |
 | 38 | [huiliyi37/dsh-tianshu-tui](https://github.com/huiliyi37/dsh-tianshu-tui) | 262 | 官方 DeepSeek Harness 的交互式终端 UI 插件：自研 ANSI 极简交互渲染、流式 Markdown/工具卡、16+ 主题、slash 命令与选择器、输入历史与本地偏好持久化、LSP 诊断、memory记忆，很丝滑的开发体验。 |
 | 39 | [Han-1413141/dsh-cost-meter](https://github.com/Han-1413141/dsh-cost-meter) | 256 | DeepSeek Harness session cost meter plugin: session/daily cost, budget, history, OpenCode Go quota, official & custom-provider balance, Codex-like token heatmap, peak/off-peak pricing with pre-switch popup & system-notification alerts, official price sync, 90+ model pricing catalog, Coding Plan quota queries (7 vendors), bilingual zh/en UI |
-| 40 | [pax-beehive/dsh-hub-cli](https://github.com/pax-beehive/dsh-hub-cli) | 226 | Open-source CLI, schemas, resolver, and DSH agent tools for DSH Plugin Hub |
+| 40 | [pax-beehive/dsh-hub-cli](https://github.com/pax-beehive/dsh-hub-cli) | 227 | Open-source CLI, schemas, resolver, and DSH agent tools for DSH Plugin Hub |
 | 41 | [saya-ch/dsh-mobile](https://github.com/saya-ch/dsh-mobile) | 221 | DeepSeek Harness 的 Android App 与安全远程访问插件，支持局域网/远程连接和高度自定义的移动界面与扩展能力。 |
 | 42 | [MarcoG-h/DSH-Launcher](https://github.com/MarcoG-h/DSH-Launcher) | 218 | 最全面的DeepSeek Harness🐋启动器  *首创多实例管理中枢* \| 多开并行 \| 整合包下载 \| 安全保护 \| 一键部署 \| 插件管理 \| |
 | 43 | [GraySilver/dsh-evolve-modes](https://github.com/GraySilver/dsh-evolve-modes) | 207 | 让 Agent 的工作方式可组合、可审查、可持续改进，最终实现 Agent Self Evoling。 DeepSeek Harness Web plugin with composable task controls and isolated, human-reviewed self-evolution. |
@@ -63,5 +63,5 @@ DeepSeek Harness（DSH）插件排行榜 / Plugin Leaderboard。
 | 49 | [cocofhu/anime-find](https://github.com/cocofhu/anime-find) | 163 | DeepSeek Harness 搜番插件：对话内多源搜索番剧，卡片展示 Bangumi 评分与详情，支持复制磁力。 |
 | 50 | [Mars-Sea/dsh-commandcode-provider](https://github.com/Mars-Sea/dsh-commandcode-provider) | 162 | Unofficial DeepSeek Harness LLM provider plugin for Command Code: live model catalog, plan-aware model picker, reasoning-effort + image input support, Command Code web search for dsh, multi-account rotation with browser sign-in. Ported from pi-commandcode-provider. |
 
-> 数据更新时间：2026/09/06 05:27 · 收录数：210 · 最低 Star：25 · [打开完整榜单](https://ywsldxk.github.io/dsh-plugin-stars/)
+> 数据更新时间：2026/09/06 07:06 · 收录数：210 · 最低 Star：25 · [打开完整榜单](https://ywsldxk.github.io/dsh-plugin-stars/)
 <!-- RANKING:END -->

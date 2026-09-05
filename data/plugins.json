@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T21:27:20.598Z",
+  "generatedAt": "2026-09-05T23:06:29.963Z",
   "source": "github-search-topics-dsh-plugin,dsh,deepseek-harness",
   "threshold": 25,
   "note": "Merged and deduplicated by repository id from three GitHub repository topic searches (topic:dsh-plugin, topic:dsh, topic:deepseek-harness). GitHub repository search returns at most 1,000 results per query, so this list contains the most popular matches within those windows, not a complete census.",
@@ -14,8 +14,8 @@
       "homepage": "https://open-design.ai",
       "npmUrl": "https://www.npmjs.com/package/open-design",
       "npmName": "open-design",
-      "stars": 94272,
-      "updatedAt": "2026-09-05T21:13:31Z",
+      "stars": 94282,
+      "updatedAt": "2026-09-05T22:58:49Z",
       "license": "Apache-2.0",
       "topics": [
         "agent-skills",
@@ -50,8 +50,8 @@
       "homepage": "https://dshdesktop.cn",
       "npmUrl": "https://www.npmjs.com/package/deepseek-harness-desktop",
       "npmName": "deepseek-harness-desktop",
-      "stars": 23782,
-      "updatedAt": "2026-09-05T21:03:45Z",
+      "stars": 23785,
+      "updatedAt": "2026-09-05T23:01:41Z",
       "license": "MIT",
       "topics": [
         "cordis",
@@ -74,8 +74,8 @@
       "homepage": "https://dsh-market.com",
       "npmUrl": "https://www.npmjs.com/package/dsh-web",
       "npmName": "dsh-web",
-      "stars": 6940,
-      "updatedAt": "2026-09-05T18:51:15Z",
+      "stars": 6941,
+      "updatedAt": "2026-09-05T22:56:06Z",
       "license": "Apache-2.0",
       "topics": [
         "cordis",
@@ -96,8 +96,8 @@
       "homepage": "https://www.ipollo.ai/",
       "npmUrl": "https://www.npmjs.com/package/%40ipollo%2Fipollowork-workspace",
       "npmName": "@ipollo/ipollowork-workspace",
-      "stars": 5359,
-      "updatedAt": "2026-09-05T21:18:49Z",
+      "stars": 5363,
+      "updatedAt": "2026-09-05T22:47:42Z",
       "license": "NOASSERTION",
       "topics": [
         "agent-collaboration",
@@ -251,7 +251,7 @@
       "npmUrl": "",
       "npmName": "",
       "stars": 1448,
-      "updatedAt": "2026-09-05T20:31:05Z",
+      "updatedAt": "2026-09-05T22:45:52Z",
       "license": "MIT",
       "topics": [
         "agent-plugins",
@@ -317,7 +317,7 @@
       "npmUrl": "https://www.npmjs.com/package/openpets-v2-workspace",
       "npmName": "openpets-v2-workspace",
       "stars": 1166,
-      "updatedAt": "2026-09-05T13:12:53Z",
+      "updatedAt": "2026-09-05T22:31:09Z",
       "license": "MIT",
       "topics": [
         "ai-agents",
@@ -554,7 +554,7 @@
       "npmUrl": "",
       "npmName": "",
       "stars": 557,
-      "updatedAt": "2026-09-05T21:15:17Z",
+      "updatedAt": "2026-09-05T22:55:34Z",
       "license": "Apache-2.0",
       "topics": [
         "agent-security",
@@ -1070,8 +1070,8 @@
       "homepage": "https://dshpluginhub.ai",
       "npmUrl": "https://www.npmjs.com/package/dsh-hub-cli-workspace",
       "npmName": "dsh-hub-cli-workspace",
-      "stars": 226,
-      "updatedAt": "2026-09-05T18:00:30Z",
+      "stars": 227,
+      "updatedAt": "2026-09-05T22:09:03Z",
       "license": "MIT",
       "topics": [
         "ai-agent",
@@ -1377,7 +1377,7 @@
       "npmUrl": "https://www.npmjs.com/package/dsh-plugin-shop-registry",
       "npmName": "dsh-plugin-shop-registry",
       "stars": 160,
-      "updatedAt": "2026-09-05T21:06:57Z",
+      "updatedAt": "2026-09-05T22:38:44Z",
       "license": "Apache-2.0",
       "topics": [
         "agent",
@@ -3044,6 +3044,35 @@
       ]
     },
     {
+      "id": "1321408361",
+      "name": "allinluna",
+      "fullName": "zenx0x/allinluna",
+      "owner": "zenx0x",
+      "description": "Resource-aware multi-agent orchestration for Codex and DeepSeek Harness (All in Flash DSH plugin)",
+      "htmlUrl": "https://github.com/zenx0x/allinluna",
+      "homepage": "",
+      "npmUrl": "",
+      "npmName": "",
+      "stars": 53,
+      "updatedAt": "2026-09-05T22:21:56Z",
+      "license": "Apache-2.0",
+      "topics": [
+        "agent-orchestration",
+        "agent-skills",
+        "ai-agents",
+        "allinflash",
+        "codex",
+        "deepseek",
+        "deepseek-harness",
+        "developer-tools",
+        "dsh",
+        "dsh-plugin",
+        "luna",
+        "multi-agent",
+        "orchestration"
+      ]
+    },
+    {
       "id": "1336850842",
       "name": "dsh-ecosystem-spec",
       "fullName": "T-Auto/dsh-ecosystem-spec",
@@ -3089,35 +3118,6 @@
         "mcp-console",
         "observability",
         "panel"
-      ]
-    },
-    {
-      "id": "1321408361",
-      "name": "allinluna",
-      "fullName": "zenx0x/allinluna",
-      "owner": "zenx0x",
-      "description": "Resource-aware multi-agent orchestration for Codex and DeepSeek Harness (All in Flash DSH plugin)",
-      "htmlUrl": "https://github.com/zenx0x/allinluna",
-      "homepage": "",
-      "npmUrl": "",
-      "npmName": "",
-      "stars": 52,
-      "updatedAt": "2026-09-05T06:07:45Z",
-      "license": "Apache-2.0",
-      "topics": [
-        "agent-orchestration",
-        "agent-skills",
-        "ai-agents",
-        "allinflash",
-        "codex",
-        "deepseek",
-        "deepseek-harness",
-        "developer-tools",
-        "dsh",
-        "dsh-plugin",
-        "luna",
-        "multi-agent",
-        "orchestration"
       ]
     },
     {
@@ -3460,7 +3460,7 @@
       "npmUrl": "",
       "npmName": "",
       "stars": 41,
-      "updatedAt": "2026-09-05T13:44:01Z",
+      "updatedAt": "2026-09-05T21:47:51Z",
       "license": "MIT",
       "topics": [
         "agent-memory",
@@ -3631,7 +3631,7 @@
       "npmUrl": "https://www.npmjs.com/package/%40skyf0xx%2Fhedgehog",
       "npmName": "@skyf0xx/hedgehog",
       "stars": 36,
-      "updatedAt": "2026-09-05T09:38:53Z",
+      "updatedAt": "2026-09-05T22:55:00Z",
       "license": "MIT",
       "topics": [
         "agent-skills",
@@ -3920,6 +3920,26 @@
       ]
     },
     {
+      "id": "1339964815",
+      "name": "dsh-liketavern",
+      "fullName": "Amakurai/dsh-liketavern",
+      "owner": "Amakurai",
+      "description": "A DeepSeek Harness (dsh) plugin — turns dsh web into a SillyTavern-style roleplay frontend: character cards, prompt presets, lorebooks, personas, BM25 long-term memory, world-state deltas, and rollback-able floor operations, all on the dsh agent runtime.",
+      "htmlUrl": "https://github.com/Amakurai/dsh-liketavern",
+      "homepage": "",
+      "npmUrl": "https://www.npmjs.com/package/dsh-liketavern",
+      "npmName": "dsh-liketavern",
+      "stars": 33,
+      "updatedAt": "2026-09-05T21:50:06Z",
+      "license": "MIT",
+      "topics": [
+        "deepseek-harness",
+        "deepseek-harness-plugin",
+        "dsh-plugin",
+        "sillytavern"
+      ]
+    },
+    {
       "id": "1334767490",
       "name": "dsh-plugin-writing-guard",
       "fullName": "xmutfyh/dsh-plugin-writing-guard",
@@ -4066,26 +4086,6 @@
         "frida",
         "reverse-engineering",
         "security"
-      ]
-    },
-    {
-      "id": "1339964815",
-      "name": "dsh-liketavern",
-      "fullName": "Amakurai/dsh-liketavern",
-      "owner": "Amakurai",
-      "description": "A DeepSeek Harness (dsh) plugin — turns dsh web into a SillyTavern-style roleplay frontend: character cards, prompt presets, lorebooks, personas, BM25 long-term memory, world-state deltas, and rollback-able floor operations, all on the dsh agent runtime.",
-      "htmlUrl": "https://github.com/Amakurai/dsh-liketavern",
-      "homepage": "",
-      "npmUrl": "https://www.npmjs.com/package/dsh-liketavern",
-      "npmName": "dsh-liketavern",
-      "stars": 32,
-      "updatedAt": "2026-09-05T19:52:36Z",
-      "license": "MIT",
-      "topics": [
-        "deepseek-harness",
-        "deepseek-harness-plugin",
-        "dsh-plugin",
-        "sillytavern"
       ]
     },
     {
