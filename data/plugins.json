@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T20:57:43.834Z",
+  "generatedAt": "2026-09-23T23:26:37.407Z",
   "source": "github-search-topics-dsh-plugin,dsh,deepseek-harness",
   "threshold": 25,
   "note": "Merged and deduplicated by repository id from three GitHub repository topic searches (topic:dsh-plugin, topic:dsh, topic:deepseek-harness). GitHub repository search returns at most 1,000 results per query, so this list contains the most popular matches within those windows, not a complete census.",
@@ -14,8 +14,8 @@
       "homepage": "https://open-design.ai",
       "npmUrl": "https://www.npmjs.com/package/open-design",
       "npmName": "open-design",
-      "stars": 97816,
-      "updatedAt": "2026-09-23T20:55:55Z",
+      "stars": 97823,
+      "updatedAt": "2026-09-23T22:53:14Z",
       "license": "Apache-2.0",
       "topics": [
         "agent-skills",
@@ -50,8 +50,8 @@
       "homepage": "https://dshdesktop.cn",
       "npmUrl": "https://www.npmjs.com/package/deepseek-harness-desktop",
       "npmName": "deepseek-harness-desktop",
-      "stars": 28699,
-      "updatedAt": "2026-09-23T20:29:41Z",
+      "stars": 28702,
+      "updatedAt": "2026-09-23T22:35:09Z",
       "license": "MIT",
       "topics": [
         "cordis",
@@ -75,7 +75,7 @@
       "npmUrl": "https://www.npmjs.com/package/dsh-web",
       "npmName": "dsh-web",
       "stars": 7963,
-      "updatedAt": "2026-09-23T20:55:45Z",
+      "updatedAt": "2026-09-23T21:05:24Z",
       "license": "Apache-2.0",
       "topics": [
         "cordis",
@@ -96,8 +96,8 @@
       "homepage": "https://www.ipollo.ai/",
       "npmUrl": "https://www.npmjs.com/package/%40ipollo%2Fipollowork-workspace",
       "npmName": "@ipollo/ipollowork-workspace",
-      "stars": 6614,
-      "updatedAt": "2026-09-23T20:56:35Z",
+      "stars": 6619,
+      "updatedAt": "2026-09-23T23:18:44Z",
       "license": "NOASSERTION",
       "topics": [
         "agent-collaboration",
@@ -227,8 +227,8 @@
       "homepage": "https://dshtauri.mintlify.site",
       "npmUrl": "https://www.npmjs.com/package/deepseek-harness-desktop",
       "npmName": "deepseek-harness-desktop",
-      "stars": 2552,
-      "updatedAt": "2026-09-23T20:20:37Z",
+      "stars": 2556,
+      "updatedAt": "2026-09-23T23:09:57Z",
       "license": "MIT",
       "topics": [
         "deepseek",
@@ -271,8 +271,8 @@
       "homepage": "https://www.npmjs.com/package/dsh-context",
       "npmUrl": "https://www.npmjs.com/package/dsh-context",
       "npmName": "dsh-context",
-      "stars": 1506,
-      "updatedAt": "2026-09-23T20:05:25Z",
+      "stars": 1507,
+      "updatedAt": "2026-09-23T22:50:51Z",
       "license": "Apache-2.0",
       "topics": [
         "cordis-plugin",
@@ -294,7 +294,7 @@
       "npmUrl": "",
       "npmName": "",
       "stars": 1467,
-      "updatedAt": "2026-09-23T17:12:25Z",
+      "updatedAt": "2026-09-23T21:46:21Z",
       "license": "MIT",
       "topics": [
         "agent-plugins",
@@ -377,8 +377,8 @@
       "homepage": "",
       "npmUrl": "https://www.npmjs.com/package/ai-novel-writer",
       "npmName": "ai-novel-writer",
-      "stars": 1084,
-      "updatedAt": "2026-09-23T18:23:48Z",
+      "stars": 1085,
+      "updatedAt": "2026-09-23T21:37:18Z",
       "license": "GPL-3.0",
       "topics": [
         "ai-writing",
@@ -407,8 +407,8 @@
       "homepage": "",
       "npmUrl": "https://www.npmjs.com/package/dsh-plugin-shop-registry",
       "npmName": "dsh-plugin-shop-registry",
-      "stars": 884,
-      "updatedAt": "2026-09-23T20:50:39Z",
+      "stars": 886,
+      "updatedAt": "2026-09-23T21:43:53Z",
       "license": "Apache-2.0",
       "topics": [
         "agent",
@@ -477,34 +477,6 @@
       ]
     },
     {
-      "id": "1334747723",
-      "name": "deepseek-harness-studio",
-      "fullName": "fufankeji/deepseek-harness-studio",
-      "owner": "fufankeji",
-      "description": "DeepSeek Harness 零代码桌面端｜一键启动，支持 Windows 与 macOS；内置插件发现、热点插件推送、一键安装与管理、AI 智能推荐和视觉增强。",
-      "htmlUrl": "https://github.com/fufankeji/deepseek-harness-studio",
-      "homepage": "https://www.beyondata.com/",
-      "npmUrl": "https://www.npmjs.com/package/%40deepseek-ai%2Fdsh-root",
-      "npmName": "@deepseek-ai/dsh-root",
-      "stars": 660,
-      "updatedAt": "2026-09-23T09:48:24Z",
-      "license": "MIT",
-      "topics": [
-        "ai-agent",
-        "deepseek",
-        "deepseek-harness",
-        "deepseek-harness-studio",
-        "desktop-app",
-        "developer-tools",
-        "dsh",
-        "dsh-plugin",
-        "electron",
-        "macos",
-        "plugin-manager",
-        "windows"
-      ]
-    },
-    {
       "id": "1194748811",
       "name": "hol-guard",
       "fullName": "hashgraph-online/hol-guard",
@@ -514,8 +486,8 @@
       "homepage": "https://hol.org/guard",
       "npmUrl": "",
       "npmName": "",
-      "stars": 660,
-      "updatedAt": "2026-09-23T20:36:19Z",
+      "stars": 661,
+      "updatedAt": "2026-09-23T23:02:59Z",
       "license": "Apache-2.0",
       "topics": [
         "agent-security",
@@ -559,6 +531,34 @@
         "companion-ai",
         "dsh",
         "dsh-plugin"
+      ]
+    },
+    {
+      "id": "1334747723",
+      "name": "deepseek-harness-studio",
+      "fullName": "fufankeji/deepseek-harness-studio",
+      "owner": "fufankeji",
+      "description": "DeepSeek Harness 零代码桌面端｜一键启动，支持 Windows 与 macOS；内置插件发现、热点插件推送、一键安装与管理、AI 智能推荐和视觉增强。",
+      "htmlUrl": "https://github.com/fufankeji/deepseek-harness-studio",
+      "homepage": "https://www.beyondata.com/",
+      "npmUrl": "https://www.npmjs.com/package/%40deepseek-ai%2Fdsh-root",
+      "npmName": "@deepseek-ai/dsh-root",
+      "stars": 660,
+      "updatedAt": "2026-09-23T09:48:24Z",
+      "license": "MIT",
+      "topics": [
+        "ai-agent",
+        "deepseek",
+        "deepseek-harness",
+        "deepseek-harness-studio",
+        "desktop-app",
+        "developer-tools",
+        "dsh",
+        "dsh-plugin",
+        "electron",
+        "macos",
+        "plugin-manager",
+        "windows"
       ]
     },
     {
@@ -831,8 +831,8 @@
       "homepage": "https://dshpluginhub.ai",
       "npmUrl": "https://www.npmjs.com/package/dsh-hub-cli-workspace",
       "npmName": "dsh-hub-cli-workspace",
-      "stars": 457,
-      "updatedAt": "2026-09-23T20:23:36Z",
+      "stars": 460,
+      "updatedAt": "2026-09-23T23:02:21Z",
       "license": "MIT",
       "topics": [
         "ai-agent",
@@ -956,6 +956,28 @@
       ]
     },
     {
+      "id": "1367299537",
+      "name": "clearai-dsh",
+      "fullName": "Clearailhc/clearai-dsh",
+      "owner": "Clearailhc",
+      "description": "ClearAI is a native DSH plugin that brings the Epistemic Loop to DeepSeek Harness.",
+      "htmlUrl": "https://github.com/Clearailhc/clearai-dsh",
+      "homepage": "",
+      "npmUrl": "https://www.npmjs.com/package/clearai-dsh",
+      "npmName": "clearai-dsh",
+      "stars": 402,
+      "updatedAt": "2026-09-23T23:20:23Z",
+      "license": "Apache-2.0",
+      "topics": [
+        "agent-preset",
+        "ai-agents",
+        "deepseek-harness",
+        "dsh-plugin",
+        "epistemic-loop",
+        "scientific-discovery"
+      ]
+    },
+    {
       "id": "1335241492",
       "name": "dsh-univer-office",
       "fullName": "dream-num/dsh-univer-office",
@@ -975,28 +997,6 @@
         "dsh-plugin",
         "office",
         "office-harness"
-      ]
-    },
-    {
-      "id": "1367299537",
-      "name": "clearai-dsh",
-      "fullName": "Clearailhc/clearai-dsh",
-      "owner": "Clearailhc",
-      "description": "ClearAI is a native DSH plugin that brings the Epistemic Loop to DeepSeek Harness.",
-      "htmlUrl": "https://github.com/Clearailhc/clearai-dsh",
-      "homepage": "",
-      "npmUrl": "https://www.npmjs.com/package/clearai-dsh",
-      "npmName": "clearai-dsh",
-      "stars": 392,
-      "updatedAt": "2026-09-23T20:02:49Z",
-      "license": "Apache-2.0",
-      "topics": [
-        "agent-preset",
-        "ai-agents",
-        "deepseek-harness",
-        "dsh-plugin",
-        "epistemic-loop",
-        "scientific-discovery"
       ]
     },
     {
@@ -1807,8 +1807,8 @@
       "homepage": "",
       "npmUrl": "https://www.npmjs.com/package/dsh-jev-decision-model",
       "npmName": "dsh-jev-decision-model",
-      "stars": 142,
-      "updatedAt": "2026-09-23T20:55:52Z",
+      "stars": 144,
+      "updatedAt": "2026-09-23T22:50:10Z",
       "license": "",
       "topics": [
         "agent-harness",
@@ -2014,7 +2014,7 @@
       "npmUrl": "https://www.npmjs.com/package/dsh-market",
       "npmName": "dsh-market",
       "stars": 118,
-      "updatedAt": "2026-09-23T10:37:21Z",
+      "updatedAt": "2026-09-23T23:16:51Z",
       "license": "NOASSERTION",
       "topics": [
         "deepseek-harness",
@@ -2058,6 +2058,30 @@
         "restore-point",
         "turn-rewind",
         "workspace-safety"
+      ]
+    },
+    {
+      "id": "1333738786",
+      "name": "dsh-auto-continue",
+      "fullName": "HsiangNianian/dsh-auto-continue",
+      "owner": "HsiangNianian",
+      "description": "DSH Web UI plugin: auto-sends 「继续」 after non-human interruptions, with error classification, adaptive backoff, pause, idempotency/loop guards, resume templates, and stats—all configurable in settings UI | DSH 前端 UI 插件：非人为中断后自动发送「继续」，支持错误分类、自适应退避、暂停、幂等/循环保护、续跑模板与统计，均可在设置界面配置",
+      "htmlUrl": "https://github.com/HsiangNianian/dsh-auto-continue",
+      "homepage": "https://www.npmjs.com/package/dsh-client-auto-continue",
+      "npmUrl": "https://www.npmjs.com/package/dsh-client-auto-continue",
+      "npmName": "dsh-client-auto-continue",
+      "stars": 116,
+      "updatedAt": "2026-09-23T21:16:15Z",
+      "license": "MIT",
+      "topics": [
+        "auto-continue",
+        "automatic",
+        "cordis",
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "plugin",
+        "web-ui"
       ]
     },
     {
@@ -2115,30 +2139,6 @@
         "undo",
         "version-pager",
         "withdrawal"
-      ]
-    },
-    {
-      "id": "1333738786",
-      "name": "dsh-auto-continue",
-      "fullName": "HsiangNianian/dsh-auto-continue",
-      "owner": "HsiangNianian",
-      "description": "DSH Web UI plugin: auto-sends 「继续」 after non-human interruptions, with error classification, adaptive backoff, pause, idempotency/loop guards, resume templates, and stats—all configurable in settings UI | DSH 前端 UI 插件：非人为中断后自动发送「继续」，支持错误分类、自适应退避、暂停、幂等/循环保护、续跑模板与统计，均可在设置界面配置",
-      "htmlUrl": "https://github.com/HsiangNianian/dsh-auto-continue",
-      "homepage": "https://www.npmjs.com/package/dsh-client-auto-continue",
-      "npmUrl": "https://www.npmjs.com/package/dsh-client-auto-continue",
-      "npmName": "dsh-client-auto-continue",
-      "stars": 115,
-      "updatedAt": "2026-09-23T15:47:22Z",
-      "license": "MIT",
-      "topics": [
-        "auto-continue",
-        "automatic",
-        "cordis",
-        "deepseek-harness",
-        "dsh",
-        "dsh-plugin",
-        "plugin",
-        "web-ui"
       ]
     },
     {
@@ -2252,6 +2252,28 @@
       ]
     },
     {
+      "id": "1333232606",
+      "name": "dsh-meme",
+      "fullName": "yyh-001/dsh-meme",
+      "owner": "yyh-001",
+      "description": "DeepSeek Harness 的表情包插件——找得到、发得出、学得会，纯文本斗图、情绪主动发图、像 QQ/微信 一样发图、AI 自动学图、自定义表情包 、多种风格随意切换。",
+      "htmlUrl": "https://github.com/yyh-001/dsh-meme",
+      "homepage": "https://yyh-001.github.io/dsh-meme/",
+      "npmUrl": "https://www.npmjs.com/package/dsh-meme",
+      "npmName": "dsh-meme",
+      "stars": 105,
+      "updatedAt": "2026-09-23T22:17:46Z",
+      "license": "MIT",
+      "topics": [
+        "deepseek-harness",
+        "dsh-plugin",
+        "meme",
+        "qq-bot",
+        "selfloom",
+        "semantic-search"
+      ]
+    },
+    {
       "id": "1333722443",
       "name": "dsh-AuthInOne",
       "fullName": "Stormycry-cryp/dsh-AuthInOne",
@@ -2288,28 +2310,6 @@
       ]
     },
     {
-      "id": "1333232606",
-      "name": "dsh-meme",
-      "fullName": "yyh-001/dsh-meme",
-      "owner": "yyh-001",
-      "description": "DeepSeek Harness 的表情包插件——找得到、发得出、学得会，纯文本斗图、情绪主动发图、像 QQ/微信 一样发图、AI 自动学图、自定义表情包 、多种风格随意切换。",
-      "htmlUrl": "https://github.com/yyh-001/dsh-meme",
-      "homepage": "https://yyh-001.github.io/dsh-meme/",
-      "npmUrl": "https://www.npmjs.com/package/dsh-meme",
-      "npmName": "dsh-meme",
-      "stars": 104,
-      "updatedAt": "2026-09-23T17:25:48Z",
-      "license": "MIT",
-      "topics": [
-        "deepseek-harness",
-        "dsh-plugin",
-        "meme",
-        "qq-bot",
-        "selfloom",
-        "semantic-search"
-      ]
-    },
-    {
       "id": "1366204745",
       "name": "dsh-nexttavern",
       "fullName": "a86582751/dsh-nexttavern",
@@ -2320,7 +2320,7 @@
       "npmUrl": "https://www.npmjs.com/package/dsh-nexttavern",
       "npmName": "dsh-nexttavern",
       "stars": 103,
-      "updatedAt": "2026-09-23T20:47:37Z",
+      "updatedAt": "2026-09-23T21:27:08Z",
       "license": "GPL-3.0",
       "topics": [
         "ai-agents",
@@ -3534,6 +3534,23 @@
       ]
     },
     {
+      "id": "1341474906",
+      "name": "dsh-evolve-in-git",
+      "fullName": "Kytolly/dsh-evolve-in-git",
+      "owner": "Kytolly",
+      "description": "A deepseek-harness plugin, making your agent evolve in customed git repository.",
+      "htmlUrl": "https://github.com/Kytolly/dsh-evolve-in-git",
+      "homepage": "",
+      "npmUrl": "https://www.npmjs.com/package/dsh-evolve-in-git",
+      "npmName": "dsh-evolve-in-git",
+      "stars": 60,
+      "updatedAt": "2026-09-23T21:01:09Z",
+      "license": "MIT",
+      "topics": [
+        "dsh-plugin"
+      ]
+    },
+    {
       "id": "1335654115",
       "name": "dsh-desktop-hub",
       "fullName": "FlashingChen/dsh-desktop-hub",
@@ -3575,23 +3592,6 @@
         "dsh",
         "dsh-plugin",
         "openbiliclaw"
-      ]
-    },
-    {
-      "id": "1341474906",
-      "name": "dsh-evolve-in-git",
-      "fullName": "Kytolly/dsh-evolve-in-git",
-      "owner": "Kytolly",
-      "description": "A deepseek-harness plugin, making your agent evolve in customed git repository.",
-      "htmlUrl": "https://github.com/Kytolly/dsh-evolve-in-git",
-      "homepage": "",
-      "npmUrl": "https://www.npmjs.com/package/dsh-evolve-in-git",
-      "npmName": "dsh-evolve-in-git",
-      "stars": 59,
-      "updatedAt": "2026-09-23T12:36:04Z",
-      "license": "MIT",
-      "topics": [
-        "dsh-plugin"
       ]
     },
     {
@@ -3710,6 +3710,36 @@
       ]
     },
     {
+      "id": "1363739656",
+      "name": "workdsh",
+      "fullName": "techflag/workdsh",
+      "owner": "techflag",
+      "description": "A plugin-based Web work platform built on DeepSeek Harness, with global Skill management and native workspace integration. 基于 DeepSeek Harness 的插件化 Web 工作平台。",
+      "htmlUrl": "https://github.com/techflag/workdsh",
+      "homepage": "",
+      "npmUrl": "https://www.npmjs.com/package/deepseek-harness-desktop",
+      "npmName": "deepseek-harness-desktop",
+      "stars": 56,
+      "updatedAt": "2026-09-23T22:39:08Z",
+      "license": "MIT",
+      "topics": [
+        "agent-platform",
+        "ai-agents",
+        "cordis",
+        "deepseek-harness",
+        "plugin-system",
+        "skills",
+        "typescript",
+        "workbench",
+        "workbuddy",
+        "workbuddy-alternative",
+        "workbuddy-expert",
+        "workbuddy-plugin",
+        "workbuddy-skill",
+        "workbuddy-skills"
+      ]
+    },
+    {
       "id": "1349900532",
       "name": "unity-plugin",
       "fullName": "opdsh/unity-plugin",
@@ -3733,56 +3763,6 @@
         "unity",
         "unity-editor",
         "unity3d"
-      ]
-    },
-    {
-      "id": "1363739656",
-      "name": "workdsh",
-      "fullName": "techflag/workdsh",
-      "owner": "techflag",
-      "description": "A plugin-based Web work platform built on DeepSeek Harness, with global Skill management and native workspace integration. 基于 DeepSeek Harness 的插件化 Web 工作平台。",
-      "htmlUrl": "https://github.com/techflag/workdsh",
-      "homepage": "",
-      "npmUrl": "https://www.npmjs.com/package/deepseek-harness-desktop",
-      "npmName": "deepseek-harness-desktop",
-      "stars": 55,
-      "updatedAt": "2026-09-23T20:47:44Z",
-      "license": "MIT",
-      "topics": [
-        "agent-platform",
-        "ai-agents",
-        "cordis",
-        "deepseek-harness",
-        "plugin-system",
-        "skills",
-        "typescript",
-        "workbench",
-        "workbuddy",
-        "workbuddy-alternative",
-        "workbuddy-expert",
-        "workbuddy-plugin",
-        "workbuddy-skill",
-        "workbuddy-skills"
-      ]
-    },
-    {
-      "id": "1355788866",
-      "name": "dsh-raw-html-v2",
-      "fullName": "plolpl789/dsh-raw-html-v2",
-      "owner": "plolpl789",
-      "description": "VCP visual-synesthesia plugin v2 for DeepSeek Harness (official Slot API): raw-HTML vcp-root cards, streaming render, KaTeX/Mermaid/SVG, builtin fonts",
-      "htmlUrl": "https://github.com/plolpl789/dsh-raw-html-v2",
-      "homepage": "",
-      "npmUrl": "https://www.npmjs.com/package/dsh-raw-html-v2",
-      "npmName": "dsh-raw-html-v2",
-      "stars": 54,
-      "updatedAt": "2026-09-23T17:15:22Z",
-      "license": "NOASSERTION",
-      "topics": [
-        "deepseek",
-        "deepseek-harness",
-        "dsh-plugin",
-        "visual-synesthesia"
       ]
     },
     {
@@ -3810,6 +3790,26 @@
         "jingling",
         "local-first",
         "privacy"
+      ]
+    },
+    {
+      "id": "1355788866",
+      "name": "dsh-raw-html-v2",
+      "fullName": "plolpl789/dsh-raw-html-v2",
+      "owner": "plolpl789",
+      "description": "VCP visual-synesthesia plugin v2 for DeepSeek Harness (official Slot API): raw-HTML vcp-root cards, streaming render, KaTeX/Mermaid/SVG, builtin fonts",
+      "htmlUrl": "https://github.com/plolpl789/dsh-raw-html-v2",
+      "homepage": "",
+      "npmUrl": "https://www.npmjs.com/package/dsh-raw-html-v2",
+      "npmName": "dsh-raw-html-v2",
+      "stars": 54,
+      "updatedAt": "2026-09-23T17:15:22Z",
+      "license": "NOASSERTION",
+      "topics": [
+        "deepseek",
+        "deepseek-harness",
+        "dsh-plugin",
+        "visual-synesthesia"
       ]
     },
     {
@@ -3985,24 +3985,6 @@
       ]
     },
     {
-      "id": "1324720195",
-      "name": "dsh-message-edit",
-      "fullName": "Moeblack/dsh-message-edit",
-      "owner": "Moeblack",
-      "description": "DSH 插件：分支式消息编辑、重掷、重试与版本时间线 | DSH plugin: branch-based message editing, reroll, retry, version timeline",
-      "htmlUrl": "https://github.com/Moeblack/dsh-message-edit",
-      "homepage": "",
-      "npmUrl": "https://www.npmjs.com/package/dsh-message-edit",
-      "npmName": "dsh-message-edit",
-      "stars": 49,
-      "updatedAt": "2026-09-21T10:28:02Z",
-      "license": "",
-      "topics": [
-        "dsh",
-        "dsh-plugin"
-      ]
-    },
-    {
       "id": "1273149259",
       "name": "sofagent",
       "fullName": "KongFangXun/sofagent",
@@ -4012,8 +3994,8 @@
       "homepage": "https://www.npmjs.com/package/sofagent",
       "npmUrl": "https://www.npmjs.com/package/sofagent-monorepo",
       "npmName": "sofagent-monorepo",
-      "stars": 48,
-      "updatedAt": "2026-09-23T14:17:04Z",
+      "stars": 49,
+      "updatedAt": "2026-09-23T20:57:33Z",
       "license": "MIT",
       "topics": [
         "agent-audit",
@@ -4036,6 +4018,24 @@
         "pre-commit",
         "secret-scanning",
         "typescript"
+      ]
+    },
+    {
+      "id": "1324720195",
+      "name": "dsh-message-edit",
+      "fullName": "Moeblack/dsh-message-edit",
+      "owner": "Moeblack",
+      "description": "DSH 插件：分支式消息编辑、重掷、重试与版本时间线 | DSH plugin: branch-based message editing, reroll, retry, version timeline",
+      "htmlUrl": "https://github.com/Moeblack/dsh-message-edit",
+      "homepage": "",
+      "npmUrl": "https://www.npmjs.com/package/dsh-message-edit",
+      "npmName": "dsh-message-edit",
+      "stars": 49,
+      "updatedAt": "2026-09-21T10:28:02Z",
+      "license": "",
+      "topics": [
+        "dsh",
+        "dsh-plugin"
       ]
     },
     {
@@ -4748,6 +4748,25 @@
       ]
     },
     {
+      "id": "1334255288",
+      "name": "dsh-web-lan-access",
+      "fullName": "AcidGr/dsh-web-lan-access",
+      "owner": "AcidGr",
+      "description": "DeepSeek Harness (dsh) Web plugin",
+      "htmlUrl": "https://github.com/AcidGr/dsh-web-lan-access",
+      "homepage": "",
+      "npmUrl": "https://www.npmjs.com/package/dsh-web-lan-access",
+      "npmName": "dsh-web-lan-access",
+      "stars": 35,
+      "updatedAt": "2026-09-23T15:48:18Z",
+      "license": "MIT",
+      "topics": [
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin"
+      ]
+    },
+    {
       "id": "1335236592",
       "name": "dsh-computer-use",
       "fullName": "988hj7tczd-oss/dsh-computer-use",
@@ -4793,25 +4812,6 @@
         "deepseek-harness",
         "deepseek-v4",
         "deepseek-v4-pro",
-        "dsh",
-        "dsh-plugin"
-      ]
-    },
-    {
-      "id": "1334255288",
-      "name": "dsh-web-lan-access",
-      "fullName": "AcidGr/dsh-web-lan-access",
-      "owner": "AcidGr",
-      "description": "DeepSeek Harness (dsh) Web plugin",
-      "htmlUrl": "https://github.com/AcidGr/dsh-web-lan-access",
-      "homepage": "",
-      "npmUrl": "https://www.npmjs.com/package/dsh-web-lan-access",
-      "npmName": "dsh-web-lan-access",
-      "stars": 35,
-      "updatedAt": "2026-09-23T15:48:18Z",
-      "license": "MIT",
-      "topics": [
-        "deepseek-harness",
         "dsh",
         "dsh-plugin"
       ]
@@ -5014,28 +5014,6 @@
       ]
     },
     {
-      "id": "1334875164",
-      "name": "dsh-thinking-effort",
-      "fullName": "hytime/dsh-thinking-effort",
-      "owner": "hytime",
-      "description": "A DeepSeek Harness plugin for reasoning-effort defaults and protocol-aware gateway compatibility settings for llm-pi-ai models.",
-      "htmlUrl": "https://github.com/hytime/dsh-thinking-effort",
-      "homepage": "https://www.npmjs.com/package/@hytime/dsh-thinking-effort",
-      "npmUrl": "https://www.npmjs.com/package/%40hytime%2Fdsh-thinking-effort",
-      "npmName": "@hytime/dsh-thinking-effort",
-      "stars": 33,
-      "updatedAt": "2026-09-23T11:56:24Z",
-      "license": "MIT",
-      "topics": [
-        "deepseek-harness",
-        "dsh-plugin",
-        "gateway-compatibility",
-        "llm-pi-ai",
-        "model-settings",
-        "reasoning-effort"
-      ]
-    },
-    {
       "id": "1345815125",
       "name": "dsh-voice-scribe",
       "fullName": "PensiveFei/dsh-voice-scribe",
@@ -5078,6 +5056,28 @@
         "pet",
         "pixel-art",
         "whale"
+      ]
+    },
+    {
+      "id": "1334875164",
+      "name": "dsh-thinking-effort",
+      "fullName": "hytime/dsh-thinking-effort",
+      "owner": "hytime",
+      "description": "A DeepSeek Harness plugin for reasoning-effort defaults and protocol-aware gateway compatibility settings for llm-pi-ai models.",
+      "htmlUrl": "https://github.com/hytime/dsh-thinking-effort",
+      "homepage": "https://www.npmjs.com/package/@hytime/dsh-thinking-effort",
+      "npmUrl": "https://www.npmjs.com/package/%40hytime%2Fdsh-thinking-effort",
+      "npmName": "@hytime/dsh-thinking-effort",
+      "stars": 33,
+      "updatedAt": "2026-09-23T11:56:24Z",
+      "license": "MIT",
+      "topics": [
+        "deepseek-harness",
+        "dsh-plugin",
+        "gateway-compatibility",
+        "llm-pi-ai",
+        "model-settings",
+        "reasoning-effort"
       ]
     },
     {
@@ -5662,6 +5662,28 @@
       ]
     },
     {
+      "id": "1338654346",
+      "name": "deep-read-summarize",
+      "fullName": "PensiveFei/deep-read-summarize",
+      "owner": "PensiveFei",
+      "description": "Deep reading & summarization workflow for books/papers/videos/web — plugin parsers, MapReduce deep-read, JSON Schema output, Obsidian-ready (DSH)",
+      "htmlUrl": "https://github.com/PensiveFei/deep-read-summarize",
+      "homepage": "",
+      "npmUrl": "https://www.npmjs.com/package/deep-read-summarize",
+      "npmName": "deep-read-summarize",
+      "stars": 29,
+      "updatedAt": "2026-09-23T22:29:27Z",
+      "license": "MIT",
+      "topics": [
+        "ai-agent",
+        "content-summarization",
+        "deepseek",
+        "dsh-plugin",
+        "pipeline",
+        "workflow"
+      ]
+    },
+    {
       "id": "1333922780",
       "name": "dsh-melody-launcher",
       "fullName": "rirko/dsh-melody-launcher",
@@ -5803,45 +5825,6 @@
       ]
     },
     {
-      "id": "1338654346",
-      "name": "deep-read-summarize",
-      "fullName": "PensiveFei/deep-read-summarize",
-      "owner": "PensiveFei",
-      "description": "Deep reading & summarization workflow for books/papers/videos/web — plugin parsers, MapReduce deep-read, JSON Schema output, Obsidian-ready (DSH)",
-      "htmlUrl": "https://github.com/PensiveFei/deep-read-summarize",
-      "homepage": "",
-      "npmUrl": "https://www.npmjs.com/package/deep-read-summarize",
-      "npmName": "deep-read-summarize",
-      "stars": 28,
-      "updatedAt": "2026-09-23T14:50:45Z",
-      "license": "MIT",
-      "topics": [
-        "ai-agent",
-        "content-summarization",
-        "deepseek",
-        "dsh-plugin",
-        "pipeline",
-        "workflow"
-      ]
-    },
-    {
-      "id": "1352616726",
-      "name": "prts-terrarchive",
-      "fullName": "HTian-qwq/prts-terrarchive",
-      "owner": "HTian-qwq",
-      "description": "为明日方舟的长篇剧情打造的RAG类DSH插件，拥有多种快速检索能力。",
-      "htmlUrl": "https://github.com/HTian-qwq/prts-terrarchive",
-      "homepage": "https://prts.chat",
-      "npmUrl": "https://www.npmjs.com/package/prts-terrarchive",
-      "npmName": "prts-terrarchive",
-      "stars": 28,
-      "updatedAt": "2026-09-22T19:19:03Z",
-      "license": "MIT",
-      "topics": [
-        "dsh-plugin"
-      ]
-    },
-    {
       "id": "1339297063",
       "name": "clutch-dsh",
       "fullName": "Cerbur/clutch-dsh",
@@ -5861,6 +5844,23 @@
         "dsh-plugin",
         "git-worktree",
         "session-title"
+      ]
+    },
+    {
+      "id": "1352616726",
+      "name": "prts-terrarchive",
+      "fullName": "HTian-qwq/prts-terrarchive",
+      "owner": "HTian-qwq",
+      "description": "为明日方舟的长篇剧情打造的RAG类DSH插件，拥有多种快速检索能力。",
+      "htmlUrl": "https://github.com/HTian-qwq/prts-terrarchive",
+      "homepage": "https://prts.chat",
+      "npmUrl": "https://www.npmjs.com/package/prts-terrarchive",
+      "npmName": "prts-terrarchive",
+      "stars": 28,
+      "updatedAt": "2026-09-22T19:19:03Z",
+      "license": "MIT",
+      "topics": [
+        "dsh-plugin"
       ]
     },
     {
